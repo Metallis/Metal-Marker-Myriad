@@ -1,0 +1,316 @@
+<OverlayData>
+    <MarkerCategory name="exploration" DisplayName="Exploration">
+        <MarkerCategory name="jumpingpuzzles" DisplayName="JPs/Minidungeons">
+        </MarkerCategory>
+        <MarkerCategory name="mapcomp" DisplayName="Map Completion">
+        </MarkerCategory>
+        <MarkerCategory name="mastery" DisplayName="Mastery">
+        </MarkerCategory>
+        <MarkerCategory name="resources" DisplayName="Resources">
+            <MarkerCategory name="fishing" DisplayName="Fishing">
+                <!-- Icon courtesy of (Discord: Nicodemus#9221) -->
+                <!-- Markers courtesy of Metallis (Discord: Metallis#9388) -->
+                <MarkerCategory name="fishingholes" DisplayName="Fishing Holes" iconFile="Data/fishing_pin_b.png">
+                    <MarkerCategory name="boreal" DisplayName="Boreal Fish"/>
+                    <MarkerCategory name="cavern" DisplayName="Cavern Fish"/>
+                    <MarkerCategory name="channel" DisplayName="Channel Fish"/>
+                    <MarkerCategory name="coastal" DisplayName="Coastal Fish"/>
+                    <MarkerCategory name="deep" DisplayName="Deep Fishing Hole"/>
+                    <MarkerCategory name="desert" DisplayName="Desert Fish"/>
+                    <MarkerCategory name="freshwater" DisplayName="Freshwater Fish"/>
+                    <MarkerCategory name="grotto" DisplayName="Grotto Fish"/>
+                    <MarkerCategory name="lake" DisplayName="Lake Fish"/>
+                    <MarkerCategory name="mysterious" DisplayName="Mysterious Waters Fish"/>
+                    <MarkerCategory name="noxious" DisplayName="Noxious Water Fish"/>
+                    <MarkerCategory name="offshore" DisplayName="Offshore Fish"/>
+                    <MarkerCategory name="polluted" DisplayName="Polluted Lake Fish"/>
+                    <MarkerCategory name="quarry" DisplayName="Quarry Fish"/>
+                    <MarkerCategory name="rare" DisplayName="Rare Fish"/>
+                    <MarkerCategory name="river" DisplayName="River Fish"/>
+                    <MarkerCategory name="saltwater" DisplayName="Saltwater Fish"/>
+                    <MarkerCategory name="special" DisplayName="Special Fishing Hole"/>
+                    <MarkerCategory name="shore" DisplayName="Shore Fish"/>
+                    <MarkerCategory name="volcanic" DisplayName="Volcanic Fish"/>
+                    <MarkerCategory name="wreckage" DisplayName="Wreckage Site"/>
+                </MarkerCategory>
+            </MarkerCategory>
+            <MarkerCategory name="ores" DisplayName="Ores">
+                <MarkerCategory name="copper" DisplayName="Copper Ore"/>
+                <MarkerCategory name="iron" DisplayName="Iron Ore"/>
+                <MarkerCategory name="silver" DisplayName="Silver Ore"/>
+                <MarkerCategory name="gold" DisplayName="Gold Ore"/>
+                <MarkerCategory name="platinum" DisplayName="Platinum Ore"/>
+                <MarkerCategory name="mithril" DisplayName="Mithril Ore"/>
+                <MarkerCategory name="orichalcum" DisplayName="Orichalcum Ore"/>
+            </MarkerCategory>
+            <MarkerCategory name="plants" DisplayName="Plants">
+                <MarkerCategory name="artichoke" DisplayName="Artichoke"/>
+                <MarkerCategory name="asparagus" DisplayName="Asparagus Spear"/>  
+                <MarkerCategory name="bayleaf" DisplayName="Bay Leaf"/>  
+                <MarkerCategory name="beet" DisplayName="Beet"/>
+                <MarkerCategory name="peppercorn" DisplayName="Black Peppercorn"/>  
+                <MarkerCategory name="blackberry" DisplayName="Blackberry"/>
+                <MarkerCategory name="blueberry" DisplayName="Blueberry"/>
+                <MarkerCategory name="butternut" DisplayName="Butternut Squash"/>  
+                <MarkerCategory name="carrot" DisplayName="Carrot"/>
+                <MarkerCategory name="cassava" DisplayName="Cassava Root"/>  
+                <MarkerCategory name="cayenne" DisplayName="Cayenne Pepper"/>  
+                <MarkerCategory name="chili" DisplayName="Chili Pepper"/>  
+                <MarkerCategory name="clam" DisplayName="Clam"/>
+                <MarkerCategory name="clove" DisplayName="Clove"/>
+                <MarkerCategory name="coralchunk" DisplayName="Coral Chunk"/>  
+                <MarkerCategory name="coralorb" DisplayName="Coral Orb"/>  
+                <MarkerCategory name="coraltentacle" DisplayName="Coral Tentacle"/>  
+                <MarkerCategory name="coriander" DisplayName="Coriander Seed"/>  
+                <MarkerCategory name="dill" DisplayName="Dill Sprig"/>  
+                <MarkerCategory name="flaxblossom" DisplayName="Flax Blossom"/>  
+                <MarkerCategory name="flaxfiber" DisplayName="Flax Fiber"/>  
+                <MarkerCategory name="freshwaterpearl" DisplayName="Freshwater Pearl"/>  
+                <MarkerCategory name="ghostpepper" DisplayName="Ghost Pepper"/>  
+                <MarkerCategory name="mushroomspore" DisplayName="Giant Mushroom Spore"/> 
+                <MarkerCategory name="grape" DisplayName="Grape"/>
+                <MarkerCategory name="greenonion" DisplayName="Green Onion"/>  
+                <MarkerCategory name="redlentils" DisplayName="Handful of Red Lentils"/>
+                <MarkerCategory name="cabbage" DisplayName="Head of Cabbage"/> 
+                <MarkerCategory name="cauliflower" DisplayName="Head of Cauliflower"/> 
+                <MarkerCategory name="garlic" DisplayName="Head of Garlic"/> 
+                <MarkerCategory name="lettuce" DisplayName="Head of Lettuce"/> 
+                <MarkerCategory name="junglegrass" DisplayName="Jungle Grass Seed"/> 
+                <MarkerCategory name="kale" DisplayName="Kale Leaf"/>  
+                <MarkerCategory name="leek" DisplayName="Leek"/>
+                <MarkerCategory name="lemongrass" DisplayName="Lemongrass"/>
+                <MarkerCategory name="lotus" DisplayName="Lotus Root"/>  
+                <MarkerCategory name="maguumalily" DisplayName="Maguuma Lily"/>  
+                <MarkerCategory name="mint" DisplayName="Mint Leaf"/>  
+                <MarkerCategory name="mushroom" DisplayName="Mushroom"/>
+                <MarkerCategory name="mussel" DisplayName="Mussel"/>
+                <MarkerCategory name="nopal" DisplayName="Nopal"/>
+                <MarkerCategory name="omnomberry" DisplayName="Omnomberry"/>
+                <MarkerCategory name="onion" DisplayName="Onion"/>
+                <MarkerCategory name="oregano" DisplayName="Oregano Leaf"/>  
+                <MarkerCategory name="orriantruffle" DisplayName="Orrian Truffle"/>  
+                <MarkerCategory name="parsley" DisplayName="Parsley Leaf"/>  
+                <MarkerCategory name="parsnip" DisplayName="Parsnip"/>
+                <MarkerCategory name="passionflower" DisplayName="Passion Flower"/>  
+                <MarkerCategory name="passionfruit" DisplayName="Passion Fruit"/>  
+                <MarkerCategory name="pearl" DisplayName="Pearl"/>
+                <MarkerCategory name="motherofpearl" DisplayName="Piece of Mother-of-Pearl"/> 
+                <MarkerCategory name="allspice" DisplayName="Pile of Allspice Berries"/>
+                <MarkerCategory name="flaxseeds" DisplayName="Pile of Flax Seeds"/>
+                <MarkerCategory name="silkysand" DisplayName="Pile of Silky Sand"/>
+                <MarkerCategory name="portobello" DisplayName="Portobello Mushroom"/>  
+                <MarkerCategory name="potato" DisplayName="Potato"/>
+                <MarkerCategory name="pricklypear" DisplayName="Prickly Pear"/>  
+                <MarkerCategory name="raspberry" DisplayName="Raspberry"/>
+                <MarkerCategory name="rosemary" DisplayName="Rosemary Sprig"/>  
+                <MarkerCategory name="rutabaga" DisplayName="Rutabaga"/>
+                <MarkerCategory name="saffron" DisplayName="Saffron Thread"/>  
+                <MarkerCategory name="sage" DisplayName="Sage Leaf"/>  
+                <MarkerCategory name="sawgill" DisplayName="Sawgill Mushroom"/>  
+                <MarkerCategory name="seaweed" DisplayName="Seaweed"/>
+                <MarkerCategory name="sesameseed" DisplayName="Sesame Seed"/>  
+                <MarkerCategory name="snowtruffle" DisplayName="Snow Truffle"/>  
+                <MarkerCategory name="spinach" DisplayName="Spinach Leaf"/>  
+                <MarkerCategory name="strawberry" DisplayName="Strawberry"/>
+                <MarkerCategory name="sugarpumpkin" DisplayName="Sugar Pumpkin"/>  
+                <MarkerCategory name="tarragon" DisplayName="Tarragon Leaves"/>  
+                <MarkerCategory name="thyme" DisplayName="Thyme Leaf"/>  
+                <MarkerCategory name="turnip" DisplayName="Turnip"/>
+                <MarkerCategory name="vanilla" DisplayName="Vanilla Bean"/>  
+                <MarkerCategory name="yam" DisplayName="Yam"/>
+                <MarkerCategory name="zucchini" DisplayName="Zucchini"/>
+            </MarkerCategory>
+            <MarkerCategory name="wood" DisplayName="Wood">
+                <MarkerCategory name="green" DisplayName="Green Wood Log"/>
+                <MarkerCategory name="soft" DisplayName="Soft Wood Log"/>
+                <MarkerCategory name="seasoned" DisplayName="Seasoned Wood Log"/>
+                <MarkerCategory name="gard" DisplayName="Hard Wood Log"/>
+                <MarkerCategory name="elder" DisplayName="Elder Wood Log"/>
+                <MarkerCategory name="ancient" DisplayName="Ancient Wood Log"/>
+            </MarkerCategory>
+            <MarkerCategory name="currency" DisplayName="Map Currencies & Other">
+                <MarkerCategory name="candycorn" DisplayName="Piece of Candy Corn"/>
+                <MarkerCategory name="quartz" DisplayName="Quartz Crustal"/>
+                <MarkerCategory name="bloodruby" DisplayName="Blood Ruby"/>
+                <MarkerCategory name="petrified" DisplayName="Petrified Wood"/>
+                <MarkerCategory name="winterberry" DisplayName="Fresh Winterberry"/>
+                <MarkerCategory name="jadeshard" DisplayName="Jade Shard"/>
+                <MarkerCategory name="fireorchid" DisplayName="Fire Orchid Blossom"/>
+                <MarkerCategory name="orrianpearl" DisplayName="Orrial Pearl"/>
+                <MarkerCategory name="oyster" DisplayName="Oyster"/>
+                <MarkerCategory name="kralkatite" DisplayName="Kralkatite Ore"/>
+                <MarkerCategory name="difluorite" DisplayName="Difluorite Crystal"/>
+                <MarkerCategory name="mistonium" DisplayName="Lump of Mistonium"/>
+                <MarkerCategory name="brandedmass" DisplayName="Branded Mass"/>
+                <MarkerCategory name="mistbornmote" DisplayName="Mistborn Mote"/>
+                <MarkerCategory name="hatchedchili" DisplayName="Hatched Chili"/>
+                <MarkerCategory name="eternalice" DisplayName="Eternal Ice Shard"/>
+                <MarkerCategory name="prismaticite" DisplayName="Prismaticite Crystal"/>
+                <MarkerCategory name="echoresin" DisplayName="Chunk of Petrified Echovald Resin" iconFile="data/Icons/echovald_resin.png"/>
+                <MarkerCategory name="jadeite" DisplayName="Chunk of Pure Jade"/>
+            </MarkerCategory>
+        </MarkerCategory>
+        <MarkerCategory name="traversal" DisplayName="Traversal">
+            <!-- Mushrooms, Jackal Portals, Beetle Walls, etc -->
+            <MarkerCategory name="adrenalshroom" DisplayName="Adrenal Mushrooms"/>
+            <MarkerCategory name="bounceshroom" DisplayName="Bouncing Mushrooms"/>
+            <MarkerCategory name="speedshroom" DisplayName="Speed Boost Mushrooms"/>
+            <MarkerCategory name="jackalportal" DisplayName="Jackal Portals"/>
+            <MarkerCategory name="beetlewall" DisplayName="Beetle Walls"/>
+            <MarkerCategory name="ravenlock" DisplayName="Raven Locks"/>
+            <MarkerCategory name="ravengate" DisplayName="Raven Gates"/>
+            <MarkerCategory name="jadewp" DisplayName="Jade Waypoint"/>
+            <MarkerCategory name="jadezip" DisplayName="Zip Lines"/>
+            <MarkerCategory name="jadetele" DisplayName="Jade Tech Teleporters"/>
+        </MarkerCategory>
+    </MarkerCategory>
+    <MarkerCategory name="completion" DisplayName="Completionism">
+        <MarkerCategory name="achievements" DisplayName="Achievements">
+            <MarkerCategory name="story" DisplayName="Story Journal">
+            </MarkerCategory>
+            <MarkerCategory name="general" DisplayName="General">
+            </MarkerCategory>
+            <MarkerCategory name="eod" DisplayName="End of Dragons">
+            </MarkerCategory>
+            <MarkerCategory name="pof" DisplayName="Path of Fire">
+            </MarkerCategory>
+            <MarkerCategory name="hot" DisplayName="Heart of Thorns">
+            </MarkerCategory>
+            <MarkerCategory name="sidestories" DisplayName="Side Stories">
+            </MarkerCategory>
+            <MarkerCategory name="competitive" DisplayName="Competitive">
+            </MarkerCategory>
+            <MarkerCategory name="raids" DisplayName="Raids">
+            </MarkerCategory>
+            <MarkerCategory name="fractals" DisplayName="Fractals of the Mists">
+            </MarkerCategory>
+            <MarkerCategory name="collections" DisplayName="Collections">
+            </MarkerCategory>
+            <MarkerCategory name="historical" DisplayName="Historical">
+            </MarkerCategory>
+        </MarkerCategory>
+    </MarkerCategory>
+    <MarkerCategory name="grouping" DisplayName="Group Content">
+        <MarkerCategory name="bosses" DisplayName="Bosses">
+        </MarkerCategory>
+        <MarkerCategory name="dungeons" DisplayName="Dungeons">
+        </MarkerCategory>
+        <MarkerCategory name="metas" DisplayName="Events and Metas">
+        </MarkerCategory>
+        <MarkerCategory name="fractals" DisplayName="Fractals">
+        </MarkerCategory>
+        <MarkerCategory name="guildmissions" DisplayName="Guild Missions">
+        </MarkerCategory>
+        <MarkerCategory name="raids" DisplayName="Raids">
+        </MarkerCategory>
+        <MarkerCategory name="strikes" DisplayName="Strikes">
+        </MarkerCategory>
+    </MarkerCategory>
+    <MarkerCategory name="other" DisplayName="Other">
+        <MarkerCategory name="crafting" DisplayName="Crafting">
+            <MarkerCategory name="blood" DisplayName="Vial of Blood"/>
+            <MarkerCategory name="bone" DisplayName="Bone"/>
+            <MarkerCategory name="claw" DisplayName="Claw"/>
+            <MarkerCategory name="cloth" DisplayName="Cloth"/>
+            <MarkerCategory name="dust" DisplayName="Pile of Dust"/>
+            <MarkerCategory name="fang" DisplayName="Fang"/>
+            <MarkerCategory name="leather" DisplayName="Leather"/>
+            <MarkerCategory name="scale" DisplayName="Scale"/>
+            <MarkerCategory name="totem" DisplayName="Totem"/>
+            <MarkerCategory name="venom" DisplayName="Venom Sac"/>
+        <MarkerCategory name="festivals" DisplayName="Festivals">
+            <MarkerCategory name="lny" DisplayName="Lunar New Year">
+            <MarkerCategory name="sab" DisplayName="Super Adventure Box">
+            <MarkerCategory name="dragonbash" DisplayName="Dragon Bash">
+            <MarkerCategory name="fourwinds" DisplayName="Festival of the Four Winds">
+            <MarkerCategory name="halloween" DisplayName="Halloween">
+            <MarkerCategory name="wintersday" DisplayName="Wintersday">
+        <MarkerCategory name="psna" DisplayName="Pact Supply (PSNA)"/>
+        <MarkerCategory name="activities" DisplayName="Activities/Adventures">
+            <MarkerCategory name="beetleracing" DisplayName="Beetle Racing">
+                <MarkerCategory name="official" DisplayName="Official">
+                    <MarkerCategory name="gfr" DisplayName="Roller Beetle Time Trial: Ghostfire Run"/>
+                    <MarkerCategory name="il" DisplayName="Roller Beetle Time Trial: Infernal Leap"/>
+                    <MarkerCategory name="jf" DisplayName="Roller Beetle Time Trial: Jormag's Fang"/>
+                    <MarkerCategory name="ll" DisplayName="Roller Beetle Time Trial: Lakeside Loop"/>
+                    <MarkerCategory name="tvr" DisplayName="Roller Beetle Time Trial: Tropic Valley Raceway"/>
+                    <MarkerCategory name="kc" DisplayName="Roller Beetle Training: Kessex Corner"/>
+                    <MarkerCategory name="rbt" DisplayName="Roller Beetle Training"/>
+                    <MarkerCategory name="ggt" DisplayName="Time Trial: Grothmar Grand Tour"/>
+                </MarkerCategory>
+                <MarkerCategory name="community" DisplayName="Player-Made">
+                    <MarkerCategory name="drft" DisplayName="Tyria Drift [DRFT]">
+                    </MarkerCategory>
+                    <MarkerCategory name="race" DisplayName="Beetle League Racing Team [RACE]">
+                    </MarkerCategory>
+                    <MarkerCategory name="tiny" DisplayName="The Tiny Army [TINY]">
+                    </MarkerCategory>
+                </MarkerCategory>
+            <MarkerCategory name="griffonracing" DisplayName="Griffon Racing">
+                <MarkerCategory name="official" DisplayName="Official">
+                    <MarkerCategory name="oasisexpert" DisplayName="Crystal Oasis Griffon Expert"/>
+                    <MarkerCategory name="oasismaster" DisplayName="Crystal Oasis Griffon Master"/>
+                    <MarkerCategory name="highlandsexpert" DisplayName="Highlands Griffon Expert"/>
+                    <MarkerCategory name="highlandsmaster" DisplayName="Highlands Griffon Master"/>
+                    <MarkerCategory name="riverlandsexpert" DisplayName="Riverlands Griffon Expert"/>
+                    <MarkerCategory name="riverlandsmaster" DisplayName="Riverlands Griffon Master"/>
+                    <MarkerCategory name="desolationexpert" DisplayName="Desolation Griffon Expert"/>
+                    <MarkerCategory name="desolationmaster" DisplayName="Desolation Griffon Master"/>
+                    <MarkerCategory name="vabbianexpert" DisplayName="Vabbian Griffon Expert"/>
+                    <MarkerCategory name="vabbianmaster" DisplayName="Vabbian Griffon Master"/>
+                    <MarkerCategory name="istanexpert" DisplayName="Istan Griffon Expert"/>
+                    <MarkerCategory name="istanmaster" DisplayName="Istan Griffon Master"/>
+                    <MarkerCategory name="sandsweptexpert" DisplayName="Sandswept Isles Griffon Expert"/>
+                    <MarkerCategory name="kournaexpert" DisplayName="Domain of Kourna Griffon Expert"/>
+                    <MarkerCategory name="kournamaster" DisplayName="Domain of Kourna Griffon Master"/>
+                    <MarkerCategory name="jahaiexpert" DisplayName="Jahai Bluffs Griffon Expert"/>
+                    <MarkerCategory name="jahaimaster" DisplayName="Jahai Bluffs Griffon Master"/>
+                </MarkerCategory>
+                <MarkerCategory name="community" DisplayName="Player-Made">
+                    <MarkerCategory name="wing" DisplayName="The Griffon Academy [WING]">
+                    </MarkerCategory>
+                </MarkerCategory>
+            <MarkerCategory name="adventures" DisplayName="Other Adventures">
+                <MarkerCategory name="tt" DisplayName="Tendril Torchers"/>
+                <MarkerCategory name="bitb" DisplayName="Bugs in the Branches"/>
+                <MarkerCategory name="fc" DisplayName="Flying Circus"/>
+                <MarkerCategory name="sg" DisplayName="Shooting Gallery"/>
+                <MarkerCategory name="sp" DisplayName="Salvage Pit"/>
+                <MarkerCategory name="tfil" DisplayName="The Floor Is Lava?"/>
+                <MarkerCategory name="owog" DisplayName="On Wings of Gold"/>
+                <MarkerCategory name="ss" DisplayName="Sanctum Scramble"/>
+                <MarkerCategory name="fm" DisplayName="Fallen Masks"/>
+                <MarkerCategory name="afau" DisplayName="A Fungus Among Us"/>
+                <MarkerCategory name="tllr" DisplayName="The Ley-Line Run"/>
+                <MarkerCategory name="dr" DisplayName="Drone Race"/>
+                <MarkerCategory name="bf" DisplayName="Beetle Feast"/>
+                <MarkerCategory name="hpomb" DisplayName="Haywire Punch-o-Matic Battle"/>
+                <MarkerCategory name="srft" DisplayName="Scrap Rifle Field Test"/>
+                <MarkerCategory name="rsr" DisplayName="Refugee Supply Run"/>
+                <MarkerCategory name="cepr" DisplayName="Cavalier Express Parcel Run"/>
+                <MarkerCategory name="scsr" DisplayName="Skimshallow Cove Supply Run"/>
+                <MarkerCategory name="si" DisplayName="Shadows Intel"/>
+                <MarkerCategory name="vnnr" DisplayName="Vehjin Noble Necessities Run"/>
+                <MarkerCategory name="nesr" DisplayName="Necropolis Embalming Supply Run"/>
+                <MarkerCategory name="vssr" DisplayName="Vehtendi School Supply Run"/>
+                <MarkerCategory name="gwacr" DisplayName="Garden Wine and Cheese Run"/>
+                <MarkerCategory name="asc" DisplayName="Advanced Skimmer Course"/>
+                <MarkerCategory name="aw" DisplayName="Ancient Weapons"/>
+                <MarkerCategory name="cc" DisplayName="Crystal Corral"/>
+                <MarkerCategory name="rafnr" DisplayName="Run Around for No Reason"/>
+                <MarkerCategory name="ifmr" DisplayName="Ice Floe Magnet Run"/>
+                <MarkerCategory name="tkvd" DisplayName="Thunderhead Keep Volatile Delivery"/>
+                <MarkerCategory name="atc" DisplayName="Ash Training Course"/>
+                <MarkerCategory name="gvst" DisplayName="Grothmar Valley Skyscale Trial"/>
+                <MarkerCategory name="ttgcc" DisplayName="Time Trial: Grothmar Crater Circuit"/>
+                <MarkerCategory name="aotw" DisplayName="Arena of the Wolverine"/>
+                <MarkerCategory name="fotes" DisplayName="Flight of the Eagle Spirit"/>
+                <MarkerCategory name="toy" DisplayName="The Ox's Yoke"/>
+            </MarkerCategory>
+        </MarkerCategory>
+        <MarkerCategory name="contact" DisplayName="Community Contact">
+            <MarkerCategory name="discord" DisplayName="Discord"/>
+            <MarkerCategory name="website" DisplayName="Website"/>
+        </MarkerCategory>
+    </MarkerCategory>
+</OverlayData>
