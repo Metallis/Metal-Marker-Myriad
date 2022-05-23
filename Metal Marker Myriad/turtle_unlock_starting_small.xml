@@ -10,6 +10,8 @@
 					<MarkerCategory name="strawberries" DisplayName="Strawberries" iconFile="Data/Icons/Strawberry.png" bounce="rise" bounce-height="3" autotrigger="1" triggerrange="25"/>
 				</MarkerCategory>
 			</MarkerCategory>
+    		</MarkerCategory>
+	</MarkerCategory>
 
 	<POIs>
 		<!-- Signpost -->
@@ -19,8 +21,8 @@
 		<!-- Carrots -->
 		<POI MapID="19" xpos="-127.349" ypos="59.4954" zpos="445.501" type="completion.achievements.eod.turtlefood1.carrots" GUID="Y4ikFrPZfUaoGxU/dEm/9w=="/>
 		<POI MapID="31" xpos="-271.715" ypos="3.66964" zpos="210.111" type="completion.achievements.eod.turtlefood1.carrots" GUID="lT32/nHI80C3uprx64fR8w=="/>
-        <POI MapID="31" xpos="-267.271" ypos="6.13388" zpos="49.2201" type="completion.achievements.eod.turtlefood1.carrots" GUID="LK+I/Fv990yWYQpoufBqnQ=="/>
-        <POI MapID="31" xpos="-249.605" ypos="2.86621" zpos="-374.983" type="completion.achievements.eod.turtlefood1.carrots" GUID="pAtd3JDohk21czN82rR2Hw=="/>
+        	<POI MapID="31" xpos="-267.271" ypos="6.13388" zpos="49.2201" type="completion.achievements.eod.turtlefood1.carrots" GUID="LK+I/Fv990yWYQpoufBqnQ=="/>
+        	<POI MapID="31" xpos="-249.605" ypos="2.86621" zpos="-374.983" type="completion.achievements.eod.turtlefood1.carrots" GUID="pAtd3JDohk21czN82rR2Hw=="/>
 		<POI MapID="35" xpos="-238.783" ypos="26.417" zpos="-150.616" type="completion.achievements.eod.turtlefood1.carrots" GUID="zP3OPJ26GEWtAUAZJa3Hcg=="/>
 		<POI MapID="50" xpos="-493.323" ypos="84.4605" zpos="294.469" type="completion.achievements.eod.turtlefood1.carrots"  GUID="jEbDmIoETEWs3pyqnVsB7A=="/>
 		<POI MapID="50" xpos="-492.528" ypos="85.4681" zpos="299.7" type="completion.achievements.eod.turtlefood1.carrots"  GUID="JINNlbkuGkafOOhf5GUJEg=="/>
