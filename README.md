@@ -1,4 +1,4 @@
-# Metal-Marker-Myriad
+# Metal's Marker Myriad
 This Marker Pack is primarily developed by Metallis.6105 (Discord: Metallis#9388).
 
 I develop this pack as I have time (read: please understand pack requests may not be filled quickly) and focus my efforts primarily on usage with [Blish HUD](https://blishhud.com/) over [GW2 TacO](http://www.gw2taco.com/) as Blish provides some nice QoL features to make the markers and trails a little less obtrusive while still being useful. I try to make packs that haven't been done before or done to my satisfaction, but eventually I hope to offer a wide variety of markers and trails for you!
@@ -11,19 +11,9 @@ If you have an idea for a marker pack you want me (or someone) to try and tackle
 
 Support: [Metal's Marker-mancy](https://discord.gg/FP8dQj6KBj) Discord! This is for all my packs! Or find me  on the [Blish HUD Discord](https://discord.gg/FYKN3qh).
 
-**OTHER PACKS YOU MAY LIKE:** (in no particular order)
- - General
-    - [Tekkit's](http://tekkitsworkshop.net/index.php/gw2-taco/download)
-    - [ReActif's](https://www.heinze.fr/taco/?lang=en)
- - The Scenic Route
-    - [Movement on the World](https://github.com/Sutcenes/MovementOnTheWorld_TacoSupport/wiki)
- - Map Completion
-    - [Teh's Trails](https://github.com/xrandox/TehsTrails) (updated for EoD)
-    - [Nexploration](https://github.com/Nexrym/Nexploration) (EoD Map Comp, specifically)
- - Fractals/Strikes/Raids
-    - [QuitarHero's PvE Pack](https://github.com/QuitarHero/Heros-Marker-Pack)
- - Node Farms
-    - [\[FAST\] Farming](https://fast.farming-community.eu/farming/guides/fast-taco-marker)
+I [do accept donations](https://ko-fi.com/metallis) if you truly wish to offer more than your kind words. They're never expected, but they're absolutely always appreciated.
+
+**OTHER PACKS YOU MAY LIKE:** (in no particular order, I don't believe these appear in the Blish auto-update list for one reason or another)
  - Beetle Racing
     - [\[RACE\] Beetle Races](https://goo.gl/AQmm4F)
     - [\[TINY\] Beetle Races](https://tinyarmy.org/beetle/)
@@ -32,5 +22,3 @@ Support: [Metal's Marker-mancy](https://discord.gg/FP8dQj6KBj) Discord! This is 
     - [Red's EoD HP Run](https://www.reddit.com/r/Guildwars2/comments/t56gak/taco_trails_for_eod_hps/)
 - One-Offs
     - [Lion's Arch Exterminator](https://www.reddit.com/r/GW2TacO/comments/eazd7s/trail_and_markers_for_lions_arch_exterminator/) (needs to be repacked as `.zip` or `.taco`, doesn't work as `.rar`)
-
-I [do accept donations](https://ko-fi.com/metallis) if you truly wish to offer more than your kind words. They're never expected, but they're absolutely always appreciated.
