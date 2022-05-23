@@ -1,39 +1,40 @@
 <OverlayData>
-	<MarkerCategory name="exploration" DisplayName="Exploration">
+    <MarkerCategory name="exploration" DisplayName="Exploration">
         <MarkerCategory name="resources" DisplayName="Resources">
             <MarkerCategory name="currency" DisplayName="Map Currencies & Other">
                 <MarkerCategory name="echoresin" DisplayName="Chunk of Petrified Echovald Resin" iconFile="data/Icons/echovald_resin.png"/>
-			</MarkerCategory>
-		</MarkerCategory>
-	</MarkerCategory>
+            </MarkerCategory>
+        </MarkerCategory>
+    </MarkerCategory>
+    
     <POIs>
-        <Trail type="exploration.resources.currency.echoresin" trailData="Data/Trails/echovald_resin.trl" texture="Data/Icons/Arrow_Trail.png" fadeNear="6000" fadeFar="7000" color="ff00ff00" trailScale="2.0"/>
+        <Trail type="exploration.resources.currency.echoresin" trailData="Data/Trails/echovald_resin.trl" texture="Data/Icons/Arrow_Trail.png" fadeNear="6000" fadeFar="7000" color="00ff00"/>
         <POI MapID="1452" xpos="201.192" ypos="191.801" zpos="582.752" type="exploration.resources.currency.echoresin" GUID="1a9rikooQk+krmqkozmGgQ=="/>
-		<POI MapID="1452" xpos="-98.0429" ypos="153.98" zpos="552.583" type="exploration.resources.currency.echoresin" GUID="Te0Y/32l00uj2VFEGnG9Cw=="/>
-		<POI MapID="1452" xpos="243.97" ypos="233.518" zpos="459.772" type="exploration.resources.currency.echoresin" GUID="CxJT1BEwFUW8DWWKJvo3dg=="/>
-		<POI MapID="1452" xpos="162.32" ypos="147.417" zpos="-112.665" type="exploration.resources.currency.echoresin" GUID="PztekpZ9eECEy5m1uyooCQ=="/>
-		<POI MapID="1452" xpos="237.399" ypos="178.884" zpos="-132.112" type="exploration.resources.currency.echoresin" GUID="L3syqrlo2kiYiYeJsEhDSg=="/>
-		<POI MapID="1452" xpos="398.036" ypos="257.094" zpos="84.066" type="exploration.resources.currency.echoresin" GUID="bJSKm4SAZUSVgF/HZRCnaw=="/>
-		<POI MapID="1452" xpos="797.894" ypos="137.544" zpos="86.6522" type="exploration.resources.currency.echoresin" GUID="8J9YoyBoMk2sspSg/ZSWOw=="/>
-		<POI MapID="1452" xpos="907.822" ypos="111.503" zpos="-17.3939" type="exploration.resources.currency.echoresin" GUID="Zn/XvD53LkOKOiAn8Z7Z+g=="/>
-		<POI MapID="1452" xpos="878.236" ypos="34.7604" zpos="-269.266" type="exploration.resources.currency.echoresin" GUID="3f79ovWcqESPOmzAq/S2YA=="/>
-		<POI MapID="1452" xpos="647.684" ypos="65.1053" zpos="-258.658" type="exploration.resources.currency.echoresin" GUID="h2H7sNhQQEm+jEH7JF/Xag=="/>
-		<POI MapID="1452" xpos="567.88" ypos="28.074" zpos="-354.695" type="exploration.resources.currency.echoresin" GUID="L1wEA5NlDk+6f5dyYqPysA=="/>
-		<POI MapID="1452" xpos="386.475" ypos="60.9816" zpos="-373.538" type="exploration.resources.currency.echoresin" GUID="35llcFpvg0eU/+XwM4g+lA=="/>
-		<POI MapID="1452" xpos="110.698" ypos="125.621" zpos="-270.29" type="exploration.resources.currency.echoresin" GUID="yT/FGANq8EWSiTt0nSVWig=="/>
-		<POI MapID="1452" xpos="49.7244" ypos="147.105" zpos="-338.185" type="exploration.resources.currency.echoresin" GUID="R1t4Bfn2EUW+y40AP55tZQ=="/>
-		<POI MapID="1452" xpos="-531.504" ypos="163.368" zpos="-244.254" type="exploration.resources.currency.echoresin" GUID="4UDQIgenX0iDcmCOTpw5+g=="/>
-		<POI MapID="1452" xpos="-392.96" ypos="149.442" zpos="15.809" type="exploration.resources.currency.echoresin" GUID="4MG3Q3SJZkKPlbDDm6veig=="/>
-		<POI MapID="1452" xpos="-400.929" ypos="203.543" zpos="411.902" type="exploration.resources.currency.echoresin" GUID="YiAoQHHPFkOtq1X3fOtNBQ=="/>
-		<POI MapID="1452" xpos="-256.243" ypos="212.968" zpos="370.354" type="exploration.resources.currency.echoresin" GUID="0w6JxdP87EWwXSowLuyFMQ=="/>
-		<POI MapID="1452" xpos="-443.123" ypos="213.981" zpos="303.385" type="exploration.resources.currency.echoresin" GUID="CgZC6Uf25Em6KmUB1ZNFzA=="/>
-		<POI MapID="1452" xpos="-103.248" ypos="156.393" zpos="607.561" type="exploration.resources.currency.echoresin" GUID="XK9BhUuLZkuXWbmCVElh5g=="/>
-		<POI MapID="1452" xpos="342.456" ypos="239.624" zpos="57.5096" type="exploration.resources.currency.echoresin" GUID="mRj8LRbDgkKMr9xQUDzroQ=="/>
-		<POI MapID="1452" xpos="754.66" ypos="119.26" zpos="13.9164" type="exploration.resources.currency.echoresin" GUID="2RhDlX61cUyVIrzA0JsnGw=="/>
-		<POI MapID="1452" xpos="1003.03" ypos="95.7572" zpos="-37.5351" type="exploration.resources.currency.echoresin" GUID="xdBqKo6nvEOTABmxaDnKTw=="/>
-		<POI MapID="1452" xpos="717.875" ypos="76.775" zpos="-164.266" type="exploration.resources.currency.echoresin" GUID="yw/UpsFk7USa4CFC0f4qoA=="/>
-		<POI MapID="1452" xpos="905.843" ypos="5.88845" zpos="-365.133" type="exploration.resources.currency.echoresin" GUID="jJjFe/tFzkmSbFxJfjuGoQ=="/>
-		<POI MapID="1452" xpos="-59.763" ypos="166.463" zpos="-357.852" type="exploration.resources.currency.echoresin" GUID="VsZV3nA/r0+K1CsltQXTWw=="/>
-		<POI MapID="1452" xpos="-429.853" ypos="155.206" zpos="135.797" type="exploration.resources.currency.echoresin" GUID="dy/ba9jWEESfK7RyaU89Qw=="/>
+        <POI MapID="1452" xpos="-98.0429" ypos="153.98" zpos="552.583" type="exploration.resources.currency.echoresin" GUID="Te0Y/32l00uj2VFEGnG9Cw=="/>
+        <POI MapID="1452" xpos="243.97" ypos="233.518" zpos="459.772" type="exploration.resources.currency.echoresin" GUID="CxJT1BEwFUW8DWWKJvo3dg=="/>
+        <POI MapID="1452" xpos="162.32" ypos="147.417" zpos="-112.665" type="exploration.resources.currency.echoresin" GUID="PztekpZ9eECEy5m1uyooCQ=="/>
+        <POI MapID="1452" xpos="237.399" ypos="178.884" zpos="-132.112" type="exploration.resources.currency.echoresin" GUID="L3syqrlo2kiYiYeJsEhDSg=="/>
+        <POI MapID="1452" xpos="398.036" ypos="257.094" zpos="84.066" type="exploration.resources.currency.echoresin" GUID="bJSKm4SAZUSVgF/HZRCnaw=="/>
+        <POI MapID="1452" xpos="797.894" ypos="137.544" zpos="86.6522" type="exploration.resources.currency.echoresin" GUID="8J9YoyBoMk2sspSg/ZSWOw=="/>
+        <POI MapID="1452" xpos="907.822" ypos="111.503" zpos="-17.3939" type="exploration.resources.currency.echoresin" GUID="Zn/XvD53LkOKOiAn8Z7Z+g=="/>
+        <POI MapID="1452" xpos="878.236" ypos="34.7604" zpos="-269.266" type="exploration.resources.currency.echoresin" GUID="3f79ovWcqESPOmzAq/S2YA=="/>
+        <POI MapID="1452" xpos="647.684" ypos="65.1053" zpos="-258.658" type="exploration.resources.currency.echoresin" GUID="h2H7sNhQQEm+jEH7JF/Xag=="/>
+        <POI MapID="1452" xpos="567.88" ypos="28.074" zpos="-354.695" type="exploration.resources.currency.echoresin" GUID="L1wEA5NlDk+6f5dyYqPysA=="/>
+        <POI MapID="1452" xpos="386.475" ypos="60.9816" zpos="-373.538" type="exploration.resources.currency.echoresin" GUID="35llcFpvg0eU/+XwM4g+lA=="/>
+        <POI MapID="1452" xpos="110.698" ypos="125.621" zpos="-270.29" type="exploration.resources.currency.echoresin" GUID="yT/FGANq8EWSiTt0nSVWig=="/>
+        <POI MapID="1452" xpos="49.7244" ypos="147.105" zpos="-338.185" type="exploration.resources.currency.echoresin" GUID="R1t4Bfn2EUW+y40AP55tZQ=="/>
+        <POI MapID="1452" xpos="-531.504" ypos="163.368" zpos="-244.254" type="exploration.resources.currency.echoresin" GUID="4UDQIgenX0iDcmCOTpw5+g=="/>
+        <POI MapID="1452" xpos="-392.96" ypos="149.442" zpos="15.809" type="exploration.resources.currency.echoresin" GUID="4MG3Q3SJZkKPlbDDm6veig=="/>
+        <POI MapID="1452" xpos="-400.929" ypos="203.543" zpos="411.902" type="exploration.resources.currency.echoresin" GUID="YiAoQHHPFkOtq1X3fOtNBQ=="/>
+        <POI MapID="1452" xpos="-256.243" ypos="212.968" zpos="370.354" type="exploration.resources.currency.echoresin" GUID="0w6JxdP87EWwXSowLuyFMQ=="/>
+        <POI MapID="1452" xpos="-443.123" ypos="213.981" zpos="303.385" type="exploration.resources.currency.echoresin" GUID="CgZC6Uf25Em6KmUB1ZNFzA=="/>
+        <POI MapID="1452" xpos="-103.248" ypos="156.393" zpos="607.561" type="exploration.resources.currency.echoresin" GUID="XK9BhUuLZkuXWbmCVElh5g=="/>
+        <POI MapID="1452" xpos="342.456" ypos="239.624" zpos="57.5096" type="exploration.resources.currency.echoresin" GUID="mRj8LRbDgkKMr9xQUDzroQ=="/>
+        <POI MapID="1452" xpos="754.66" ypos="119.26" zpos="13.9164" type="exploration.resources.currency.echoresin" GUID="2RhDlX61cUyVIrzA0JsnGw=="/>
+        <POI MapID="1452" xpos="1003.03" ypos="95.7572" zpos="-37.5351" type="exploration.resources.currency.echoresin" GUID="xdBqKo6nvEOTABmxaDnKTw=="/>
+        <POI MapID="1452" xpos="717.875" ypos="76.775" zpos="-164.266" type="exploration.resources.currency.echoresin" GUID="yw/UpsFk7USa4CFC0f4qoA=="/>
+        <POI MapID="1452" xpos="905.843" ypos="5.88845" zpos="-365.133" type="exploration.resources.currency.echoresin" GUID="jJjFe/tFzkmSbFxJfjuGoQ=="/>
+        <POI MapID="1452" xpos="-59.763" ypos="166.463" zpos="-357.852" type="exploration.resources.currency.echoresin" GUID="VsZV3nA/r0+K1CsltQXTWw=="/>
+        <POI MapID="1452" xpos="-429.853" ypos="155.206" zpos="135.797" type="exploration.resources.currency.echoresin" GUID="dy/ba9jWEESfK7RyaU89Qw=="/>
     </POIs>
 </OverlayData>
