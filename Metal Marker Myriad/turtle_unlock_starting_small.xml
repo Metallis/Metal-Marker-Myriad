@@ -1,13 +1,14 @@
 <OverlayData>
+    <!-- Discord Invite:https://discord.gg/FP8dQj6KBj -->
     <MarkerCategory name="completion" DisplayName="Completionism">
         <MarkerCategory name="achievements" DisplayName="Achievements">
             <MarkerCategory name="eod" DisplayName="End of Dragons">
                 <MarkerCategory name="turtlefood1" DisplayName="Turtle Unlock: Starting Small">
                     <MarkerCategory name="signposts" DisplayName="Signposts"/>
-                    <MarkerCategory name="carrots" DisplayName="Carrots" iconFile="Data/Icons/Carrot.png" bounce="rise" bounce-height="3" autotrigger="1" triggerrange="25"/>
-                    <MarkerCategory name="kale" DisplayName="Kale" iconFile="Data/Icons/Kale_Leaf.png" bounce="rise" bounce-height="3" autotrigger="1" triggerrange="25"/>
-                    <MarkerCategory name="lettuce" DisplayName="Lettuce" iconFile="Data/Icons/Head_of_Lettuce.png" bounce="rise" bounce-height="3" autotrigger="1" triggerrange="25"/>
-                    <MarkerCategory name="strawberries" DisplayName="Strawberries" iconFile="Data/Icons/Strawberry.png" bounce="rise" bounce-height="3" autotrigger="1" triggerrange="25"/>
+                    <MarkerCategory name="carrots" DisplayName="Carrots" iconFile="Data/Icons/carrot.png" bounce="rise" bounce-height="3" autotrigger="1" triggerrange="25"/>
+                    <MarkerCategory name="kale" DisplayName="Kale" iconFile="Data/Icons/kale_leaf.png" bounce="rise" bounce-height="3" autotrigger="1" triggerrange="25"/>
+                    <MarkerCategory name="lettuce" DisplayName="Lettuce" iconFile="Data/Icons/head_of_lettuce.png" bounce="rise" bounce-height="3" autotrigger="1" triggerrange="25"/>
+                    <MarkerCategory name="strawberries" DisplayName="Strawberries" iconFile="Data/Icons/strawberry.png" bounce="rise" bounce-height="3" autotrigger="1" triggerrange="25"/>
                 </MarkerCategory>
             </MarkerCategory>
         </MarkerCategory>
@@ -15,8 +16,8 @@
 
     <POIs>
         <!-- Signpost -->
-        <POI MapID="1428" xpos="-949.000" ypos="16.3225" zpos="694.273" type="completion.achievements.eod.turtlefood1.signposts" iconFile="Data/Icons/Fidget_Sign.png" rotate-x="-90" rotate-y="180" rotate-z="50" cull="CounterClockwise" GUID="YVEgzZugZEmdPc+xYyMvbg=="/>
-        <POI MapID="1428" xpos="-933.05" ypos="16.4356" zpos="685.598" type="completion.achievements.eod.turtlefood1.signposts" iconFile="Data/Icons/Instrux.png" rotate-x="-90" rotate-y="180" rotate-z="-120" cull="CounterClockwise" iconSize="3" GUID="sMlJO3w6NkKLx0Qr5KuWsw=="/>
+        <POI MapID="1428" xpos="-949.000" ypos="16.3225" zpos="694.273" type="completion.achievements.eod.turtlefood1.signposts" iconFile="Data/Icons/Fidget_sign.png" rotate="-90,180,50" cull="CounterClockwise" GUID="YVEgzZugZEmdPc+xYyMvbg=="/>
+        <POI MapID="1428" xpos="-933.05" ypos="16.4356" zpos="685.598" type="completion.achievements.eod.turtlefood1.signposts" iconFile="Data/Icons/turtle_instrux.png" rotate="-90,180,-120" cull="CounterClockwise" iconSize="3" GUID="sMlJO3w6NkKLx0Qr5KuWsw=="/>
 
         <!-- Carrots -->
         <POI MapID="19" xpos="-127.349" ypos="59.4954" zpos="445.501" type="completion.achievements.eod.turtlefood1.carrots" GUID="Y4ikFrPZfUaoGxU/dEm/9w=="/>
@@ -65,6 +66,8 @@
         <POI MapID="20" xpos="97.704" ypos="43.4475" zpos="-945.825" type="completion.achievements.eod.turtlefood1.kale" GUID="wARP4o35GEeJ9yn1R97F2w=="/>
         <POI MapID="20" xpos="158.379" ypos="22.6296" zpos="866.078" type="completion.achievements.eod.turtlefood1.kale" GUID="L7siGUMxNEmLR5GH65NP4Q=="/>
         <POI MapID="20" xpos="449.021" ypos="39.9435" zpos="-1159.18" type="completion.achievements.eod.turtlefood1.kale" GUID="M+AKZtV6mEu2mol4UwZlGg=="/>
+        <POI MapID="20" xpos="60.000" ypos="21.222" zpos="906.853" type="completion.achievements.eod.turtlefood1.kale" color="ff0000" GUID="rvpfuAP/uU2t58Ba2BFbDA=="/>
+        <POI MapID="20" xpos="536.773" ypos="24.212" zpos="-981.636" type="completion.achievements.eod.turtlefood1.kale" color="ff0000" GUID="8/7MBqqHDE207jFwdcQqsQ=="/>
         <POI MapID="21" xpos="-260.892" ypos="10.2303" zpos="532.997" type="completion.achievements.eod.turtlefood1.kale" GUID="7TRKaDXn4kqEVL/So2uKHA=="/>
         <POI MapID="21" xpos="1.70259" ypos="1.84682" zpos="101.89" type="completion.achievements.eod.turtlefood1.kale" GUID="rvErb+B5IkWaNgsfnkER0g=="/>
         <POI MapID="21" xpos="-160.315" ypos="18.4576" zpos="-72.6108" type="completion.achievements.eod.turtlefood1.kale" GUID="KbakclJLzUO/dZhshgHvwQ=="/>
@@ -77,6 +80,8 @@
         <POI MapID="21" xpos="-78.8838" ypos="6.85099" zpos="516.579" type="completion.achievements.eod.turtlefood1.kale"  GUID="9mQJ9c/gdkmNRz04UmYEKg=="/>
         <POI MapID="21" xpos="201.681" ypos="43.6308" zpos="258.514" type="completion.achievements.eod.turtlefood1.kale"  GUID="ZWaq+A6xRUOkb9+hQFQvUA=="/>
         <POI MapID="21" xpos="-19.0359" ypos="6.21879" zpos="527.356" type="completion.achievements.eod.turtlefood1.kale" GUID="41xzsuoGskGmZAXUmdNqVw=="/>
+        <POI MapID="21" xpos="-184.604" ypos="9.406" zpos="430.067" type="completion.achievements.eod.turtlefood1.kale" color="ff0000" GUID="0R1zysU6H0K6TqVU/l74/Q=="/>
+        <POI MapID="21" xpos="-163.868" ypos="8.445" zpos="170.726" type="completion.achievements.eod.turtlefood1.kale" color="ff0000" GUID="HSgjkdQQBUav4IJ75hl1cw=="/>
         
         <!-- Lettuce -->
         <POI MapID="15" xpos="866.192" ypos="15.9539" zpos="425.797" type="completion.achievements.eod.turtlefood1.lettuce"  GUID="IaYMgHPNtEKJEI6ZkjLEhQ=="/>
@@ -128,6 +133,7 @@
         <POI MapID="1211" xpos="-399.922" ypos="87.2913" zpos="-174.951" type="completion.achievements.eod.turtlefood1.strawberries"  GUID="/D7zaiW0mEyndfg6U0K7yw=="/>
         <POI MapID="1211" xpos="-418.726" ypos="86.4459" zpos="-171.185" type="completion.achievements.eod.turtlefood1.strawberries"  GUID="fMd2Qp2v2EeCbxLAt9eWYg=="/>
         <POI MapID="1211" xpos="-416.377" ypos="86.432" zpos="-166.431" type="completion.achievements.eod.turtlefood1.strawberries"  GUID="kOJUIgw6CEevlcqDRpWbAg=="/>
+
         <!-- Marker credit to (Discord: wootkoos#4963) -->
         <POI MapID="1442" xpos="916.821" ypos="14.3501" zpos="-410.032" type="completion.achievements.eod.turtlefood1.strawberries" GUID="sIHDyqarhkSguE4Y+yXWdg=="/>
         <POI MapID="1442" xpos="931.372" ypos="42.1802" zpos="-432.375" type="completion.achievements.eod.turtlefood1.strawberries" GUID="NpEfCtxey0GvEwniUqi3fw=="/>
