@@ -14,16 +14,16 @@
     <POIs>
         <Trail type="other.festivals.dragonbash.zhaitaffy.trail" trailData="Data/Trails/dragonbash_taffy_farm.trl" texture="Data/Icons/arrow_trail.png" fadeNear="6000" fadeFar="7000" color="d55e00"/>
         <POI MapID="326" xpos="468.181" ypos="308.448" zpos="-188.459" type="other.festivals.dragonbash.zhaitaffy.markers" iconFile="Data/Icons/taffy_start.png" heightOffset="3" iconSize="3" copy="[&amp;BJADAAA=]" copy-message="Starting waypoint copied to clipboard!" GUID="kTjSkQdx3ESGr99hn5mdvg=="/>
-		<POI MapID="326" xpos="-198.016" ypos="289.411" zpos="151.726" type="other.festivals.dragonbash.zhaitaffy.markers" iconFile="Data/Icons/1.png" heightOffset="3" GUID="36Q63hnUtkS8YCKcALh/Qg=="/>
-		<POI MapID="326" xpos="-195.616" ypos="289.109" zpos="148.556" type="other.festivals.dragonbash.zhaitaffy.markers" iconFile="Data/Icons/raptor.png" heightOffset="3" GUID="TauX7jZCq0ynPbBYPpRgQQ=="/>
-		<POI MapID="326" xpos="-150.686" ypos="290.375" zpos="50.328" type="other.festivals.dragonbash.zhaitaffy.markers" iconFile="Data/Icons/beetle.png" heightOffset="3" GUID="V27GOGAsL0WNWZIXcr1qsw=="/>
-		<POI MapID="326" xpos="-43.8692" ypos="314.607" zpos="-56.91" type="other.festivals.dragonbash.zhaitaffy.markers" iconFile="Data/Icons/jackal.png" heightOffset="3" GUID="a5pvxiKH6UqSe/qD5yh8yg=="/>
-		<POI MapID="326" xpos="34.7884" ypos="335.26" zpos="-133.469" type="other.festivals.dragonbash.zhaitaffy.markers" iconFile="Data/Icons/raptor.png" heightOffset="3" GUID="hm9NMAZVIEuHBphJ/+oq5w=="/>
-		<POI MapID="326" xpos="637.866" ypos="243.618" zpos="152.976" type="other.festivals.dragonbash.zhaitaffy.markers" iconFile="Data/Icons/beetle.png" heightOffset="3" GUID="Y+SE7RWI70S3jsejfmP64w=="/>
+	<POI MapID="326" xpos="-198.016" ypos="289.411" zpos="151.726" type="other.festivals.dragonbash.zhaitaffy.markers" iconFile="Data/Icons/1.png" heightOffset="3" GUID="36Q63hnUtkS8YCKcALh/Qg=="/>
+	<POI MapID="326" xpos="-195.616" ypos="289.109" zpos="148.556" type="other.festivals.dragonbash.zhaitaffy.markers" iconFile="Data/Icons/raptor.png" heightOffset="3" GUID="TauX7jZCq0ynPbBYPpRgQQ=="/>
+	<POI MapID="326" xpos="-150.686" ypos="290.375" zpos="50.328" type="other.festivals.dragonbash.zhaitaffy.markers" iconFile="Data/Icons/beetle.png" heightOffset="3" GUID="V27GOGAsL0WNWZIXcr1qsw=="/>
+	<POI MapID="326" xpos="-43.8692" ypos="314.607" zpos="-56.91" type="other.festivals.dragonbash.zhaitaffy.markers" iconFile="Data/Icons/jackal.png" heightOffset="3" GUID="a5pvxiKH6UqSe/qD5yh8yg=="/>
+	<POI MapID="326" xpos="34.7884" ypos="335.26" zpos="-133.469" type="other.festivals.dragonbash.zhaitaffy.markers" iconFile="Data/Icons/raptor.png" heightOffset="3" GUID="hm9NMAZVIEuHBphJ/+oq5w=="/>
+	<POI MapID="326" xpos="637.866" ypos="243.618" zpos="152.976" type="other.festivals.dragonbash.zhaitaffy.markers" iconFile="Data/Icons/beetle.png" heightOffset="3" GUID="Y+SE7RWI70S3jsejfmP64w=="/>
         <POI MapID="326" xpos="339.324" ypos="250.943" zpos="474.387" type="other.festivals.dragonbash.zhaitaffy.markers" iconFile="Data/Icons/waypoint.png" heightOffset="3" triggerRange="5" copy="[&amp;BNUDAAA=]" copy-message="Next waypoint copied to clipboard!" GUID="UpOumIAiCEWcNgU/cUWm/w=="/>
         <POI MapID="326" xpos="73.9422" ypos="302.724" zpos="-243.308" type="other.festivals.dragonbash.zhaitaffy.markers" iconFile="Data/Icons/2.png" heightOffset="3" GUID="K4Wue6ns3ECbdrXfC8zuXg=="/>
-		<POI MapID="326" xpos="75.8979" ypos="302.724" zpos="-243.089" type="other.festivals.dragonbash.zhaitaffy.markers" iconFile="Data/Icons/jackal.png" heightOffset="3" GUID="hjjiZ+echUyIltWrcvkixg=="/>
-		<POI MapID="326" xpos="191.615" ypos="232.303" zpos="19.5299" type="other.festivals.dragonbash.zhaitaffy.markers" iconFile="Data/Icons/raptor.png" heightOffset="3" GUID="ZYDQ4w6JiE6TzR4NfOy9jA=="/>
-		<POI MapID="326" xpos="220.843" ypos="233.136" zpos="-1.85177" type="other.festivals.dragonbash.zhaitaffy.markers" iconFile="Data/Icons/finish_flag.png" heightOffset="3" GUID="JJX/1SnxQUutxhLy0OCxQg=="/>
+	<POI MapID="326" xpos="75.8979" ypos="302.724" zpos="-243.089" type="other.festivals.dragonbash.zhaitaffy.markers" iconFile="Data/Icons/jackal.png" heightOffset="3" GUID="hjjiZ+echUyIltWrcvkixg=="/>
+	<POI MapID="326" xpos="191.615" ypos="232.303" zpos="19.5299" type="other.festivals.dragonbash.zhaitaffy.markers" iconFile="Data/Icons/raptor.png" heightOffset="3" GUID="ZYDQ4w6JiE6TzR4NfOy9jA=="/>
+	<POI MapID="326" xpos="220.843" ypos="233.136" zpos="-1.85177" type="other.festivals.dragonbash.zhaitaffy.markers" iconFile="Data/Icons/finish_flag.png" heightOffset="3" GUID="JJX/1SnxQUutxhLy0OCxQg=="/>
     </POIs>
 </OverlayData>
