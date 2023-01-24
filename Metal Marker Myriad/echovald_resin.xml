@@ -1,14 +1,15 @@
 <OverlayData>
+    <!-- Discord Invite:https://discord.gg/FP8dQj6KBj -->
     <MarkerCategory name="exploration" DisplayName="Exploration">
         <MarkerCategory name="resources" DisplayName="Resources">
             <MarkerCategory name="currency" DisplayName="Map Currencies & Other">
-                <MarkerCategory name="echoresin" DisplayName="Chunk of Petrified Echovald Resin" iconFile="data/Icons/echovald_resin.png"/>
+                <MarkerCategory name="echoresin" DisplayName="Chunk of Petrified Echovald Resin" iconFile="data/Icons/echovald_resin.png" bounce="rise" bounce-height="5" autotrigger="1" triggerrange="25"/>
             </MarkerCategory>
         </MarkerCategory>
     </MarkerCategory>
     
     <POIs>
-        <Trail type="exploration.resources.currency.echoresin" trailData="Data/Trails/echovald_resin.trl" texture="Data/Icons/Arrow_Trail.png" fadeNear="6000" fadeFar="7000" color="00ff00"/>
+        <Trail type="exploration.resources.currency.echoresin" trailData="Data/Trails/echovald_resin.trl" texture="Data/Icons/arrow_trail.png" fadeNear="6000" fadeFar="7000" color="00ff00"/>
         <POI MapID="1452" xpos="201.192" ypos="191.801" zpos="582.752" type="exploration.resources.currency.echoresin" GUID="1a9rikooQk+krmqkozmGgQ=="/>
         <POI MapID="1452" xpos="-98.0429" ypos="153.98" zpos="552.583" type="exploration.resources.currency.echoresin" GUID="Te0Y/32l00uj2VFEGnG9Cw=="/>
         <POI MapID="1452" xpos="243.97" ypos="233.518" zpos="459.772" type="exploration.resources.currency.echoresin" GUID="CxJT1BEwFUW8DWWKJvo3dg=="/>
@@ -36,5 +37,20 @@
         <POI MapID="1452" xpos="905.843" ypos="5.88845" zpos="-365.133" type="exploration.resources.currency.echoresin" GUID="jJjFe/tFzkmSbFxJfjuGoQ=="/>
         <POI MapID="1452" xpos="-59.763" ypos="166.463" zpos="-357.852" type="exploration.resources.currency.echoresin" GUID="VsZV3nA/r0+K1CsltQXTWw=="/>
         <POI MapID="1452" xpos="-429.853" ypos="155.206" zpos="135.797" type="exploration.resources.currency.echoresin" GUID="dy/ba9jWEESfK7RyaU89Qw=="/>
+        <POI MapID="1452" xpos="-415.481" ypos="218.406" zpos="356.304" type="exploration.resources.currency.echoresin" GUID="28Yuk4dQmk+KqXyMs3Hkew=="/>
+        <POI MapID="1452" xpos="-310.262" ypos="212.328" zpos="398.488" type="exploration.resources.currency.echoresin" GUID="j+528IwpnUao+LpKokIeEQ=="/>
+        <POI MapID="1452" xpos="472.603" ypos="58.782" zpos="-341.506" type="exploration.resources.currency.echoresin" GUID="b1oxq5pflkKcyRx/QLTu1g=="/>
+        <POI MapID="1452" xpos="-463.743" ypos="149.639" zpos="85.847" type="exploration.resources.currency.echoresin" GUID="c75qpX8lGECTqj3rjdgr5w=="/>
+        <POI MapID="1452" xpos="867.812" ypos="103.771" zpos="-101.663" type="exploration.resources.currency.echoresin" GUID="pbvmhlJU70eCztob+uFENA=="/>
+        <POI MapID="1452" xpos="-147.763" ypos="160.773" zpos="599.700" type="exploration.resources.currency.echoresin" GUID="OYLI7Q7xak2R2aiOKOM0/w=="/>
+        <POI MapID="1452" xpos="-199.942" ypos="195.855" zpos="387.701" type="exploration.resources.currency.echoresin" GUID="6xgu34lo+k2agHuOX0o7IQ=="/>
+        <POI MapID="1452" xpos="752.464" ypos="142.705" zpos="158.630" type="exploration.resources.currency.echoresin" GUID="N8CRS7nYoEeGtJu3/d7MrA=="/>
+        <POI MapID="1452" xpos="307.884" ypos="217.892" zpos="447.952" type="exploration.resources.currency.echoresin" GUID="t7T2kywZqUG40u0HAXe0Vw=="/>
+		<POI MapID="1452" xpos="240.294" ypos="186.808" zpos="-75.2185" type="exploration.resources.currency.echoresin" GUID="n5Tiroc4+0SYNMl4rZpfpQ=="/>
+		<POI MapID="1452" xpos="296.629" ypos="225.065" zpos="12.6367" type="exploration.resources.currency.echoresin" GUID="bsKRozVtPkGjRwGvPKb5tQ=="/>
+		<POI MapID="1452" xpos="752.039" ypos="142.541" zpos="158.285" type="exploration.resources.currency.echoresin" GUID="ACW9CgoySE2bVnZRbaBo0g=="/>
+		<POI MapID="1452" xpos="331.97" ypos="64.0154" zpos="-342.468" type="exploration.resources.currency.echoresin" GUID="aHeQ99gP2U2wMztGYklvAw=="/>
+		<POI MapID="1452" xpos="193.715" ypos="113.966" zpos="-250.302" type="exploration.resources.currency.echoresin" GUID="bzcjBKAqTEi9aiLA+I9sKg=="/>
+		<POI MapID="1452" xpos="-25.1848" ypos="145.281" zpos="-313.334" type="exploration.resources.currency.echoresin" GUID="NsOnos6SBUuYyhW4bI//7A=="/>
     </POIs>
 </OverlayData>
