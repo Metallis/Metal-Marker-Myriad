@@ -12,10 +12,3 @@ If you have an idea for a marker pack you want me (or someone) to try and tackle
 Support: [Metal's Marker-mancy](https://discord.gg/FP8dQj6KBj) Discord! This is for all my packs! Or find me  on the [Blish HUD Discord](https://discord.gg/FYKN3qh).
 
 I [do accept donations](https://ko-fi.com/metallis) if you truly wish to offer more than your kind words. They're never expected, but they're absolutely always appreciated.
-
-**OTHER PACKS YOU MAY LIKE:** (in no particular order, I don't believe these appear in the Blish auto-update list for one reason or another)
-- HP Trains
-    - [Czokalapik's HP Trains](https://bitbucket.org/czokalapik/czokalapiks-guides-for-gw2taco/src/master/)
-    - [Red's EoD HP Run](https://www.reddit.com/r/Guildwars2/comments/t56gak/taco_trails_for_eod_hps/)
-- One-Offs
-    - [Lion's Arch Exterminator](https://www.reddit.com/r/GW2TacO/comments/eazd7s/trail_and_markers_for_lions_arch_exterminator/) (needs to be repacked as `.zip` or `.taco`, doesn't work as `.rar`)
