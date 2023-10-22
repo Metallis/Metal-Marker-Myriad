@@ -1,0 +1,26 @@
+<OverlayData>
+    <!-- Discord Invite:https://discord.gg/FP8dQj6KBj -->
+    <!-- Credit to Luaren on YT! https://www.youtube.com/watch?v=XJyfZNIXp98 -->
+    <MarkerCategory Name="exploration" DisplayName="Exploration">
+        <MarkerCategory Name="resources" DisplayName="Resources">
+            <MarkerCategory Name="currency" DisplayName="Map Currencies and Other">
+                <MarkerCategory name="ancient_unusual_coin" DisplayName="Ancient/Unusual Coin"/>
+            </MarkerCategory>
+        </MarkerCategory>
+    </MarkerCategory>
+    <POIs>
+        <Trail type="exploration.resources.currency.ancient_unusual_coin" trailData="Data/Trails/luaren_sa_g_arcane.trl" texture="Data/Icons/luaren_uwu_arrow.png" fadeNear="3000" fadeFar="5000" color="ff6ede"/>
+        <POI MapID="1510" xpos="-645.7746" ypos="549.6155" zpos="160.8512" type="exploration.resources.currency.ancient_unusual_coin" iconFile="Data/Icons/beetle.png" GUID="wGMDJ+KKmEaypgRhgnv5dQ=="/>
+        <POI MapID="1510" xpos="-844.95343" ypos="551.637695" zpos="68.991325" type="exploration.resources.currency.ancient_unusual_coin" iconFile="Data/Icons/skyscale.png" GUID="onlI8U+4Y0yJ2D1aWblitg=="/>
+        <POI MapID="1510" xpos="-626.717102" ypos="586.177246" zpos="-376.652222" type="exploration.resources.currency.ancient_unusual_coin" iconFile="Data/Icons/griffon.png" GUID="MoSpHn4KDEyIJou0hQ0bIQ=="/>
+        <POI MapID="1510" xpos="55.53513" ypos="253.5651" zpos="-537.4693" type="exploration.resources.currency.ancient_unusual_coin" iconFile="Data/Icons/beetle.png" GUID="l+i0bGtapEC1Dar13bd9Eg=="/>
+        <POI MapID="1510" xpos="293.977203" ypos="254.754013" zpos="-193.853287" type="exploration.resources.currency.ancient_unusual_coin" iconFile="Data/Icons/skyscale.png" GUID="vlGdj2M5YEuBA5DLn+V3EQ=="/>
+        <POI MapID="1510" xpos="516.91803" ypos="276.645844" zpos="-74.350212" type="exploration.resources.currency.ancient_unusual_coin" iconFile="Data/Icons/griffon.png" GUID="8XPa6WGLw0u28NXITO4OOg=="/>
+        <POI MapID="1510" xpos="539.882996" ypos="28.455664" zpos="-454.105042" type="exploration.resources.currency.ancient_unusual_coin" iconFile="Data/Icons/finish_flag.png" autoTrigger="1" triggerRange="5" copy="[&amp;BD8OAAA=]" copy-message="Jump to Jade Hab WP, if needed! (copied to clipboard)" GUID="FMpJydMpykOnT84fYp1kKA=="/>
+        <POI MapID="1510" xpos="14.374597" ypos="400.7117" zpos="-73.473801" type="exploration.resources.currency.ancient_unusual_coin" iconFile="Data/Icons/skyscale.png" GUID="W0fuotwpLkeVhbg/gLlb6w=="/>
+        <POI MapID="1510" xpos="57.511055" ypos="639.113098" zpos="59.307842" type="exploration.resources.currency.ancient_unusual_coin" iconFile="Data/Icons/griffon.png" GUID="LpzqS0b7MkK4Od6bTpJY6g=="/>
+        <POI MapID="1510" xpos="12.769743" ypos="362.307465" zpos="395.156647" type="exploration.resources.currency.ancient_unusual_coin" iconFile="Data/Icons/skyscale.png" GUID="NYmbeLNpzUiEhk4CHBl1cg=="/>
+        <POI MapID="1510" xpos="614.951782" ypos="274.197998" zpos="457.45636" type="exploration.resources.currency.ancient_unusual_coin" iconFile="Data/Icons/griffon.png" GUID="8UdEiwF1i0+Kz2vE9Y5Ytg=="/>
+        <POI MapID="1510" xpos="1032.971" ypos="177.2564" zpos="351.781" type="exploration.resources.currency.ancient_unusual_coin" iconFile="Data/Icons/finish_flag.png" autoTrigger="1" triggerRange="5" copy="[&amp;BL4NAAA=]" copy-message="Jump to Droknar's WP, if needed! (copied to clipboard)" GUID="O47yqjQNXUa2q2sZ9KVqYQ=="/>
+    </POIs>
+</OverlayData>

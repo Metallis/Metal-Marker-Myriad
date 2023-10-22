@@ -1,0 +1,31 @@
+<OverlayData>
+    <MarkerCategory name="other" DisplayName="Other">
+        <MarkerCategory name="activities" DisplayName="Activities/Adventures">
+            <MarkerCategory name="adventures" DisplayName="Adventures">
+                <MarkerCategory name="ox_yoke" DisplayName="The Ox's Yoke"/>
+                <MarkerCategory name="skiff_nkc" DisplayName="Swift Skiffs - Kaineng"/>
+            </MarkerCategory>
+        </MarkerCategory>
+    </MarkerCategory>
+
+    <POIs>
+        <Trail type="other.activities.adventures.ox_yoke" trailData="Data/Trails/ox_yoke_avoid.trl" texture="Data/Icons/arrow_trail.png" fadeNear="3000" fadeFar="5000" color="ff0000"/>
+        <Trail type="other.activities.adventures.skiff_nkc" trailData="Data/Trails/nkc_swift_skiffs.trl" texture="Data/Icons/arrow_trail.png" fadeNear="3000" fadeFar="5000" color="fefefe"/>
+        <POI MapID="1438" xpos="196.301" ypos="1.37639" zpos="282.028" type="other.activities.adventures.skiff_nkc" iconFile="Data/Icons/1.png" GUID="AOTQgBzrLkyhc1Mz3N3u5w=="/>
+		<POI MapID="1438" xpos="228.559" ypos="1.37639" zpos="255.193" type="other.activities.adventures.skiff_nkc" iconFile="Data/Icons/3.png" GUID="CID4QOgjnk+ShrOJM2MJWw=="/>
+        <POI MapID="1438" xpos="230.662" ypos="1.37639" zpos="239.877" type="other.activities.adventures.skiff_nkc" iconFile="Data/Icons/5.png" GUID="PKl5sPyfO0uHcKlLtK3tmw=="/>
+		<POI MapID="1438" xpos="24.6639" ypos="1.37639" zpos="-270.255" type="other.activities.adventures.skiff_nkc" iconFile="Data/Icons/1.png" GUID="KGoAy23xQ064E8gOMEcNMQ=="/>
+		<POI MapID="1438" xpos="6.04291" ypos="1.37639" zpos="-305.098" type="other.activities.adventures.skiff_nkc" iconFile="Data/Icons/2.png" GUID="WWyFnroWx0SHf8wQBQIPcw=="/>
+		<POI MapID="1438" xpos="28.3655" ypos="1.37639" zpos="-323.433" type="other.activities.adventures.skiff_nkc" iconFile="Data/Icons/1.png" GUID="qjpMaUZiWEqpIBavjwRz3A=="/>
+		<POI MapID="1438" xpos="17.8942" ypos="1.37639" zpos="-357.369" type="other.activities.adventures.skiff_nkc" iconFile="Data/Icons/3.png" GUID="SXap6lXZnU60irTIJ7xhOw=="/>
+		<POI MapID="1438" xpos="5.42966" ypos="1.37639" zpos="-357.362" type="other.activities.adventures.skiff_nkc" iconFile="Data/Icons/5.png" GUID="B2vZQYPT2Um7C6uEc5tc2g=="/>
+		<POI MapID="1438" xpos="-262.836" ypos="1.37639" zpos="-297.858" type="other.activities.adventures.skiff_nkc" iconFile="Data/Icons/1.png" GUID="5ATCRspGAE24og9QT+P3Tg=="/>
+		<POI MapID="1438" xpos="-254.38" ypos="1.37639" zpos="-245.334" type="other.activities.adventures.skiff_nkc" iconFile="Data/Icons/2.png" GUID="x6Hvw4BX1kqOyFEbHU7/Kw=="/>
+		<POI MapID="1438" xpos="-198.838" ypos="1.37639" zpos="-119.062" type="other.activities.adventures.skiff_nkc" iconFile="Data/Icons/3.png" GUID="+diOzncL6UiLT4wv85dxqw=="/>
+		<POI MapID="1438" xpos="-331.933" ypos="1.37639" zpos="6.51453" type="other.activities.adventures.skiff_nkc" iconFile="Data/Icons/1.png" GUID="zG+r+8bJxkuHLzK9J7HzNA=="/>
+		<POI MapID="1438" xpos="-301.53" ypos="1.37639" zpos="57.7344" type="other.activities.adventures.skiff_nkc" iconFile="Data/Icons/3.png" GUID="8v/KZc5zGEioPXTUwYzQ7A=="/>
+		<POI MapID="1438" xpos="-308.567" ypos="1.37639" zpos="71.419" type="other.activities.adventures.skiff_nkc" iconFile="Data/Icons/5.png" GUID="tyfokemnikOx1sfBMZe2fg=="/>
+		<POI MapID="1438" xpos="-224.505" ypos="-1.0668" zpos="257.49" type="other.activities.adventures.skiff_nkc" iconFile="Data/Icons/3.png" GUID="YPR1N3b+D0WRWjt79DTlUw=="/>
+		<POI MapID="1438" xpos="-211.671" ypos="-1.0668" zpos="263.418" type="other.activities.adventures.skiff_nkc" iconFile="Data/Icons/5.png" GUID="LprIhBY8mUC8uGrfxtLn7A=="/>
+    </POIs>
+</OverlayData>
