@@ -1,53 +1,33 @@
-MMM.psna = {}
+MMM.psna = {
+    currentUTCTime = nil,
+    utcMinusEight = nil,
+    psnaDay = nil,
+    copy = nil
+}
 
 Debug:Watch("MMM_PSNA", MMM.psna)
 
--- #region Constants
-
-local MARKER_ATTRIBUTES = {
-    ["schedule-duration"] = 1440,
-    iconSize = 0,
-    ["copy-message"] = "PSNA Waypoints copied to clipboard!",
-    triggerRange="1",
-    autoTrigger="1"
-}
-local MARKER_COPIES = {
-    { "0 8 * * 1", "[&BIgHAAA=][&BEwDAAA=][&BNIEAAA=][&BKYBAAA=][&BIMCAAA=][&BB4CAAA=]" },
-    { "0 8 * * 2", "[&BH8HAAA=][&BEgAAAA=][&BBEAAAA=][&BKgCAAA=][&BGQCAAA=][&BIMBAAA=]" },
-    { "0 8 * * 3", "[&BHoHAAA=][&BCEDAAA=][&BLQDAAA=][&BKYAAAA=][&BLQAAAA=][&BFEDAAA=]" },
-    { "0 8 * * 4", "[&BH8HAAA=][&BF0AAAA=][&BEUDAAA=][&BO4CAAA=][&BJcBAAA=][&BOQBAAA=]" },
-    { "0 8 * * 5", "[&BJcHAAA=][&BNUGAAA=][&BKYCAAA=][&BMwCAAA=][&BHsBAAA=][&BNMAAAA=]" },
-    { "0 8 * * 6", "[&BH8HAAA=][&BB8DAAA=][&BNMCAAA=][&BFMCAAA=][&BJIBAAA=][&BF8BAAA=]" },
-    { "0 8 * * 0", "[&BIYHAAA=][&BDoBAAA=][&BO4CAAA=][&BKcBAAA=][&BIUCAAA=][&BCECAAA=]" }
+local COPY_INFO = {
+    { "Monday", "[&BIgHAAA=][&BEwDAAA=][&BNIEAAA=][&BKYBAAA=][&BIMCAAA=][&BB4CAAA=]" },
+    { "Tuesday", "[&BH8HAAA=][&BEgAAAA=][&BBEAAAA=][&BKgCAAA=][&BGQCAAA=][&BIMBAAA=]" },
+    { "Wednesday", "[&BHoHAAA=][&BCEDAAA=][&BLQDAAA=][&BKYAAAA=][&BLQAAAA=][&BFEDAAA=]" },
+    { "Thursday", "[&BH8HAAA=][&BF0AAAA=][&BEUDAAA=][&BO4CAAA=][&BJcBAAA=][&BOQBAAA=]" },
+    { "Friday", "[&BJcHAAA=][&BNUGAAA=][&BKYCAAA=][&BMwCAAA=][&BHsBAAA=][&BNMAAAA=]" },
+    { "Saturday", "[&BH8HAAA=][&BB8DAAA=][&BNMCAAA=][&BFMCAAA=][&BJIBAAA=][&BF8BAAA=]" },
+    { "Sunday", "[&BIYHAAA=][&BDoBAAA=][&BO4CAAA=][&BKcBAAA=][&BIUCAAA=][&BCECAAA=]" }
 }
 
--- #endregion
-
--- Generates PSNA markers at the players current location until finding the current one, then copies it to their clipboard
+-- Copies the current day's PSNA to the user's clipboard
 function MMM_CopyPSNA()
-    -- Get current position
-    local origin = Mumble.PlayerCharacter.Position
-    
-    --Create generic marker attributes and add in coordinates
-    local newMarkerAttributes = MARKER_ATTRIBUTES
-    newMarkerAttributes.xpos = origin.X
-    newMarkerAttributes.ypos = origin.Z
-    newMarkerAttributes.zpos = origin.Y
-  
-    -- Loop through all markers until we find the one that isn't filtered by schedule
-    for _, copyAttr in ipairs(MARKER_COPIES) do
-        newMarkerAttributes.schedule = copyAttr[1]
-        newMarkerAttributes.copy = copyAttr[2]
-        local newMarker = Pack:CreateMarker(newMarkerAttributes)
-  
-        if (newMarker.BehaviorFiltered == false) then
-            -- Once we find the non-filtered one, it'll copy itself to clipboard, then we remove it and break from the loop
-            newMarker.Interact(true)
-            newMarker:Remove()
+    MMM.psna.currentUTCTime = os.time(os.date("!*t"))
+    MMM.psna.utcMinusEight = MMM.psna.currentUTCTime - (8 * 60 * 60)
+    MMM.psna.psnaDay = os.date("%A", MMM.psna.utcMinusEight)
+
+    for _, day in ipairs(COPY_INFO) do
+        if day[1] == MMM.psna.psnaDay then
+            MMM.psna.copy = day[2]
+            User.SetClipboard(MMM.psna.copy, "PSNA Waypoints copied to clipboard!")
             break
-        -- Otherwise delete the marker we just created
-        else
-            newMarker:Remove()
         end
     end
 end

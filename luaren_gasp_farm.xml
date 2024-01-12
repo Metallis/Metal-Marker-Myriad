@@ -1,0 +1,51 @@
+<OverlayData>
+	<!-- Discord Invite:https://discord.gg/FP8dQj6KBj -->
+    <!-- Credit to Luaren on YT! https://www.youtube.com/watch?v=Rd6gCSsgMUo -->
+	<MarkerCategory Name="exploration" DisplayName="Exploration">
+		<MarkerCategory Name="resources" DisplayName="Resources">
+			<MarkerCategory Name="currency" DisplayName="Map Currencies and Other">
+				<MarkerCategory Name="gasp" DisplayName="Calcified Gasp">
+					<MarkerCategory Name="orbs" DisplayName="Orb Visibility Rings" iconFile="Data/Icons/ring.png" fadeNear="9000" fadeFar="10000" miniMapVisibility="0" mapVisibility="0"/>
+				</MarkerCategory>
+			</MarkerCategory>
+		</MarkerCategory>
+	</MarkerCategory>
+	<POIs>
+		<!-- Inner Nayos -->
+		<Trail type="exploration.resources.currency.gasp" trailData="Data/Trails/luaren_nayos_gasps.trl" texture="Data/Icons/luaren_uwu_arrow.png" fadeNear="3000" fadeFar="5000" color="ff6ede"/>
+		<POI MapID="1526" xpos="654.728" ypos="201.499" zpos="-133.086" type="exploration.resources.currency.gasp.orbs" GUID="BmfBpKDBPUm/mbBsC+gTPw=="/>
+		<POI MapID="1526" xpos="676.355" ypos="224.592" zpos="-126.06" type="exploration.resources.currency.gasp.orbs" GUID="ivRG9NB6Bkq4EKw1ULkuow=="/>
+		<POI MapID="1526" xpos="647.598" ypos="232.961" zpos="-93.4242" type="exploration.resources.currency.gasp.orbs" GUID="ibjr5zuzqkm6r2vEiEhEUw=="/>
+		<POI MapID="1526" xpos="605.576" ypos="225.903" zpos="-91.9099" type="exploration.resources.currency.gasp.orbs" GUID="KwiDb3UOOUi1oSaT7k38Ig=="/>
+		<POI MapID="1526" xpos="630.961" ypos="256.337" zpos="-53.6443" type="exploration.resources.currency.gasp.orbs" GUID="7xLG3g6PmUOuObMcaQzUOQ=="/>
+		<POI MapID="1526" xpos="634.476" ypos="256.205" zpos="-27.3933" type="exploration.resources.currency.gasp.orbs" GUID="qLYcL4UMc0KXUKh5om8ZSQ=="/>
+		<POI MapID="1526" xpos="660.771" ypos="254.366" zpos="-22.0756" type="exploration.resources.currency.gasp.orbs" GUID="xTFvfqcwi0Saf36k5ycWSg=="/>
+		<POI MapID="1526" xpos="516.236" ypos="245.098" zpos="330.838" type="exploration.resources.currency.gasp.orbs" GUID="Pe4vg+uvjkKQ9kt01QaCIQ=="/>
+		<POI MapID="1526" xpos="500.071" ypos="252.569" zpos="321.775" type="exploration.resources.currency.gasp.orbs" GUID="JkSsNHH3jkm5xHybfR8bvg=="/>
+		<POI MapID="1526" xpos="490.457" ypos="257.929" zpos="306.714" type="exploration.resources.currency.gasp.orbs" GUID="HaaS5U6x7EC5u7MTtWRvrA=="/>
+		<POI MapID="1526" xpos="458.638" ypos="269.795" zpos="302.221" type="exploration.resources.currency.gasp.orbs" GUID="+TAQ9J7cSk6I4UL5NOsS/g=="/>
+		<POI MapID="1526" xpos="416.809" ypos="263.476" zpos="342.951" type="exploration.resources.currency.gasp.orbs" GUID="UoYtKpCIJEGfZxopjSVeXA=="/>
+		<POI MapID="1526" xpos="418.891" ypos="269.742" zpos="362.16" type="exploration.resources.currency.gasp.orbs" GUID="aUYiuf585Ue1Tgwk4eQ74g=="/>
+		<POI MapID="1526" xpos="433.472" ypos="259.975" zpos="361.142" type="exploration.resources.currency.gasp.orbs" GUID="fjwsmsaPh0K1FygTl3y0BQ=="/>
+		<POI MapID="1526" xpos="449.751" ypos="269.535" zpos="367.709" type="exploration.resources.currency.gasp.orbs" GUID="u9qrCUwY60yOs5i4f3E1pQ=="/>
+		<POI MapID="1526" xpos="773.475" ypos="260.043" zpos="457.418" type="exploration.resources.currency.gasp.orbs" GUID="fPhYF1VIAkC1zDr1HgiPLw=="/>
+		<POI MapID="1526" xpos="777.301" ypos="273.132" zpos="473.345" type="exploration.resources.currency.gasp.orbs" GUID="zqOVRAwwmEe4kvQU9ZAd3w=="/>
+		<POI MapID="1526" xpos="779.824" ypos="281.804" zpos="483.225" type="exploration.resources.currency.gasp.orbs" GUID="Nnuli23Sf0q5lgSOtDGtMw=="/>
+		<POI MapID="1526" xpos="781.42" ypos="288.463" zpos="491.479" type="exploration.resources.currency.gasp.orbs" GUID="AJlca8H1tEehNTWvpLbHnQ=="/>
+		<POI MapID="1526" xpos="783.291" ypos="296.574" zpos="499.895" type="exploration.resources.currency.gasp.orbs" GUID="VenwzFTcrkiKEg8qB+iWIg=="/>
+		<POI MapID="1526" xpos="786.94" ypos="307.7" zpos="515.307" type="exploration.resources.currency.gasp.orbs" GUID="FzcVtQXyIkC5PEVIwU94ag=="/>
+		<POI MapID="1526" xpos="790.075" ypos="316.586" zpos="528.112" type="exploration.resources.currency.gasp.orbs" GUID="3nH8ZYSlOU29KPsYtjNKXA=="/>
+		<POI MapID="1526" xpos="963.502" ypos="316.357" zpos="188.757" type="exploration.resources.currency.gasp.orbs" GUID="2Gc6KrV3qEGHKS5U/5jXMA=="/>
+		<POI MapID="1526" xpos="968.796" ypos="335.792" zpos="130.093" type="exploration.resources.currency.gasp.orbs" GUID="ctde6b5asUWF9T5hL/LNXQ=="/>
+		<POI MapID="1526" xpos="926.402" ypos="320.585" zpos="195.003" type="exploration.resources.currency.gasp.orbs" GUID="gkxGPFLrGkaH1C16Y3IFow=="/>
+		<POI MapID="1526" xpos="901.516" ypos="322.863" zpos="132.336" type="exploration.resources.currency.gasp.orbs" GUID="624RKcar3kugpZjxY8VG/Q=="/>
+		<POI MapID="1526" xpos="935.955" ypos="302.999" zpos="109.124" type="exploration.resources.currency.gasp.orbs" GUID="uQzdCMsuG0eYjHYv3qT09g=="/>
+		<POI MapID="1526" xpos="887.443" ypos="283.652" zpos="144.133" type="exploration.resources.currency.gasp.orbs" GUID="gHvD5KeJdUim+dtDxakfsQ=="/>
+		<POI MapID="1526" xpos="940.497" ypos="281.632" zpos="181.578" type="exploration.resources.currency.gasp.orbs" GUID="YkQXGRCiAUOV25b6DdKSyg=="/>
+		<POI MapID="1526" xpos="953.829" ypos="270.798" zpos="110.281" type="exploration.resources.currency.gasp.orbs" GUID="053LJDkHZESsyy/6xoqMPA=="/>
+		<POI MapID="1526" xpos="973.327" ypos="258.277" zpos="137.476" type="exploration.resources.currency.gasp.orbs" GUID="p3t5yG0eE0Cy8avMI3BE0w=="/>
+		<POI MapID="1526" xpos="900.788" ypos="259.708" zpos="191.877" type="exploration.resources.currency.gasp.orbs" GUID="NfLDnvuKPEGXHKXPCUvl6Q=="/>
+		<POI MapID="1526" xpos="978.425" ypos="239.511" zpos="118.012" type="exploration.resources.currency.gasp.orbs" GUID="UBgmbfW3P0mUy6joNaqzLA=="/>
+		<POI MapID="1526" xpos="907.637" ypos="235.002" zpos="211.206" type="exploration.resources.currency.gasp" GUID="tcMV2vMzaEyZzS98Gr6ypg==" iconFile="Data/Icons/finish_flag.png" fadeNear="1500" fadeFar="2500" triggerRange="10" autoTrigger="1" copy-message="If you got gasps on this last orb, hop and repeat or check the Tree of Mourning's branches."/>
+	</POIs>
+</OverlayData>

@@ -1,10 +1,8 @@
 <OverlayData>
-    <MarkerCategory name="completion" DisplayName="Completionism">
-        <MarkerCategory name="achievements" DisplayName="Achievements">
-            <MarkerCategory name="story" DisplayName="Story Journal">
-                <MarkerCategory name="towerofnightmares" DisplayName="Tower of Nightmares">
-                    <MarkerCategory name="toxickraithistorian" DisplayName="Toxic Krait Historian"/>
-                </MarkerCategory>
+    <MarkerCategory name="achievements" DisplayName="Achievements">
+        <MarkerCategory name="story" DisplayName="Story Journal">
+            <MarkerCategory name="towerofnightmares" DisplayName="Tower of Nightmares">
+                <MarkerCategory name="toxickraithistorian" DisplayName="Toxic Krait Historian"/>
             </MarkerCategory>
         </MarkerCategory>
     </MarkerCategory>
