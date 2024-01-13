@@ -3,7 +3,7 @@
     <MarkerCategory name="achievements" DisplayName="Achievements">
         <MarkerCategory name="eod" DisplayName="End of Dragons">
             <MarkerCategory name="turtlefood1" DisplayName="Turtle Unlock: Starting Small">
-                <MarkerCategory name="signposts" DisplayName="Signposts"/>
+                <MarkerCategory name="signposts" DisplayName="Signposts" achievementid="6408"/>
                 <MarkerCategory name="carrots" DisplayName="Carrots" iconFile="Data/Icons/carrot.png" bounce="rise" bounce-height="3" autotrigger="1" triggerrange="25"/>
                 <MarkerCategory name="kale" DisplayName="Kale" iconFile="Data/Icons/kale_leaf.png" bounce="rise" bounce-height="3" autotrigger="1" triggerrange="25"/>
                 <MarkerCategory name="lettuce" DisplayName="Lettuce" iconFile="Data/Icons/head_of_lettuce.png" bounce="rise" bounce-height="3" autotrigger="1" triggerrange="25"/>

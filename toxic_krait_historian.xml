@@ -2,7 +2,7 @@
     <MarkerCategory name="achievements" DisplayName="Achievements">
         <MarkerCategory name="story" DisplayName="Story Journal">
             <MarkerCategory name="towerofnightmares" DisplayName="Tower of Nightmares">
-                <MarkerCategory name="toxickraithistorian" DisplayName="Toxic Krait Historian"/>
+                <MarkerCategory name="toxickraithistorian" DisplayName="Toxic Krait Historian" achievementid="1092"/>
             </MarkerCategory>
         </MarkerCategory>
     </MarkerCategory>

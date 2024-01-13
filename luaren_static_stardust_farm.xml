@@ -4,18 +4,18 @@
 	<MarkerCategory Name="exploration" DisplayName="Exploration">
 		<MarkerCategory Name="resources" DisplayName="Resources">
 			<MarkerCategory Name="currency" DisplayName="Map Currencies and Other">
-				<MarkerCategory Name="staticcharge" DisplayName="Static Charge">
+				<MarkerCategory Name="staticcharge" DisplayName="Static Charge" fadeNear="3000" fadeFar="5000">
 					<MarkerCategory Name="orbs" DisplayName="Orb Visibility Rings" iconFile="Data/Icons/ring.png" fadeNear="1500" fadeFar="2500" miniMapVisibility="0" mapVisibility="0"/>
 				</MarkerCategory>
-				<MarkerCategory Name="stardust" DisplayName="Pinch of Stardust">
-					<MarkerCategory Name="orbs" DisplayName="Orb Visibility Rings" iconFile="Data/Icons/ring.png" fadeNear="9000" fadeFar="10000" miniMapVisibility="0" mapVisibility="0"/>
+				<MarkerCategory Name="stardust" DisplayName="Pinch of Stardust" fadeNear="3000" fadeFar="5000">
+					<MarkerCategory Name="orbs" DisplayName="Orb Visibility Rings" iconFile="Data/Icons/ring.png" fadeNear="1500" fadeFar="2500" miniMapVisibility="0" mapVisibility="0"/>
 				</MarkerCategory>
 			</MarkerCategory>
 		</MarkerCategory>
 	</MarkerCategory>
 	<POIs>
 		<!-- Amnytas -->
-		<Trail type="exploration.resources.currency.stardust" trailData="Data/Trails/luaren_amny_stardust.trl" texture="Data/Icons/luaren_uwu_arrow.png" fadeNear="3000" fadeFar="5000" color="ff6ede"/>
+		<Trail type="exploration.resources.currency.stardust" trailData="Data/Trails/luaren_amny_stardust.trl" texture="Data/Icons/luaren_uwu_arrow.png" color="ff6ede"/>
 		<POI MapID="1517" xpos="-676.697" ypos="496.387" zpos="-263.578" type="exploration.resources.currency.stardust.orbs" GUID="XNNHooZpoUuhZKspkgDXNg=="/>
 		<POI MapID="1517" xpos="-676.694" ypos="463.295" zpos="-263.557" type="exploration.resources.currency.stardust.orbs" GUID="b3/Wmg4tDUqcqDM/2jveWQ=="/>
 		<POI MapID="1517" xpos="-676.651" ypos="430.195" zpos="-263.608" type="exploration.resources.currency.stardust.orbs" GUID="Uw1I5ixA3EGJrneWB/3eWw=="/>
@@ -28,7 +28,7 @@
 		<POI MapID="1517" xpos="-498.237" ypos="302.644" zpos="-630.18" type="exploration.resources.currency.stardust.orbs" GUID="+/nLpVuWfkar7UkG3Mxcdw=="/>
 		<POI MapID="1517" xpos="-511.576" ypos="313.937" zpos="-630.174" type="exploration.resources.currency.stardust.orbs" GUID="BLwX/X2RCE68MBDgn4oQfQ=="/>
 		<POI MapID="1517" xpos="-524.216" ypos="324.739" zpos="-630.158" type="exploration.resources.currency.stardust.orbs" GUID="e10BgKcW0U2Swi3aeKKWEw=="/>
-		<POI MapID="1517" xpos="-536.919" ypos="334.314" zpos="-630.197" type="exploration.resources.currency.stardust" GUID="sNEyzS4xykWvZWZRM2UOSQ==" iconFile="Data/Icons/finish_flag.png" fadeNear="1500" fadeFar="2500" triggerRange="10" autoTrigger="1" copy-message="Head to Bastion of Strength or Balance, if needed!"/>
+		<POI MapID="1517" xpos="-536.919" ypos="334.314" zpos="-630.197" type="exploration.resources.currency.stardust" GUID="sNEyzS4xykWvZWZRM2UOSQ==" iconFile="Data/Icons/finish_flag.png" triggerRange="10" autoTrigger="1" copy-message="Head to Bastion of Strength or Balance, if needed!"/>
 		<POI MapID="1517" xpos="79.8048" ypos="459.037" zpos="584.377" type="exploration.resources.currency.stardust.orbs" GUID="4D8RVqINekG7T8K3Arzw7A=="/>
 		<POI MapID="1517" xpos="105.251" ypos="483.825" zpos="584.43" type="exploration.resources.currency.stardust.orbs" GUID="bqMHXEqGwEyL06UNrXgFiA=="/>
 		<POI MapID="1517" xpos="130.598" ypos="494.472" zpos="584.4" type="exploration.resources.currency.stardust.orbs" GUID="CIGBDRbL6UCkSeIeB39HmQ=="/>
@@ -50,7 +50,7 @@
 		<POI MapID="1517" xpos="132.706" ypos="444.854" zpos="459.91" type="exploration.resources.currency.stardust.orbs" GUID="OWlM1rtTFUSKTkjf5UUPZg=="/>
 		<POI MapID="1517" xpos="149.97" ypos="435.67" zpos="385.231" type="exploration.resources.currency.stardust.orbs" GUID="hZ4Mr5Knm0mEShgko/KK9g=="/>
 		<POI MapID="1517" xpos="158.211" ypos="406.944" zpos="413.761" type="exploration.resources.currency.stardust.orbs" GUID="wJYnDV8fFEWjL7Id8R/nKA=="/>
-		<POI MapID="1517" xpos="161.818" ypos="419.194" zpos="464.08" type="exploration.resources.currency.stardust" GUID="Q7eegXmDX0Og4VJwXHrv4w==" iconFile="Data/Icons/finish_flag.png" fadeNear="1500" fadeFar="2500" triggerRange="10" autoTrigger="1" copy-message="Head to Bastion of the Obscure or Strength, if needed!"/>
+		<POI MapID="1517" xpos="161.818" ypos="419.194" zpos="464.08" type="exploration.resources.currency.stardust" GUID="Q7eegXmDX0Og4VJwXHrv4w==" iconFile="Data/Icons/finish_flag.png" triggerRange="10" autoTrigger="1" copy-message="Head to Bastion of the Obscure or Strength, if needed!"/>
 		<POI MapID="1517" xpos="719.883" ypos="321.674" zpos="100.152" type="exploration.resources.currency.stardust.orbs" GUID="MKOnpgAXm0+DSgV6biwQlw=="/>
 		<POI MapID="1517" xpos="647.261" ypos="312.675" zpos="84.0527" type="exploration.resources.currency.stardust.orbs" GUID="uwG9dnJNZUOzc+VeOYu6cA=="/>
 		<POI MapID="1517" xpos="636.71" ypos="293.922" zpos="81.47" type="exploration.resources.currency.stardust.orbs" GUID="Dvjxqi2nYEyil2113R4lsw=="/>
@@ -71,14 +71,14 @@
 		<POI MapID="1517" xpos="454.545" ypos="254.514" zpos="-493.51" type="exploration.resources.currency.stardust.orbs" GUID="FGKHMAhVZE+ZjnWBKUt2eA=="/>
 		<POI MapID="1517" xpos="479.931" ypos="279.789" zpos="-493.487" type="exploration.resources.currency.stardust.orbs" GUID="eF/s8pj35U2aZY/+LMbwww=="/>
 		<POI MapID="1517" xpos="479.179" ypos="256.386" zpos="-573.574" type="exploration.resources.currency.stardust.orbs" GUID="312mWM8b0kql60Nl55Gzfg=="/>
-		<POI MapID="1517" xpos="456.897" ypos="230.696" zpos="-546.752" type="exploration.resources.currency.stardust" GUID="TyzX5UU57EmYX8uSf6UAbA==" iconFile="Data/Icons/finish_flag.png" fadeNear="1500" fadeFar="2500" triggerRange="10" autoTrigger="1" copy-message="Head to Bastion of Balance or the Obscure, if needed!"/>
+		<POI MapID="1517" xpos="456.897" ypos="230.696" zpos="-546.752" type="exploration.resources.currency.stardust" GUID="TyzX5UU57EmYX8uSf6UAbA==" iconFile="Data/Icons/finish_flag.png" triggerRange="10" autoTrigger="1" copy-message="Head to Bastion of Balance or the Obscure, if needed!"/>
 		<POI MapID="1517" xpos="453.905" ypos="218.525" zpos="-577.534" type="exploration.resources.currency.stardust.orbs" GUID="LjqVMeCoxkWKU1EWgF9wXw=="/>
 		<POI MapID="1517" xpos="461.721" ypos="237.495" zpos="-600.307" type="exploration.resources.currency.stardust.orbs" GUID="lTKkLyLaQkaUUTNfQZZanw=="/>
 		<POI MapID="1517" xpos="452.57" ypos="213.067" zpos="-604.116" type="exploration.resources.currency.stardust.orbs" GUID="Py4iv6YhxEWxzre9dqepew=="/>
 		<POI MapID="1517" xpos="777.59" ypos="298.964" zpos="73.3168" type="exploration.resources.currency.stardust.orbs" GUID="YjtOv0cP/kCDd1s5r6kWdA=="/>
 		<!-- Skywatch Archipelago -->
-		<Trail type="exploration.resources.currency.staticcharge" trailData="Data/Trails/luaren_sa_static_charges.trl" texture="Data/Icons/luaren_uwu_arrow.png" fadeNear="3000" fadeFar="5000" color="ff6ede"/>
-		<POI MapID="1510" xpos="-768.099" ypos="484.192" zpos="289.393" type="exploration.resources.currency.staticcharge" GUID="xJBApjWDLU2AMYiJISBgnA==" iconFile="Data/Icons/finish_flag.png" fadeNear="1500" fadeFar="2500"/>
+		<Trail type="exploration.resources.currency.staticcharge" trailData="Data/Trails/luaren_sa_static_charges.trl" texture="Data/Icons/luaren_uwu_arrow.png" color="ff6ede"/>
+		<POI MapID="1510" xpos="-768.099" ypos="484.192" zpos="289.393" type="exploration.resources.currency.staticcharge" GUID="xJBApjWDLU2AMYiJISBgnA==" iconFile="Data/Icons/finish_flag.png"/>
 		<POI MapID="1510" xpos="-702.104" ypos="563.084" zpos="146.701" type="exploration.resources.currency.staticcharge.orbs" GUID="sbHw73+WMUKCSJnZ18/edg=="/>
 		<POI MapID="1510" xpos="-702.083" ypos="580.389" zpos="121.707" type="exploration.resources.currency.staticcharge.orbs" GUID="FJCHcGpw5Uu9zFdG71vTtg=="/>
 		<POI MapID="1510" xpos="-685.886" ypos="594.248" zpos="102.691" type="exploration.resources.currency.staticcharge.orbs" GUID="psJvMRWEWUe7FPxRq4nXow=="/>
