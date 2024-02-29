@@ -10,7 +10,7 @@
     </MarkerCategory>
     
     <POIs>
-        <Trail type="exploration.resources.currency.echoresin" trailData="Data/Trails/unskippable_cutscene_echovald_resin.trl" texture="Data/Icons/arrow_trail.png" fadeNear="6000" fadeFar="7000" color="00ff00"/>
+        <Trail type="exploration.resources.currency.echoresin" trailData="Data/Trails/unskippable_cutscene_echovald_resin.trl" texture="Data/Icons/arrow_trail.png" fadeNear="6000" fadeFar="7000" color="009e73"/>
         <POI MapID="1452" xpos="201.192" ypos="191.801" zpos="582.752" type="exploration.resources.currency.echoresin" GUID="1a9rikooQk+krmqkozmGgQ=="/>
         <POI MapID="1452" xpos="-98.0429" ypos="153.98" zpos="552.583" type="exploration.resources.currency.echoresin" GUID="Te0Y/32l00uj2VFEGnG9Cw=="/>
         <POI MapID="1452" xpos="243.97" ypos="233.518" zpos="459.772" type="exploration.resources.currency.echoresin" GUID="CxJT1BEwFUW8DWWKJvo3dg=="/>

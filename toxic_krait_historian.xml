@@ -7,13 +7,13 @@
         </MarkerCategory>
     </MarkerCategory>
     <POIs>
-        <Trail type="achievements.story.towerofnightmares.toxickraithistorian" trailData="Data/Trails/toxic_krait_historian_bloodtide.trl" texture="Data/Icons/arrow_trail.png" fadeNear="6000" fadeFar="7000" color="ffff00"/>
-        <Trail type="achievements.story.towerofnightmares.toxickraithistorian" trailData="Data/Trails/toxic_krait_historian_caledon.trl" texture="Data/Icons/arrow_trail.png" fadeNear="6000" fadeFar="7000" color="ffff00"/>
-        <Trail type="achievements.story.towerofnightmares.toxickraithistorian" trailData="Data/Trails/toxic_krait_historian_gendarran.trl" texture="Data/Icons/arrow_trail.png" fadeNear="6000" fadeFar="7000" color="ffff00"/>
-        <Trail type="achievements.story.towerofnightmares.toxickraithistorian" trailData="Data/Trails/toxic_krait_historian_kessex.trl" texture="Data/Icons/arrow_trail.png" fadeNear="6000" fadeFar="7000" color="ffff00"/>
-        <Trail type="achievements.story.towerofnightmares.toxickraithistorian" trailData="Data/Trails/toxic_krait_historian_maelstrom.trl" texture="Data/Icons/arrow_trail.png" fadeNear="6000" fadeFar="7000" color="ffff00"/>
-        <Trail type="achievements.story.towerofnightmares.toxickraithistorian" trailData="Data/Trails/toxic_krait_historian_sparkfly.trl" texture="Data/Icons/arrow_trail.png" fadeNear="6000" fadeFar="7000" color="ffff00"/>
-        <Trail type="achievements.story.towerofnightmares.toxickraithistorian" trailData="Data/Trails/toxic_krait_historian_timberline.trl" texture="Data/Icons/arrow_trail.png" fadeNear="6000" fadeFar="7000" color="ffff00"/>
+        <Trail type="achievements.story.towerofnightmares.toxickraithistorian" trailData="Data/Trails/toxic_krait_historian_bloodtide.trl" texture="Data/Icons/arrow_trail.png" fadeNear="6000" fadeFar="7000" color="f0e442"/>
+        <Trail type="achievements.story.towerofnightmares.toxickraithistorian" trailData="Data/Trails/toxic_krait_historian_caledon.trl" texture="Data/Icons/arrow_trail.png" fadeNear="6000" fadeFar="7000" color="f0e442"/>
+        <Trail type="achievements.story.towerofnightmares.toxickraithistorian" trailData="Data/Trails/toxic_krait_historian_gendarran.trl" texture="Data/Icons/arrow_trail.png" fadeNear="6000" fadeFar="7000" color="f0e442"/>
+        <Trail type="achievements.story.towerofnightmares.toxickraithistorian" trailData="Data/Trails/toxic_krait_historian_kessex.trl" texture="Data/Icons/arrow_trail.png" fadeNear="6000" fadeFar="7000" color="f0e442"/>
+        <Trail type="achievements.story.towerofnightmares.toxickraithistorian" trailData="Data/Trails/toxic_krait_historian_maelstrom.trl" texture="Data/Icons/arrow_trail.png" fadeNear="6000" fadeFar="7000" color="f0e442"/>
+        <Trail type="achievements.story.towerofnightmares.toxickraithistorian" trailData="Data/Trails/toxic_krait_historian_sparkfly.trl" texture="Data/Icons/arrow_trail.png" fadeNear="6000" fadeFar="7000" color="f0e442"/>
+        <Trail type="achievements.story.towerofnightmares.toxickraithistorian" trailData="Data/Trails/toxic_krait_historian_timberline.trl" texture="Data/Icons/arrow_trail.png" fadeNear="6000" fadeFar="7000" color="f0e442"/>
         <POI MapID="23" xpos="-757.956" ypos="61.1531" zpos="155.895" type="achievements.story.towerofnightmares.toxickraithistorian" iconSize="3" iconFile="Data/Icons/toxic_krait_historian.png" copy="[&amp;BEABAAA=] [&amp;BBMAAAA=] [&amp;BJsDAAA=] [&amp;BKQBAAA=] [&amp;BLQDAAA=] [&amp;BNICAAA=] [&amp;BEcCAAA=]" copy-message="Waypoints copied! Paste them in your chatbox and click!" GUID="uvPawm+fW02hXxaaUmJ9Rg=="/>
     </POIs>
 </OverlayData>

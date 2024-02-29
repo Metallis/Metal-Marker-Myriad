@@ -9,6 +9,6 @@
     <POIs>
         <POI MapID="1343" xpos="-953.881" ypos="0.605" zpos="231.139" type="exploration.mastery.bjorachests" iconFile="Data/Icons/waypoint.png" copy="[&amp;BDkMAAA=]" copy-message="Waypoint copied! Teleport back to Still Waters" GUID="C2J7Uid+PkmqWXuIk7UNMg=="/>
         <POI MapID="1343" xpos="113.992" ypos="191.881" zpos="502.760" type="exploration.mastery.bjorachests" iconFile="Data/Icons/finish_flag.png" GUID="scSwwpU+iU6yIfgkX6EChQ=="/>
-        <Trail type="exploration.mastery.bjorachests" trailData="Data/Trails/bjora_essence_chests.trl" texture="Data/Icons/arrow_trail.png" color="ff0000" fadenear="6000" fadefar="7000"/>
+        <Trail type="exploration.mastery.bjorachests" trailData="Data/Trails/bjora_essence_chests.trl" texture="Data/Icons/arrow_trail.png" color="d55e00" fadenear="6000" fadefar="7000"/>
     </POIs>
 </OverlayData>

@@ -9,8 +9,8 @@
     </MarkerCategory>
 
     <POIs>
-        <Trail type="other.activities.adventures.ox_yoke" trailData="Data/Trails/ox_yoke_avoid.trl" texture="Data/Icons/arrow_trail.png" fadeNear="3000" fadeFar="5000" color="ff0000"/>
-        <Trail type="other.activities.adventures.skiff_nkc" trailData="Data/Trails/nkc_swift_skiffs.trl" texture="Data/Icons/arrow_trail.png" fadeNear="3000" fadeFar="5000" color="fefefe"/>
+        <Trail type="other.activities.adventures.ox_yoke" trailData="Data/Trails/ox_yoke_avoid.trl" texture="Data/Icons/arrow_trail.png" fadeNear="3000" fadeFar="5000" color="d55e00"/>
+        <Trail type="other.activities.adventures.skiff_nkc" trailData="Data/Trails/nkc_swift_skiffs.trl" texture="Data/Icons/arrow_trail.png" fadeNear="3000" fadeFar="5000" color="f0e442"/>
         <POI MapID="1438" xpos="196.301" ypos="1.37639" zpos="282.028" type="other.activities.adventures.skiff_nkc" iconFile="Data/Icons/1.png" GUID="AOTQgBzrLkyhc1Mz3N3u5w=="/>
 		<POI MapID="1438" xpos="228.559" ypos="1.37639" zpos="255.193" type="other.activities.adventures.skiff_nkc" iconFile="Data/Icons/3.png" GUID="CID4QOgjnk+ShrOJM2MJWw=="/>
         <POI MapID="1438" xpos="230.662" ypos="1.37639" zpos="239.877" type="other.activities.adventures.skiff_nkc" iconFile="Data/Icons/5.png" GUID="PKl5sPyfO0uHcKlLtK3tmw=="/>
