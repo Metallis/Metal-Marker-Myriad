@@ -3,7 +3,7 @@
 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
 xsi:schemaLocation="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD https://raw.githubusercontent.com/xrandox/Gw2_Marker_Pack_DTD_XSD/main/GW2MarkerPack.xsd"
 xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
-    <MarkerCategory name="mmm" DisplayName="Metal Marker Myriad">
+<MarkerCategory name="mmm" DisplayName="Metal Marker Myriad" fadeNear="3000" fadeFar="5000">
         <MarkerCategory name="other" DisplayName="Other">
             <MarkerCategory name="activities" DisplayName="Activities/Adventures">
                 <MarkerCategory name="jp" DisplayName="Jumping Puzzles">
@@ -35,4 +35,4 @@ xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
         <POI MapID="1550" xpos="158.4782" ypos="14.76673" zpos="473.6716" type="mmm.other.activities.jp.lightupthevale.guide" GUID="bGuF08vr00iEWg+wXUSfHw=="/>
         <POI MapID="1550" xpos="244.3833" ypos="4.619742" zpos="560.0318" type="mmm.other.activities.jp.lightupthevale.braziers" iconFile="Data/Icons/0.png" GUID="SR5Al6+tMU+kNVjAzBFkRA=="/>
     </POIs>
-</overlaydata>
+</OverlayData>
