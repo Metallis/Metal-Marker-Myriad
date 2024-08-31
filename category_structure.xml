@@ -12,13 +12,305 @@ xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
 				</MarkerCategory>
 			</MarkerCategory>
             <MarkerCategory name="hidden" DisplayName="Hidden" defaulttoggle="0">
-                <MarkerCategory name="feedtheflames" DisplayName="Feed the Flames" iconFile="Data/Icons/lowland_shore.png" achievementId="8177"/>
-                <MarkerCategory name="keeperofthedancefloor" DisplayName="Keeper of the Dance Floor" iconFile="Data/Icons/lowland_shore.png" achievementId="8244"/>
-                <MarkerCategory name="lostinthefight" DisplayName="Lost in the Fight" iconFile="Data/Icons/lowland_shore.png" achievementId="8230"/>
-                <MarkerCategory name="rehearsal" DisplayName="Rehearsal" iconFile="Data/Icons/lowland_shore.png" achievementId="8361"/>
-                <MarkerCategory name="trolldelicacy" DisplayName="Troll Delicacy" iconFile="Data/Icons/lowland_shore.png" achievementId="8294"/>
-                <MarkerCategory name="whatsthatsound" DisplayName="What's that Sound?" iconFile="Data/Icons/lowland_shore.png" achievementId="8156"/>
-                <MarkerCategory name="workplacesafety" DisplayName="Workplace Safety" iconFile="Data/Icons/lowland_shore.png" achievementId="8184"/>
+                <!-- Adventure Guide -->
+                <MarkerCategory name="ag_tab" DisplayName="The Adventure Begins" iconFile="Data/Icons/adventure_guide.png"/>
+                <!-- Super Adventure Box -->
+                <MarkerCategory name="sab_qt" DisplayName="Super Adventure Box: Quality Testing" iconFile="Data/Icons/sab_w3.png"/>
+                <!-- Festival of the Four Winds -->
+                <MarkerCategory name="fotfw_nolawc" DisplayName="No One Likes a Wet Charr" iconFile="Data/Icons/four_winds.png"/>
+                <MarkerCategory name="fotfw_trafok" DisplayName="The Rise and Fall of Kookoochoo" iconFile="Data/Icons/four_winds.png" achievementId=""/>
+                <!-- Halloween -->
+                <MarkerCategory name="hw_top" DisplayName="The Outcast Prince" iconFile="Data/Icons/halloween.png" achievementId=""/>
+                <!-- LWS1: Escape from Lion's Arch -->
+                <MarkerCategory name="lws1_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="lws1_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="lws1_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="lws1_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="lws1_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <!-- LWS3: Out of the Shadows -->
+                <MarkerCategory name="lws3_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="lws3_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="lws3_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="lws3_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="lws3_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="lws3_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <!-- LWS3: Rising Flames -->
+                <MarkerCategory name="lws3_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <!-- LWS3: The Head of the Snake -->
+                <MarkerCategory name="lws3_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="lws3_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="lws3_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="lws3_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="lws3_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="lws3_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="lws3_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="lws3_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <!-- LWS3: Flashpoint -->
+                <MarkerCategory name="lws3_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <!-- LWS3: One Path Ends -->
+                <MarkerCategory name="lws3_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="lws3_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <!-- Path of Fire: Act 1 -->
+                <MarkerCategory name="pof_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="pof_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <!-- Path of Fire: Act 2 -->
+                <MarkerCategory name="pof_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <!-- Path of Fire: Act 3 -->
+                <MarkerCategory name="pof_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="pof_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="pof_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="pof_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <!-- LWS4: Daybreak -->
+                <MarkerCategory name="lws4_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="lws4_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="lws4_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="lws4_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="lws4_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="lws4_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="lws4_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="lws4_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="lws4_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="lws4_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="lws4_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="lws4_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <!-- LWS4: A Bug in the System -->
+                <MarkerCategory name="lws4_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="lws4_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <!-- LWS4: Long Live the Lich -->
+                <MarkerCategory name="lws4_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <!-- LWS4: A Star to Guide Us -->
+                <MarkerCategory name="lws4_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="lws4_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="lws4_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="lws4_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="lws4_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="lws4_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="lws4_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="lws4_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="lws4_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="lws4_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="lws4_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="lws4_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="lws4_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="lws4_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="lws4_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="lws4_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="lws4_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="lws4_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="lws4_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="lws4_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="lws4_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="lws4_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="lws4_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="lws4_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <!-- LWS4: All or Nothing -->
+                <MarkerCategory name="lws4_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="lws4_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="lws4_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="lws4_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <!-- LWS4: War Eternal -->
+                <MarkerCategory name="lws4_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <!-- LWS5: Bound By Blood -->
+                <MarkerCategory name="lws5_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="lws5_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="lws5_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="lws5_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="lws5_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <!-- LWS5: Whisper in the Dark -->
+                <MarkerCategory name="lws5_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="lws5_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="lws5_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <!-- LWS5: Shadow in the Ice -->
+                <MarkerCategory name="lws5_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="lws5_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <!-- LWS5: Visions of the Past: Steel and Fire -->
+                <MarkerCategory name="lws5_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="lws5_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="lws5_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <!-- LWS5: No Quarter -->
+                <MarkerCategory name="lws5_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="lws5_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="lws5_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <!-- LWS5: Jormag Rising -->
+                <MarkerCategory name="lws5_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="lws5_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="lws5_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="lws5_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="lws5_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="lws5_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <!-- LWS5: Champions -->
+                <MarkerCategory name="lws5_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <!-- End of Dragons: Act 1 -->
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <!-- End of Dragons: Act 2 -->
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <!-- End of Dragons: Act 3 -->
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <!-- End of Dragons: Act 4 -->
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <!-- End of Dragons: Interlude -->
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <!-- What Lies Within -->
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <!-- Delve into the Haze -->
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <!-- Secrets of the Obscure: Act 1 -->
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <!-- The Midnight King -->
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <!-- Janthir Wilds: Act 1 -->
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <!-- Tangled Depths -->
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <!-- Crystal Desert -->
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <!-- Elon Riverlands -->
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <!-- The Desolation -->
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <!-- Cantha -->
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <!-- Seitung Province -->
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <!-- The Echovald Wilds -->
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <!-- Dragon's End -->
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <!-- Arborstone -->
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <!-- Specializations -->
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <!-- Horn of Maguuma -->
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <!-- Amnytas -->
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <!-- The Wizard's Tower -->
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <!-- Inner Nayos -->
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <!-- Lowland Shore -->
+                <MarkerCategory name="ls_ftf" DisplayName="Feed the Flames" iconFile="Data/Icons/lowland_shore.png" achievementId="8177"/>
+                <MarkerCategory name="ls_kotdf" DisplayName="Keeper of the Dance Floor" iconFile="Data/Icons/lowland_shore.png" achievementId="8244"/>
+                <MarkerCategory name="ls_litf" DisplayName="Lost in the Fight" iconFile="Data/Icons/lowland_shore.png" achievementId="8230"/>
+                <MarkerCategory name="ls_r" DisplayName="Rehearsal" iconFile="Data/Icons/lowland_shore.png" achievementId="8361"/>
+                <MarkerCategory name="ls_td" DisplayName="Troll Delicacy" iconFile="Data/Icons/lowland_shore.png" achievementId="8294"/>
+                <MarkerCategory name="ls_wts" DisplayName="What's that Sound?" iconFile="Data/Icons/lowland_shore.png" achievementId="8156"/>
+                <MarkerCategory name="ls_ws" DisplayName="Workplace Safety" iconFile="Data/Icons/lowland_shore.png" achievementId="8184"/>
+                <!-- Janthir Syntri -->
+                <MarkerCategory name="js_st" DisplayName="Struck Twice" iconFile="Data/Icons/janthir_syntri.png" achievementId="8356"/>
+                <!-- Community -->
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <!-- Jumping Puzzles -->
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <!-- Drakkar -->
+                <MarkerCategory name="bm_no" DisplayName="Nimble Onslaught" iconFile="Data/Icons/drakkar.png" achievementId=""/>
+                <!-- Edge of the Mists -->
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <!-- WvW Warclaw -->
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <!-- Portal Panic -->
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <!-- Knight of the Thorn -->
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <!-- Anomalous Occurrences -->
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <!-- Justice of the Blade -->
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <!-- The Wizard's Vault -->
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <!-- The Key of Adashim -->
+                <!-- Fractals of the Mists -->
+                <!-- Nightmare Fractal -->
+                <!-- Shattered Observatory Fractal -->
+                <!-- Sunqua Peak Fractal -->
+                <!-- Collections -->
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                
             </MarkerCategory>
             <MarkerCategory name="story" DisplayName="Story Journal">
                 <MarkerCategory name="ton" DisplayName="Tower of Nightmares">
