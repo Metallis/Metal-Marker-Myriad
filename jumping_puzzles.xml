@@ -3,36 +3,32 @@
 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
 xsi:schemaLocation="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD https://raw.githubusercontent.com/xrandox/Gw2_Marker_Pack_DTD_XSD/main/GW2MarkerPack.xsd"
 xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
-<MarkerCategory name="mmm" DisplayName="Metal Marker Myriad" fadeNear="3000" fadeFar="5000">
-        <MarkerCategory name="other" DisplayName="Other">
-            <MarkerCategory name="activities" DisplayName="Activities/Adventures">
-                <MarkerCategory name="jp" DisplayName="Jumping Puzzles">
-                    <MarkerCategory name="lightupthevale" DisplayName="Light Up the Vale">
-                        <MarkerCategory name="trail" DisplayName="Trail"/>
-                        <MarkerCategory name="guide" DisplayName="Guide" iconFile="Data/Icons/glide_booster.png" mapVisibility="0" miniMapVisibility="0"/>
-                        <MarkerCategory name="braziers" DisplayName="Braziers"/>
-                        </MarkerCategory>
-                </MarkerCategory>
+    <MarkerCategory name="mmm" DisplayName="Metal Marker Myriad" fadeNear="3000" fadeFar="5000">
+        <MarkerCategory name="jp" DisplayName="Jumping Puzzles">
+            <MarkerCategory name="lutv" DisplayName="Light Up the Vale">
+                <MarkerCategory name="trail" DisplayName="Trail"/>
+                <MarkerCategory name="guide" DisplayName="Guide" iconFile="Data/Icons/glide_booster.png" mapVisibility="0" miniMapVisibility="0"/>
+                <MarkerCategory name="braziers" DisplayName="Braziers"/>
             </MarkerCategory>
         </MarkerCategory>
     </MarkerCategory>
     <POIs>
-        <Trail type="mmm.other.activities.jp.lightupthevale.trail" trailData="Data/Trails/light_up_the_vale.trl" texture="Data/Icons/default_trail.png" fadeNear="3000" fadeFar="5000" color="#d55e00"/>
-        <POI MapID="1550" xpos="13.14002" ypos="312.2942" zpos="-280.8051" type="mmm.other.activities.jp.lightupthevale.braziers" info="Glide and drop as preferred.&#xA;&#xA;Green icon is your 6 skill, JB glider booster.&#xA;No module required.&#xA;If you don't have Lean Techniques or Gliding Booster masteries, you may have to drastically adjust." infoRange="5" GUID="riVRv4rzK06nIlb8DMU1sw=="/>
-        <POI MapID="1550" xpos="105.0075" ypos="229.4901" zpos="-207.0684" type="mmm.other.activities.jp.lightupthevale.braziers" iconFile="Data/Icons/1.png" GUID="caGcyo+4EkGesxYPqJU29g=="/>
-        <POI MapID="1550" xpos="125.9844" ypos="200.8404" zpos="-110.1925" type="mmm.other.activities.jp.lightupthevale.braziers" iconFile="Data/Icons/2.png" GUID="nhvG3d3GeUOWS/YtVnV0JA=="/>
-        <POI MapID="1550" xpos="86.86909" ypos="153.6171" zpos="-27.26549" type="mmm.other.activities.jp.lightupthevale.braziers" iconFile="Data/Icons/3.png" GUID="pIpi/zqVNUq+Txa3F5zZlQ=="/>
-        <POI MapID="1550" xpos="123.6317" ypos="143.4279" zpos="32.69909" type="mmm.other.activities.jp.lightupthevale.guide" GUID="Etayts1dRE6oEAzB6X6tAQ=="/>
-        <POI MapID="1550" xpos="162.3285" ypos="141.3068" zpos="71.24076" type="mmm.other.activities.jp.lightupthevale.braziers" iconFile="Data/Icons/4.png" GUID="oeajgCToIkSDg2TdJhiaBA=="/>
-        <POI MapID="1550" xpos="154.3043" ypos="132.7943" zpos="107.7777" type="mmm.other.activities.jp.lightupthevale.guide" GUID="obZfHZhJtEa01pDIISUhlQ=="/>
-        <POI MapID="1550" xpos="146.8442" ypos="137.4565" zpos="152.0437" type="mmm.other.activities.jp.lightupthevale.braziers" iconFile="Data/Icons/5.png" GUID="t5QCx15gvEi8uXhlCU3LNw=="/>
-        <POI MapID="1550" xpos="78.03317" ypos="82.20165" zpos="198.6261" type="mmm.other.activities.jp.lightupthevale.braziers" iconFile="Data/Icons/6.png" GUID="ECd6vydpUUCY4cDOupsP5g=="/>
-        <POI MapID="1550" xpos="57.35803" ypos="49.02826" zpos="326.1637" type="mmm.other.activities.jp.lightupthevale.braziers" iconFile="Data/Icons/7.png" GUID="eXPp1M/3qkC30zERCWONDw=="/>
-        <POI MapID="1550" xpos="44.39047" ypos="38.00348" zpos="370.7212" type="mmm.other.activities.jp.lightupthevale.guide" GUID="7l/W2HTkAkaPQnLo9Q27MQ=="/>
-        <POI MapID="1550" xpos="41.51382" ypos="50.72334" zpos="399.2395" type="mmm.other.activities.jp.lightupthevale.braziers" iconFile="Data/Icons/8.png" GUID="xGtsJ5eLTUqX9tuO0SaAVQ=="/>
-        <POI MapID="1550" xpos="147.6121" ypos="8.937634" zpos="456.3492" type="mmm.other.activities.jp.lightupthevale.braziers" iconFile="Data/Icons/9.png" GUID="AcwPBwtHcEmQbn8+wATvNQ=="/>
-        <POI MapID="1550" xpos="148.0221" ypos="8.383034" zpos="460.1288" type="mmm.other.activities.jp.lightupthevale.guide" GUID="cWA0emXCE0azlYRysL+ctw=="/>
-        <POI MapID="1550" xpos="158.4782" ypos="14.76673" zpos="473.6716" type="mmm.other.activities.jp.lightupthevale.guide" GUID="bGuF08vr00iEWg+wXUSfHw=="/>
-        <POI MapID="1550" xpos="244.3833" ypos="4.619742" zpos="560.0318" type="mmm.other.activities.jp.lightupthevale.braziers" iconFile="Data/Icons/0.png" GUID="SR5Al6+tMU+kNVjAzBFkRA=="/>
+        <Trail type="mmm.jp.lutv.trail" trailData="Data/Trails/light_up_the_vale.trl" texture="Data/Icons/default_trail.png" fadeNear="3000" fadeFar="5000" color="#d55e00"/>
+        <POI MapID="1550" xpos="13.14002" ypos="312.2942" zpos="-280.8051" type="mmm.jp.lutv.braziers" info="Glide and drop as preferred.&#xA;&#xA;Green icon is your 6 skill, JB glider booster.&#xA;No module required.&#xA;If you don't have Lean Techniques or Gliding Booster masteries, you may have to drastically adjust." infoRange="5" GUID="riVRv4rzK06nIlb8DMU1sw=="/>
+        <POI MapID="1550" xpos="105.0075" ypos="229.4901" zpos="-207.0684" type="mmm.jp.lutv.braziers" iconFile="Data/Icons/1.png" GUID="caGcyo+4EkGesxYPqJU29g=="/>
+        <POI MapID="1550" xpos="125.9844" ypos="200.8404" zpos="-110.1925" type="mmm.jp.lutv.braziers" iconFile="Data/Icons/2.png" GUID="nhvG3d3GeUOWS/YtVnV0JA=="/>
+        <POI MapID="1550" xpos="86.86909" ypos="153.6171" zpos="-27.26549" type="mmm.jp.lutv.braziers" iconFile="Data/Icons/3.png" GUID="pIpi/zqVNUq+Txa3F5zZlQ=="/>
+        <POI MapID="1550" xpos="123.6317" ypos="143.4279" zpos="32.69909" type="mmm.jp.lutv.guide" GUID="Etayts1dRE6oEAzB6X6tAQ=="/>
+        <POI MapID="1550" xpos="162.3285" ypos="141.3068" zpos="71.24076" type="mmm.jp.lutv.braziers" iconFile="Data/Icons/4.png" GUID="oeajgCToIkSDg2TdJhiaBA=="/>
+        <POI MapID="1550" xpos="154.3043" ypos="132.7943" zpos="107.7777" type="mmm.jp.lutv.guide" GUID="obZfHZhJtEa01pDIISUhlQ=="/>
+        <POI MapID="1550" xpos="146.8442" ypos="137.4565" zpos="152.0437" type="mmm.jp.lutv.braziers" iconFile="Data/Icons/5.png" GUID="t5QCx15gvEi8uXhlCU3LNw=="/>
+        <POI MapID="1550" xpos="78.03317" ypos="82.20165" zpos="198.6261" type="mmm.jp.lutv.braziers" iconFile="Data/Icons/6.png" GUID="ECd6vydpUUCY4cDOupsP5g=="/>
+        <POI MapID="1550" xpos="57.35803" ypos="49.02826" zpos="326.1637" type="mmm.jp.lutv.braziers" iconFile="Data/Icons/7.png" GUID="eXPp1M/3qkC30zERCWONDw=="/>
+        <POI MapID="1550" xpos="44.39047" ypos="38.00348" zpos="370.7212" type="mmm.jp.lutv.guide" GUID="7l/W2HTkAkaPQnLo9Q27MQ=="/>
+        <POI MapID="1550" xpos="41.51382" ypos="50.72334" zpos="399.2395" type="mmm.jp.lutv.braziers" iconFile="Data/Icons/8.png" GUID="xGtsJ5eLTUqX9tuO0SaAVQ=="/>
+        <POI MapID="1550" xpos="147.6121" ypos="8.937634" zpos="456.3492" type="mmm.jp.lutv.braziers" iconFile="Data/Icons/9.png" GUID="AcwPBwtHcEmQbn8+wATvNQ=="/>
+        <POI MapID="1550" xpos="148.0221" ypos="8.383034" zpos="460.1288" type="mmm.jp.lutv.guide" GUID="cWA0emXCE0azlYRysL+ctw=="/>
+        <POI MapID="1550" xpos="158.4782" ypos="14.76673" zpos="473.6716" type="mmm.jp.lutv.guide" GUID="bGuF08vr00iEWg+wXUSfHw=="/>
+        <POI MapID="1550" xpos="244.3833" ypos="4.619742" zpos="560.0318" type="mmm.jp.lutv.braziers" iconFile="Data/Icons/0.png" GUID="SR5Al6+tMU+kNVjAzBFkRA=="/>
     </POIs>
 </OverlayData>

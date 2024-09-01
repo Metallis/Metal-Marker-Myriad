@@ -4,7 +4,7 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 xsi:schemaLocation="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD https://raw.githubusercontent.com/xrandox/Gw2_Marker_Pack_DTD_XSD/main/GW2MarkerPack.xsd"
 xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
 	<!-- Discord Invite:https://discord.gg/FP8dQj6KBj -->
-	 <MarkerCategory name="mmm" DisplayName="Metal Marker Myriad" fadeNear="3000" fadeFar="5000">
+	 <MarkerCategory name="mmm" DisplayName="Metal Marker Myriad" fadeNear="3000" fadeFar="5000" texture="Data/Icons/default_trail.png">
 		<MarkerCategory name="achievements" DisplayName="Achievements/Collections">
             <MarkerCategory name="general" DisplayName="General">
 				<MarkerCategory name="community" DisplayName="Community">
@@ -442,7 +442,7 @@ xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
         <MarkerCategory name="mapcomp" DisplayName="Map Completion">
             <MarkerCategory name="lanterns" DisplayName="Lantern Run"/>
         </MarkerCategory>
-        <MarkerCategory name="insights" DisplayName="Mastery Insights"/>
+        <MarkerCategory name="insights" DisplayName="Mastery Insights">
             <MarkerCategory name="bc_bbb" DisplayName="Bloody Bill's Base" achievementId="3501"/>
             <MarkerCategory name="dc_dsp" DisplayName="Dostoev Sky Peak" achievementId="3534"/>
             <MarkerCategory name="fr_cd" DisplayName="Cozen Desolation" achievementId="3530"/>
@@ -591,6 +591,7 @@ xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
             <MarkerCategory name="sa_wgs" DisplayName="War God's Spire" achievementId="7006"/>
             <MarkerCategory name="wt_abev" DisplayName="A Bird's Eye View" achievementId="7022"/>
             <MarkerCategory name="wt_ta" DisplayName="The Apex" achievementId="7000"/>
+        </MarkerCategory>
         <MarkerCategory name="vendors" DisplayName="Vendors"/>
             <MarkerCategory name="psna" DisplayName="Pact Supply (PSNA)"/>
         </MarkerCategory>

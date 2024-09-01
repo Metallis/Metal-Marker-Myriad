@@ -3,27 +3,16 @@
 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
 xsi:schemaLocation="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD https://raw.githubusercontent.com/xrandox/Gw2_Marker_Pack_DTD_XSD/main/GW2MarkerPack.xsd"
 xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
-<MarkerCategory name="mmm" DisplayName="Metal Marker Myriad" fadeNear="3000" fadeFar="5000">
-        <MarkerCategory name="achievements" DisplayName="Achievements">
-            <MarkerCategory name="hidden" DisplayName="Hidden" defaulttoggle="0">
-                <MarkerCategory name="feedtheflames" DisplayName="Feed the Flames" iconFile="Data/Icons/lowland_shore.png" achievementId="8177"/>
-                <MarkerCategory name="keeperofthedancefloor" DisplayName="Keeper of the Dance Floor" iconFile="Data/Icons/lowland_shore.png" achievementId="8244"/>
-                <MarkerCategory name="lostinthefight" DisplayName="Lost in the Fight" iconFile="Data/Icons/lowland_shore.png" achievementId="8230"/>
-                <MarkerCategory name="rehearsal" DisplayName="Rehearsal" iconFile="Data/Icons/lowland_shore.png" achievementId="8361"/>
-                <MarkerCategory name="trolldelicacy" DisplayName="Troll Delicacy" iconFile="Data/Icons/lowland_shore.png" achievementId="8294"/>
-                <MarkerCategory name="whatsthatsound" DisplayName="What's that Sound?" iconFile="Data/Icons/lowland_shore.png" achievementId="8156"/>
-                <MarkerCategory name="workplacesafety" DisplayName="Workplace Safety" iconFile="Data/Icons/lowland_shore.png" achievementId="8184"/>
-            </MarkerCategory>
-        </MarkerCategory>
+<MarkerCategory name="mmm" DisplayName="Metal Marker Myriad">
     </MarkerCategory>
 
     <POIs>
-        <POI MapID="1550" xpos="699.3488" ypos="92.27327" zpos="312.1186" info="Use /cheer" type="mmm.achievements.hidden.lostinthefight" GUID="wnNvS1RzAEiYmcn8r5pksA=="/>
-        <POI MapID="1550" xpos="356.642" ypos="149.9953" zpos="233.0186" info="Step in and get downed by the sawblade." type="mmm.achievements.hidden.workplacesafety" GUID="I0aQy0dAgEaWj/gAduGOKg=="/>
-        <POI MapID="1550" xpos="-126.0254" ypos="1.89823" zpos="565.6613" info="When event is on, step in and get downed by the fire." type="mmm.achievements.hidden.feedtheflames" GUID="v/u3rXFZj0ya9W6RZ910Fg=="/>
-        <POI MapID="1550" xpos="540.9589" ypos="213.6874" zpos="11.43227" info="When the event is on, use /dance in a circle, not the skills." type="mmm.achievements.hidden.keeperofthedancefloor" GUID="uoOVXYDmzEaNtgQD34RyoQ=="/>
-        <POI MapID="1550" xpos="-742.6952" ypos="306.0994" zpos="-574.413" info="Eat. The rock. Tina." type="mmm.achievements.hidden.trolldelicacy" GUID="9S4u+vmD4kSOqhUFqRJE/w=="/>
-        <POI MapID="1550" xpos="559.6277" ypos="217.4318" zpos="-41.45275" info="Grab the flute, play." type="mmm.achievements.hidden.rehearsal" GUID="KuRvV/rysk2f98iJJEeShA=="/>
-        <POI MapID="1550" xpos="-154.2945" ypos="150.6928" zpos="25.29495" info="Wait on the bridge for it to collapse. There are two related events that may be required. One to repair the bridge, one to rot the bridge so that it will collapse." type="mmm.achievements.hidden.whatsthatsound" GUID="PcH7hRB6RU+CzTQnwpaIrg=="/>
+        <POI MapID="1550" xpos="699.1066" ypos="92.27327" zpos="310.3289" info="Use /cheer" type="mmm.achievements.hidden.ls_litf" GUID="wnNvS1RzAEiYmcn8r5pksA=="/>
+        <POI MapID="1550" xpos="356.642" ypos="149.9953" zpos="233.0186" info="Step in and get downed by the sawblade." type="mmm.achievements.hidden.ls_ws" GUID="I0aQy0dAgEaWj/gAduGOKg=="/>
+        <POI MapID="1550" xpos="-126.0254" ypos="1.89823" zpos="565.6613" info="When event is on, step in and get downed by the fire." type="mmm.achievements.hidden.ls_ftf" GUID="v/u3rXFZj0ya9W6RZ910Fg=="/>
+        <POI MapID="1550" xpos="540.9589" ypos="213.6874" zpos="11.43227" info="When the event is on, use /dance in a circle, not the skills." type="mmm.achievements.hidden.ls_kotdf" GUID="uoOVXYDmzEaNtgQD34RyoQ=="/>
+        <POI MapID="1550" xpos="-742.6952" ypos="306.0994" zpos="-574.413" info="Eat. The rock. Tina." type="mmm.achievements.hidden.ls_td" GUID="9S4u+vmD4kSOqhUFqRJE/w=="/>
+        <POI MapID="1550" xpos="559.6277" ypos="217.4318" zpos="-41.45275" info="Grab the flute, play." type="mmm.achievements.hidden.ls_r" GUID="KuRvV/rysk2f98iJJEeShA=="/>
+        <POI MapID="1550" xpos="-154.2945" ypos="150.6928" zpos="25.29495" info="Wait on the bridge for it to collapse. There are two related events that may be required. One to repair the bridge, one to rot the bridge so that it will collapse." type="mmm.achievements.hidden.ls_wts" GUID="PcH7hRB6RU+CzTQnwpaIrg=="/>
     </POIs>
 </OverlayData>

@@ -252,5 +252,10 @@ xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
         <POI MapID="1554" xpos="511.9658" ypos="9.678333" zpos="-294.5116" type="mmm.gathering.verdantherbs" GUID="nYUYsh0ul0SGsfh8t4lATg=="/>
         <POI MapID="1554" xpos="489.2847" ypos="11.89463" zpos="-290.8979" type="mmm.gathering.verdantherbs" GUID="DlJDYOrpAEWEBM9juj5irQ=="/>
         <POI MapID="1554" xpos="-330.3257" ypos="46.94162" zpos="-579.6559" type="mmm.gathering.verdantherbs" GUID="t/3Nnqy7/k2Km6VtU+b97A=="/>
+        <POI MapID="1550" xpos="619.9372" ypos="255.0013" zpos="-142.8373" type="mmm.gathering.verdantherbs" GUID="c4IQ7l9KIkeNgJ4BD7r6PA=="/>
+        <POI MapID="1550" xpos="444.3798" ypos="321.8696" zpos="-122.0406" type="mmm.gathering.verdantherbs" GUID="ZwFpCa18JEGsWCwSq8tr9A=="/>
+        <POI MapID="1343" xpos="-185.9388" ypos="238.5478" zpos="381.2299" type="mmm.gathering.verdantherbs" GUID="B7xg5BLup026tvzbuKZhyA=="/>
+        <POI MapID="1343" xpos="-78.83594" ypos="220.5622" zpos="554.4263" type="mmm.gathering.verdantherbs" GUID="oEmClJ4MQkKd9L90BvNn2g=="/>
+        <POI MapID="1343" xpos="-86.644" ypos="221.0474" zpos="567.4804" type="mmm.gathering.verdantherbs" GUID="5Pb2UAUEW0+S/3IVmGyQug=="/>
     </POIs>
 </OverlayData>
