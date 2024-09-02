@@ -10,15 +10,24 @@ xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
                 <MarkerCategory name="guide" DisplayName="Guide" iconFile="Data/Icons/glide_booster.png" mapVisibility="0" miniMapVisibility="0"/>
                 <MarkerCategory name="braziers" DisplayName="Braziers"/>
             </MarkerCategory>
+            <MarkerCategory name="qc" DisplayName="Queen's Confidence">
+                <MarkerCategory name="trail" DisplayName="Trail"/>
+                <MarkerCategory name="guide" DisplayName="Guide"/>
+            </MarkerCategory>
+            <MarkerCategory name="bt" DisplayName="Buzzy Treetops">
+                <MarkerCategory name="trail" DisplayName="Trail"/>
+                <MarkerCategory name="backtrail" DisplayName="Back Way Trail" defaulttoggle="0"/>
+                <MarkerCategory name="guide" DisplayName="Guide"/>
+            </MarkerCategory>
         </MarkerCategory>
     </MarkerCategory>
     <POIs>
-        <Trail type="mmm.jp.lutv.trail" trailData="Data/Trails/light_up_the_vale.trl" texture="Data/Icons/default_trail.png" fadeNear="3000" fadeFar="5000" color="#d55e00"/>
-        <POI MapID="1550" xpos="13.14002" ypos="312.2942" zpos="-280.8051" type="mmm.jp.lutv.braziers" info="Glide and drop as preferred.&#xA;&#xA;Green icon is your 6 skill, JB glider booster.&#xA;No module required.&#xA;If you don't have Lean Techniques or Gliding Booster masteries, you may have to drastically adjust." infoRange="5" GUID="riVRv4rzK06nIlb8DMU1sw=="/>
+        <!-- Light Up the Vale -->
+        <Trail type="mmm.jp.lutv.trail" trailData="Data/Trails/light_up_the_vale.trl" texture="Data/Icons/default_trail.png" fadeNear="3000" fadeFar="5000" color="#56B4E9"/>
+        <POI MapID="1550" xpos="13.14002" ypos="312.2942" zpos="-280.8051" type="mmm.jp.lutv.guide" iconFile="Data/Icons/lowland_shore.png" info="Glide and drop as preferred.&#xA;&#xA;Green icon is your 6 skill, JB glider booster.&#xA;No module required.&#xA;If you don't have Lean Techniques or Gliding Booster masteries, you may have to drastically adjust." infoRange="5" GUID="riVRv4rzK06nIlb8DMU1sw=="/>
         <POI MapID="1550" xpos="105.0075" ypos="229.4901" zpos="-207.0684" type="mmm.jp.lutv.braziers" iconFile="Data/Icons/1.png" GUID="caGcyo+4EkGesxYPqJU29g=="/>
         <POI MapID="1550" xpos="125.9844" ypos="200.8404" zpos="-110.1925" type="mmm.jp.lutv.braziers" iconFile="Data/Icons/2.png" GUID="nhvG3d3GeUOWS/YtVnV0JA=="/>
         <POI MapID="1550" xpos="86.86909" ypos="153.6171" zpos="-27.26549" type="mmm.jp.lutv.braziers" iconFile="Data/Icons/3.png" GUID="pIpi/zqVNUq+Txa3F5zZlQ=="/>
-        <POI MapID="1550" xpos="123.6317" ypos="143.4279" zpos="32.69909" type="mmm.jp.lutv.guide" GUID="Etayts1dRE6oEAzB6X6tAQ=="/>
         <POI MapID="1550" xpos="162.3285" ypos="141.3068" zpos="71.24076" type="mmm.jp.lutv.braziers" iconFile="Data/Icons/4.png" GUID="oeajgCToIkSDg2TdJhiaBA=="/>
         <POI MapID="1550" xpos="154.3043" ypos="132.7943" zpos="107.7777" type="mmm.jp.lutv.guide" GUID="obZfHZhJtEa01pDIISUhlQ=="/>
         <POI MapID="1550" xpos="146.8442" ypos="137.4565" zpos="152.0437" type="mmm.jp.lutv.braziers" iconFile="Data/Icons/5.png" GUID="t5QCx15gvEi8uXhlCU3LNw=="/>
@@ -27,8 +36,14 @@ xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
         <POI MapID="1550" xpos="44.39047" ypos="38.00348" zpos="370.7212" type="mmm.jp.lutv.guide" GUID="7l/W2HTkAkaPQnLo9Q27MQ=="/>
         <POI MapID="1550" xpos="41.51382" ypos="50.72334" zpos="399.2395" type="mmm.jp.lutv.braziers" iconFile="Data/Icons/8.png" GUID="xGtsJ5eLTUqX9tuO0SaAVQ=="/>
         <POI MapID="1550" xpos="147.6121" ypos="8.937634" zpos="456.3492" type="mmm.jp.lutv.braziers" iconFile="Data/Icons/9.png" GUID="AcwPBwtHcEmQbn8+wATvNQ=="/>
-        <POI MapID="1550" xpos="148.0221" ypos="8.383034" zpos="460.1288" type="mmm.jp.lutv.guide" GUID="cWA0emXCE0azlYRysL+ctw=="/>
-        <POI MapID="1550" xpos="158.4782" ypos="14.76673" zpos="473.6716" type="mmm.jp.lutv.guide" GUID="bGuF08vr00iEWg+wXUSfHw=="/>
+        <POI MapID="1550" xpos="151.3288" ypos="11.06317" zpos="470.9825" type="mmm.jp.lutv.guide" GUID="cWA0emXCE0azlYRysL+ctw=="/>
         <POI MapID="1550" xpos="244.3833" ypos="4.619742" zpos="560.0318" type="mmm.jp.lutv.braziers" iconFile="Data/Icons/0.png" GUID="SR5Al6+tMU+kNVjAzBFkRA=="/>
+        <!-- Queen's Confidence -->
+        <Trail type="mmm.jp.qc.trail" trailData="Data/Trails/queens_confidence.trl" texture="Data/Icons/default_trail.png" fadeNear="500" fadeFar="900" color="#56B4E9"/>
+        <POI MapID="1550" xpos="-170.726" ypos="150.7449" zpos="-81.5375" type="mmm.jp.qc.guide" iconFile="Data/Icons/lowland_shore.png" info="The bees change locations every day/map.&#xA;You need to pet them in alphabetical order: Beavis, Combs, Honey.&#xA;The trail just navigates the whole thing once, so take it in chunks, based on your order." GUID="vsq+nGyU7EiCR4sxCKunnw=="/>
+        <!-- Buzzy Treetops -->
+        <Trail type="mmm.jp.bt.trail" trailData="Data/Trails/buzzy_treetops.trl" texture="Data/Icons/default_trail.png" fadeNear="500" fadeFar="900" color="#56B4E9"/>
+        <Trail type="mmm.jp.bt.backtrail" trailData="Data/Trails/buzzy_treetops_back.trl" texture="Data/Icons/default_trail.png" fadeNear="500" fadeFar="900" color="#56B4E9"/>
+        <POI MapID="1550" xpos="865.9794" ypos="320.1941" zpos="-46.96445" info="The trail shows you one way to get to each hive, but they can be done in any order.&#xA;Utilizing the Jade Bot Glide Booster can make the run easier or help you recover.&#xA;&#xA;As opposed to most JPs where you need to maximize distance, you may benefit from jumping and then hitting W once in the air for many of these jumps.&#xA;&#xA;For those interested, there's a 'Back Way' trail you can toggle on, instead." type="mmm.jp.bt.guide" iconFile="Data/Icons/lowland_shore.png" GUID="aoDQsmV6r0m3vOBulEGvZQ=="/>
     </POIs>
 </OverlayData>
