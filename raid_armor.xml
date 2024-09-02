@@ -1,0 +1,45 @@
+<!DOCTYPE OverlayData PUBLIC "" "https://raw.githubusercontent.com/xrandox/Gw2_Marker_Pack_DTD_XSD/main/GW2MarkerPack.dtd">
+<OverlayData 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD https://raw.githubusercontent.com/xrandox/Gw2_Marker_Pack_DTD_XSD/main/GW2MarkerPack.xsd"
+xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
+    <MarkerCategory name="mmm" DisplayName="Metal Marker Myriad">
+    </MarkerCategory>
+    <POIs>
+        <!-- Infused Living Crystal -->
+        <Trail type="mmm.achievements.legendaries.raidarmor.envoy1.ilc" trailData="Data/Trails/raid_armor_living_crystal.trl" texture="Data/Icons/arrow_trail.png" color="#fffffff"/>
+        <!-- Infused Soul Mirror -->
+        <Trail type="mmm.achievements.legendaries.raidarmor.envoy1.ism" trailData="Data/Trails/raid_armor_soul_mirror.trl" texture="Data/Icons/arrow_trail.png" color="#fffffff"/>
+            <!-- Mark the sconce and where to interact -->
+        <!-- Auric Energy Crystal -->
+        <Trail type="mmm.achievements.legendaries.raidarmor.envoy1.aec" trailData="Data/Trails/raid_armor_auric_energy_crystal.trl" texture="Data/Icons/arrow_trail.png" color="#ffffff"/>
+        <!-- Spirit Weave -->
+        <!-- Coagulated Ectoplasm -->
+        <!-- Arcane Dust -->
+        <Trail type="mmm.achievements.legendaries.raidarmor.envoy1.ad" trailData="Data/Trails/raid_armor_powdered_aurillium.trl" texture="Data/Icons/arrow_trail.png" color="#fffffff"/>
+        <POI MapID="1043" xpos="133.9706" ypos="3.48297" zpos="-299.9541" type="mmm.achievements.legendaries.raidarmor.envoy1.ad" iconFile="Data/Icons/skyscale.png" GUID="20WW+0NXkUSrL/t5Bqiugw=="/>
+        <!-- Mushroom Medley -->
+        <!-- Giant Beehive -->
+        <!-- Vial of Forsaken Thicket Waters -->
+        <!-- Bloodstone Battery -->
+        <!-- Soul of the Keep -->
+        <!-- Tormented Aurillium -->
+        <Trail type="mmm.achievements.legendaries.raidarmor.envoy1.ta" trailData="Data/Trails/raid_armor_tormented_aurillium.trl" texture="Data/Icons/arrow_trail.png" color="#fffffff"/>
+        <!-- Spirit Strings -->
+        <!-- Bloodstone-Infused Ectoplasm -->
+        <!-- Crystalline Heart -->
+        <!-- Vine Heart -->
+        <!-- Burning Heart -->
+        <!-- Frozen Heart -->
+        <!-- Windy Heart -->
+        <!-- Sodden Heart -->
+        <!-- Ley-Infused Heart -->
+        <!-- Cultivated Heart -->
+        <!-- Penitent Heart -->
+        <!-- Jade Heart -->
+        <!-- Protected Heart -->
+        <!-- Tormented Heart -->
+        <!-- Demonic Heart -->
+        <!-- Redeemed Heart -->
+    </POIs>
+</overlaydata>

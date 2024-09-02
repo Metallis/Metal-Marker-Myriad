@@ -1,0 +1,44 @@
+<!DOCTYPE OverlayData PUBLIC "" "https://raw.githubusercontent.com/xrandox/Gw2_Marker_Pack_DTD_XSD/main/GW2MarkerPack.dtd">
+<OverlayData 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD https://raw.githubusercontent.com/xrandox/Gw2_Marker_Pack_DTD_XSD/main/GW2MarkerPack.xsd"
+xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
+	<MarkerCategory name="mmm" DisplayName="Metal Marker Myriad">
+		<MarkerCategory name="achievements" DisplayName="Achievements">
+			<MarkerCategory name="general" DisplayName="General">
+				<MarkerCategory name="community" DisplayName="Community">
+					<MarkerCategory name="someoneinneed" DisplayName="Someone In Need (Invis Chair)"/>
+				</MarkerCategory>
+			</MarkerCategory>
+		</MarkerCategory>
+	</MarkerCategory>
+	<POIs>
+		<POI MapID="23" xpos="832.177" ypos="108.291" zpos="-595.592" type="mmm.achievements.general.community.someoneinneed" GUID="R4u6TGHOrkq9/FYeeCjGjw=="/>
+		<POI MapID="23" xpos="917.168" ypos="47.6679" zpos="-602.205" type="mmm.achievements.general.community.someoneinneed" GUID="nQFDsI3470e1kIXytCBMuA=="/>
+		<POI MapID="23" xpos="949.646" ypos="66.1" zpos="-603.095" type="mmm.achievements.general.community.someoneinneed" GUID="0gYXfgZS5E66HJ3TIOqbQw=="/>
+		<POI MapID="23" xpos="926.081" ypos="86.4548" zpos="-602.949" type="mmm.achievements.general.community.someoneinneed" GUID="Z8C+lj6M9kW0FxX9AQLL/Q=="/>
+		<POI MapID="25" xpos="-574.279" ypos="9.093" zpos="-770.716" type="mmm.achievements.general.community.someoneinneed" GUID="wgwuVgRrSUCZXsvXfd+cFA=="/>
+		<POI MapID="25" xpos="-569.863" ypos="-0.272296" zpos="-889.641" type="mmm.achievements.general.community.someoneinneed" GUID="+42z2ax4406eGkAFVdznxQ=="/>
+		<POI MapID="34" xpos="438.503" ypos="44.6689" zpos="-629.92" type="mmm.achievements.general.community.someoneinneed" GUID="rf0h1QQ0MkyRRCaJjkRhsg=="/>
+		<POI MapID="34" xpos="287.309" ypos="66.7155" zpos="-528.394" type="mmm.achievements.general.community.someoneinneed" GUID="gbXWpObCREGQXuhcBr6Eqw=="/>
+		<POI MapID="34" xpos="287.398" ypos="66.2554" zpos="-524.71" type="mmm.achievements.general.community.someoneinneed" GUID="2cXP9wZITkaakCd9sQ93ZQ=="/>
+		<POI MapID="39" xpos="1065.17" ypos="10.4046" zpos="424.201" type="mmm.achievements.general.community.someoneinneed" GUID="WUeueFMr4U2WEpt4w7gveg=="/>
+		<POI MapID="39" xpos="1090.59" ypos="114.909" zpos="672.197" type="mmm.achievements.general.community.someoneinneed" GUID="Vc9h2kUAsUSnFvyyUSB2Tg=="/>
+		<POI MapID="39" xpos="1059.8" ypos="62.893" zpos="509.44" type="mmm.achievements.general.community.someoneinneed" GUID="ieivSp/AQEKxfoY3/BIOow=="/>
+		<POI MapID="50" xpos="-678.587" ypos="-0.633782" zpos="3.69893" type="mmm.achievements.general.community.someoneinneed" GUID="s1AojWb9TkWOJBj9xzsEvA=="/>
+		<POI MapID="50" xpos="-648.172" ypos="16.4968" zpos="-40.5786" type="mmm.achievements.general.community.someoneinneed" GUID="N9jvBG4BwU6AA8dFJojS+g=="/>
+		<POI MapID="1211" xpos="-1210.68" ypos="340.632" zpos="75.2124" type="mmm.achievements.general.community.someoneinneed" GUID="++MRP0t7ikOGGIyouEBayQ=="/>
+		<POI MapID="1211" xpos="-1146.52" ypos="355.638" zpos="73.5157" type="mmm.achievements.general.community.someoneinneed" GUID="X1dsMbRCe0CpzzJdPzeDAA=="/>
+		<POI MapID="1211" xpos="-1213.06" ypos="321.045" zpos="65.3406" type="mmm.achievements.general.community.someoneinneed" GUID="LliibwQ2vk+NaYxJn3o5Cw=="/>
+		<POI MapID="1211" xpos="-1228.43" ypos="227.22" zpos="373.275" type="mmm.achievements.general.community.someoneinneed" GUID="06Zpc8LB+EeKEnLB9fcpoQ=="/>
+		<POI MapID="1211" xpos="-1169.1" ypos="258.355" zpos="146.755" type="mmm.achievements.general.community.someoneinneed" GUID="mh1V0m6U40SeIUPAKBB+cA=="/>
+		<POI MapID="1211" xpos="-1458.42" ypos="4.3861" zpos="79.2862" type="mmm.achievements.general.community.someoneinneed" GUID="N4xOZZjhWkCyZDuF6ZTZUQ=="/>
+		<POI MapID="1045" xpos="-267.763" ypos="108.414" zpos="-237.671" type="mmm.achievements.general.community.someoneinneed" GUID="af6qJNzEXUuE6xYcZ+zUqg=="/>
+		<POI MapID="1045" xpos="-283.054" ypos="108.536" zpos="-216.597" type="mmm.achievements.general.community.someoneinneed" GUID="djn+PXGSkkmIcO0t9XE8Yg=="/>
+		<POI MapID="1045" xpos="-315.11" ypos="104.432" zpos="-203.782" type="mmm.achievements.general.community.someoneinneed" GUID="hRauX7tBqE+XW0O6w8EDwA=="/>
+		<POI MapID="1045" xpos="-317.069" ypos="107.261" zpos="-234.068" type="mmm.achievements.general.community.someoneinneed" GUID="DZ838VddpEiSczOtN4Pu0A=="/>
+		<POI MapID="1045" xpos="-304.434" ypos="108.534" zpos="-175.458" type="mmm.achievements.general.community.someoneinneed" GUID="N1FEUUwKk0GIEDB2gtdFZA=="/>
+		<POI MapID="1045" xpos="-347.631" ypos="107.5" zpos="-188.76" type="mmm.achievements.general.community.someoneinneed" GUID="qxmX1ehdMEKOqzXlYQ3AmA=="/>
+		<POI MapID="1045" xpos="-354.069" ypos="108.268" zpos="-171.264" type="mmm.achievements.general.community.someoneinneed" GUID="ZOELZNkxfU6s1huuTZVUAw=="/>
+    </POIs>
+</overlaydata>

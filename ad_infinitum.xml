@@ -1,0 +1,50 @@
+<!DOCTYPE OverlayData PUBLIC "" "https://raw.githubusercontent.com/xrandox/Gw2_Marker_Pack_DTD_XSD/main/GW2MarkerPack.dtd">
+<OverlayData 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD https://raw.githubusercontent.com/xrandox/Gw2_Marker_Pack_DTD_XSD/main/GW2MarkerPack.xsd"
+xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
+    <MarkerCategory name="mmm" DisplayName="Metal Marker Myriad">
+        <MarkerCategory name="legendaries" DisplayName="Legendary Gear">
+            <MarkerCategory name="adinf" DisplayName="Ad Infinitum">
+                <MarkerCategory name="finite" DisplayName="Ad Infinitum I: Finite Result" achievementId="2351">
+                    <MarkerCategory name="doa" DisplayName="Infused Living Crystal" achievementBit="0"/>
+                    <MarkerCategory name="cn" DisplayName="Infused Soul Mirror" achievementBit="1"/>
+                    <MarkerCategory name="scm" DisplayName="Auric Energy Crystal" achievementBit="2"/>
+                    <MarkerCategory name="arcm" DisplayName="Spirit Weave" achievementBit="3"/>
+                    <MarkerCategory name="jktm" DisplayName="Coagulated Ectoplasm" achievementBit="4"/>
+                    <MarkerCategory name="affrp" DisplayName="Arcane Dust" achievementBit="5"/>
+                    <MarkerCategory name="bfc" DisplayName="Mushroom Medley" achievementBit="7"/>
+                    <MarkerCategory name="ccsm" DisplayName="giant Beehive" achievementBit="8"/>
+                    <MarkerCategory name="pfc" DisplayName="Vial of Forsaken Thicket Waters" achievementBit="9"/>
+                    <MarkerCategory name="umcis" DisplayName="Bloodstone Battery (Charged)" achievementBit="12"/>
+                    <MarkerCategory name="arf" DisplayName="Soul of the Keep" achievementBit="13"/>
+                </MarkerCategory>
+                <MarkerCategory name="upper" DisplayName="Ad Infinitum II: Upper Bound" achievementId="2557">
+                    <MarkerCategory name="crystalline" DisplayName="Crystalline Heart" achievementBit="0"/>
+                    <MarkerCategory name="vine" DisplayName="Infused Living Crystal" achievementBit="1"/>
+                    <MarkerCategory name="burning" DisplayName="Infused Living Crystal" achievementBit="2"/>
+                    <MarkerCategory name="frozen" DisplayName="Infused Living Crystal" achievementBit="3"/>
+                    <MarkerCategory name="windy" DisplayName="Infused Living Crystal" achievementBit="4"/>
+                    <MarkerCategory name="sodden" DisplayName="Infused Living Crystal" achievementBit="5"/>
+                    <MarkerCategory name="leyinfused" DisplayName="Infused Living Crystal" achievementBit="6"/>
+                    <MarkerCategory name="cultivated" DisplayName="Infused Living Crystal" achievementBit="7"/>
+                    <MarkerCategory name="penitent" DisplayName="Infused Living Crystal" achievementBit="8"/>
+                    <MarkerCategory name="jade" DisplayName="Infused Living Crystal" achievementBit="9"/>
+                    <MarkerCategory name="protected" DisplayName="Infused Living Crystal" achievementBit="10"/>
+                    <MarkerCategory name="tormented" DisplayName="Infused Living Crystal" achievementBit="11"/>
+                    <MarkerCategory name="demonic" DisplayName="Infused Living Crystal" achievementBit="12"/>
+                    <MarkerCategory name="redeemed" DisplayName="Infused Living Crystal" achievementBit="13"/>
+                </MarkerCategory>
+                <MarkerCategory name="unbound" DisplayName="Ad Infiniteum III: Unbound" achievementId="2368">
+
+                </MarkerCategory>
+                <MarkerCategory name="adinf" DisplayName="Legendary Backpack: Ad Infinitum" achievementId="2295">
+
+                </MarkerCategory>
+            </MarkerCategory>
+        </MarkerCategory>
+    </MarkerCategory>
+    <POIs>
+
+    </POIs>
+</overlaydata>
