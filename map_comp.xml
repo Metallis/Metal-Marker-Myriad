@@ -1,0 +1,32 @@
+<!DOCTYPE OverlayData PUBLIC "" "https://raw.githubusercontent.com/xrandox/Gw2_Marker_Pack_DTD_XSD/main/GW2MarkerPack.dtd">
+<OverlayData 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD https://raw.githubusercontent.com/xrandox/Gw2_Marker_Pack_DTD_XSD/main/GW2MarkerPack.xsd"
+xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
+<!-- Discord Invite:https://discord.gg/FP8dQj6KBj -->
+    <MarkerCategory name="mmm" DisplayName="Metal Marker Myriad" fadeNear="3000" fadeFar="5000" texture="Data/Icons/default_trail.png">
+            <MarkerCategory name="mapcomp" DisplayName="Map Completion">
+            <MarkerCategory name="lanterns" DisplayName="Lantern Run"/>
+            <MarkerCategory name="hearts" DisplayName="Hearts">
+                <MarkerCategory name="interact" DisplayName="Interact"/>
+                <MarkerCategory name="touch" DisplayName="Touch">
+            </MarkerCategory>
+        </MarkerCategory>
+    </MarkerCategory>
+    <POIs>
+        <!-- Crates -->
+        <POI MapID="1554" xpos="377.7398" ypos="4.640392" zpos="462.8091" type="mmm.mapcomp.hearts.interact" GUID="jBgp9TxBb0+Z0M1LeahzoA=="/>
+        <POI MapID="1554" xpos="482.5559" ypos="15.58448" zpos="-143.9807" type="mmm.mapcomp.hearts.interact" GUID="rykMn7AcA0CFEGq+zDjavg=="/>
+        <POI MapID="1554" xpos="220.0189" ypos="1.001195" zpos="-192.5154" type="mmm.mapcomp.hearts.interact" GUID="v1ctoxdF70CQD0KkjkB2Qg=="/>
+        <POI MapID="1554" xpos="561.8223" ypos="1.587612" zpos="328.3798" type="mmm.mapcomp.hearts.interact" GUID="MFUuYW6yQUqHBIh9tgRVKA=="/>
+        <POI MapID="1554" xpos="542.3189" ypos="13.45131" zpos="48.26661" type="mmm.mapcomp.hearts.interact" GUID="CjlrF4Ew80ahkdyaJ3JPgQ=="/>
+        <POI MapID="1554" xpos="704.5181" ypos="4.474958" zpos="158.2053" type="mmm.mapcomp.hearts.interact" GUID="D6kN1XG7B0at+mbUbMOMLA=="/>
+        <POI MapID="1554" xpos="173.9763" ypos="1.57754" zpos="350.8254" type="mmm.mapcomp.hearts.interact" GUID="O1yllaK59kqZlQoSZoR5fg=="/>
+        <POI MapID="1554" xpos="185.3168" ypos="2.95048" zpos="3.735138" type="mmm.mapcomp.hearts.interact" GUID="zqDmZLCRjkG8T7+T9m01iw=="/>
+        <POI MapID="1554" xpos="322.2333" ypos="35.24829" zpos="96.89875" type="mmm.mapcomp.hearts.interact" GUID="BQZ7RuLlhkiMLEc1M7Y/2A=="/>
+        <POI MapID="1554" xpos="426.8113" ypos="21.96846" zpos="224.0069" type="mmm.mapcomp.hearts.interact" GUID="Y7yRiifD5UWRLfzwOUGJKA=="/>
+        <POI MapID="1554" xpos="388.7299" ypos="7.879361" zpos="3.709595" type="mmm.mapcomp.hearts.interact" GUID="BKEShJITS0KGYwsl6mKO3A=="/>
+        <POI MapID="1554" xpos="337.0418" ypos="19.75075" zpos="-35.91211" type="mmm.mapcomp.hearts.interact" GUID="UibejJ6BqEy8RHLuwJ71hQ=="/>
+        <POI MapID="1554" xpos="219.9454" ypos="0.9977559" zpos="-192.4667" type="mmm.mapcomp.hearts.interact" GUID="kKhGDQOeZ0+Ge7TU19kwhg=="/>
+    </POIs>
+</OverlayData>

@@ -1,0 +1,8 @@
+name = "Kite Fight (Medium)"
+kind = "cave"
+difficulty = 2
+
+[start]
+xpos="1482.734"
+ypos="184.6615"
+zpos="-89.20075"

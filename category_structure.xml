@@ -4,7 +4,7 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 xsi:schemaLocation="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD https://raw.githubusercontent.com/xrandox/Gw2_Marker_Pack_DTD_XSD/main/GW2MarkerPack.xsd"
 xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
 	<!-- Discord Invite:https://discord.gg/FP8dQj6KBj -->
-	 <MarkerCategory name="mmm" DisplayName="Metal Marker Myriad" fadeNear="3000" fadeFar="5000" texture="Data/Icons/default_trail.png">
+	 <MarkerCategory name="mmm" DisplayName="Metal Marker Myriad" texture="Data/Icons/default_trail.png">
 		<MarkerCategory name="achievements" DisplayName="Achievements/Collections">
             <MarkerCategory name="general" DisplayName="General">
 				<MarkerCategory name="community" DisplayName="Community">
@@ -317,79 +317,6 @@ xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
                     <MarkerCategory name="tkh" DisplayName="Toxic Krait Historian" achievementId="1092"/>
                 </MarkerCategory>
             </MarkerCategory>
-            <MarkerCategory name="legendaries" DisplayName="Legendary Gear">
-                <MarkerCategory name="adinf" DisplayName="Ad Infinitum">
-                    <MarkerCategory name="finite" DisplayName="Ad Infinitum I: Finite Result" achievementId="2351">
-                        <MarkerCategory name="doa" DisplayName="Infused Living Crystal" achievementBit="0"/>
-                        <MarkerCategory name="cn" DisplayName="Infused Soul Mirror" achievementBit="1"/>
-                        <MarkerCategory name="scm" DisplayName="Auric Energy Crystal" achievementBit="2"/>
-                        <MarkerCategory name="arcm" DisplayName="Spirit Weave" achievementBit="3"/>
-                        <MarkerCategory name="jktm" DisplayName="Coagulated Ectoplasm" achievementBit="4"/>
-                        <MarkerCategory name="affrp" DisplayName="Arcane Dust" achievementBit="5"/>
-                        <MarkerCategory name="bfc" DisplayName="Mushroom Medley" achievementBit="7"/>
-                        <MarkerCategory name="ccsm" DisplayName="giant Beehive" achievementBit="8"/>
-                        <MarkerCategory name="pfc" DisplayName="Vial of Forsaken Thicket Waters" achievementBit="9"/>
-                        <MarkerCategory name="umcis" DisplayName="Bloodstone Battery (Charged)" achievementBit="12"/>
-                        <MarkerCategory name="arf" DisplayName="Soul of the Keep" achievementBit="13"/>
-                    </MarkerCategory>
-                    <MarkerCategory name="upper" DisplayName="Ad Infinitum II: Upper Bound" achievementId="2557">
-                        <MarkerCategory name="crystalline" DisplayName="Crystalline Heart" achievementBit="0"/>
-                        <MarkerCategory name="vine" DisplayName="Infused Living Crystal" achievementBit="1"/>
-                        <MarkerCategory name="burning" DisplayName="Infused Living Crystal" achievementBit="2"/>
-                        <MarkerCategory name="frozen" DisplayName="Infused Living Crystal" achievementBit="3"/>
-                        <MarkerCategory name="windy" DisplayName="Infused Living Crystal" achievementBit="4"/>
-                        <MarkerCategory name="sodden" DisplayName="Infused Living Crystal" achievementBit="5"/>
-                        <MarkerCategory name="leyinfused" DisplayName="Infused Living Crystal" achievementBit="6"/>
-                        <MarkerCategory name="cultivated" DisplayName="Infused Living Crystal" achievementBit="7"/>
-                        <MarkerCategory name="penitent" DisplayName="Infused Living Crystal" achievementBit="8"/>
-                        <MarkerCategory name="jade" DisplayName="Infused Living Crystal" achievementBit="9"/>
-                        <MarkerCategory name="protected" DisplayName="Infused Living Crystal" achievementBit="10"/>
-                        <MarkerCategory name="tormented" DisplayName="Infused Living Crystal" achievementBit="11"/>
-                        <MarkerCategory name="demonic" DisplayName="Infused Living Crystal" achievementBit="12"/>
-                        <MarkerCategory name="redeemed" DisplayName="Infused Living Crystal" achievementBit="13"/>
-                    </MarkerCategory>
-                    <MarkerCategory name="unbound" DisplayName="Ad Infiniteum III: Unbound" achievementId="2368">
-    
-                    </MarkerCategory>
-                    <MarkerCategory name="adinf" DisplayName="Legendary Backpack: Ad Infinitum" achievementId="2295">
-    
-                    </MarkerCategory>
-                </MarkerCategory>
-                <MarkerCategory name="raidarmor" DisplayName="Raid Armor">
-                    <MarkerCategory name="envoy1" DisplayName="Envoy I: Experimental Armor" achievementId="2646">
-                        <MarkerCategory name="ilc" DisplayName="Infused Living Crystal" achievementBit="0"/>
-                        <MarkerCategory name="ism" DisplayName="Infused Soul Mirror" achievementBit="1"/>
-                        <MarkerCategory name="aec" DisplayName="Auric Energy Crystal" achievementBit="2"/>
-                        <MarkerCategory name="sw" DisplayName="Spirit Weave" achievementBit="3"/>
-                        <MarkerCategory name="ce" DisplayName="Coagulated Ectoplasm" achievementBit="4"/>
-                        <MarkerCategory name="ad" DisplayName="Arcane Dust" achievementBit="6"/>
-                        <MarkerCategory name="mm" DisplayName="Mushroom Medley" achievementBit="7"/>
-                        <MarkerCategory name="gb" DisplayName="Giant Beehive" achievementBit="8"/>
-                        <MarkerCategory name="voftw" DisplayName="Vial of Forsaken Thicket Waters" achievementBit="9"/>
-                        <MarkerCategory name="bb" DisplayName="Bloodstone Battery (Charged)" achievementBit="12"/>
-                        <MarkerCategory name="sotk" DisplayName="Soul of the Keep" achievementBit="13"/>
-                        <MarkerCategory name="ta" DisplayName="Tormented Aurillium" achievementBit="14"/>
-                        <MarkerCategory name="ss" DisplayName="Spirit Strings" achievementBit="15"/>
-                        <MarkerCategory name="bie" DisplayName="Blodstone-Infused Ectoplasm" achievementBit="16"/>
-                    </MarkerCategory>
-                    <MarkerCategory name="envoy2" DisplayName="Envoy II: Refined Armor" achievementId="3012">
-                        <MarkerCategory name="crystalline" DisplayName="Crystalline Heart" achievementBit="0"/>
-                        <MarkerCategory name="vine" DisplayName="Vine Heart" achievementBit="1"/>
-                        <MarkerCategory name="burning" DisplayName="Burning Heart" achievementBit="2"/>
-                        <MarkerCategory name="frozen" DisplayName="Frozen Heart" achievementBit="3"/>
-                        <MarkerCategory name="windy" DisplayName="Windy Heart" achievementBit="4"/>
-                        <MarkerCategory name="sodden" DisplayName="Sodden Heart" achievementBit="5"/>
-                        <MarkerCategory name="leyinfused" DisplayName="Ley-Infused Heart" achievementBit="6"/>
-                        <MarkerCategory name="cultivated" DisplayName="Cultivated Heart" achievementBit="7"/>
-                        <MarkerCategory name="penitent" DisplayName="Penitent Heart" achievementBit="8"/>
-                        <MarkerCategory name="jade" DisplayName="Jade Heart" achievementBit="9"/>
-                        <MarkerCategory name="protected" DisplayName="Protected Heart" achievementBit="10"/>
-                        <MarkerCategory name="tormented" DisplayName="Tormented Heart" achievementBit="11"/>
-                        <MarkerCategory name="demonic" DisplayName="Demonic Heart" achievementBit="12"/>
-                        <MarkerCategory name="redeemed" DisplayName="Redeemed Heart" achievementBit="13"/>
-                    </MarkerCategory>
-                </MarkerCategory>
-            </MarkerCategory>
         </MarkerCategory>
         <MarkerCategory name="adventures" DisplayName="Adventures">
             <MarkerCategory name="ox_yoke" DisplayName="The Ox's Yoke"/>
@@ -399,7 +326,8 @@ xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
         </MarkerCategory>
         <MarkerCategory name="farming" DisplayName="Farming">
             <MarkerCategory name="chests" DisplayName="Chests">
-
+                <MarkerCategory name="mkodan" DisplayName="Major Kodan Chests"/>
+                <MarkerCategory name="sniff" DisplayName="Warclaw Sniff" iconFile="Data/Icons/sniff.png"/>
             </MarkerCategory>
             <MarkerCategory name="currency" DisplayName="Currency (Wallet)">
 
@@ -437,10 +365,78 @@ xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
                 <MarkerCategory name="guide" DisplayName="Guide" iconFile="Data/Icons/glide_booster.png" mapVisibility="0" miniMapVisibility="0"/>
                 <MarkerCategory name="braziers" DisplayName="Braziers"/>
             </MarkerCategory>
-
+            <MarkerCategory name="qc" DisplayName="Queen's Confidence">
+                <MarkerCategory name="trail" DisplayName="Trail"/>
+                <MarkerCategory name="guide" DisplayName="Guide"/>
+            </MarkerCategory>
+            <MarkerCategory name="bt" DisplayName="Buzzy Treetops">
+                <MarkerCategory name="trail" DisplayName="Trail"/>
+                <MarkerCategory name="backtrail" DisplayName="Back Way Trail" defaulttoggle="0"/>
+                <MarkerCategory name="guide" DisplayName="Guide"/>
+            </MarkerCategory>
+        </MarkerCategory>
+        <MarkerCategory name="legendaries" DisplayName="Legendary Gear">
+            <MarkerCategory name="adinf" DisplayName="Ad Infinitum">
+                <MarkerCategory name="finite" DisplayName="Ad Infinitum I: Finite Result" achievementId="2351">
+                    <MarkerCategory name="doa" DisplayName="Defender of Ascalon" achievementBit="0"/>
+                    <MarkerCategory name="cn" DisplayName="Charr-Nip" achievementBit="1"/>
+                    <MarkerCategory name="scm" DisplayName="Swampland Challenge Mote" achievementBit="2"/>
+                    <MarkerCategory name="arcm" DisplayName="Aquatic Ruin Challenge Mote" achievementBit="3"/>
+                    <MarkerCategory name="jktm" DisplayName="Jade Kraken Timed Mote" achievementBit="4"/>
+                    <MarkerCategory name="affrp" DisplayName="Ascalonian Fractal Field Research Paper" achievementBit="5"/>
+                    <MarkerCategory name="bfc" DisplayName="Burning Frozen Core" achievementBit="7"/>
+                    <MarkerCategory name="ccsm" DisplayName="Charged Clump of Swamp Moss" achievementBit="8"/>
+                    <MarkerCategory name="pfc" DisplayName="Prototype Fractal Capacitor" achievementBit="9"/>
+                    <MarkerCategory name="umcis" DisplayName="Unstable Magically Charged Infusion Sample" achievementBit="12"/>
+                    <MarkerCategory name="arf" DisplayName="Aetherblade Recruitment Form" achievementBit="13"/>
+                </MarkerCategory>
+                <MarkerCategory name="upper" DisplayName="Ad Infinitum II: Upper Bound" achievementId="2557">
+                </MarkerCategory>
+                <MarkerCategory name="unbound" DisplayName="Ad Infiniteum III: Unbound" achievementId="2368">
+                </MarkerCategory>
+                <MarkerCategory name="adinf" DisplayName="Legendary Backpack: Ad Infinitum" achievementId="2295">
+                </MarkerCategory>
+            </MarkerCategory>
+            <MarkerCategory name="raidarmor" DisplayName="Raid Armor">
+                <MarkerCategory name="envoy1" DisplayName="Envoy I: Experimental Armor" achievementId="2646">
+                    <MarkerCategory name="ilc" DisplayName="Infused Living Crystal" achievementBit="0"/>
+                    <MarkerCategory name="ism" DisplayName="Infused Soul Mirror" achievementBit="1"/>
+                    <MarkerCategory name="aec" DisplayName="Auric Energy Crystal" achievementBit="2"/>
+                    <MarkerCategory name="sw" DisplayName="Spirit Weave" achievementBit="3"/>
+                    <MarkerCategory name="ce" DisplayName="Coagulated Ectoplasm" achievementBit="4"/>
+                    <MarkerCategory name="ad" DisplayName="Arcane Dust" achievementBit="6"/>
+                    <MarkerCategory name="mm" DisplayName="Mushroom Medley" achievementBit="7"/>
+                    <MarkerCategory name="gb" DisplayName="Giant Beehive" achievementBit="8"/>
+                    <MarkerCategory name="voftw" DisplayName="Vial of Forsaken Thicket Waters" achievementBit="9"/>
+                    <MarkerCategory name="bb" DisplayName="Bloodstone Battery (Charged)" achievementBit="12"/>
+                    <MarkerCategory name="sotk" DisplayName="Soul of the Keep" achievementBit="13"/>
+                    <MarkerCategory name="ta" DisplayName="Tormented Aurillium" achievementBit="14"/>
+                    <MarkerCategory name="ss" DisplayName="Spirit Strings" achievementBit="15"/>
+                    <MarkerCategory name="bie" DisplayName="Blodstone-Infused Ectoplasm" achievementBit="16"/>
+                </MarkerCategory>
+                <MarkerCategory name="envoy2" DisplayName="Envoy II: Refined Armor" achievementId="3012">
+                    <MarkerCategory name="crystalline" DisplayName="Crystalline Heart" achievementBit="0"/>
+                    <MarkerCategory name="vine" DisplayName="Vine Heart" achievementBit="1"/>
+                    <MarkerCategory name="burning" DisplayName="Burning Heart" achievementBit="2"/>
+                    <MarkerCategory name="frozen" DisplayName="Frozen Heart" achievementBit="3"/>
+                    <MarkerCategory name="windy" DisplayName="Windy Heart" achievementBit="4"/>
+                    <MarkerCategory name="sodden" DisplayName="Sodden Heart" achievementBit="5"/>
+                    <MarkerCategory name="leyinfused" DisplayName="Ley-Infused Heart" achievementBit="6"/>
+                    <MarkerCategory name="cultivated" DisplayName="Cultivated Heart" achievementBit="7"/>
+                    <MarkerCategory name="penitent" DisplayName="Penitent Heart" achievementBit="8"/>
+                    <MarkerCategory name="jade" DisplayName="Jade Heart" achievementBit="9"/>
+                    <MarkerCategory name="protected" DisplayName="Protected Heart" achievementBit="10"/>
+                    <MarkerCategory name="tormented" DisplayName="Tormented Heart" achievementBit="11"/>
+                    <MarkerCategory name="demonic" DisplayName="Demonic Heart" achievementBit="12"/>
+                    <MarkerCategory name="redeemed" DisplayName="Redeemed Heart" achievementBit="13"/>
+                </MarkerCategory>
+            </MarkerCategory>
         </MarkerCategory>
         <MarkerCategory name="mapcomp" DisplayName="Map Completion">
             <MarkerCategory name="lanterns" DisplayName="Lantern Run"/>
+            <MarkerCategory name="hearts" DisplayName="Hearts">
+                <MarkerCategory name="interact" DisplayName="Interactables"/>
+            </MarkerCategory>
         </MarkerCategory>
         <MarkerCategory name="insights" DisplayName="Mastery Insights">
             <MarkerCategory name="bc_bbb" DisplayName="Bloody Bill's Base" achievementId="3501"/>
@@ -449,7 +445,7 @@ xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
             <MarkerCategory name="hh_ho" DisplayName="Hidden Ourobon" achievementId="3539"/>
             <MarkerCategory name="im_shc" DisplayName="Sunken Halls of Clarent" achievementId="3526"/>
             <MarkerCategory name="ml_sc" DisplayName="Scavenger's Chasm" achievementId="3476"/>
-            <MarkerCategory name="mm_vr" DisplayName="Volcanic Run" achievementId="3531"/>
+            <MarkerCategory name="mm_vr" DisplayName="Volcanic Rim" achievementId="3531"/>
             <MarkerCategory name="sf_sh" DisplayName="Shattercleft Hills" achievementId="3543"/>
             <MarkerCategory name="tf_cm" DisplayName="Copperhammer Mines" achievementId="3504"/>
             <MarkerCategory name="ab_bq" DisplayName="Burnisher Quarry" achievementId="2608"/>
@@ -591,6 +587,28 @@ xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
             <MarkerCategory name="sa_wgs" DisplayName="War God's Spire" achievementId="7006"/>
             <MarkerCategory name="wt_abev" DisplayName="A Bird's Eye View" achievementId="7022"/>
             <MarkerCategory name="wt_ta" DisplayName="The Apex" achievementId="7000"/>
+            <MarkerCategory name="js_br" DisplayName="Bloodtree's Reach" achievementId="8308"/>
+            <MarkerCategory name="js_fv" DisplayName="Festering Vantage" achievementId="8274"/>
+            <MarkerCategory name="js_fl" DisplayName="Forager's Lookout" achievementId="8254"/>
+            <MarkerCategory name="js_gc" DisplayName="Greenwood's Corner" achievementId="8186"/>
+            <MarkerCategory name="js_ms" DisplayName="Maw's Stone" achievementId="8277"/>
+            <MarkerCategory name="js_por" DisplayName="Pillar of Reaping" achievementId="8225"/>
+            <MarkerCategory name="js_sa" DisplayName="Stormy Ascent" achievementId="8264"/>
+            <MarkerCategory name="js_sca" DisplayName="Stricken Cathedral" achievementId="8211"/>
+            <MarkerCategory name="js_scl" DisplayName="Sulfurous Climb" achievementId="8359"/>
+            <MarkerCategory name="js_tbo" DisplayName="Thunder Bay Overlook" achievementId="8315"/>
+            <MarkerCategory name="js_tt" DisplayName="Tumultuous Tree" achievementId="8181"/>
+            <MarkerCategory name="ls_boim" DisplayName="Battle of Ice Memorial" achievementId="8238"/>
+            <MarkerCategory name="ls_as" DisplayName="Alessia's Secret" achievementId="8295"/>
+            <MarkerCategory name="ls_cp" DisplayName="Clearing's Peak" achievementId="8169"/>
+            <MarkerCategory name="ls_gf" DisplayName="Geyser Flow" achievementId="8212"/>
+            <MarkerCategory name="ls_lr" DisplayName="Lupine Reverie" achievementId="8321"/>
+            <MarkerCategory name="ls_pp" DisplayName="Poky's Perch" achievementId="8215"/>
+            <MarkerCategory name="ls_rf" DisplayName="Ruminant Fields" achievementId="8235"/>
+            <MarkerCategory name="ls_si" DisplayName="Severed Isle" achievementId="8176"/>
+            <MarkerCategory name="ls_ss" DisplayName="Springs Stand" achievementId="8307"/>
+            <MarkerCategory name="ls_tt" DisplayName="Troll's Treasure" achievementId="8365"/>
+            <MarkerCategory name="ls_wr" DisplayName="Waterfall Roost" achievementId="8220"/>
         </MarkerCategory>
         <MarkerCategory name="vendors" DisplayName="Vendors"/>
             <MarkerCategory name="psna" DisplayName="Pact Supply (PSNA)"/>

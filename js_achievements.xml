@@ -1,0 +1,32 @@
+<!DOCTYPE OverlayData PUBLIC "" "https://raw.githubusercontent.com/xrandox/Gw2_Marker_Pack_DTD_XSD/main/GW2MarkerPack.dtd">
+<OverlayData 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD https://raw.githubusercontent.com/xrandox/Gw2_Marker_Pack_DTD_XSD/main/GW2MarkerPack.xsd"
+xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
+    <!-- Discord Invite:https://discord.gg/FP8dQj6KBj -->
+    <MarkerCategory name="mmm" DisplayName="Metal Marker Myriad" fadeNear="3000" fadeFar="5000">
+        <MarkerCategory name="achievements" DisplayName="Achievements/Collections">
+            <MarkerCategory name="jw" DisplayName="Janthir Wilds">
+                <MarkerCategory name="baq" DisplayName="Build-A-Quaggan" achievementId="8249">
+                    <MarkerCategory name="fibers" DisplayName="Gather Plant Fibers" achievementBit="1"/>
+                </MarkerCategory>
+                <MarkerCategory name="tr" DisplayName="Titan Researcher" achievementId="8175"/>
+            </MarkerCategory>
+        </MarkerCategory>
+    </MarkerCategory>
+    <POIs>
+    <!-- Build-A-Quaggan -->
+    <POI MapID="1554" xpos="23.55177" ypos="30.75488" zpos="-697.9586" type="mmm.achievements.jw.baq.fibers" GUID="F5trtK5TwUmvtqbrD5GexA=="/>
+    <POI MapID="1554" xpos="28.18476" ypos="29.04435" zpos="-674.0814" type="mmm.achievements.jw.baq.fibers" GUID="X/V49ZOHLk2O4SEZTO4wJg=="/>
+    <POI MapID="1554" xpos="43.83789" ypos="28.10483" zpos="-674.0425" type="mmm.achievements.jw.baq.fibers" GUID="BFOVAnxucEyd/jH8Sx3Kdw=="/>
+    <POI MapID="1554" xpos="58.0593" ypos="27.12455" zpos="-671.3669" type="mmm.achievements.jw.baq.fibers" GUID="lhmgWMlENkSnzhJSCje9Bg=="/>
+    <POI MapID="1554" xpos="65.71766" ypos="22.36119" zpos="-656.4504" type="mmm.achievements.jw.baq.fibers" GUID="fgMtve2jn0ikDWWdQpAcFw=="/>
+    <POI MapID="1554" xpos="67.03663" ypos="21.79294" zpos="-644.2919" type="mmm.achievements.jw.baq.fibers" GUID="bAs7t9ldrU62iNkDWJMVZQ=="/>
+    <POI MapID="1554" xpos="73.37848" ypos="23.31237" zpos="-630.8554" type="mmm.achievements.jw.baq.fibers" GUID="mznmMDpyzUGwjYGtVKhxxg=="/>
+    <POI MapID="1554" xpos="89.57384" ypos="19.5397" zpos="-648.5766" type="mmm.achievements.jw.baq.fibers" GUID="YXdgYAng70e4lc3ePyksmg=="/>
+    <POI MapID="1554" xpos="-21.18117" ypos="34.846" zpos="-694.7689" type="mmm.achievements.jw.baq.fibers" GUID="Iy4jZ/GO3k+eO0/SQLIZaQ=="/>
+    <POI MapID="1554" xpos="40.41293" ypos="27.39667" zpos="-659.3036" type="mmm.achievements.jw.baq.fibers" GUID="BMzdzQ2Zm0qLERLWhcfAPw=="/>
+    <!-- Titan Researcher -->
+    <POI MapID="1554" xpos="89.26728" ypos="43.91796" zpos="-679.9881" type="mmm.achievements.jw.tr" achievementBit="3" GUID="XK3A/LkbBU6SQ5aVcKZKdA=="/>
+    </POIs>
+</OverlayData>

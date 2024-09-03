@@ -14,7 +14,7 @@ xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
         </MarkerCategory>
     </MarkerCategory>
     <POIs>
-        <Trail type="mmm.exploration.resources.currency.ancient_unusual_coin" trailData="Data/Trails/nayos_greater_arcanes.trl" texture="Data/Icons/arrow_trail.png" fadeNear="3000" fadeFar="5000" color="#56b4e9"/>
+        <Trail type="mmm.exploration.resources.currency.ancient_unusual_coin" trailData="Data/Trails/nayos_greater_arcanes.trl" texture="Data/Icons/default_trail.png" fadeNear="3000" fadeFar="5000" color="#56b4e9"/>
 		<POI MapID="1526" xpos="967.103" ypos="225.218" zpos="355.706" type="mmm.exploration.resources.currency.ancient_unusual_coin" GUID="nPaPWSpHxUytschNhzWbJA=="/>
 		<POI MapID="1526" xpos="957.273" ypos="213.854" zpos="306.649" type="mmm.exploration.resources.currency.ancient_unusual_coin" GUID="fY87mOQwC0C9Cr1lpwOA5g=="/>
 		<POI MapID="1526" xpos="924.443" ypos="225.163" zpos="381.957" type="mmm.exploration.resources.currency.ancient_unusual_coin" GUID="SEy59JGfG0i7o5lXjvIjCw=="/>

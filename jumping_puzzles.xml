@@ -39,11 +39,11 @@ xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
         <POI MapID="1550" xpos="151.3288" ypos="11.06317" zpos="470.9825" type="mmm.jp.lutv.guide" GUID="cWA0emXCE0azlYRysL+ctw=="/>
         <POI MapID="1550" xpos="244.3833" ypos="4.619742" zpos="560.0318" type="mmm.jp.lutv.braziers" iconFile="Data/Icons/0.png" GUID="SR5Al6+tMU+kNVjAzBFkRA=="/>
         <!-- Queen's Confidence -->
-        <Trail type="mmm.jp.qc.trail" trailData="Data/Trails/queens_confidence.trl" texture="Data/Icons/default_trail.png" fadeNear="500" fadeFar="900" color="#56B4E9"/>
+        <Trail type="mmm.jp.qc.trail" trailData="Data/Trails/queens_confidence.trl" texture="Data/Icons/default_trail.png" color="#56B4E9"/>
         <POI MapID="1550" xpos="-170.726" ypos="150.7449" zpos="-81.5375" type="mmm.jp.qc.guide" iconFile="Data/Icons/lowland_shore.png" info="The bees change locations every day/map.&#xA;You need to pet them in alphabetical order: Beavis, Combs, Honey.&#xA;The trail just navigates the whole thing once, so take it in chunks, based on your order." GUID="vsq+nGyU7EiCR4sxCKunnw=="/>
         <!-- Buzzy Treetops -->
-        <Trail type="mmm.jp.bt.trail" trailData="Data/Trails/buzzy_treetops.trl" texture="Data/Icons/default_trail.png" fadeNear="500" fadeFar="900" color="#56B4E9"/>
-        <Trail type="mmm.jp.bt.backtrail" trailData="Data/Trails/buzzy_treetops_back.trl" texture="Data/Icons/default_trail.png" fadeNear="500" fadeFar="900" color="#56B4E9"/>
+        <Trail type="mmm.jp.bt.trail" trailData="Data/Trails/buzzy_treetops.trl" texture="Data/Icons/default_trail.png" color="#56B4E9"/>
+        <Trail type="mmm.jp.bt.backtrail" trailData="Data/Trails/buzzy_treetops_back.trl" texture="Data/Icons/default_trail.png" color="#56B4E9"/>
         <POI MapID="1550" xpos="865.9794" ypos="320.1941" zpos="-46.96445" info="The trail shows you one way to get to each hive, but they can be done in any order.&#xA;Utilizing the Jade Bot Glide Booster can make the run easier or help you recover.&#xA;&#xA;As opposed to most JPs where you need to maximize distance, you may benefit from jumping and then hitting W once in the air for many of these jumps.&#xA;&#xA;For those interested, there's a 'Back Way' trail you can toggle on, instead." type="mmm.jp.bt.guide" iconFile="Data/Icons/lowland_shore.png" GUID="aoDQsmV6r0m3vOBulEGvZQ=="/>
     </POIs>
 </OverlayData>

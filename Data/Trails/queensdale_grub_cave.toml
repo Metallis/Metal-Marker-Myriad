@@ -1,0 +1,8 @@
+name = "Grub Cave"
+kind = "cave"
+difficulty = 1
+
+[start]
+xpos="-647.1043"
+ypos="89.79719"
+zpos="-445.2295"

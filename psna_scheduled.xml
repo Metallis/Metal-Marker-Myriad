@@ -105,53 +105,53 @@ xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
         <POI MapID="1509" xpos="64.5362" ypos="294.367" zpos="10.0132" type="mmm.vendors.psna" schedule="0 8 * * 0" schedule-duration="1440" iconFile="Data/Icons/psna_clipboard.png" iconSize="1.5" heightOffset="1.5" copy="[&amp;BIgHAAA=][&amp;BEwDAAA=][&amp;BNIEAAA=][&amp;BKYBAAA=][&amp;BIMCAAA=][&amp;BB4CAAA=]" copy-message="PSNA Waypoints copied to clipboard!" GUID="/MKXq0mepk6VnQAGcJ5bUA=="/>
 
         <!-- Monday -->
-        <Trail type="mmm.vendors.psna" schedule="0 8 * * 1" schedule-duration="1440" trailData="Data/Trails/psna_mehem_mon.trl" color="#cc79a7" texture="Data/Icons/arrow_trail.png"/>
-        <Trail type="mmm.vendors.psna" schedule="0 8 * * 1" schedule-duration="1440" trailData="Data/Trails/psna_fox_mon.trl" color="#cc79a7" texture="Data/Icons/arrow_trail.png"/>
-        <Trail type="mmm.vendors.psna" schedule="0 8 * * 1" schedule-duration="1440" trailData="Data/Trails/psna_yana_mon.trl" color="#cc79a7" texture="Data/Icons/arrow_trail.png"/>
-        <Trail type="mmm.vendors.psna" schedule="0 8 * * 1" schedule-duration="1440" trailData="Data/Trails/psna_derwena_mon.trl" color="#cc79a7" texture="Data/Icons/arrow_trail.png"/>
-        <Trail type="mmm.vendors.psna" schedule="0 8 * * 1" schedule-duration="1440" trailData="Data/Trails/psna_despina_mon.trl" color="#cc79a7" texture="Data/Icons/arrow_trail.png"/>
-        <Trail type="mmm.vendors.psna" schedule="0 8 * * 1" schedule-duration="1440" trailData="Data/Trails/psna_verma_mon.trl" color="#cc79a7" texture="Data/Icons/arrow_trail.png"/>
+        <Trail type="mmm.vendors.psna" schedule="0 8 * * 1" schedule-duration="1440" trailData="Data/Trails/psna_mehem_mon.trl" color="#cc79a7" texture="Data/Icons/default_trail.png"/>
+        <Trail type="mmm.vendors.psna" schedule="0 8 * * 1" schedule-duration="1440" trailData="Data/Trails/psna_fox_mon.trl" color="#cc79a7" texture="Data/Icons/default_trail.png"/>
+        <Trail type="mmm.vendors.psna" schedule="0 8 * * 1" schedule-duration="1440" trailData="Data/Trails/psna_yana_mon.trl" color="#cc79a7" texture="Data/Icons/default_trail.png"/>
+        <Trail type="mmm.vendors.psna" schedule="0 8 * * 1" schedule-duration="1440" trailData="Data/Trails/psna_derwena_mon.trl" color="#cc79a7" texture="Data/Icons/default_trail.png"/>
+        <Trail type="mmm.vendors.psna" schedule="0 8 * * 1" schedule-duration="1440" trailData="Data/Trails/psna_despina_mon.trl" color="#cc79a7" texture="Data/Icons/default_trail.png"/>
+        <Trail type="mmm.vendors.psna" schedule="0 8 * * 1" schedule-duration="1440" trailData="Data/Trails/psna_verma_mon.trl" color="#cc79a7" texture="Data/Icons/default_trail.png"/>
         <!-- Tuesday -->
-        <Trail type="mmm.vendors.psna" schedule="0 8 * * 2" schedule-duration="1440" trailData="Data/Trails/psna_mehem_tues.trl" color="#cc79a7" texture="Data/Icons/arrow_trail.png"/>
-        <Trail type="mmm.vendors.psna" schedule="0 8 * * 2" schedule-duration="1440" trailData="Data/Trails/psna_fox_tues.trl" color="#cc79a7" texture="Data/Icons/arrow_trail.png"/>
-        <Trail type="mmm.vendors.psna" schedule="0 8 * * 2" schedule-duration="1440" trailData="Data/Trails/psna_yana_tues.trl" color="#cc79a7" texture="Data/Icons/arrow_trail.png"/>
-        <Trail type="mmm.vendors.psna" schedule="0 8 * * 2" schedule-duration="1440" trailData="Data/Trails/psna_derwena_tues.trl" color="#cc79a7" texture="Data/Icons/arrow_trail.png"/>
-        <Trail type="mmm.vendors.psna" schedule="0 8 * * 2" schedule-duration="1440" trailData="Data/Trails/psna_despina_tues.trl" color="#cc79a7" texture="Data/Icons/arrow_trail.png"/>
-        <Trail type="mmm.vendors.psna" schedule="0 8 * * 2" schedule-duration="1440" trailData="Data/Trails/psna_verma_tues.trl" color="#cc79a7" texture="Data/Icons/arrow_trail.png"/>
+        <Trail type="mmm.vendors.psna" schedule="0 8 * * 2" schedule-duration="1440" trailData="Data/Trails/psna_mehem_tues.trl" color="#cc79a7" texture="Data/Icons/default_trail.png"/>
+        <Trail type="mmm.vendors.psna" schedule="0 8 * * 2" schedule-duration="1440" trailData="Data/Trails/psna_fox_tues.trl" color="#cc79a7" texture="Data/Icons/default_trail.png"/>
+        <Trail type="mmm.vendors.psna" schedule="0 8 * * 2" schedule-duration="1440" trailData="Data/Trails/psna_yana_tues.trl" color="#cc79a7" texture="Data/Icons/default_trail.png"/>
+        <Trail type="mmm.vendors.psna" schedule="0 8 * * 2" schedule-duration="1440" trailData="Data/Trails/psna_derwena_tues.trl" color="#cc79a7" texture="Data/Icons/default_trail.png"/>
+        <Trail type="mmm.vendors.psna" schedule="0 8 * * 2" schedule-duration="1440" trailData="Data/Trails/psna_despina_tues.trl" color="#cc79a7" texture="Data/Icons/default_trail.png"/>
+        <Trail type="mmm.vendors.psna" schedule="0 8 * * 2" schedule-duration="1440" trailData="Data/Trails/psna_verma_tues.trl" color="#cc79a7" texture="Data/Icons/default_trail.png"/>
         <!-- Wednesday -->
-        <Trail type="mmm.vendors.psna" schedule="0 8 * * 3" schedule-duration="1440" trailData="Data/Trails/psna_mehem_wed.trl" color="#cc79a7" texture="Data/Icons/arrow_trail.png"/>
-        <Trail type="mmm.vendors.psna" schedule="0 8 * * 3" schedule-duration="1440" trailData="Data/Trails/psna_fox_wed.trl" color="#cc79a7" texture="Data/Icons/arrow_trail.png"/>
-        <Trail type="mmm.vendors.psna" schedule="0 8 * * 3" schedule-duration="1440" trailData="Data/Trails/psna_yana_wed.trl" color="#cc79a7" texture="Data/Icons/arrow_trail.png"/>
-        <Trail type="mmm.vendors.psna" schedule="0 8 * * 3" schedule-duration="1440" trailData="Data/Trails/psna_derwena_wed.trl" color="#cc79a7" texture="Data/Icons/arrow_trail.png"/>
-        <Trail type="mmm.vendors.psna" schedule="0 8 * * 3" schedule-duration="1440" trailData="Data/Trails/psna_despina_wed.trl" color="#cc79a7" texture="Data/Icons/arrow_trail.png"/>
-        <Trail type="mmm.vendors.psna" schedule="0 8 * * 3" schedule-duration="1440" trailData="Data/Trails/psna_verma_wed.trl" color="#cc79a7" texture="Data/Icons/arrow_trail.png"/>
+        <Trail type="mmm.vendors.psna" schedule="0 8 * * 3" schedule-duration="1440" trailData="Data/Trails/psna_mehem_wed.trl" color="#cc79a7" texture="Data/Icons/default_trail.png"/>
+        <Trail type="mmm.vendors.psna" schedule="0 8 * * 3" schedule-duration="1440" trailData="Data/Trails/psna_fox_wed.trl" color="#cc79a7" texture="Data/Icons/default_trail.png"/>
+        <Trail type="mmm.vendors.psna" schedule="0 8 * * 3" schedule-duration="1440" trailData="Data/Trails/psna_yana_wed.trl" color="#cc79a7" texture="Data/Icons/default_trail.png"/>
+        <Trail type="mmm.vendors.psna" schedule="0 8 * * 3" schedule-duration="1440" trailData="Data/Trails/psna_derwena_wed.trl" color="#cc79a7" texture="Data/Icons/default_trail.png"/>
+        <Trail type="mmm.vendors.psna" schedule="0 8 * * 3" schedule-duration="1440" trailData="Data/Trails/psna_despina_wed.trl" color="#cc79a7" texture="Data/Icons/default_trail.png"/>
+        <Trail type="mmm.vendors.psna" schedule="0 8 * * 3" schedule-duration="1440" trailData="Data/Trails/psna_verma_wed.trl" color="#cc79a7" texture="Data/Icons/default_trail.png"/>
         <!-- Thursday -->
-        <Trail type="mmm.vendors.psna" schedule="0 8 * * 4" schedule-duration="1440" trailData="Data/Trails/psna_mehem_thurs.trl" color="#cc79a7" texture="Data/Icons/arrow_trail.png"/>
-        <Trail type="mmm.vendors.psna" schedule="0 8 * * 4" schedule-duration="1440" trailData="Data/Trails/psna_fox_thurs.trl" color="#cc79a7" texture="Data/Icons/arrow_trail.png"/>
-        <Trail type="mmm.vendors.psna" schedule="0 8 * * 4" schedule-duration="1440" trailData="Data/Trails/psna_yana_thurs.trl" color="#cc79a7" texture="Data/Icons/arrow_trail.png"/>
-        <Trail type="mmm.vendors.psna" schedule="0 8 * * 4" schedule-duration="1440" trailData="Data/Trails/psna_derwena_thurs.trl" color="#cc79a7" texture="Data/Icons/arrow_trail.png"/>
-        <Trail type="mmm.vendors.psna" schedule="0 8 * * 4" schedule-duration="1440" trailData="Data/Trails/psna_despina_thurs.trl" color="#cc79a7" texture="Data/Icons/arrow_trail.png"/>
-        <Trail type="mmm.vendors.psna" schedule="0 8 * * 4" schedule-duration="1440" trailData="Data/Trails/psna_verma_thurs.trl" color="#cc79a7" texture="Data/Icons/arrow_trail.png"/>
+        <Trail type="mmm.vendors.psna" schedule="0 8 * * 4" schedule-duration="1440" trailData="Data/Trails/psna_mehem_thurs.trl" color="#cc79a7" texture="Data/Icons/default_trail.png"/>
+        <Trail type="mmm.vendors.psna" schedule="0 8 * * 4" schedule-duration="1440" trailData="Data/Trails/psna_fox_thurs.trl" color="#cc79a7" texture="Data/Icons/default_trail.png"/>
+        <Trail type="mmm.vendors.psna" schedule="0 8 * * 4" schedule-duration="1440" trailData="Data/Trails/psna_yana_thurs.trl" color="#cc79a7" texture="Data/Icons/default_trail.png"/>
+        <Trail type="mmm.vendors.psna" schedule="0 8 * * 4" schedule-duration="1440" trailData="Data/Trails/psna_derwena_thurs.trl" color="#cc79a7" texture="Data/Icons/default_trail.png"/>
+        <Trail type="mmm.vendors.psna" schedule="0 8 * * 4" schedule-duration="1440" trailData="Data/Trails/psna_despina_thurs.trl" color="#cc79a7" texture="Data/Icons/default_trail.png"/>
+        <Trail type="mmm.vendors.psna" schedule="0 8 * * 4" schedule-duration="1440" trailData="Data/Trails/psna_verma_thurs.trl" color="#cc79a7" texture="Data/Icons/default_trail.png"/>
         <!-- Friday -->
-        <Trail type="mmm.vendors.psna" schedule="0 8 * * 5" schedule-duration="1440" trailData="Data/Trails/psna_mehem_fri.trl" color="#cc79a7" texture="Data/Icons/arrow_trail.png"/>
-        <Trail type="mmm.vendors.psna" schedule="0 8 * * 5" schedule-duration="1440" trailData="Data/Trails/psna_fox_fri.trl" color="#cc79a7" texture="Data/Icons/arrow_trail.png"/>
-        <Trail type="mmm.vendors.psna" schedule="0 8 * * 5" schedule-duration="1440" trailData="Data/Trails/psna_yana_fri.trl" color="#cc79a7" texture="Data/Icons/arrow_trail.png"/>
-        <Trail type="mmm.vendors.psna" schedule="0 8 * * 5" schedule-duration="1440" trailData="Data/Trails/psna_derwena_fri.trl" color="#cc79a7" texture="Data/Icons/arrow_trail.png"/>
-        <Trail type="mmm.vendors.psna" schedule="0 8 * * 5" schedule-duration="1440" trailData="Data/Trails/psna_despina_fri.trl" color="#cc79a7" texture="Data/Icons/arrow_trail.png"/>
-        <Trail type="mmm.vendors.psna" schedule="0 8 * * 5" schedule-duration="1440" trailData="Data/Trails/psna_verma_fri.trl" color="#cc79a7" texture="Data/Icons/arrow_trail.png"/>
+        <Trail type="mmm.vendors.psna" schedule="0 8 * * 5" schedule-duration="1440" trailData="Data/Trails/psna_mehem_fri.trl" color="#cc79a7" texture="Data/Icons/default_trail.png"/>
+        <Trail type="mmm.vendors.psna" schedule="0 8 * * 5" schedule-duration="1440" trailData="Data/Trails/psna_fox_fri.trl" color="#cc79a7" texture="Data/Icons/default_trail.png"/>
+        <Trail type="mmm.vendors.psna" schedule="0 8 * * 5" schedule-duration="1440" trailData="Data/Trails/psna_yana_fri.trl" color="#cc79a7" texture="Data/Icons/default_trail.png"/>
+        <Trail type="mmm.vendors.psna" schedule="0 8 * * 5" schedule-duration="1440" trailData="Data/Trails/psna_derwena_fri.trl" color="#cc79a7" texture="Data/Icons/default_trail.png"/>
+        <Trail type="mmm.vendors.psna" schedule="0 8 * * 5" schedule-duration="1440" trailData="Data/Trails/psna_despina_fri.trl" color="#cc79a7" texture="Data/Icons/default_trail.png"/>
+        <Trail type="mmm.vendors.psna" schedule="0 8 * * 5" schedule-duration="1440" trailData="Data/Trails/psna_verma_fri.trl" color="#cc79a7" texture="Data/Icons/default_trail.png"/>
         <!-- Saturday -->
-        <Trail type="mmm.vendors.psna" schedule="0 8 * * 6" schedule-duration="1440" trailData="Data/Trails/psna_mehem_sat.trl" color="#cc79a7" texture="Data/Icons/arrow_trail.png"/>
-        <Trail type="mmm.vendors.psna" schedule="0 8 * * 6" schedule-duration="1440" trailData="Data/Trails/psna_fox_sat.trl" color="#cc79a7" texture="Data/Icons/arrow_trail.png"/>
-        <Trail type="mmm.vendors.psna" schedule="0 8 * * 6" schedule-duration="1440" trailData="Data/Trails/psna_yana_sat.trl" color="#cc79a7" texture="Data/Icons/arrow_trail.png"/>
-        <Trail type="mmm.vendors.psna" schedule="0 8 * * 6" schedule-duration="1440" trailData="Data/Trails/psna_derwena_sat.trl" color="#cc79a7" texture="Data/Icons/arrow_trail.png"/>
-        <Trail type="mmm.vendors.psna" schedule="0 8 * * 6" schedule-duration="1440" trailData="Data/Trails/psna_despina_sat.trl" color="#cc79a7" texture="Data/Icons/arrow_trail.png"/>
-        <Trail type="mmm.vendors.psna" schedule="0 8 * * 6" schedule-duration="1440" trailData="Data/Trails/psna_verma_sat.trl" color="#cc79a7" texture="Data/Icons/arrow_trail.png"/>
+        <Trail type="mmm.vendors.psna" schedule="0 8 * * 6" schedule-duration="1440" trailData="Data/Trails/psna_mehem_sat.trl" color="#cc79a7" texture="Data/Icons/default_trail.png"/>
+        <Trail type="mmm.vendors.psna" schedule="0 8 * * 6" schedule-duration="1440" trailData="Data/Trails/psna_fox_sat.trl" color="#cc79a7" texture="Data/Icons/default_trail.png"/>
+        <Trail type="mmm.vendors.psna" schedule="0 8 * * 6" schedule-duration="1440" trailData="Data/Trails/psna_yana_sat.trl" color="#cc79a7" texture="Data/Icons/default_trail.png"/>
+        <Trail type="mmm.vendors.psna" schedule="0 8 * * 6" schedule-duration="1440" trailData="Data/Trails/psna_derwena_sat.trl" color="#cc79a7" texture="Data/Icons/default_trail.png"/>
+        <Trail type="mmm.vendors.psna" schedule="0 8 * * 6" schedule-duration="1440" trailData="Data/Trails/psna_despina_sat.trl" color="#cc79a7" texture="Data/Icons/default_trail.png"/>
+        <Trail type="mmm.vendors.psna" schedule="0 8 * * 6" schedule-duration="1440" trailData="Data/Trails/psna_verma_sat.trl" color="#cc79a7" texture="Data/Icons/default_trail.png"/>
         <!-- Sunday -->
-        <Trail type="mmm.vendors.psna" schedule="0 8 * * 0" schedule-duration="1440" trailData="Data/Trails/psna_mehem_sun.trl" color="#cc79a7" texture="Data/Icons/arrow_trail.png"/>
-        <Trail type="mmm.vendors.psna" schedule="0 8 * * 0" schedule-duration="1440" trailData="Data/Trails/psna_fox_sun.trl" color="#cc79a7" texture="Data/Icons/arrow_trail.png"/>
-        <Trail type="mmm.vendors.psna" schedule="0 8 * * 0" schedule-duration="1440" trailData="Data/Trails/psna_yana_sun.trl" color="#cc79a7" texture="Data/Icons/arrow_trail.png"/>
-        <Trail type="mmm.vendors.psna" schedule="0 8 * * 0" schedule-duration="1440" trailData="Data/Trails/psna_derwena_sun.trl" color="#cc79a7" texture="Data/Icons/arrow_trail.png"/>
-        <Trail type="mmm.vendors.psna" schedule="0 8 * * 0" schedule-duration="1440" trailData="Data/Trails/psna_despina_sun.trl" color="#cc79a7" texture="Data/Icons/arrow_trail.png"/>
-        <Trail type="mmm.vendors.psna" schedule="0 8 * * 0" schedule-duration="1440" trailData="Data/Trails/psna_verma_sun.trl" color="#cc79a7" texture="Data/Icons/arrow_trail.png"/>
+        <Trail type="mmm.vendors.psna" schedule="0 8 * * 0" schedule-duration="1440" trailData="Data/Trails/psna_mehem_sun.trl" color="#cc79a7" texture="Data/Icons/default_trail.png"/>
+        <Trail type="mmm.vendors.psna" schedule="0 8 * * 0" schedule-duration="1440" trailData="Data/Trails/psna_fox_sun.trl" color="#cc79a7" texture="Data/Icons/default_trail.png"/>
+        <Trail type="mmm.vendors.psna" schedule="0 8 * * 0" schedule-duration="1440" trailData="Data/Trails/psna_yana_sun.trl" color="#cc79a7" texture="Data/Icons/default_trail.png"/>
+        <Trail type="mmm.vendors.psna" schedule="0 8 * * 0" schedule-duration="1440" trailData="Data/Trails/psna_derwena_sun.trl" color="#cc79a7" texture="Data/Icons/default_trail.png"/>
+        <Trail type="mmm.vendors.psna" schedule="0 8 * * 0" schedule-duration="1440" trailData="Data/Trails/psna_despina_sun.trl" color="#cc79a7" texture="Data/Icons/default_trail.png"/>
+        <Trail type="mmm.vendors.psna" schedule="0 8 * * 0" schedule-duration="1440" trailData="Data/Trails/psna_verma_sun.trl" color="#cc79a7" texture="Data/Icons/default_trail.png"/>
     </POIs>
 </OverlayData>

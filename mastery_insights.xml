@@ -3,7 +3,7 @@
 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
 xsi:schemaLocation="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD https://raw.githubusercontent.com/xrandox/Gw2_Marker_Pack_DTD_XSD/main/GW2MarkerPack.xsd"
 xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
-    <MarkerCategory name="mmm" DisplayName="Metal Marker Myriad" fadeNear="3000" fadeFar="5000" texture="Data/Icons/default_trail.png">
+    <MarkerCategory name="mmm" DisplayName="Metal Marker Myriad" texture="Data/Icons/default_trail.png">
         <MarkerCategory name="insights" DisplayName="Mastery Insights" color="#5FC3F5">
             <MarkerCategory name="bc_bbb" DisplayName="Bloody Bill's Base" achievementId="3501"/>
             <MarkerCategory name="dc_dsp" DisplayName="Dostoev Sky Peak" achievementId="3534"/>
@@ -11,9 +11,10 @@ xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
             <MarkerCategory name="hh_ho" DisplayName="Hidden Ourobon" achievementId="3539"/>
             <MarkerCategory name="im_shc" DisplayName="Sunken Halls of Clarent" achievementId="3526"/>
             <MarkerCategory name="ml_sc" DisplayName="Scavenger's Chasm" achievementId="3476"/>
-            <MarkerCategory name="mm_vr" DisplayName="Volcanic Run" achievementId="3531"/>
+            <MarkerCategory name="mm_vr" DisplayName="Volcanic Rim" achievementId="3531"/>
             <MarkerCategory name="sf_sh" DisplayName="Shattercleft Hills" achievementId="3543"/>
             <MarkerCategory name="tf_cm" DisplayName="Copperhammer Mines" achievementId="3504"/>
+
             <MarkerCategory name="ab_bq" DisplayName="Burnisher Quarry" achievementId="2608"/>
             <MarkerCategory name="ab_eb" DisplayName="Eastwatch Bluff" achievementId="2267"/>
             <MarkerCategory name="ab_jg" DisplayName="Jawatl Grounds" achievementId="2204"/>
