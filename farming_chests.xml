@@ -1,0 +1,82 @@
+<!DOCTYPE OverlayData PUBLIC "" "https://raw.githubusercontent.com/xrandox/Gw2_Marker_Pack_DTD_XSD/main/GW2MarkerPack.dtd">
+<OverlayData 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD https://raw.githubusercontent.com/xrandox/Gw2_Marker_Pack_DTD_XSD/main/GW2MarkerPack.xsd"
+xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
+	<!-- Discord Invite:https://discord.gg/FP8dQj6KBj -->
+	 <MarkerCategory name="mmm" DisplayName="Metal Marker Myriad" texture="Data/Icons/default_trail.png">
+    </MarkerCategory>
+    <POIs>
+        <!-- Bjora Essence Chests and Norn Chests -->
+        <POI MapID="1343" xpos="-953.881" ypos="0.605" zpos="231.139" type="mmm.exploration.mastery.bjorachests" iconFile="Data/Icons/waypoint.png" copy="[&amp;BDkMAAA=]" copy-message="Waypoint copied! Teleport back to Still Waters" GUID="C2J7Uid+PkmqWXuIk7UNMg=="/>
+        <POI MapID="1343" xpos="113.992" ypos="191.881" zpos="502.760" type="mmm.exploration.mastery.bjorachests" iconFile="Data/Icons/finish_flag.png" GUID="scSwwpU+iU6yIfgkX6EChQ=="/>
+        <Trail type="mmm.farming.chests.bjorachests" trailData="Data/Trails/bjora_essence_chests.trl" texture="Data/Icons/default_trail.png" color="#d55e00" fadeNear="6000" fadeFar="7000"/>
+        <!-- Greater Arcane Chests -->
+        <Trail type="mmm.farming.chests.garcane" trailData="Data/Trails/amnytas_greater_arcanes.trl" texture="Data/Icons/default_trail.png" fadeNear="3000" fadeFar="5000" color="##56B4E9"/>
+        <Trail type="mmm.farming.chests.garcane" trailData="Data/Trails/luaren_sa_g_arcane.trl" texture="Data/Icons/luaren_uwu_arrow.png" fadeNear="3000" fadeFar="5000" color="#ff6ede"/>
+        <POI MapID="1510" xpos="-645.7746" ypos="549.6155" zpos="160.8512" type="mmm.farming.chests.garcane" iconFile="Data/Icons/beetle.png" GUID="wGMDJ+KKmEaypgRhgnv5dQ=="/>
+        <POI MapID="1510" xpos="-844.95343" ypos="551.637695" zpos="68.991325" type="mmm.farming.chests.garcane" iconFile="Data/Icons/skyscale.png" GUID="onlI8U+4Y0yJ2D1aWblitg=="/>
+        <POI MapID="1510" xpos="-626.717102" ypos="586.177246" zpos="-376.652222" type="mmm.farming.chests.garcane" iconFile="Data/Icons/griffon.png" GUID="MoSpHn4KDEyIJou0hQ0bIQ=="/>
+        <POI MapID="1510" xpos="55.53513" ypos="253.5651" zpos="-537.4693" type="mmm.farming.chests.garcane" iconFile="Data/Icons/beetle.png" GUID="l+i0bGtapEC1Dar13bd9Eg=="/>
+        <POI MapID="1510" xpos="293.977203" ypos="254.754013" zpos="-193.853287" type="mmm.farming.chests.garcane" iconFile="Data/Icons/skyscale.png" GUID="vlGdj2M5YEuBA5DLn+V3EQ=="/>
+        <POI MapID="1510" xpos="516.91803" ypos="276.645844" zpos="-74.350212" type="mmm.farming.chests.garcane" iconFile="Data/Icons/griffon.png" GUID="8XPa6WGLw0u28NXITO4OOg=="/>
+        <POI MapID="1510" xpos="539.882996" ypos="28.455664" zpos="-454.105042" type="mmm.farming.chests.garcane" iconFile="Data/Icons/finish_flag.png" autoTrigger="1" triggerRange="5" copy="[&amp;BD8OAAA=]" copy-message="Jump to Jade Hab WP, if needed! (copied to clipboard)" GUID="FMpJydMpykOnT84fYp1kKA=="/>
+        <POI MapID="1510" xpos="14.374597" ypos="400.7117" zpos="-73.473801" type="mmm.farming.chests.garcane" iconFile="Data/Icons/skyscale.png" GUID="W0fuotwpLkeVhbg/gLlb6w=="/>
+        <POI MapID="1510" xpos="57.511055" ypos="639.113098" zpos="59.307842" type="mmm.farming.chests.garcane" iconFile="Data/Icons/griffon.png" GUID="LpzqS0b7MkK4Od6bTpJY6g=="/>
+        <POI MapID="1510" xpos="12.769743" ypos="362.307465" zpos="395.156647" type="mmm.farming.chests.garcane" iconFile="Data/Icons/skyscale.png" GUID="NYmbeLNpzUiEhk4CHBl1cg=="/>
+        <POI MapID="1510" xpos="614.951782" ypos="274.197998" zpos="457.45636" type="mmm.farming.chests.garcane" iconFile="Data/Icons/griffon.png" GUID="8UdEiwF1i0+Kz2vE9Y5Ytg=="/>
+        <POI MapID="1510" xpos="1032.971" ypos="177.2564" zpos="351.781" type="mmm.farming.chests.garcane" iconFile="Data/Icons/finish_flag.png" autoTrigger="1" triggerRange="5" copy="[&amp;BL4NAAA=]" copy-message="Jump to Droknar's WP, if needed! (copied to clipboard)" GUID="O47yqjQNXUa2q2sZ9KVqYQ=="/>
+        <POI MapID="1526" xpos="-788.785" ypos="148.935" zpos="168.454" type="mmm.farming.chests.garcane" GUID="6D0GRKDyKUGxjaf50Bwoag=="/>
+		<POI MapID="1517" xpos="56.3714" ypos="700.364" zpos="-221.437" type="mmm.farming.chests.garcane" GUID="7JlNwaeUhkmHlu99Otka4w=="/>
+		<POI MapID="1517" xpos="10.6698" ypos="677.259" zpos="-208.345" type="mmm.farming.chests.garcane" GUID="OUFIAenmtEuuAMx3JgxyDA=="/>
+		<POI MapID="1517" xpos="10.4338" ypos="648.156" zpos="-115.536" type="mmm.farming.chests.garcane" GUID="mEUyenoXikejtjn4vodjnw=="/>
+		<POI MapID="1517" xpos="67.0849" ypos="648.156" zpos="-220.899" type="mmm.farming.chests.garcane" GUID="AOoZqw7/vEamYzRPg6A4Ug=="/>
+		<POI MapID="1517" xpos="61.099" ypos="677.259" zpos="-129.769" type="mmm.farming.chests.garcane" GUID="0Ygtv/WTykiWF+ZxeY485w=="/>
+		<POI MapID="1517" xpos="413.475" ypos="384.999" zpos="426.168" type="mmm.farming.chests.garcane" GUID="GZ1TL+Lq8EKb+YhzmE9rig=="/>
+		<POI MapID="1517" xpos="367.879" ypos="384.978" zpos="426.366" type="mmm.farming.chests.garcane" GUID="7R2NF3lXp0euuYNKuIonaQ=="/>
+		<POI MapID="1517" xpos="-552.1" ypos="443.201" zpos="683.786" type="mmm.farming.chests.garcane" GUID="lshTdWpbz0i6HmvgyV+7Kw=="/>
+		<POI MapID="1517" xpos="-532.432" ypos="443.31" zpos="756.353" type="mmm.farming.chests.garcane" GUID="p6f1v5P/I0SfR8wHrIlnSg=="/>
+		<POI MapID="1517" xpos="-532.031" ypos="443.276" zpos="647.996" type="mmm.farming.chests.garcane" GUID="IJbvvcH8rkiDpVjDXOTslA=="/>
+        <Trail type="mmm.farming.chests.garcane" trailData="Data/Trails/nayos_greater_arcanes.trl" texture="Data/Icons/default_trail.png" color="#56b4e9"/>
+		<POI MapID="1526" xpos="967.103" ypos="225.218" zpos="355.706" type="mmm.farming.chests.garcane" GUID="nPaPWSpHxUytschNhzWbJA=="/>
+		<POI MapID="1526" xpos="957.273" ypos="213.854" zpos="306.649" type="mmm.farming.chests.garcane" GUID="fY87mOQwC0C9Cr1lpwOA5g=="/>
+		<POI MapID="1526" xpos="924.443" ypos="225.163" zpos="381.957" type="mmm.farming.chests.garcane" GUID="SEy59JGfG0i7o5lXjvIjCw=="/>
+		<POI MapID="1526" xpos="102.169" ypos="283.675" zpos="-159.444" type="mmm.farming.chests.garcane" GUID="KHRoGd7kTkSNkWcMAqZsTQ=="/>
+		<POI MapID="1526" xpos="25.3311" ypos="269.492" zpos="563.109" type="mmm.farming.chests.garcane" GUID="5SGMA1wX1kGGZmUFBAv9AA=="/>
+		<POI MapID="1526" xpos="153.739" ypos="424.828" zpos="-25.0379" type="mmm.farming.chests.garcane" GUID="KllVXqk2ekmGgwFl0Q/xeg=="/>
+        <!-- Major Kodan Cache (Visible) -->
+        <POI MapID="1554" xpos="607.1371" ypos="24.21965" zpos="-244.9958" type="mmm.farming.chests.mkodan" GUID="4J+nD6IGYUGfqAOBk5rauA=="/>
+        <POI MapID="1550" xpos="758.8858" ypos="299.5064" zpos="191.9103" type="mmm.farming.chests.mkodan" GUID="btRXg5uAV0mydG1yJVSJbA=="/>
+        <POI MapID="1550" xpos="-214.2133" ypos="152.3889" zpos="-266.7094" type="mmm.farming.chests.mkodan" GUID="A2M2wVI+AkGEIIv/tehjHw=="/>
+        <POI MapID="1550" xpos="-734.4565" ypos="29.00242" zpos="469.055" type="mmm.farming.chests.mkodan" GUID="VJk9X1exfEaKCnj4d+5sEA=="/>
+        <POI MapID="1550" xpos="-246.102" ypos="187.875" zpos="-251.2469" type="mmm.farming.chests.mkodan" GUID="nWwWjOoyDE2r+/1EJdwHnw=="/>
+        <POI MapID="1554" xpos="-267.3588" ypos="52.56264" zpos="-324.3321" type="mmm.farming.chests.mkodan" GUID="ijXoGWOZCEavPPxK3aFFeQ=="/>
+        <POI MapID="1554" xpos="482.5988" ypos="15.4659" zpos="-143.5622" type="mmm.farming.chests.mkodan" GUID="LA2YHmopR0OEthljj7qB2Q=="/>
+        <POI MapID="1554" xpos="419.7917" ypos="2.208022" zpos="415.6918" type="mmm.farming.chests.mkodan" GUID="8oDkveCekECu1BIB0rWNyQ=="/>
+        <POI MapID="1554" xpos="782.3832" ypos="43.98104" zpos="-607.0593" type="mmm.farming.chests.mkodan" GUID="G7diwjjw8UOlvum2lUJNNg=="/>
+        <POI MapID="1554" xpos="510.253" ypos="15.71699" zpos="507.0445" type="mmm.farming.chests.mkodan" GUID="pbJr4BFf4UyXEGF4q/5p0g=="/>
+        <POI MapID="1554" xpos="99.99748" ypos="1.654749" zpos="-39.33975" type="mmm.farming.chests.mkodan" GUID="IUCcERwXh0eXhcNOWEOMdw=="/>
+        <POI MapID="1554" xpos="-249.4945" ypos="159.8599" zpos="120.0168" type="mmm.farming.chests.mkodan" GUID="92OvEKgMUkic+zpoTVHRYA=="/>
+        <POI MapID="1554" xpos="233.5264" ypos="30.73558" zpos="-602.7728" type="mmm.farming.chests.mkodan" GUID="XvuM9fOih0GIcJJSUnBL5g=="/>
+        <POI MapID="1550" xpos="666.2816" ypos="334.5801" zpos="26.2937" type="mmm.farming.chests.mkodan" GUID="RXP1AIQzZkueIxmnq7P7uA=="/>
+        <POI MapID="1554" xpos="385.8774" ypos="27.58893" zpos="449.0149" type="mmm.farming.chests.mkodan" GUID="/jz+4E4DqkauML+kMaG/Vw=="/>
+        <POI MapID="1554" xpos="232.1612" ypos="59.07501" zpos="66.67148" type="mmm.farming.chests.mkodan" GUID="C6QP4gdA/Uq2/46rXr4rXA=="/>
+        <POI MapID="1554" xpos="-75.98322" ypos="92.11187" zpos="-515.6899" type="mmm.farming.chests.mkodan" GUID="KJAlu9ag10mC/FsCgQmsNQ=="/>
+        <POI MapID="1554" xpos="75.35513" ypos="76.12436" zpos="-735.2476" type="mmm.farming.chests.mkodan" GUID="Kj9mByHBokCMRwfseum6aQ=="/>
+        <!-- Warclaw Sniff Spots -->
+        <POI MapID="1550" xpos="-991.0939" ypos="205.7086" zpos="-31.68695" type="mmm.farming.chests.sniff" GUID="dlT7dVuS3US0X+QJq3+J7Q=="/>
+        <POI MapID="1554" xpos="299.8351" ypos="8.982041" zpos="-10.84787" type="mmm.farming.chests.sniff" GUID="g3krVkqYZ0WBFGA6TZOauQ=="/>
+        <POI MapID="1550" xpos="-879.2496" ypos="260.8277" zpos="-265.4616" type="mmm.farming.chests.sniff" GUID="w5avNUePukm40rWyqZA0cA=="/>
+        <POI MapID="1554" xpos="-552.4833" ypos="118.2202" zpos="-180.701" type="mmm.farming.chests.sniff" GUID="IPyGf+Rn10KLN2vGI9fuEA=="/>
+        <POI MapID="1554" xpos="-623.2424" ypos="65.84949" zpos="-51.99073" type="mmm.farming.chests.sniff" GUID="OMLCXO7zD0CGd+vuS63yXg=="/>
+        <POI MapID="1554" xpos="-165.7327" ypos="120.5161" zpos="-603.6288" type="mmm.farming.chests.sniff" GUID="BTGjBSbj20abgAlQsGlFzw=="/>
+        <POI MapID="1554" xpos="-226.3824" ypos="42.05937" zpos="-554.5395" type="mmm.farming.chests.sniff" GUID="G4xX0XueVkOmP5R8NQPOkA=="/>
+        <POI MapID="1550" xpos="-991.6104" ypos="205.7896" zpos="-32.83359" type="mmm.farming.chests.sniff" GUID="QAuiljxiJUu5WuR2KzMU8A=="/>
+        <POI MapID="1554" xpos="407.7653" ypos="18.72828" zpos="214.8747" type="mmm.farming.chests.sniff" GUID="Q3WJZEPxhkGZYnKsqSoBBQ=="/>
+        <POI MapID="1550" xpos="-804.46" ypos="210.46" zpos="-47.49695" type="mmm.farming.chests.sniff" GUID="M+tCOVIHuUWgL4SGSqe6qw=="/>
+        <POI MapID="1550" xpos="-635.5609" ypos="202.3042" zpos="-88.13414" type="mmm.farming.chests.sniff" GUID="LTlEApC2YkKkvVdiqEM8fg=="/>
+        <POI MapID="1554" xpos="222.3677" ypos="2.312576" zpos="665.0302" type="mmm.farming.chests.sniff" GUID="JPDc/IT1REKyLuf2FMd+fQ=="/>
+        <POI MapID="1554" xpos="434.1064" ypos="29.96684" zpos="201.1648" type="mmm.farming.chests.sniff" GUID="WzAZx3o+Z0muUusxywnuzA=="/>
+        <POI MapID="1554" xpos="500.6468" ypos="14.66405" zpos="183.5287" type="mmm.farming.chests.sniff" GUID="FrV0bR+6s0+IFY2sMFG4Kg=="/>
+    </POIs>
+</OverlayData>

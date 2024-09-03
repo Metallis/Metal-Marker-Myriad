@@ -1,0 +1,125 @@
+<OverlayData>
+<MarkerCategory name="mmm" DisplayName="Metal Marker Myriad">
+  <MarkerCategory name="SpecOpsArmor" DisplayName="Special Ops Armor">
+    <MarkerCategory name="separator1" IsSeparator="1" DisplayName="GATHER THESE ITEMS" />
+    <!--Pre-Purchase-->
+    <MarkerCategory name="precollect" DisplayName="Pre-Collect Items (full set)">
+      <MarkerCategory name="pre1" DisplayName="12x Luxon Hunter weapon skins (buy/drop)" />
+      <MarkerCategory name="pre2" DisplayName="6x Lesser Vision Crystal (craft)" />
+      <MarkerCategory name="pre3" DisplayName="Ritualist's Ancient Tahkayun Armor Set (craft/buy)" />
+      <MarkerCategory name="pre4" DisplayName="6x Xunlai Electrum Ingot (craft/buy)" />
+      <MarkerCategory name="pre5" DisplayName="125x Piece of Dragon Jade (buy/drop)" />
+      <MarkerCategory name="pre6" DisplayName="1500x Glob of Ectoplasm (buy/drop)" />
+    </MarkerCategory>
+    <MarkerCategory name="separator2" IsSeparator="1" DisplayName="ONLY CHECK ONE AT A TIME" />
+    <!--Unlock Collections-->
+    <MarkerCategory name="start" DisplayName="Unlock Collections">
+      <MarkerCategory name="unlock1" DisplayName="Gyala Delve - Cpt. Wing Jun (Talk/Listen)" heightOffset="3.0" iconSize="1.0" mapdisplaysize="100" iconFile="DATA/unlock1.png"/>
+    </MarkerCategory>
+    <!--Basic Course 1-->
+    <MarkerCategory name="basic1" DisplayName="Basic Course 1">
+      <MarkerCategory name="basic1_1" DisplayName="Echovauld - Tateo (track)" heightOffset="3.0" iconSize="1.0" mapdisplaysize="100" iconFile="DATA/basic1_1.png"/>
+      <MarkerCategory name="basic1_2" DisplayName="Echovauld - Tateo (rescue)" heightOffset="3.0" iconSize="1.0" mapdisplaysize="100" iconFile="DATA/basic1_2.png"/>
+      <MarkerCategory name="basic1_3" DisplayName="Fractal - Thaumanova (complete)" heightOffset="3.0" iconSize="1.0" mapdisplaysize="100" iconFile="DATA/basic1_3.png"/>
+      <MarkerCategory name="basic1_4" DisplayName="Gyala Delve - Power Source: Boots (purchase)" heightOffset="3.0" iconSize="1.0" mapdisplaysize="100" iconFile="DATA/basic1_4.png"/>
+      <MarkerCategory name="basic1_5" DisplayName="Gyala Delve - Spec Ops Requisition: Boots (purchase)" heightOffset="3.0" iconSize="1.0" mapdisplaysize="100" iconFile="DATA/basic1_5.png"/>
+    </MarkerCategory>
+    <!--Basic Course 2-->
+    <MarkerCategory name="basic2" DisplayName="Basic Course 2">
+      <MarkerCategory name="basic2_1" DisplayName="New Kaineng - Janin (defeat)" heightOffset="3.0" iconSize="1.0" mapdisplaysize="100" iconFile="DATA/basic2_1.png"/>
+      <MarkerCategory name="basic2_2" DisplayName="New Kaineng - Fisherman (protect)" heightOffset="3.0" iconSize="1.0" mapdisplaysize="100" iconFile="DATA/basic2_2.png"/>
+      <MarkerCategory name="basic2_3" DisplayName="New Kaineng - Naga Leader (defeat)" heightOffset="3.0" iconSize="1.0" mapdisplaysize="100" iconFile="DATA/basic2_3.png"/>
+      <MarkerCategory name="basic2_4" DisplayName="Fractal - Uncategorized (complete)" heightOffset="3.0" iconSize="1.0" mapdisplaysize="100" iconFile="DATA/basic2_4.png"/>
+      <MarkerCategory name="basic2_5" DisplayName="Gyala Delve - Power Source: Gloves (purchase)" heightOffset="3.0" iconSize="1.0" mapdisplaysize="100" iconFile="DATA/basic2_5.png"/>
+      <MarkerCategory name="basic2_6" DisplayName="Gyala Delve - Spec Ops Requisition: Gloves (purchase)" heightOffset="3.0" iconSize="1.0" mapdisplaysize="100" iconFile="DATA/basic2_6.png"/>
+    </MarkerCategory>
+    <!--Basic Course 3-->
+    <MarkerCategory name="basic3" DisplayName="Basic Course 3">
+      <MarkerCategory name="basic3_1" DisplayName="Seitung Province - Tae-Sung (defeat)" heightOffset="3.0" iconSize="1.0" mapdisplaysize="100" iconFile="DATA/basic3_1.png"/>
+      <MarkerCategory name="basic3_2" DisplayName="Seitung Province - Purist Operatives (subdue)" heightOffset="3.0" iconSize="1.0" mapdisplaysize="100" iconFile="DATA/basic3_2.png"/>
+      <MarkerCategory name="basic3_3" DisplayName="Seitung Province - Naga Tide Priest (defeat)" heightOffset="3.0" iconSize="1.0" mapdisplaysize="100" iconFile="DATA/basic3_3.png"/>
+      <MarkerCategory name="basic3_4" DisplayName="Fractal - Cliffside (complete)" heightOffset="3.0" iconSize="1.0" mapdisplaysize="100" iconFile="DATA/basic3_4.png"/>
+      <MarkerCategory name="basic3_5" DisplayName="Gyala Delve - Power Source: Pauldrons (purchase)" heightOffset="3.0" iconSize="1.0" mapdisplaysize="100" iconFile="DATA/basic3_5.png"/>
+      <MarkerCategory name="basic3_6" DisplayName="Gyala Delve - Spec Ops Requisition: Pauldrons (purchase)" heightOffset="3.0" iconSize="1.0" mapdisplaysize="100" iconFile="DATA/basic3_6.png"/>
+    </MarkerCategory>
+    <!--Advanced Course 1-->
+    <MarkerCategory name="advanced1" DisplayName="Advanced Course 1">
+      <MarkerCategory name="advanced1_1" DisplayName="Echovauld - haywire Gods' Vengeance (defeat)" heightOffset="3.0" iconSize="1.0" mapdisplaysize="100" iconFile="DATA/advanced1_1.png"/>
+      <MarkerCategory name="advanced1_2" DisplayName="Echovauld - Igne Mossheart (defeat)" heightOffset="3.0" iconSize="1.0" mapdisplaysize="100" iconFile="DATA/advanced1_2.png"/>
+      <MarkerCategory name="advanced1_3" DisplayName="Echovauld - Enraged Amber Elemental (defeat)" heightOffset="3.0" iconSize="1.0" mapdisplaysize="100" iconFile="DATA/advanced1_3.png"/>
+      <MarkerCategory name="advanced1_4" DisplayName="Fractal - Nightmare 25+ (complete)" heightOffset="3.0" iconSize="1.0" mapdisplaysize="100" iconFile="DATA/advanced1_4.png"/>
+      <MarkerCategory name="advanced1_5" DisplayName="Gyala Delve - Power Source: Helmet (purchase)" heightOffset="3.0" iconSize="1.0" mapdisplaysize="100" iconFile="DATA/advanced1_5.png"/>
+      <MarkerCategory name="advanced1_6" DisplayName="Gyala Delve - Spec Ops Requisition: Helmet (purchase)" heightOffset="3.0" iconSize="1.0" mapdisplaysize="100" iconFile="DATA/advanced1_6.png"/>
+    </MarkerCategory>
+    <!--Advanced Course 2-->
+    <MarkerCategory name="advanced2" DisplayName="Advanced Course 2">
+      <MarkerCategory name="advanced2_1" DisplayName="New Kaineng - Purist Propaganda (search)" heightOffset="3.0" iconSize="1.0" mapdisplaysize="100" iconFile="DATA/advanced2_1.png"/>
+      <MarkerCategory name="advanced2_2" DisplayName="New Kaineng - Purist Assassin/Junker/Mesmer (defeat)" heightOffset="3.0" iconSize="1.0" mapdisplaysize="100" iconFile="DATA/advanced2_2.png"/>
+      <MarkerCategory name="advanced2_3" DisplayName="New Kaineng - Champion Pre-Event (Thwart Purists)" heightOffset="3.0" iconSize="1.0" mapdisplaysize="100" iconFile="DATA/advanced2_3.png">
+        <MarkerCategory name="separator3" IsSeparator="1" DisplayName="Possible Champ Location in Old Kaineng" />
+        <MarkerCategory name="separator4" IsSeparator="1" DisplayName="Possible Champ Location in Petrified Woods" />
+      </MarkerCategory>
+      <MarkerCategory name="advanced2_4" DisplayName="Fractal - Shattered Observ. 25+ (complete)" heightOffset="3.0" iconSize="1.0" mapdisplaysize="100" iconFile="DATA/advanced2_4.png"/>
+      <MarkerCategory name="advanced2_5" DisplayName="Gyala Delve - Power Source: Pants (purchase)" heightOffset="4.5" iconSize="1.0" mapdisplaysize="100" iconFile="DATA/advanced2_5.png"/>
+      <MarkerCategory name="advanced2_6" DisplayName="Gyala Delve - Spec Ops Requisition: Pants (purchase)" heightOffset="3.0" iconSize="1.0" mapdisplaysize="100" iconFile="DATA/advanced2_6.png"/>
+    </MarkerCategory>
+    <!--Final Course-->
+    <MarkerCategory name="final" DisplayName="Final Course">
+      <MarkerCategory name="final_1" DisplayName="Dragon's End - Soo-Won (complete meta)" heightOffset="3.0" iconSize="1.0" mapdisplaysize="100" iconFile="DATA/final_1.png"/>
+      <MarkerCategory name="final_2" DisplayName="Gyala Delve - Ravenous Wanderer (complete meta)" heightOffset="3.0" iconSize="1.0" mapdisplaysize="100" iconFile="DATA/final_2.png"/>
+      <MarkerCategory name="final_3" DisplayName="Fractal - Sunqua Peak 25+ (complete)" heightOffset="3.0" iconSize="1.0" mapdisplaysize="100" iconFile="DATA/final_3.png"/>
+      <MarkerCategory name="final_4" DisplayName="Gyala Delve - Power Source: Chestpiece (purchase)" heightOffset="3.0" iconSize="1.0" mapdisplaysize="100" iconFile="DATA/final_4.png"/>
+      <MarkerCategory name="final_5" DisplayName="Gyala Delve - Spec Ops Requisition: Chestpiece (purchase)" heightOffset="3.0" iconSize="1.0" mapdisplaysize="100" iconFile="DATA/final_5.png"/>
+    </MarkerCategory>
+  </MarkerCategory>
+</MarkerCategory>
+	<POIs>
+        <!--Unlock Collections: Markers-->
+        <POI MapID="1490" xpos="-93.6048" ypos="289.487" zpos="924.101" type="mmm.SpecOpsArmor.start.unlock1" GUID="85TQ+vxKq0KSCk0jPK1YZQ=="/>
+        <!--Basic Course 1: Markers-->
+        <POI MapID="1452" xpos="1033.64" ypos="-0.459738" zpos="-610.871" type="mmm.SpecOpsArmor.basic1.basic1_1" GUID="aYgc4B6DOUWK4tqDnsaxnA=="/>
+        <POI MapID="1452" xpos="1041.01" ypos="-0.476711" zpos="-613.241" type="mmm.SpecOpsArmor.basic1.basic1_2" GUID="/b2fHiPYxk6GquIvEN8zDw=="/>
+        <POI MapID="50" xpos="146.64" ypos="32.4623" zpos="-243.401" type="mmm.SpecOpsArmor.basic1.basic1_3" GUID="k5Hq506jLUOEPXyiP9l95g=="/>
+        <POI MapID="1490" xpos="-93.634" ypos="289.434" zpos="923.188" type="mmm.SpecOpsArmor.basic1.basic1_4" GUID="wEsYhjPdz0iU+vdJWtjiRg=="/>
+        <POI MapID="1490" xpos="-93.7206" ypos="289.322" zpos="925.206" type="mmm.SpecOpsArmor.basic1.basic1_5" GUID="SPfqd6VPwkCr/OIDu9u/1A=="/>
+        <!--Basic Course 2: Markers-->
+        <POI MapID="1438" xpos="779.953" ypos="48.5301" zpos="317.68" type="mmm.SpecOpsArmor.basic2.basic2_1" GUID="nFTRI9M+HE6sUNJOajZaWw=="/>
+        <POI MapID="1438" xpos="-792.378" ypos="1.62461" zpos="-667.86" type="mmm.SpecOpsArmor.basic2.basic2_2" GUID="GzLN8/JOIUuiafKCieHpBA=="/>
+        <POI MapID="1438" xpos="-993.836" ypos="43.2812" zpos="612.436" type="mmm.SpecOpsArmor.basic2.basic2_3" GUID="WVzRzE/k2EGhb8kvO9DnQQ=="/>
+        <POI MapID="50" xpos="146.64" ypos="32.4623" zpos="-243.401" type="mmm.SpecOpsArmor.basic2.basic2_4" GUID="0FfMirE0E0ud3lx0KKh7fQ=="/>
+        <POI MapID="1490" xpos="-93.5174" ypos="289.441" zpos="923.17" type="mmm.SpecOpsArmor.basic2.basic2_5" GUID="k2xqfwbwX0m5d8KnaS9DQA=="/>
+        <POI MapID="1490" xpos="-93.6213" ypos="289.327" zpos="925.183" type="mmm.SpecOpsArmor.basic2.basic2_6" GUID="j0jpeZ2hSkWWJNfAYctn0A=="/>
+        <!--Basic Course 3: Markers-->
+        <POI MapID="1442" xpos="205.842" ypos="80.718" zpos="-355.953" type="mmm.SpecOpsArmor.basic3.basic3_1" GUID="+6ooolMuJk6ccn0OiZDJ3w=="/>
+        <POI MapID="1442" xpos="-673.715" ypos="148.8" zpos="-14.1259" type="mmm.SpecOpsArmor.basic3.basic3_2" GUID="XwG0AaYDm0Cu53ZbQSu4tw=="/>
+        <POI MapID="1442" xpos="889.958" ypos="0.700964" zpos="-583.036" type="mmm.SpecOpsArmor.basic3.basic3_3" GUID="2TJQFQdQ+EuKFJn+9b6Jgw=="/>
+        <POI MapID="50" xpos="146.64" ypos="32.4623" zpos="-243.401" type="mmm.SpecOpsArmor.basic3.basic3_4" GUID="5+8a3sO+U0ConNKe0r7l8A=="/>
+        <POI MapID="1490" xpos="-93.5297" ypos="289.438" zpos="922.997" type="mmm.SpecOpsArmor.basic3.basic3_5" GUID="AN/tEXcr+kmcSvJnX/BzwQ=="/>
+        <POI MapID="1490" xpos="-93.6333" ypos="289.295" zpos="925.373" type="mmm.SpecOpsArmor.basic3.basic3_6" GUID="bhszLKBklkWdB9Rw/aRNcA=="/>
+        <!--Advanced Course 1: Markers-->
+        <POI MapID="1452" xpos="478.136" ypos="96.9012" zpos="283.822" type="mmm.SpecOpsArmor.advanced1.advanced1_1" GUID="Rm7yDaJTPE++wL/BHA/yzQ=="/>
+        <POI MapID="1452" xpos="11.0773" ypos="136.748" zpos="-325.308" type="mmm.SpecOpsArmor.advanced1.advanced1_2" GUID="IEjqzPinJUC7PQ25A4R2/w=="/>
+        <POI MapID="1452" xpos="-956.86" ypos="174.077" zpos="176.391" type="mmm.SpecOpsArmor.advanced1.advanced1_3" GUID="s51swfdudUigXUNtoB02Bg=="/>
+        <POI MapID="50" xpos="146.64" ypos="32.4623" zpos="-243.401" type="mmm.SpecOpsArmor.advanced1.advanced1_4" GUID="8AkbN1WOkUe4gMRFRQ70Gw=="/>
+        <POI MapID="1490" xpos="-93.5273" ypos="289.438" zpos="923.006" type="mmm.SpecOpsArmor.advanced1.advanced1_5" GUID="Ut/LGTjg0Eyc9n2QJBnozg=="/>
+        <POI MapID="1490" xpos="-93.6235" ypos="289.324" zpos="925.204" type="mmm.SpecOpsArmor.advanced1.advanced1_6" GUID="X8ZUuT3OMk6P5WInsY3RgA=="/>
+        <!--Advanced Course 2: Markers-->
+        <POI MapID="1438" xpos="-507.094" ypos="206.826" zpos="-462.929" type="mmm.SpecOpsArmor.advanced2.advanced2_1" GUID="xnHqL2So2ECBnhUri1DW6A=="/>
+        <POI MapID="1438" xpos="-541.935" ypos="198.031" zpos="-492.659" type="mmm.SpecOpsArmor.advanced2.advanced2_2" GUID="ebQ5Th5h80CziEOHPYS/Pw=="/>
+        <POI MapID="1438" xpos="322.935" ypos="4.91313" zpos="105.029" type="mmm.SpecOpsArmor.advanced2.advanced2_3" GUID="87syvVrx70GjsjJepOUnRQ=="/>
+        <POI MapID="50" xpos="146.64" ypos="32.4623" zpos="-243.401" type="mmm.SpecOpsArmor.advanced2.advanced2_4" GUID="Z6u1pz5Wa0OC2yG0NC56XA=="/>
+        <POI MapID="1490" xpos="-93.8423" ypos="289.417" zpos="922.839" type="mmm.SpecOpsArmor.advanced2.advanced2_5" GUID="/t5yQ0R5zEOcFdxVdrU/MA=="/>
+        <POI MapID="1490" xpos="-93.8423" ypos="289.417" zpos="922.839" type="mmm.SpecOpsArmor.advanced2.advanced2_6" GUID="75zeFa7OxU2ZxAt7x9eAuw=="/>
+        <!--Final Course: Markers-->
+        <POI MapID="1422" xpos="15.305" ypos="391.713" zpos="-518.066" type="mmm.SpecOpsArmor.final.final_1" GUID="+ulhihmdbEW+qyKA+yk5Pw=="/>
+        <POI MapID="1490" xpos="-321.175" ypos="280.395" zpos="922.351" type="mmm.SpecOpsArmor.final.final_2" GUID="Ylweo5I2mECQLeO3NkV5Pw=="/>
+        <POI MapID="50" xpos="146.64" ypos="32.4623" zpos="-243.401" type="mmm.SpecOpsArmor.final.final_3" GUID="b3YejhcV+kqnvPsrxbIDOg=="/>
+        <POI MapID="1490" xpos="-93.6773" ypos="289.431" zpos="923.138" type="mmm.SpecOpsArmor.final.final_4" GUID="I59gLtv/g0Os3W/mcli8zQ=="/>
+        <POI MapID="1490" xpos="-93.5229" ypos="289.331" zpos="925.171" type="mmm.SpecOpsArmor.final.final_5" GUID="p/B1IySIwUiGXnLGFyigEw=="/>
+	</POIs>
+</OverlayData>
+
+
+<!--Mapped and Designed by Pewpew Kapew (Girbilcannon.8259) of The TINY Army-->
+<!--tinyarmy.org-->
+<!--discord.gg/tinyarmy-->

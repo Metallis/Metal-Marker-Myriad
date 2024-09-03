@@ -4,15 +4,8 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 xsi:schemaLocation="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD https://raw.githubusercontent.com/xrandox/Gw2_Marker_Pack_DTD_XSD/main/GW2MarkerPack.xsd"
 xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
     <!-- Discord Invite:https://discord.gg/FP8dQj6KBj -->
-    <MarkerCategory name="mmm" DisplayName="Metal Marker Myriad" fadeNear="3000" fadeFar="5000">
-        <MarkerCategory name="achievements" DisplayName="Achievements/Collections">
-            <MarkerCategory name="jw" DisplayName="Janthir Wilds">
-                <MarkerCategory name="baq" DisplayName="Build-A-Quaggan" achievementId="8249">
-                    <MarkerCategory name="fibers" DisplayName="Gather Plant Fibers" achievementBit="1"/>
-                </MarkerCategory>
-                <MarkerCategory name="tr" DisplayName="Titan Researcher" achievementId="8175"/>
-            </MarkerCategory>
-        </MarkerCategory>
+    <MarkerCategory name="mmm" DisplayName="Metal Marker Myriad">
+
     </MarkerCategory>
     <POIs>
     <!-- Build-A-Quaggan -->

@@ -1,0 +1,15 @@
+<!DOCTYPE OverlayData PUBLIC "" "https://raw.githubusercontent.com/xrandox/Gw2_Marker_Pack_DTD_XSD/main/GW2MarkerPack.dtd">
+<OverlayData 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD https://raw.githubusercontent.com/xrandox/Gw2_Marker_Pack_DTD_XSD/main/GW2MarkerPack.xsd"
+xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
+    <!-- Discord Invite:https://discord.gg/FP8dQj6KBj -->
+    <MarkerCategory name="mmm" DisplayName="Metal Marker Myriad">
+    </MarkerCategory>
+    <POIs>
+        <POI MapID="1428" xpos="-934.6945" ypos="14.87589" zpos="694.9146" type="mmm.achievements.eod.stompingaround" achievementBit="2" show="mmm.gathering.carrot" copy-message="Carrot hunting details copied to clipboard!" copy="of [&amp;BIIBAAA=], b/w [&amp;BLgAAAA=]/[&amp;BLQAAAA=] by water, N of [&amp;BC4EAAA=], N of [&amp;BIYHAAA=], E of [&amp;BNwKAAA=], S of [&amp;BJ4MAAA=]" GUID="yBMOMm8mL0STeBpfGsd17w=="/>
+        <POI MapID="1428" xpos="-936.734" ypos="13.84703" zpos="700.6375" type="mmm.achievements.eod.stompingaround" achievementBit="2" show="mmm.gathering.kale" copy-message="Kale hunting details copied to clipboard!" copy="4 b/w [&amp;BEoBAAA=]/[&amp;BNUAAAA=], SSW of [&amp;BFEDAAA=], WSW of [&amp;BAACAAA=], b/w [&amp;BAECAAA=]/[&amp;BAICAAA=], NNW of [&amp;BAQCAAA=]" GUID="05wjwCTF8Ue18BLr1o+4Tw=="/>
+        <POI MapID="1428" xpos="-939.331" ypos="15.2273" zpos="685.4124" type="mmm.achievements.eod.stompingaround" achievementBit="2" show="mmm.gathering.letttuce" copy-message="Lettuce hunting details copied to clipboard!" copy="S of [&amp;BPoAAAA=], NW of [&amp;BEABAAA=], E of [&amp;BNwKAAA=]" GUID="t2p/qWxDsU+v+mZ84xGOzw=="/>
+        <POI MapID="1428" xpos="-943.8602" ypos="14.69678" zpos="683.6607" type="mmm.achievements.eod.stompingaround" achievementBit="2" show="mmm.gathering.strawberry" copy-message="Strawberry hunting details copied to clipboard!" copy="SE of [&amp;BBIAAAA=], S of [&amp;BMAAAAA=], W of [&amp;BN4AAAA=], NNW of [&amp;BJEKAAA=]" GUID="oB52sgH3aEuSiKrAWg1Org=="/>
+    </POIs>
+</overlaydata>

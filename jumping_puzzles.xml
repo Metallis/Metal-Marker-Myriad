@@ -3,23 +3,8 @@
 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
 xsi:schemaLocation="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD https://raw.githubusercontent.com/xrandox/Gw2_Marker_Pack_DTD_XSD/main/GW2MarkerPack.xsd"
 xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
-    <MarkerCategory name="mmm" DisplayName="Metal Marker Myriad" fadeNear="3000" fadeFar="5000">
-        <MarkerCategory name="jp" DisplayName="Jumping Puzzles">
-            <MarkerCategory name="lutv" DisplayName="Light Up the Vale">
-                <MarkerCategory name="trail" DisplayName="Trail"/>
-                <MarkerCategory name="guide" DisplayName="Guide" iconFile="Data/Icons/glide_booster.png" mapVisibility="0" miniMapVisibility="0"/>
-                <MarkerCategory name="braziers" DisplayName="Braziers"/>
-            </MarkerCategory>
-            <MarkerCategory name="qc" DisplayName="Queen's Confidence">
-                <MarkerCategory name="trail" DisplayName="Trail"/>
-                <MarkerCategory name="guide" DisplayName="Guide"/>
-            </MarkerCategory>
-            <MarkerCategory name="bt" DisplayName="Buzzy Treetops">
-                <MarkerCategory name="trail" DisplayName="Trail"/>
-                <MarkerCategory name="backtrail" DisplayName="Back Way Trail" defaulttoggle="0"/>
-                <MarkerCategory name="guide" DisplayName="Guide"/>
-            </MarkerCategory>
-        </MarkerCategory>
+    <!-- Discord Invite:https://discord.gg/FP8dQj6KBj -->
+    <MarkerCategory name="mmm" DisplayName="Metal Marker Myriad">
     </MarkerCategory>
     <POIs>
         <!-- Light Up the Vale -->

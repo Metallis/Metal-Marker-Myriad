@@ -4,14 +4,7 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 xsi:schemaLocation="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD https://raw.githubusercontent.com/xrandox/Gw2_Marker_Pack_DTD_XSD/main/GW2MarkerPack.xsd"
 xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
 <!-- Discord Invite:https://discord.gg/FP8dQj6KBj -->
-    <MarkerCategory name="mmm" DisplayName="Metal Marker Myriad" fadeNear="3000" fadeFar="5000" texture="Data/Icons/default_trail.png">
-            <MarkerCategory name="mapcomp" DisplayName="Map Completion">
-            <MarkerCategory name="lanterns" DisplayName="Lantern Run"/>
-            <MarkerCategory name="hearts" DisplayName="Hearts">
-                <MarkerCategory name="interact" DisplayName="Interact"/>
-                <MarkerCategory name="touch" DisplayName="Touch">
-            </MarkerCategory>
-        </MarkerCategory>
+    <MarkerCategory name="mmm" DisplayName="Metal Marker Myriad">
     </MarkerCategory>
     <POIs>
         <!-- Crates -->

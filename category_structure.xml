@@ -4,12 +4,15 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 xsi:schemaLocation="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD https://raw.githubusercontent.com/xrandox/Gw2_Marker_Pack_DTD_XSD/main/GW2MarkerPack.xsd"
 xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
 	<!-- Discord Invite:https://discord.gg/FP8dQj6KBj -->
-	 <MarkerCategory name="mmm" DisplayName="Metal Marker Myriad" texture="Data/Icons/default_trail.png">
+	<MarkerCategory name="mmm" DisplayName="Metal Marker Myriad" texture="Data/Icons/default_trail.png">
+        <MarkerCategory name="contributors" DisplayName="Contributors/Thanks" isseparator="1">
+        </MarkerCategory>
 		<MarkerCategory name="achievements" DisplayName="Achievements/Collections">
             <MarkerCategory name="general" DisplayName="General">
 				<MarkerCategory name="community" DisplayName="Community">
 					<MarkerCategory name="someoneinneed" DisplayName="Someone In Need (Invis Chair)"/>
 				</MarkerCategory>
+                <MarkerCategory name="sunkenchests" DisplayName="Sunken Treasure Hunter/Master Diver" achievementId="4177"/>
 			</MarkerCategory>
             <MarkerCategory name="hidden" DisplayName="Hidden" defaulttoggle="0">
                 <!-- Adventure Guide -->
@@ -316,7 +319,27 @@ xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
                 <MarkerCategory name="ton" DisplayName="Tower of Nightmares">
                     <MarkerCategory name="tkh" DisplayName="Toxic Krait Historian" achievementId="1092"/>
                 </MarkerCategory>
+                <MarkerCategory name="wlw" DisplayName="What Lies Within">
+                    <MarkerCategory name="wlsora" DisplayName="World Lore: Special Ops Rescue Agency" achievementId="6904"/>
+                    <MarkerCategory name="sobc1" DisplayName="Special Ops Basic Course 1" achievementId="5495"/>
+                    <MarkerCategory name="sobc2" DisplayName="Special Ops Basic Course 2" achievementId="6908"/>
+                    <MarkerCategory name="sobc3" DisplayName="Special Ops Basic Course 3" achievementId="6912"/>
+                    <MarkerCategory name="sobc1" DisplayName="Special Ops Advanced Course 1" achievementId="6920"/>
+                    <MarkerCategory name="sobc2" DisplayName="Special Ops Advanced Course 2" achievementId="6900"/>
+                    <MarkerCategory name="sobfc" DisplayName="Special Ops Final Course" achievementId="6928"/>
+                </MarkerCategory>
             </MarkerCategory>
+            <MarkerCategory name="eod" DisplayName="End of Dragons">
+                
+            </MarkerCategory>  
+            <MarkerCategory name="achievements" DisplayName="Achievements/Collections">
+                <MarkerCategory name="jw" DisplayName="Janthir Wilds">
+                    <MarkerCategory name="baq" DisplayName="Build-A-Quaggan" achievementId="8249">
+                        <MarkerCategory name="fibers" DisplayName="Gather Plant Fibers" achievementBit="1"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="tr" DisplayName="Titan Researcher" achievementId="8175"/>
+                </MarkerCategory>
+            </MarkerCategory>  
         </MarkerCategory>
         <MarkerCategory name="adventures" DisplayName="Adventures">
             <MarkerCategory name="ox_yoke" DisplayName="The Ox's Yoke"/>
@@ -326,12 +349,22 @@ xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
         </MarkerCategory>
         <MarkerCategory name="farming" DisplayName="Farming">
             <MarkerCategory name="chests" DisplayName="Chests">
+                <MarkerCategory name="bjorachests" DisplayName="Bjora Essence Chests"/>
+                <MarkerCategory name="garcane" DisplayName="Greater Arcane Chest"/>
                 <MarkerCategory name="mkodan" DisplayName="Major Kodan Chests"/>
                 <MarkerCategory name="sniff" DisplayName="Warclaw Sniff" iconFile="Data/Icons/sniff.png"/>
             </MarkerCategory>
-            <MarkerCategory name="currency" DisplayName="Currency (Wallet)">
-
-            </MarkerCategory>
+            <MarkerCategory name="currency" DisplayName="Wallet Currencies, Keys and Other">
+				<MarkerCategory name="staticcharge" DisplayName="Static Charge" fadeNear="3000" fadeFar="5000">
+					<MarkerCategory name="orbs" DisplayName="Orb Visibility Rings" iconFile="Data/Icons/ring.png" fadeNear="1500" fadeFar="2500" miniMapVisibility="0" mapVisibility="0"/>
+				</MarkerCategory>
+				<MarkerCategory name="stardust" DisplayName="Pinch of Stardust" fadeNear="3000" fadeFar="5000">
+					<MarkerCategory name="orbs" DisplayName="Orb Visibility Rings" iconFile="Data/Icons/ring.png" fadeNear="1500" fadeFar="2500" miniMapVisibility="0" mapVisibility="0"/>
+				</MarkerCategory>
+				<MarkerCategory name="gasp" DisplayName="Calcified Gasp" fadeNear="3000" fadeFar="5000" >
+					<MarkerCategory name="orbs" DisplayName="Orb Visibility Rings" iconFile="Data/Icons/ring.png" fadeNear="1500" fadeFar="2500" miniMapVisibility="0" mapVisibility="0"/>
+				</MarkerCategory>
+			</MarkerCategory>
             <MarkerCategory name="items" DisplayName="Items/Loot">
 
             </MarkerCategory>
@@ -340,7 +373,6 @@ xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
             </MarkerCategory>
         </MarkerCategory>
         <MarkerCategory name="festivals" DisplayName="Festivals">
-
             <MarkerCategory name="db" DisplayName="Dragon Bash" festival="dragonbash">
                 <MarkerCategory name="zhaitaffy" DisplayName="Pinatas - Zhaitaffy Farm">
                     <MarkerCategory name="trail" DisplayName="Toggle trail"/>
@@ -349,11 +381,15 @@ xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
             </MarkerCategory>
         </MarkerCategory>
         <MarkerCategory name="gathering" DisplayName="Gathering" bounce="rise" bounce-height="3" autoTrigger="1" triggerRange="25">
+            <MarkerCategory name="carrot" DisplayName="Carrots" iconFile="Data/Icons/carrot.png"/>
             <MarkerCategory name="chargedore" DisplayName="Charged Titan Ore" iconFile="Data/Icons/charged_titan_ore.png"/>
             <MarkerCategory name="echoresin" DisplayName="Chunk of Petrified Echovald Resin" iconFile="Data/Icons/echovald_resin.png"/>
             <MarkerCategory name="honeyflower" DisplayName="Honey Flower" iconFile="Data/Icons/honey_flower.png"/>
+            <MarkerCategory name="kale" DisplayName="Kale" iconFile="Data/Icons/kale_leaf.png"/>
+            <MarkerCategory name="lettuce" DisplayName="Lettuce" iconFile="Data/Icons/head_of_lettuce.png"/>
             <MarkerCategory name="lowlandpine" DisplayName="Lowland Pine Sapling" iconFile="Data/Icons/lowland_pine_log.png"/>
             <MarkerCategory name="rottedamber" DisplayName="Rotted Titan Amber" iconFile="Data/Icons/rotted_titan_amber.png"/>
+            <MarkerCategory name="strawberry" DisplayName="Strawberries" iconFile="Data/Icons/strawberry.png"/>
             <MarkerCategory name="toxicspore" DisplayName="Pristine Toxic Spore Sample" iconFile="Data/Icons/toxic_spore.png">
                 <MarkerCategory name="offshootevents" DisplayName="Toxic Offshoot Events" iconSize="3" color="#ff7f7f"/>
             </MarkerCategory>
@@ -433,10 +469,11 @@ xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
             </MarkerCategory>
         </MarkerCategory>
         <MarkerCategory name="mapcomp" DisplayName="Map Completion">
-            <MarkerCategory name="lanterns" DisplayName="Lantern Run"/>
-            <MarkerCategory name="hearts" DisplayName="Hearts">
+            <MarkerCategory name="hearts" DisplayName="Hearts" iconFile="Data/Icons/heart_full.png">
                 <MarkerCategory name="interact" DisplayName="Interactables"/>
+                <MarkerCategory name="touch" DisplayName="Touch"/>
             </MarkerCategory>
+            <MarkerCategory name="lanterns" DisplayName="Lanterns"/>
         </MarkerCategory>
         <MarkerCategory name="insights" DisplayName="Mastery Insights">
             <MarkerCategory name="bc_bbb" DisplayName="Bloody Bill's Base" achievementId="3501"/>
@@ -610,8 +647,8 @@ xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
             <MarkerCategory name="ls_tt" DisplayName="Troll's Treasure" achievementId="8365"/>
             <MarkerCategory name="ls_wr" DisplayName="Waterfall Roost" achievementId="8220"/>
         </MarkerCategory>
-        <MarkerCategory name="vendors" DisplayName="Vendors"/>
-            <MarkerCategory name="psna" DisplayName="Pact Supply (PSNA)"/>
+        <MarkerCategory name="vendors" DisplayName="Vendors">
+            <MarkerCategory name="psna" DisplayName="Pact Supply (PSNA)" iconFile="Data/Icons/psna_clipboard.png" texture="Data/Icons/default_trail.png" schedule-duration="1440" iconSize="1.5" heightOffset="1.5"/>
         </MarkerCategory>
-	 </MarkerCategory>
+	</MarkerCategory>
 </OverlayData>
