@@ -4,7 +4,7 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 xsi:schemaLocation="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD https://raw.githubusercontent.com/xrandox/Gw2_Marker_Pack_DTD_XSD/main/GW2MarkerPack.xsd"
 xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
 	<!-- Discord Invite:https://discord.gg/FP8dQj6KBj -->
-	<MarkerCategory name="mmm" DisplayName="Metal Marker Myriad" texture="Data/Icons/default_trail.png">
+	<MarkerCategory name="mmm" DisplayName="Metal Marker Myriad">
     </MarkerCategory>
     <POIs>
         <!-- Bjora Essence Chests and Norn Chests -->
@@ -12,7 +12,7 @@ xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
         <POI MapID="1343" xpos="113.992" ypos="191.881" zpos="502.760" type="mmm.exploration.mastery.bjorachests" iconFile="Data/Icons/finish_flag.png" GUID="scSwwpU+iU6yIfgkX6EChQ=="/>
         <Trail type="mmm.farming.chests.bjorachests" trailData="Data/Trails/bjora_essence_chests.trl" texture="Data/Icons/default_trail.png" color="#d55e00" fadeNear="6000" fadeFar="7000"/>
         <!-- Greater Arcane Chests -->
-        <Trail type="mmm.farming.chests.garcane" trailData="Data/Trails/amnytas_greater_arcanes.trl" texture="Data/Icons/default_trail.png" fadeNear="3000" fadeFar="5000" color="##56B4E9"/>
+        <Trail type="mmm.farming.chests.garcane" trailData="Data/Trails/amnytas_greater_arcanes.trl" texture="Data/Icons/default_trail.png" fadeNear="3000" fadeFar="5000" color="#56B4E9"/>
         <Trail type="mmm.farming.chests.garcane" trailData="Data/Trails/luaren_sa_g_arcane.trl" texture="Data/Icons/luaren_uwu_arrow.png" fadeNear="3000" fadeFar="5000" color="#ff6ede"/>
         <POI MapID="1510" xpos="-645.7746" ypos="549.6155" zpos="160.8512" type="mmm.farming.chests.garcane" iconFile="Data/Icons/beetle.png" GUID="wGMDJ+KKmEaypgRhgnv5dQ=="/>
         <POI MapID="1510" xpos="-844.95343" ypos="551.637695" zpos="68.991325" type="mmm.farming.chests.garcane" iconFile="Data/Icons/skyscale.png" GUID="onlI8U+4Y0yJ2D1aWblitg=="/>
@@ -63,6 +63,8 @@ xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
         <POI MapID="1554" xpos="232.1612" ypos="59.07501" zpos="66.67148" type="mmm.farming.chests.mkodan" GUID="C6QP4gdA/Uq2/46rXr4rXA=="/>
         <POI MapID="1554" xpos="-75.98322" ypos="92.11187" zpos="-515.6899" type="mmm.farming.chests.mkodan" GUID="KJAlu9ag10mC/FsCgQmsNQ=="/>
         <POI MapID="1554" xpos="75.35513" ypos="76.12436" zpos="-735.2476" type="mmm.farming.chests.mkodan" GUID="Kj9mByHBokCMRwfseum6aQ=="/>
+        <POI MapID="1550" xpos="-135.1049" ypos="312.4497" zpos="-383.8064" type="mmm.farming.chests.mkodan" GUID="R/vEIQjdAkSmtqSw/YQqOw=="/>
+        <POI MapID="1550" xpos="34.10831" ypos="20.83994" zpos="389.7236" type="mmm.farming.chests.mkodan" GUID="Hn6aEWdbs0eRIdx8alboyw=="/>
         <!-- Warclaw Sniff Spots -->
         <POI MapID="1550" xpos="-991.0939" ypos="205.7086" zpos="-31.68695" type="mmm.farming.chests.sniff" GUID="dlT7dVuS3US0X+QJq3+J7Q=="/>
         <POI MapID="1554" xpos="299.8351" ypos="8.982041" zpos="-10.84787" type="mmm.farming.chests.sniff" GUID="g3krVkqYZ0WBFGA6TZOauQ=="/>
@@ -78,5 +80,6 @@ xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
         <POI MapID="1554" xpos="222.3677" ypos="2.312576" zpos="665.0302" type="mmm.farming.chests.sniff" GUID="JPDc/IT1REKyLuf2FMd+fQ=="/>
         <POI MapID="1554" xpos="434.1064" ypos="29.96684" zpos="201.1648" type="mmm.farming.chests.sniff" GUID="WzAZx3o+Z0muUusxywnuzA=="/>
         <POI MapID="1554" xpos="500.6468" ypos="14.66405" zpos="183.5287" type="mmm.farming.chests.sniff" GUID="FrV0bR+6s0+IFY2sMFG4Kg=="/>
+        <POI MapID="1550" xpos="83.37656" ypos="218.1242" zpos="329.6742" type="mmm.farming.chests.sniff" GUID="0UuCdiQhwE6glyJ7V7j+qQ=="/>
     </POIs>
 </OverlayData>

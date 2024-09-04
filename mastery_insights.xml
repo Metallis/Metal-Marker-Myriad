@@ -154,5 +154,29 @@ xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
         <Trail type="mmm.insights.sa_wgs" trailData="Data/Trails/sa_wgs.trl"/>
         <Trail type="mmm.insights.wt_abev" trailData="Data/Trails/wt_abev.trl"/>
         <Trail type="mmm.insights.wt_ta" trailData="Data/Trails/wt_ta.trl"/>
+        <Trail type="mmm.insights.js_br" trailData="Data/Trails/js_br.trl"/>
+        <Trail type="mmm.insights.js_fv" trailData="Data/Trails/js_fv.trl"/>
+        <Trail type="mmm.insights.js_fl" trailData="Data/Trails/js_fl.trl"/>
+        <Trail type="mmm.insights.js_gc" trailData="Data/Trails/js_gc.trl"/>
+        <Trail type="mmm.insights.js_ms" trailData="Data/Trails/js_ms.trl"/>
+        <Trail type="mmm.insights.js_por" trailData="Data/Trails/js_por.trl"/>
+        <Trail type="mmm.insights.js_sa" trailData="Data/Trails/js_sa.trl"/>
+        <Trail type="mmm.insights.js_sca" trailData="Data/Trails/js_sca.trl"/>
+        <Trail type="mmm.insights.js_scl" trailData="Data/Trails/js_scl.trl"/>
+        <Trail type="mmm.insights.js_tbo" trailData="Data/Trails/js_tbo.trl"/>
+        <Trail type="mmm.insights.js_tt" trailData="Data/Trails/js_tt.trl"/>
+        <Trail type="mmm.insights.ls_boim" trailData="Data/Trails/ls_boim.trl"/>
+        <Trail type="mmm.insights.ls_as" trailData="Data/Trails/ls_as.trl"/>
+        <Trail type="mmm.insights.ls_cp" trailData="Data/Trails/ls_cp.trl"/>
+        <Trail type="mmm.insights.ls_gf" trailData="Data/Trails/ls_gf.trl"/>
+        <POI MapID="1550" xpos="-552.9745" ypos="220.6672" zpos="-303.9582" type="mmm.insights.ls_gf" iconFile="Data/Icons/warclaw.png" GUID="W47ChPEmck+KSn3vDJD2Cw=="/>
+        <POI MapID="1550" xpos="-513.2888" ypos="248.1129" zpos="-302.1671" type="mmm.insights.ls_gf" alpha="0" info="This can be done with no healing, but you may wish to use a pulsing heal, Jackal Barrier, or have a friend cast heals on you.&#xA;&#xA;Be careful of falling in the hole itself. It's hard to get out in time." GUID="JT3ToNdTK0icEfO4j8G0MQ=="/>
+        <Trail type="mmm.insights.ls_lr" trailData="Data/Trails/ls_lr.trl"/>
+        <Trail type="mmm.insights.ls_pp" trailData="Data/Trails/ls_pp.trl"/>
+        <Trail type="mmm.insights.ls_rf" trailData="Data/Trails/ls_rf.trl"/>
+        <Trail type="mmm.insights.ls_si" trailData="Data/Trails/ls_si.trl"/>
+        <Trail type="mmm.insights.ls_ss" trailData="Data/Trails/ls_ss.trl"/>
+        <Trail type="mmm.insights.ls_tt" trailData="Data/Trails/ls_tt.trl"/>
+        <Trail type="mmm.insights.ls_wr" trailData="Data/Trails/ls_wr.trl"/>        
     </POIs>
 </OverlayData>
