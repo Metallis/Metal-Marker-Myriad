@@ -7,30 +7,30 @@ xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
 	</MarkerCategory>
 	<POIs>
 		<!-- Sunken Chests -->
-		<Trail type="mmm.achievements.general.general.sunkenchests" trailData="Data/Trails/sunken_chest_gendarran.trl" achievementBit="0" texture="Data/Icons/default_trail.png" color="#f0e442"/>
+		<Trail type="mmm.achievements.general.general.sunkenchests" trailData="Data/Trails/sunken_chest_gendarran.trl" achievementBit="0" color="#f0e442"/>
         <POI MapID="24" xpos="172.2778" ypos="-58.88977" zpos="350.0961" type="mmm.achievements.general.sunkenchests" achievementBit="0" alpha="0" triggerRange="5" copy="[&amp;BKYAAAA=]" copy-message="Next WP copied" GUID="+9wNNmhpOE2YuWcYV8kHiA=="/>
-        <Trail type="mmm.achievements.general.sunkenchests" trailData="Data/Trails/sunken_chest_harathi.trl" achievementBit="1" texture="Data/Icons/default_trail.png" color="#f0e442"/>
+        <Trail type="mmm.achievements.general.sunkenchests" trailData="Data/Trails/sunken_chest_harathi.trl" achievementBit="1" color="#f0e442"/>
         <POI MapID="17" xpos="617.6963" ypos="-59.02163" zpos="-618.1778" type="mmm.achievements.general.sunkenchests" achievementBit="1" alpha="0" triggerRange="5" copy="[&amp;BMADAAA=]" copy-message="Next WP copied" GUID="t4Zvnh68vUGSBRkw3F2qTQ=="/>
-        <Trail type="mmm.achievements.general.sunkenchests" trailData="Data/Trails/sunken_chest_bloodtide.trl" achievementBit="2" texture="Data/Icons/default_trail.png" color="#f0e442"/>
+        <Trail type="mmm.achievements.general.sunkenchests" trailData="Data/Trails/sunken_chest_bloodtide.trl" achievementBit="2" color="#f0e442"/>
         <POI MapID="73" xpos="263.9194" ypos="-48.63301" zpos="392.2854" type="mmm.achievements.general.sunkenchests" achievementBit="2" alpha="0" triggerRange="5" copy="[&amp;BBMAAAA=]" copy-message="Next WP copied" GUID="Qg/xTMDB506sy0cNMW3emg=="/>
-        <Trail type="mmm.achievements.general.sunkenchests" trailData="Data/Trails/sunken_chest_kessex.trl" achievementBit="3" texture="Data/Icons/default_trail.png" color="#f0e442"/>
+        <Trail type="mmm.achievements.general.sunkenchests" trailData="Data/Trails/sunken_chest_kessex.trl" achievementBit="3" color="#f0e442"/>
         <POI MapID="23" xpos="110.6369" ypos="-51.51819" zpos="-341.4052" type="mmm.achievements.general.sunkenchests" achievementBit="3" alpha="0" triggerRange="5" copy="[&amp;BOQAAAA=]" copy-message="Next WP copied" GUID="mWJpg4wmskS8nNMyMVPfRg=="/>
-        <Trail type="mmm.achievements.general.sunkenchests" trailData="Data/Trails/sunken_chest_ironmarches.trl" achievementBit="4" texture="Data/Icons/default_trail.png" color="#f0e442"/>
+        <Trail type="mmm.achievements.general.sunkenchests" trailData="Data/Trails/sunken_chest_ironmarches.trl" achievementBit="4" color="#f0e442"/>
         <POI MapID="25" xpos="324.6785" ypos="-31.80154" zpos="157.2047" type="mmm.achievements.general.sunkenchests" achievementBit="4" alpha="0" triggerRange="5" copy="[&amp;BNECAAA=]" copy-message="Next WP copied" GUID="+ys2STAmF0S76SyiBAIOIQ=="/>
-        <Trail type="mmm.achievements.general.sunkenchests" trailData="Data/Trails/sunken_chest_snowden.trl" achievementBit="5" texture="Data/Icons/default_trail.png" color="#f0e442"/>
+        <Trail type="mmm.achievements.general.sunkenchests" trailData="Data/Trails/sunken_chest_snowden.trl" achievementBit="5" color="#f0e442"/>
         <POI MapID="31" xpos="76.69464" ypos="-22.54808" zpos="-368.056" type="mmm.achievements.general.sunkenchests" achievementBit="5" alpha="0" triggerRange="5" copy="[&amp;BHwCAAA=]" copy-message="Next WP copied" GUID="gXUdJ5z6NkOiXZv/LxHKnw=="/>
-        <Trail type="mmm.achievements.general.sunkenchests" trailData="Data/Trails/sunken_chest_frostgorge.trl" achievementBit="6" texture="Data/Icons/default_trail.png" color="#f0e442"/>
+        <Trail type="mmm.achievements.general.sunkenchests" trailData="Data/Trails/sunken_chest_frostgorge.trl" achievementBit="6" color="#f0e442"/>
         <POI MapID="30" xpos="-34.33097" ypos="-13.72714" zpos="156.6181" type="mmm.achievements.general.sunkenchests" achievementBit="6" alpha="0" triggerRange="5" copy="[&amp;BOkBAAA=]" copy-message="Next WP copied" GUID="eohI8RJdbkW0MKg6dZmzMA=="/>
-        <Trail type="mmm.achievements.general.sunkenchests" trailData="Data/Trails/sunken_chest_lornar.trl" achievementBit="7" texture="Data/Icons/default_trail.png" color="#f0e442"/>
+        <Trail type="mmm.achievements.general.sunkenchests" trailData="Data/Trails/sunken_chest_lornar.trl" achievementBit="7" color="#f0e442"/>
         <POI MapID="27" xpos="-243.1671" ypos="-37.84137" zpos="-942.4841" type="mmm.achievements.general.sunkenchests" achievementBit="7" alpha="0" triggerRange="5" copy="[&amp;BKcBAAA=]" copy-message="Next WP copied" GUID="z/njmTsbKECBgubIXKMsog=="/>
-        <Trail type="mmm.achievements.general.sunkenchests" trailData="Data/Trails/sunken_chest_timberline.trl" achievementBit="8" texture="Data/Icons/default_trail.png" color="#f0e442"/>
+        <Trail type="mmm.achievements.general.sunkenchests" trailData="Data/Trails/sunken_chest_timberline.trl" achievementBit="8" color="#f0e442"/>
         <POI MapID="29" xpos="441.0206" ypos="-81.75896" zpos="-495.7025" type="mmm.achievements.general.sunkenchests" achievementBit="8" alpha="0" triggerRange="5" copy="[&amp;BJYBAAA=]" copy-message="Next WP copied" GUID="ATwhRCSAF0SiQwRY1MEv1g=="/>
-        <Trail type="mmm.achievements.general.sunkenchests" trailData="Data/Trails/sunken_chest_maelstrom.trl" achievementBit="9" texture="Data/Icons/default_trail.png" color="#f0e442"/>
+        <Trail type="mmm.achievements.general.sunkenchests" trailData="Data/Trails/sunken_chest_maelstrom.trl" achievementBit="9" color="#f0e442"/>
         <POI MapID="39" xpos="554.9207" ypos="-160.6395" zpos="-125.1165" type="mmm.achievements.general.sunkenchests" achievementBit="9" alpha="0" triggerRange="5" copy="[&amp;BEcCAAA=]" copy-message="Next WP copied" GUID="YhnLZNacLEyxac84ZPXKSg=="/>
         <POI MapID="50" xpos="-334.6404" ypos="0.952149" zpos="-5.443196" type="mmm.achievements.general.sunkenchests" iconFile="Data/Icons/waypoint.png" copy="[&amp;BNECAAA=][&amp;BEcCAAA=][&amp;BJYBAAA=][&amp;BKcBAAA=][&amp;BBMAAAA=][&amp;BOQAAAA=][&amp;BKYAAAA=][&amp;BMADAAA=][&amp;BHwCAAA=][&amp;BOkBAAA=]" copy-message="Min-cost Sunken Chest WPs copied, assuming full run." GUID="0MGQg2yKgEKpsuE3zlf8CQ=="/>
-        <Trail type="mmm.achievements.general.sunkenchests" trailData="Data/Trails/sunken_chest_la.trl" texture="Data/Icons/default_trail.png" color="#f0e442"/>
-        <Trail type="mmm.achievements.general.sunkenchests" trailData="Data/Trails/sunken_chest_siren.trl" texture="Data/Icons/default_trail.png" color="#f0e442"/>
-        <Trail type="mmm.achievements.general.sunkenchests" trailData="Data/Trails/sunken_chest_ruins.trl" texture="Data/Icons/default_trail.png" color="#f0e442"/>
+        <Trail type="mmm.achievements.general.sunkenchests" trailData="Data/Trails/sunken_chest_la.trl" color="#f0e442"/>
+        <Trail type="mmm.achievements.general.sunkenchests" trailData="Data/Trails/sunken_chest_siren.trl" color="#f0e442"/>
+        <Trail type="mmm.achievements.general.sunkenchests" trailData="Data/Trails/sunken_chest_ruins.trl" color="#f0e442"/>
 		<!-- Someone in Need -->
 		<POI MapID="23" xpos="832.177" ypos="108.291" zpos="-595.592" type="mmm.achievements.general.community.someoneinneed" GUID="R4u6TGHOrkq9/FYeeCjGjw=="/>
 		<POI MapID="23" xpos="917.168" ypos="47.6679" zpos="-602.205" type="mmm.achievements.general.community.someoneinneed" GUID="nQFDsI3470e1kIXytCBMuA=="/>

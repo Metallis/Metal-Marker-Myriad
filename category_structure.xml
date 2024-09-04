@@ -4,15 +4,15 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 xsi:schemaLocation="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD https://raw.githubusercontent.com/xrandox/Gw2_Marker_Pack_DTD_XSD/main/GW2MarkerPack.xsd"
 xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
 	<!-- Discord Invite:https://discord.gg/FP8dQj6KBj -->
-	<MarkerCategory name="mmm" DisplayName="Metal Marker Myriad" texture="Data/Icons/default_trail.png">
+	<MarkerCategory name="mmm" DisplayName="Metal Marker Myriad" texture="Data/Icons/default_trail.png" iconFile="Data/Icons/default_icon.png">
         <MarkerCategory name="contributors" DisplayName="Contributors/Thanks" isseparator="1">
         </MarkerCategory>
 		<MarkerCategory name="achievements" DisplayName="Achievements/Collections">
             <MarkerCategory name="general" DisplayName="General">
 				<MarkerCategory name="community" DisplayName="Community">
-					<MarkerCategory name="someoneinneed" DisplayName="Someone In Need (Invis Chair)"/>
+					<MarkerCategory name="someoneinneed" DisplayName="Someone In Need (Invis Chair)" achievementId="6776"/>
 				</MarkerCategory>
-                <MarkerCategory name="sunkenchests" DisplayName="Sunken Treasure Hunter/Master Diver" achievementId="4177"/>
+                <MarkerCategory name="sunkenchests" DisplayName="Sunken Treasure Hunter/Master Diver" achievementId="4177" texture="Data/Icons/default_trail.png"/>
 			</MarkerCategory>
             <MarkerCategory name="hidden" DisplayName="Hidden" defaulttoggle="0">
                 <!-- Adventure Guide -->
@@ -273,7 +273,7 @@ xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
                 <!-- Jumping Puzzles -->
                 <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
                 <!-- Drakkar -->
-                <MarkerCategory name="bm_no" DisplayName="Nimble Onslaught" iconFile="Data/Icons/drakkar.png" achievementId=""/>
+                <MarkerCategory name="drak_no" DisplayName="Nimble Onslaught" iconFile="Data/Icons/drakkar.png" achievementId=""/>
                 <!-- Edge of the Mists -->
                 <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
                 <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
@@ -313,7 +313,6 @@ xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
                 <!-- Collections -->
                 <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
                 <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                
             </MarkerCategory>
             <MarkerCategory name="story" DisplayName="Story Journal">
                 <MarkerCategory name="ton" DisplayName="Tower of Nightmares">
@@ -332,15 +331,12 @@ xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
             <MarkerCategory name="eod" DisplayName="End of Dragons">
                 
             </MarkerCategory>  
-            <MarkerCategory name="achievements" DisplayName="Achievements/Collections">
-                <MarkerCategory name="jw" DisplayName="Janthir Wilds">
-                    <MarkerCategory name="baq" DisplayName="Build-A-Quaggan" achievementId="8249">
-                        <MarkerCategory name="fibers" DisplayName="Gather Plant Fibers" achievementBit="1"/>
-                    </MarkerCategory>
-                    <MarkerCategory name="tr" DisplayName="Titan Researcher" achievementId="8175"/>
+            <MarkerCategory name="jw" DisplayName="Janthir Wilds">
+                <MarkerCategory name="baq" DisplayName="Build-A-Quaggan" achievementId="8249">
+                    <MarkerCategory name="fibers" DisplayName="Gather Plant Fibers" achievementBit="1"/>
                 </MarkerCategory>
-            </MarkerCategory>  
-        </MarkerCategory>
+                <MarkerCategory name="tr" DisplayName="Titan Researcher" achievementId="8175"/>
+            </MarkerCategory> 
         <MarkerCategory name="adventures" DisplayName="Adventures">
             <MarkerCategory name="ox_yoke" DisplayName="The Ox's Yoke"/>
             <MarkerCategory name="skiff_nkc" DisplayName="Swift Skiffs - Kaineng"/>
@@ -355,14 +351,17 @@ xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
                 <MarkerCategory name="sniff" DisplayName="Warclaw Sniff" iconFile="Data/Icons/sniff.png"/>
             </MarkerCategory>
             <MarkerCategory name="currency" DisplayName="Wallet Currencies, Keys and Other">
-				<MarkerCategory name="staticcharge" DisplayName="Static Charge" fadeNear="3000" fadeFar="5000">
-					<MarkerCategory name="orbs" DisplayName="Orb Visibility Rings" iconFile="Data/Icons/ring.png" fadeNear="1500" fadeFar="2500" miniMapVisibility="0" mapVisibility="0"/>
+				<MarkerCategory name="staticcharge" DisplayName="Static Charge" fadeNear="1500" fadeFar="2500">
+                    <MarkerCategory name="trail" DisplayName="Trail"/>
+					<MarkerCategory name="orbs" DisplayName="Orb Visibility Rings" iconFile="Data/Icons/ring.png" miniMapVisibility="0" mapVisibility="0"/>
 				</MarkerCategory>
-				<MarkerCategory name="stardust" DisplayName="Pinch of Stardust" fadeNear="3000" fadeFar="5000">
-					<MarkerCategory name="orbs" DisplayName="Orb Visibility Rings" iconFile="Data/Icons/ring.png" fadeNear="1500" fadeFar="2500" miniMapVisibility="0" mapVisibility="0"/>
+				<MarkerCategory name="stardust" DisplayName="Pinch of Stardust" fadeNear="1500" fadeFar="2500">
+                    <MarkerCategory name="trail" DisplayName="Trail"/>
+					<MarkerCategory name="orbs" DisplayName="Orb Visibility Rings" iconFile="Data/Icons/ring.png" miniMapVisibility="0" mapVisibility="0"/>
 				</MarkerCategory>
-				<MarkerCategory name="gasp" DisplayName="Calcified Gasp" fadeNear="3000" fadeFar="5000" >
-					<MarkerCategory name="orbs" DisplayName="Orb Visibility Rings" iconFile="Data/Icons/ring.png" fadeNear="1500" fadeFar="2500" miniMapVisibility="0" mapVisibility="0"/>
+				<MarkerCategory name="gasp" DisplayName="Calcified Gasp" fadeNear="1500" fadeFar="2500">
+                    <MarkerCategory name="trail" DisplayName="Trail"/>
+					<MarkerCategory name="orbs" DisplayName="Orb Visibility Rings" iconFile="Data/Icons/ring.png"  miniMapVisibility="0" mapVisibility="0"/>
 				</MarkerCategory>
 			</MarkerCategory>
             <MarkerCategory name="items" DisplayName="Items/Loot">
@@ -375,8 +374,8 @@ xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
         <MarkerCategory name="festivals" DisplayName="Festivals">
             <MarkerCategory name="db" DisplayName="Dragon Bash" festival="dragonbash">
                 <MarkerCategory name="zhaitaffy" DisplayName="Pinatas - Zhaitaffy Farm">
-                    <MarkerCategory name="trail" DisplayName="Toggle trail"/>
-                    <MarkerCategory name="markers" DisplayName="Toggle Markers"/>
+                    <MarkerCategory name="trail" DisplayName="Trail"/>
+                    <MarkerCategory name="markers" DisplayName="Markers"/>
                 </MarkerCategory>
             </MarkerCategory>
         </MarkerCategory>
