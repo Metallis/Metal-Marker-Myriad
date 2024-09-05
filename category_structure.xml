@@ -10,322 +10,322 @@ xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
 		<MarkerCategory name="achievements" DisplayName="Achievements/Collections">
             <MarkerCategory name="general" DisplayName="General">
 				<MarkerCategory name="community" DisplayName="Community">
-					<MarkerCategory name="someoneinneed" DisplayName="Someone In Need (Invis Chair)" achievementId="6776"/>
+					<MarkerCategory name="someoneinneed" DisplayName="Someone In Need (Invis Chair)" achievementId="6776"></MarkerCategory>
 				</MarkerCategory>
-                <MarkerCategory name="sunkenchests" DisplayName="Sunken Treasure Hunter/Master Diver" achievementId="4177" texture="Data/Icons/default_trail.png"/>
+                <MarkerCategory name="sunkenchests" DisplayName="Sunken Treasure Hunter/Master Diver" achievementId="4177" texture="Data/Icons/default_trail.png"></MarkerCategory>
 			</MarkerCategory>
             <MarkerCategory name="hidden" DisplayName="Hidden" defaulttoggle="0">
                 <!-- Adventure Guide -->
-                <MarkerCategory name="ag_tab" DisplayName="The Adventure Begins" iconFile="Data/Icons/adventure_guide.png"/>
+                <MarkerCategory name="ag_tab" DisplayName="The Adventure Begins" iconFile="Data/Icons/adventure_guide.png"></MarkerCategory>
                 <!-- Super Adventure Box -->
-                <MarkerCategory name="sab_qt" DisplayName="Super Adventure Box: Quality Testing" iconFile="Data/Icons/sab_w3.png"/>
+                <MarkerCategory name="sab_qt" DisplayName="Super Adventure Box: Quality Testing" iconFile="Data/Icons/sab_w3.png"></MarkerCategory>
                 <!-- Festival of the Four Winds -->
-                <MarkerCategory name="fotfw_nolawc" DisplayName="No One Likes a Wet Charr" iconFile="Data/Icons/four_winds.png"/>
-                <MarkerCategory name="fotfw_trafok" DisplayName="The Rise and Fall of Kookoochoo" iconFile="Data/Icons/four_winds.png" achievementId=""/>
+                <MarkerCategory name="fotfw_nolawc" DisplayName="No One Likes a Wet Charr" iconFile="Data/Icons/four_winds.png"></MarkerCategory>
+                <MarkerCategory name="fotfw_trafok" DisplayName="The Rise and Fall of Kookoochoo" iconFile="Data/Icons/four_winds.png" achievementId=""></MarkerCategory>
                 <!-- Halloween -->
-                <MarkerCategory name="hw_top" DisplayName="The Outcast Prince" iconFile="Data/Icons/halloween.png" achievementId=""/>
+                <MarkerCategory name="hw_top" DisplayName="The Outcast Prince" iconFile="Data/Icons/halloween.png" achievementId=""></MarkerCategory>
                 <!-- LWS1: Escape from Lion's Arch -->
-                <MarkerCategory name="lws1_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="lws1_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="lws1_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="lws1_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="lws1_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="lws1_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="lws1_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="lws1_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="lws1_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="lws1_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
                 <!-- LWS3: Out of the Shadows -->
-                <MarkerCategory name="lws3_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="lws3_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="lws3_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="lws3_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="lws3_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="lws3_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="lws3_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="lws3_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="lws3_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="lws3_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="lws3_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="lws3_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
                 <!-- LWS3: Rising Flames -->
-                <MarkerCategory name="lws3_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="lws3_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
                 <!-- LWS3: The Head of the Snake -->
-                <MarkerCategory name="lws3_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="lws3_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="lws3_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="lws3_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="lws3_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="lws3_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="lws3_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="lws3_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="lws3_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="lws3_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="lws3_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="lws3_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="lws3_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="lws3_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="lws3_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="lws3_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
                 <!-- LWS3: Flashpoint -->
-                <MarkerCategory name="lws3_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="lws3_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
                 <!-- LWS3: One Path Ends -->
-                <MarkerCategory name="lws3_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="lws3_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="lws3_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="lws3_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
                 <!-- Path of Fire: Act 1 -->
-                <MarkerCategory name="pof_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="pof_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="pof_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="pof_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
                 <!-- Path of Fire: Act 2 -->
-                <MarkerCategory name="pof_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="pof_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
                 <!-- Path of Fire: Act 3 -->
-                <MarkerCategory name="pof_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="pof_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="pof_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="pof_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="pof_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="pof_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="pof_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="pof_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
                 <!-- LWS4: Daybreak -->
-                <MarkerCategory name="lws4_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="lws4_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="lws4_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="lws4_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="lws4_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="lws4_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="lws4_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="lws4_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="lws4_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="lws4_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="lws4_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="lws4_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="lws4_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="lws4_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="lws4_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="lws4_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="lws4_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="lws4_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="lws4_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="lws4_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="lws4_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="lws4_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="lws4_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="lws4_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
                 <!-- LWS4: A Bug in the System -->
-                <MarkerCategory name="lws4_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="lws4_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="lws4_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="lws4_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
                 <!-- LWS4: Long Live the Lich -->
-                <MarkerCategory name="lws4_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="lws4_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
                 <!-- LWS4: A Star to Guide Us -->
-                <MarkerCategory name="lws4_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="lws4_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="lws4_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="lws4_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="lws4_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="lws4_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="lws4_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="lws4_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="lws4_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="lws4_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="lws4_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="lws4_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="lws4_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="lws4_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="lws4_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="lws4_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="lws4_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="lws4_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="lws4_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="lws4_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="lws4_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="lws4_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="lws4_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="lws4_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="lws4_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="lws4_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="lws4_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="lws4_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="lws4_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="lws4_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="lws4_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="lws4_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="lws4_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="lws4_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="lws4_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="lws4_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="lws4_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="lws4_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="lws4_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="lws4_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="lws4_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="lws4_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="lws4_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="lws4_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="lws4_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="lws4_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="lws4_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="lws4_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
                 <!-- LWS4: All or Nothing -->
-                <MarkerCategory name="lws4_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="lws4_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="lws4_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="lws4_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="lws4_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="lws4_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="lws4_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="lws4_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
                 <!-- LWS4: War Eternal -->
-                <MarkerCategory name="lws4_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="lws4_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
                 <!-- LWS5: Bound By Blood -->
-                <MarkerCategory name="lws5_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="lws5_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="lws5_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="lws5_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="lws5_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="lws5_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="lws5_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="lws5_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="lws5_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="lws5_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
                 <!-- LWS5: Whisper in the Dark -->
-                <MarkerCategory name="lws5_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="lws5_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="lws5_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="lws5_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="lws5_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="lws5_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
                 <!-- LWS5: Shadow in the Ice -->
-                <MarkerCategory name="lws5_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="lws5_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="lws5_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="lws5_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
                 <!-- LWS5: Visions of the Past: Steel and Fire -->
-                <MarkerCategory name="lws5_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="lws5_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="lws5_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="lws5_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="lws5_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="lws5_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
                 <!-- LWS5: No Quarter -->
-                <MarkerCategory name="lws5_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="lws5_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="lws5_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="lws5_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="lws5_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="lws5_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
                 <!-- LWS5: Jormag Rising -->
-                <MarkerCategory name="lws5_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="lws5_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="lws5_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="lws5_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="lws5_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="lws5_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="lws5_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="lws5_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="lws5_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="lws5_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="lws5_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="lws5_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
                 <!-- LWS5: Champions -->
-                <MarkerCategory name="lws5_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="lws5_" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
                 <!-- End of Dragons: Act 1 -->
-                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
                 <!-- End of Dragons: Act 2 -->
-                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
                 <!-- End of Dragons: Act 3 -->
-                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
                 <!-- End of Dragons: Act 4 -->
-                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
                 <!-- End of Dragons: Interlude -->
-                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
                 <!-- What Lies Within -->
-                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
                 <!-- Delve into the Haze -->
-                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
                 <!-- Secrets of the Obscure: Act 1 -->
-                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
                 <!-- The Midnight King -->
-                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
                 <!-- Janthir Wilds: Act 1 -->
-                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
                 <!-- Tangled Depths -->
-                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
                 <!-- Crystal Desert -->
-                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
                 <!-- Elon Riverlands -->
-                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
                 <!-- The Desolation -->
-                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
                 <!-- Cantha -->
-                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
                 <!-- Seitung Province -->
-                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
                 <!-- The Echovald Wilds -->
-                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
                 <!-- Dragon's End -->
-                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
                 <!-- Arborstone -->
-                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
                 <!-- Specializations -->
-                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
                 <!-- Horn of Maguuma -->
-                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
                 <!-- Amnytas -->
-                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
                 <!-- The Wizard's Tower -->
-                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
                 <!-- Inner Nayos -->
-                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
                 <!-- Lowland Shore -->
-                <MarkerCategory name="ls_ftf" DisplayName="Feed the Flames" iconFile="Data/Icons/lowland_shore.png" achievementId="8177"/>
-                <MarkerCategory name="ls_kotdf" DisplayName="Keeper of the Dance Floor" iconFile="Data/Icons/lowland_shore.png" achievementId="8244"/>
-                <MarkerCategory name="ls_litf" DisplayName="Lost in the Fight" iconFile="Data/Icons/lowland_shore.png" achievementId="8230"/>
-                <MarkerCategory name="ls_r" DisplayName="Rehearsal" iconFile="Data/Icons/lowland_shore.png" achievementId="8361"/>
-                <MarkerCategory name="ls_td" DisplayName="Troll Delicacy" iconFile="Data/Icons/lowland_shore.png" achievementId="8294"/>
-                <MarkerCategory name="ls_wts" DisplayName="What's that Sound?" iconFile="Data/Icons/lowland_shore.png" achievementId="8156"/>
-                <MarkerCategory name="ls_ws" DisplayName="Workplace Safety" iconFile="Data/Icons/lowland_shore.png" achievementId="8184"/>
+                <MarkerCategory name="ls_ftf" DisplayName="Feed the Flames" iconFile="Data/Icons/lowland_shore.png" achievementId="8177"></MarkerCategory>
+                <MarkerCategory name="ls_kotdf" DisplayName="Keeper of the Dance Floor" iconFile="Data/Icons/lowland_shore.png" achievementId="8244"></MarkerCategory>
+                <MarkerCategory name="ls_litf" DisplayName="Lost in the Fight" iconFile="Data/Icons/lowland_shore.png" achievementId="8230"></MarkerCategory>
+                <MarkerCategory name="ls_r" DisplayName="Rehearsal" iconFile="Data/Icons/lowland_shore.png" achievementId="8361"></MarkerCategory>
+                <MarkerCategory name="ls_td" DisplayName="Troll Delicacy" iconFile="Data/Icons/lowland_shore.png" achievementId="8294"></MarkerCategory>
+                <MarkerCategory name="ls_wts" DisplayName="What's that Sound?" iconFile="Data/Icons/lowland_shore.png" achievementId="8156"></MarkerCategory>
+                <MarkerCategory name="ls_ws" DisplayName="Workplace Safety" iconFile="Data/Icons/lowland_shore.png" achievementId="8184"></MarkerCategory>
                 <!-- Janthir Syntri -->
-                <MarkerCategory name="js_st" DisplayName="Struck Twice" iconFile="Data/Icons/janthir_syntri.png" achievementId="8356"/>
+                <MarkerCategory name="js_st" DisplayName="Struck Twice" iconFile="Data/Icons/janthir_syntri.png" achievementId="8356"></MarkerCategory>
                 <!-- Community -->
-                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
                 <!-- Jumping Puzzles -->
-                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
                 <!-- Drakkar -->
-                <MarkerCategory name="drak_no" DisplayName="Nimble Onslaught" iconFile="Data/Icons/drakkar.png" achievementId=""/>
+                <MarkerCategory name="drak_no" DisplayName="Nimble Onslaught" iconFile="Data/Icons/drakkar.png" achievementId=""></MarkerCategory>
                 <!-- Edge of the Mists -->
-                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
                 <!-- WvW Warclaw -->
-                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
                 <!-- Portal Panic -->
-                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
                 <!-- Knight of the Thorn -->
-                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
                 <!-- Anomalous Occurrences -->
-                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
                 <!-- Justice of the Blade -->
-                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
                 <!-- The Wizard's Vault -->
-                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
                 <!-- The Key of Adashim -->
                 <!-- Fractals of the Mists -->
                 <!-- Nightmare Fractal -->
                 <!-- Shattered Observatory Fractal -->
                 <!-- Sunqua Peak Fractal -->
                 <!-- Collections -->
-                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
-                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""/>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
+                <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/.png" achievementId=""></MarkerCategory>
             </MarkerCategory>
             <MarkerCategory name="story" DisplayName="Story Journal">
                 <MarkerCategory name="ton" DisplayName="Tower of Nightmares">
-                    <MarkerCategory name="tkh" DisplayName="Toxic Krait Historian" achievementId="1092"/>
+                    <MarkerCategory name="tkh" DisplayName="Toxic Krait Historian" achievementId="1092"></MarkerCategory>
                 </MarkerCategory>
                 <MarkerCategory name="wlw" DisplayName="What Lies Within">
-                    <MarkerCategory name="wlsora" DisplayName="World Lore: Special Ops Rescue Agency" achievementId="6904"/>
-                    <MarkerCategory name="sobc1" DisplayName="Special Ops Basic Course 1" achievementId="5495"/>
-                    <MarkerCategory name="sobc2" DisplayName="Special Ops Basic Course 2" achievementId="6908"/>
-                    <MarkerCategory name="sobc3" DisplayName="Special Ops Basic Course 3" achievementId="6912"/>
-                    <MarkerCategory name="sobc1" DisplayName="Special Ops Advanced Course 1" achievementId="6920"/>
-                    <MarkerCategory name="sobc2" DisplayName="Special Ops Advanced Course 2" achievementId="6900"/>
-                    <MarkerCategory name="sobfc" DisplayName="Special Ops Final Course" achievementId="6928"/>
+                    <MarkerCategory name="wlsora" DisplayName="World Lore: Special Ops Rescue Agency" achievementId="6904"></MarkerCategory>
+                    <MarkerCategory name="sobc1" DisplayName="Special Ops Basic Course 1" achievementId="5495"></MarkerCategory>
+                    <MarkerCategory name="sobc2" DisplayName="Special Ops Basic Course 2" achievementId="6908"></MarkerCategory>
+                    <MarkerCategory name="sobc3" DisplayName="Special Ops Basic Course 3" achievementId="6912"></MarkerCategory>
+                    <MarkerCategory name="sobc1" DisplayName="Special Ops Advanced Course 1" achievementId="6920"></MarkerCategory>
+                    <MarkerCategory name="sobc2" DisplayName="Special Ops Advanced Course 2" achievementId="6900"></MarkerCategory>
+                    <MarkerCategory name="sobfc" DisplayName="Special Ops Final Course" achievementId="6928"></MarkerCategory>
                 </MarkerCategory>
             </MarkerCategory>
             <MarkerCategory name="eod" DisplayName="End of Dragons">
@@ -333,36 +333,44 @@ xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
             </MarkerCategory>  
             <MarkerCategory name="jw" DisplayName="Janthir Wilds">
                 <MarkerCategory name="baq" DisplayName="Build-A-Quaggan" achievementId="8249">
-                    <MarkerCategory name="fibers" DisplayName="Gather Plant Fibers" achievementBit="1"/>
+                    <MarkerCategory name="fibers" DisplayName="Gather Plant Fibers" achievementBit="1"></MarkerCategory>
                 </MarkerCategory>
-                <MarkerCategory name="tr" DisplayName="Titan Researcher" achievementId="8175"/>
+                <MarkerCategory name="tr" DisplayName="Titan Researcher" achievementId="8175"></MarkerCategory>
             </MarkerCategory>
         </MarkerCategory>
         <MarkerCategory name="adventures" DisplayName="Adventures">
-            <MarkerCategory name="ox_yoke" DisplayName="The Ox's Yoke"/>
-            <MarkerCategory name="skiff_nkc" DisplayName="Swift Skiffs - Kaineng"/>
-            <MarkerCategory name="ls_hns" DisplayName="Lowland Shore: Hide-and-Seek Challenge" iconFile="Data/Icons/flag.png" color="#FFFF00"/>
-            <MarkerCategory name="js_swc" DisplayName="Janthir Syntri: Save Woodland Creatures" iconFile="Data/Icons/flag.png" color="#FFFF00"/>
+            <MarkerCategory name="ox_yoke" DisplayName="The Ox's Yoke"></MarkerCategory>
+            <MarkerCategory name="skiff_nkc" DisplayName="Swift Skiffs - Kaineng"></MarkerCategory>
+            <MarkerCategory name="ls_hns" DisplayName="Lowland Shore: Hide-and-Seek Challenge" iconFile="Data/Icons/flag.png" color="#FFFF00"></MarkerCategory>
+            <MarkerCategory name="js_swc" DisplayName="Janthir Syntri: Save Woodland Creatures" iconFile="Data/Icons/flag.png" color="#FFFF00"></MarkerCategory>
         </MarkerCategory>
         <MarkerCategory name="farming" DisplayName="Farming">
-            <MarkerCategory name="chests" DisplayName="Chests">
-                <MarkerCategory name="bjorachests" DisplayName="Bjora Essence Chests" iconFile="Data/Icons/chest.png"/>
-                <MarkerCategory name="garcane" DisplayName="Greater Arcane Chest" iconFile="Data/Icons/chest.png"/>
-                <MarkerCategory name="mkodan" DisplayName="Major Kodan Chests" iconFile="Data/Icons/chest.png"/>
-                <MarkerCategory name="sniff" DisplayName="Warclaw Sniff" iconFile="Data/Icons/sniff.png"/>
+            <MarkerCategory name="chests" DisplayName="Chests" iconFile="Data/Icons/chest.png">
+                <MarkerCategory name="bjorachests" DisplayName="Bjora Essence Chests"></MarkerCategory>
+                <MarkerCategory name="garcane" DisplayName="Greater Arcane Chest"></MarkerCategory>
+                <MarkerCategory name="mkodan" DisplayName="Major Kodan Chests"></MarkerCategory>
+                <MarkerCategory name="sniff" DisplayName="Warclaw Sniff Spots" iconFile="Data/Icons/sniff.png"></MarkerCategory>
             </MarkerCategory>
             <MarkerCategory name="currency" DisplayName="Wallet Currencies, Keys and Other">
+                <MarkerCategory name="unbound" DisplayName="Unbound Magic" fadeNear="1500" fadeFar="2500">
+                    <MarkerCategory name="trail" DisplayName="Trail"></MarkerCategory>
+					<MarkerCategory name="orbs" DisplayName="Orb Visibility Rings" iconFile="Data/Icons/ring.png" miniMapVisibility="0" mapVisibility="0"></MarkerCategory>
+				</MarkerCategory>
+                <MarkerCategory name="volatile" DisplayName="Volatile Magic" fadeNear="1500" fadeFar="2500">
+                    <MarkerCategory name="trail" DisplayName="Trail"></MarkerCategory>
+					<MarkerCategory name="orbs" DisplayName="Orb Visibility Rings" iconFile="Data/Icons/ring.png" miniMapVisibility="0" mapVisibility="0"></MarkerCategory>
+				</MarkerCategory>
 				<MarkerCategory name="staticcharge" DisplayName="Static Charge" fadeNear="1500" fadeFar="2500">
-                    <MarkerCategory name="trail" DisplayName="Trail"/>
-					<MarkerCategory name="orbs" DisplayName="Orb Visibility Rings" iconFile="Data/Icons/ring.png" miniMapVisibility="0" mapVisibility="0"/>
+                    <MarkerCategory name="trail" DisplayName="Trail"></MarkerCategory>
+					<MarkerCategory name="orbs" DisplayName="Orb Visibility Rings" iconFile="Data/Icons/ring.png" miniMapVisibility="0" mapVisibility="0"></MarkerCategory>
 				</MarkerCategory>
 				<MarkerCategory name="stardust" DisplayName="Pinch of Stardust" fadeNear="1500" fadeFar="2500">
-                    <MarkerCategory name="trail" DisplayName="Trail"/>
-					<MarkerCategory name="orbs" DisplayName="Orb Visibility Rings" iconFile="Data/Icons/ring.png" miniMapVisibility="0" mapVisibility="0"/>
+                    <MarkerCategory name="trail" DisplayName="Trail"></MarkerCategory>
+					<MarkerCategory name="orbs" DisplayName="Orb Visibility Rings" iconFile="Data/Icons/ring.png" miniMapVisibility="0" mapVisibility="0"></MarkerCategory>
 				</MarkerCategory>
 				<MarkerCategory name="gasp" DisplayName="Calcified Gasp" fadeNear="1500" fadeFar="2500">
-                    <MarkerCategory name="trail" DisplayName="Trail"/>
-					<MarkerCategory name="orbs" DisplayName="Orb Visibility Rings" iconFile="Data/Icons/ring.png"  miniMapVisibility="0" mapVisibility="0"/>
+                    <MarkerCategory name="trail" DisplayName="Trail"></MarkerCategory>
+					<MarkerCategory name="orbs" DisplayName="Orb Visibility Rings" iconFile="Data/Icons/ring.png"  miniMapVisibility="0" mapVisibility="0"></MarkerCategory>
 				</MarkerCategory>
 			</MarkerCategory>
             <MarkerCategory name="items" DisplayName="Items/Loot">
@@ -375,57 +383,57 @@ xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
         <MarkerCategory name="festivals" DisplayName="Festivals">
             <MarkerCategory name="db" DisplayName="Dragon Bash" festival="dragonbash">
                 <MarkerCategory name="zhaitaffy" DisplayName="Pinatas - Zhaitaffy Farm">
-                    <MarkerCategory name="trail" DisplayName="Trail"/>
-                    <MarkerCategory name="markers" DisplayName="Markers"/>
+                    <MarkerCategory name="trail" DisplayName="Trail"></MarkerCategory>
+                    <MarkerCategory name="markers" DisplayName="Markers"></MarkerCategory>
                 </MarkerCategory>
             </MarkerCategory>
         </MarkerCategory>
         <MarkerCategory name="gathering" DisplayName="Gathering" bounce="rise" bounce-height="3" autoTrigger="1" triggerRange="25">
-            <MarkerCategory name="carrot" DisplayName="Carrots" iconFile="Data/Icons/carrot.png"/>
-            <MarkerCategory name="chargedore" DisplayName="Charged Titan Ore" iconFile="Data/Icons/charged_titan_ore.png"/>
-            <MarkerCategory name="echoresin" DisplayName="Chunk of Petrified Echovald Resin" iconFile="Data/Icons/echovald_resin.png"/>
-            <MarkerCategory name="honeyflower" DisplayName="Honey Flower" iconFile="Data/Icons/honey_flower.png"/>
-            <MarkerCategory name="kale" DisplayName="Kale" iconFile="Data/Icons/kale_leaf.png"/>
-            <MarkerCategory name="lettuce" DisplayName="Lettuce" iconFile="Data/Icons/head_of_lettuce.png"/>
-            <MarkerCategory name="lowlandpine" DisplayName="Lowland Pine Sapling" iconFile="Data/Icons/lowland_pine_log.png"/>
-            <MarkerCategory name="rottedamber" DisplayName="Rotted Titan Amber" iconFile="Data/Icons/rotted_titan_amber.png"/>
-            <MarkerCategory name="strawberry" DisplayName="Strawberries" iconFile="Data/Icons/strawberry.png"/>
+            <MarkerCategory name="carrot" DisplayName="Carrots" iconFile="Data/Icons/carrot.png"></MarkerCategory>
+            <MarkerCategory name="chargedore" DisplayName="Charged Titan Ore" iconFile="Data/Icons/charged_titan_ore.png"></MarkerCategory>
+            <MarkerCategory name="echoresin" DisplayName="Chunk of Petrified Echovald Resin" iconFile="Data/Icons/echovald_resin.png"></MarkerCategory>
+            <MarkerCategory name="honeyflower" DisplayName="Honey Flower" iconFile="Data/Icons/honey_flower.png"></MarkerCategory>
+            <MarkerCategory name="kale" DisplayName="Kale" iconFile="Data/Icons/kale_leaf.png"></MarkerCategory>
+            <MarkerCategory name="lettuce" DisplayName="Lettuce" iconFile="Data/Icons/head_of_lettuce.png"></MarkerCategory>
+            <MarkerCategory name="lowlandpine" DisplayName="Lowland Pine Sapling" iconFile="Data/Icons/lowland_pine_log.png"></MarkerCategory>
+            <MarkerCategory name="rottedamber" DisplayName="Rotted Titan Amber" iconFile="Data/Icons/rotted_titan_amber.png"></MarkerCategory>
+            <MarkerCategory name="strawberry" DisplayName="Strawberries" iconFile="Data/Icons/strawberry.png"></MarkerCategory>
             <MarkerCategory name="toxicspore" DisplayName="Pristine Toxic Spore Sample" iconFile="Data/Icons/toxic_spore.png">
-                <MarkerCategory name="offshootevents" DisplayName="Toxic Offshoot Events" iconSize="3" color="#ff7f7f"/>
+                <MarkerCategory name="offshootevents" DisplayName="Toxic Offshoot Events" iconSize="3" color="#ff7f7f"></MarkerCategory>
             </MarkerCategory>
-            <MarkerCategory name="verdantherbs" DisplayName="Verdant Herbs" iconFile="Data/Icons/verdant_herbs.png"/>
+            <MarkerCategory name="verdantherbs" DisplayName="Verdant Herbs" iconFile="Data/Icons/verdant_herbs.png"></MarkerCategory>
         </MarkerCategory>
         <MarkerCategory name="jp" DisplayName="Jumping Puzzles">
             <MarkerCategory name="lutv" DisplayName="Light Up the Vale">
-                <MarkerCategory name="trail" DisplayName="Trail"/>
-                <MarkerCategory name="guide" DisplayName="Guide" iconFile="Data/Icons/glide_booster.png" mapVisibility="0" miniMapVisibility="0"/>
-                <MarkerCategory name="braziers" DisplayName="Braziers"/>
+                <MarkerCategory name="trail" DisplayName="Trail"></MarkerCategory>
+                <MarkerCategory name="guide" DisplayName="Guide" iconFile="Data/Icons/glide_booster.png" mapVisibility="0" miniMapVisibility="0"></MarkerCategory>
+                <MarkerCategory name="braziers" DisplayName="Braziers"></MarkerCategory>
             </MarkerCategory>
             <MarkerCategory name="qc" DisplayName="Queen's Confidence">
-                <MarkerCategory name="trail" DisplayName="Trail"/>
-                <MarkerCategory name="guide" DisplayName="Guide"/>
+                <MarkerCategory name="trail" DisplayName="Trail"></MarkerCategory>
+                <MarkerCategory name="guide" DisplayName="Guide"></MarkerCategory>
             </MarkerCategory>
             <MarkerCategory name="bt" DisplayName="Buzzy Treetops">
-                <MarkerCategory name="trail" DisplayName="Trail"/>
+                <MarkerCategory name="trail" DisplayName="Trail"></MarkerCategory>
                 <MarkerCategory name="back" DisplayName="Back Way Trail" defaulttoggle="0">
-                    <MarkerCategory name="guide" DisplayName="Guide" iconFile="Data/Icons/glide_booster.png" mapVisibility="0" miniMapVisibility="0"/>
+                    <MarkerCategory name="guide" DisplayName="Guide" iconFile="Data/Icons/glide_booster.png" mapVisibility="0" miniMapVisibility="0"></MarkerCategory>
                 </MarkerCategory>
             </MarkerCategory>
         </MarkerCategory>
         <MarkerCategory name="legendaries" DisplayName="Legendary Gear">
             <MarkerCategory name="adinf" DisplayName="Ad Infinitum">
                 <MarkerCategory name="finite" DisplayName="Ad Infinitum I: Finite Result" achievementId="2351">
-                    <MarkerCategory name="doa" DisplayName="Defender of Ascalon" achievementBit="0"/>
-                    <MarkerCategory name="cn" DisplayName="Charr-Nip" achievementBit="1"/>
-                    <MarkerCategory name="scm" DisplayName="Swampland Challenge Mote" achievementBit="2"/>
-                    <MarkerCategory name="arcm" DisplayName="Aquatic Ruin Challenge Mote" achievementBit="3"/>
-                    <MarkerCategory name="jktm" DisplayName="Jade Kraken Timed Mote" achievementBit="4"/>
-                    <MarkerCategory name="affrp" DisplayName="Ascalonian Fractal Field Research Paper" achievementBit="5"/>
-                    <MarkerCategory name="bfc" DisplayName="Burning Frozen Core" achievementBit="7"/>
-                    <MarkerCategory name="ccsm" DisplayName="Charged Clump of Swamp Moss" achievementBit="8"/>
-                    <MarkerCategory name="pfc" DisplayName="Prototype Fractal Capacitor" achievementBit="9"/>
-                    <MarkerCategory name="umcis" DisplayName="Unstable Magically Charged Infusion Sample" achievementBit="12"/>
-                    <MarkerCategory name="arf" DisplayName="Aetherblade Recruitment Form" achievementBit="13"/>
+                    <MarkerCategory name="doa" DisplayName="Defender of Ascalon" achievementBit="0"></MarkerCategory>
+                    <MarkerCategory name="cn" DisplayName="Charr-Nip" achievementBit="1"></MarkerCategory>
+                    <MarkerCategory name="scm" DisplayName="Swampland Challenge Mote" achievementBit="2"></MarkerCategory>
+                    <MarkerCategory name="arcm" DisplayName="Aquatic Ruin Challenge Mote" achievementBit="3"></MarkerCategory>
+                    <MarkerCategory name="jktm" DisplayName="Jade Kraken Timed Mote" achievementBit="4"></MarkerCategory>
+                    <MarkerCategory name="affrp" DisplayName="Ascalonian Fractal Field Research Paper" achievementBit="5"></MarkerCategory>
+                    <MarkerCategory name="bfc" DisplayName="Burning Frozen Core" achievementBit="7"></MarkerCategory>
+                    <MarkerCategory name="ccsm" DisplayName="Charged Clump of Swamp Moss" achievementBit="8"></MarkerCategory>
+                    <MarkerCategory name="pfc" DisplayName="Prototype Fractal Capacitor" achievementBit="9"></MarkerCategory>
+                    <MarkerCategory name="umcis" DisplayName="Unstable Magically Charged Infusion Sample" achievementBit="12"></MarkerCategory>
+                    <MarkerCategory name="arf" DisplayName="Aetherblade Recruitment Form" achievementBit="13"></MarkerCategory>
                 </MarkerCategory>
                 <MarkerCategory name="upper" DisplayName="Ad Infinitum II: Upper Bound" achievementId="2557">
                 </MarkerCategory>
@@ -436,284 +444,284 @@ xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
             </MarkerCategory>
             <MarkerCategory name="raidarmor" DisplayName="Raid Armor">
                 <MarkerCategory name="envoy1" DisplayName="Envoy I: Experimental Armor" achievementId="2646">
-                    <MarkerCategory name="ilc" DisplayName="Infused Living Crystal" achievementBit="0"/>
-                    <MarkerCategory name="ism" DisplayName="Infused Soul Mirror" achievementBit="1"/>
-                    <MarkerCategory name="aec" DisplayName="Auric Energy Crystal" achievementBit="2"/>
-                    <MarkerCategory name="sw" DisplayName="Spirit Weave" achievementBit="3"/>
-                    <MarkerCategory name="ce" DisplayName="Coagulated Ectoplasm" achievementBit="4"/>
-                    <MarkerCategory name="ad" DisplayName="Arcane Dust" achievementBit="6"/>
-                    <MarkerCategory name="mm" DisplayName="Mushroom Medley" achievementBit="7"/>
-                    <MarkerCategory name="gb" DisplayName="Giant Beehive" achievementBit="8"/>
-                    <MarkerCategory name="voftw" DisplayName="Vial of Forsaken Thicket Waters" achievementBit="9"/>
-                    <MarkerCategory name="bb" DisplayName="Bloodstone Battery (Charged)" achievementBit="12"/>
-                    <MarkerCategory name="sotk" DisplayName="Soul of the Keep" achievementBit="13"/>
-                    <MarkerCategory name="ta" DisplayName="Tormented Aurillium" achievementBit="14"/>
-                    <MarkerCategory name="ss" DisplayName="Spirit Strings" achievementBit="15"/>
-                    <MarkerCategory name="bie" DisplayName="Blodstone-Infused Ectoplasm" achievementBit="16"/>
+                    <MarkerCategory name="ilc" DisplayName="Infused Living Crystal" achievementBit="0"></MarkerCategory>
+                    <MarkerCategory name="ism" DisplayName="Infused Soul Mirror" achievementBit="1"></MarkerCategory>
+                    <MarkerCategory name="aec" DisplayName="Auric Energy Crystal" achievementBit="2"></MarkerCategory>
+                    <MarkerCategory name="sw" DisplayName="Spirit Weave" achievementBit="3"></MarkerCategory>
+                    <MarkerCategory name="ce" DisplayName="Coagulated Ectoplasm" achievementBit="4"></MarkerCategory>
+                    <MarkerCategory name="ad" DisplayName="Arcane Dust" achievementBit="6"></MarkerCategory>
+                    <MarkerCategory name="mm" DisplayName="Mushroom Medley" achievementBit="7"></MarkerCategory>
+                    <MarkerCategory name="gb" DisplayName="Giant Beehive" achievementBit="8"></MarkerCategory>
+                    <MarkerCategory name="voftw" DisplayName="Vial of Forsaken Thicket Waters" achievementBit="9"></MarkerCategory>
+                    <MarkerCategory name="bb" DisplayName="Bloodstone Battery (Charged)" achievementBit="12"></MarkerCategory>
+                    <MarkerCategory name="sotk" DisplayName="Soul of the Keep" achievementBit="13"></MarkerCategory>
+                    <MarkerCategory name="ta" DisplayName="Tormented Aurillium" achievementBit="14"></MarkerCategory>
+                    <MarkerCategory name="ss" DisplayName="Spirit Strings" achievementBit="15"></MarkerCategory>
+                    <MarkerCategory name="bie" DisplayName="Blodstone-Infused Ectoplasm" achievementBit="16"></MarkerCategory>
                 </MarkerCategory>
                 <MarkerCategory name="envoy2" DisplayName="Envoy II: Refined Armor" achievementId="3012">
-                    <MarkerCategory name="crystalline" DisplayName="Crystalline Heart" achievementBit="0"/>
-                    <MarkerCategory name="vine" DisplayName="Vine Heart" achievementBit="1"/>
-                    <MarkerCategory name="burning" DisplayName="Burning Heart" achievementBit="2"/>
-                    <MarkerCategory name="frozen" DisplayName="Frozen Heart" achievementBit="3"/>
-                    <MarkerCategory name="windy" DisplayName="Windy Heart" achievementBit="4"/>
-                    <MarkerCategory name="sodden" DisplayName="Sodden Heart" achievementBit="5"/>
-                    <MarkerCategory name="leyinfused" DisplayName="Ley-Infused Heart" achievementBit="6"/>
-                    <MarkerCategory name="cultivated" DisplayName="Cultivated Heart" achievementBit="7"/>
-                    <MarkerCategory name="penitent" DisplayName="Penitent Heart" achievementBit="8"/>
-                    <MarkerCategory name="jade" DisplayName="Jade Heart" achievementBit="9"/>
-                    <MarkerCategory name="protected" DisplayName="Protected Heart" achievementBit="10"/>
-                    <MarkerCategory name="tormented" DisplayName="Tormented Heart" achievementBit="11"/>
-                    <MarkerCategory name="demonic" DisplayName="Demonic Heart" achievementBit="12"/>
-                    <MarkerCategory name="redeemed" DisplayName="Redeemed Heart" achievementBit="13"/>
+                    <MarkerCategory name="crystalline" DisplayName="Crystalline Heart" achievementBit="0"></MarkerCategory>
+                    <MarkerCategory name="vine" DisplayName="Vine Heart" achievementBit="1"></MarkerCategory>
+                    <MarkerCategory name="burning" DisplayName="Burning Heart" achievementBit="2"></MarkerCategory>
+                    <MarkerCategory name="frozen" DisplayName="Frozen Heart" achievementBit="3"></MarkerCategory>
+                    <MarkerCategory name="windy" DisplayName="Windy Heart" achievementBit="4"></MarkerCategory>
+                    <MarkerCategory name="sodden" DisplayName="Sodden Heart" achievementBit="5"></MarkerCategory>
+                    <MarkerCategory name="leyinfused" DisplayName="Ley-Infused Heart" achievementBit="6"></MarkerCategory>
+                    <MarkerCategory name="cultivated" DisplayName="Cultivated Heart" achievementBit="7"></MarkerCategory>
+                    <MarkerCategory name="penitent" DisplayName="Penitent Heart" achievementBit="8"></MarkerCategory>
+                    <MarkerCategory name="jade" DisplayName="Jade Heart" achievementBit="9"></MarkerCategory>
+                    <MarkerCategory name="protected" DisplayName="Protected Heart" achievementBit="10"></MarkerCategory>
+                    <MarkerCategory name="tormented" DisplayName="Tormented Heart" achievementBit="11"></MarkerCategory>
+                    <MarkerCategory name="demonic" DisplayName="Demonic Heart" achievementBit="12"></MarkerCategory>
+                    <MarkerCategory name="redeemed" DisplayName="Redeemed Heart" achievementBit="13"></MarkerCategory>
                 </MarkerCategory>
             </MarkerCategory>
         </MarkerCategory>
         <MarkerCategory name="mapcomp" DisplayName="Map Completion">
             <MarkerCategory name="hearts" DisplayName="Hearts" iconFile="Data/Icons/heart_full.png">
-                <MarkerCategory name="interact" DisplayName="Interactables"/>
-                <MarkerCategory name="touch" DisplayName="Touch"/>
+                <MarkerCategory name="interact" DisplayName="Interactables"></MarkerCategory>
+                <MarkerCategory name="touch" DisplayName="Touch"></MarkerCategory>
             </MarkerCategory>
-            <MarkerCategory name="lanterns" DisplayName="Lanterns"/>
+            <MarkerCategory name="lanterns" DisplayName="Lanterns"></MarkerCategory>
         </MarkerCategory>
         <MarkerCategory name="insights" DisplayName="Mastery Insights" color="#D55E00">
-            <MarkerCategory name="bc_bbb" DisplayName="Bloody Bill's Base" achievementId="3501"/>
-            <MarkerCategory name="dc_dsp" DisplayName="Dostoev Sky Peak" achievementId="3534"/>
-            <MarkerCategory name="fr_cd" DisplayName="Cozen Desolation" achievementId="3530"/>
-            <MarkerCategory name="hh_ho" DisplayName="Hidden Ourobon" achievementId="3539"/>
-            <MarkerCategory name="im_shc" DisplayName="Sunken Halls of Clarent" achievementId="3526"/>
-            <MarkerCategory name="ml_sc" DisplayName="Scavenger's Chasm" achievementId="3476"/>
-            <MarkerCategory name="mm_vr" DisplayName="Volcanic Rim" achievementId="3531"/>
-            <MarkerCategory name="sf_sh" DisplayName="Shattercleft Hills" achievementId="3543"/>
-            <MarkerCategory name="tf_cm" DisplayName="Copperhammer Mines" achievementId="3504"/>
-            <MarkerCategory name="ab_bq" DisplayName="Burnisher Quarry" achievementId="2608"/>
-            <MarkerCategory name="ab_eb" DisplayName="Eastwatch Bluff" achievementId="2267"/>
-            <MarkerCategory name="ab_jg" DisplayName="Jawatl Grounds" achievementId="2204"/>
-            <MarkerCategory name="ab_ls" DisplayName="Lastgear Standing" achievementId="2143"/>
-            <MarkerCategory name="ab_lt" DisplayName="Luminate's Throne" achievementId="2517"/>
-            <MarkerCategory name="ab_motf" DisplayName="Masks of the Fallen" achievementId="2168"/>
-            <MarkerCategory name="ab_sc" DisplayName="Southwatch Creep" achievementId="2164"/>
-            <MarkerCategory name="ab_tf" DisplayName="The Falls" achievementId="2612"/>
-            <MarkerCategory name="td_nc" DisplayName="Northern Confluence" achievementId="2396"/>
-            <MarkerCategory name="td_nl" DisplayName="Nuhoch Lane" achievementId="2457"/>
-            <MarkerCategory name="td_oowo" DisplayName="Order of Whispers Outpost" achievementId="2305"/>
-            <MarkerCategory name="td_th" DisplayName="Terraced Hive" achievementId="2380"/>
-            <MarkerCategory name="td_tv" DisplayName="Twisting Viaduct" achievementId="2349"/>
-            <MarkerCategory name="vb_cope" DisplayName="Canopy Over Pact Encampment" achievementId="2324"/>
-            <MarkerCategory name="vb_cca" DisplayName="Creaking Cavern" achievementId="2147"/>
-            <MarkerCategory name="vb_ccr" DisplayName="Creeping Crevasse" achievementId="2149"/>
-            <MarkerCategory name="vb_fc" DisplayName="Fumerol Caves" achievementId="2339"/>
-            <MarkerCategory name="vb_hp" DisplayName="Heartless Pass" achievementId="2150"/>
-            <MarkerCategory name="vb_hh" DisplayName="Holdfast Hollow" achievementId="2146"/>
-            <MarkerCategory name="vb_onl" DisplayName="Outside Noble Ledges" achievementId="2148"/>
-            <MarkerCategory name="vb_tcg" DisplayName="The Corpse Grove" achievementId="2144"/>
-            <MarkerCategory name="vb_tr" DisplayName="Thistlevine Ravine" achievementId="2145"/>
-            <MarkerCategory name="co_ab" DisplayName="Amnoon Bazaar" achievementId="3655"/>
-            <MarkerCategory name="co_gl" DisplayName="Glint's Legacy" achievementId="3714"/>
-            <MarkerCategory name="co_ig" DisplayName="Imed's Grotto" achievementId="3710"/>
-            <MarkerCategory name="co_oa" DisplayName="Old Amnoon" achievementId="3763"/>
-            <MarkerCategory name="co_son" DisplayName="Sanctum of Nabkha" achievementId="3717"/>
-            <MarkerCategory name="co_sq" DisplayName="Sifuri Quicksand" achievementId="3805"/>
-            <MarkerCategory name="dh_atf" DisplayName="Above the Flats" achievementId="3591"/>
-            <MarkerCategory name="dh_botw" DisplayName="Base of the Watchtower" achievementId="3671"/>
-            <MarkerCategory name="dh_bh" DisplayName="Brightwater Hollow" achievementId="3878"/>
-            <MarkerCategory name="dh_dp" DisplayName="Derelict Perch" achievementId="3800"/>
-            <MarkerCategory name="dh_dv" DisplayName="Discarded Vessels" achievementId="3630"/>
-            <MarkerCategory name="dh_gb" DisplayName="Giant's Bough" achievementId="3640"/>
-            <MarkerCategory name="dh_hr" DisplayName="Highjump Rise" achievementId="3769"/>
-            <MarkerCategory name="dh_ko" DisplayName="Kanuz Overlook" achievementId="3875"/>
-            <MarkerCategory name="dh_lfgl" DisplayName="Lifeblood Falls Grub Ledge" achievementId="3783"/>
-            <MarkerCategory name="dh_mo" DisplayName="Makali Outpost" achievementId="3605"/>
-            <MarkerCategory name="dh_osn" DisplayName="Overreach Spider Nest" achievementId="3810"/>
-            <MarkerCategory name="dh_poa" DisplayName="Palace of Aban" achievementId="3656"/>
-            <MarkerCategory name="dh_ss" DisplayName="Standstill Spire" achievementId="3755"/>
-            <MarkerCategory name="dh_sc" DisplayName="Sunderlands Crater" achievementId="3713"/>
-            <MarkerCategory name="dh_tt" DisplayName="The Tombs" achievementId="3610"/>
-            <MarkerCategory name="d_oav" DisplayName="Arena of Vayu" achievementId="3695"/>
-            <MarkerCategory name="d_hoj" DisplayName="Henge of Joko" achievementId="3659"/>
-            <MarkerCategory name="d_sjl" DisplayName="Sand Jackal Leap" achievementId="3592"/>
-            <MarkerCategory name="d_ss" DisplayName="Sandfall Sanctum" achievementId="3573"/>
-            <MarkerCategory name="d_sr" DisplayName="Shattered Ravines" achievementId="3620"/>
-            <MarkerCategory name="d_si" DisplayName="Silent Isle" achievementId="3885"/>
-            <MarkerCategory name="d_tw" DisplayName="Tarstone Weeps" achievementId="3600"/>
-            <MarkerCategory name="d_tmot" DisplayName="The Mouth of Torment" achievementId="3645"/>
-            <MarkerCategory name="dov_kb" DisplayName="Kodash Brazier" achievementId="3803"/>
-            <MarkerCategory name="dov_ys" DisplayName="Yahnur Sandfall" achievementId="3692"/>
-            <MarkerCategory name="dov_zt" DisplayName="Zagonur Towers" achievementId="3841"/>
-            <MarkerCategory name="er_dv" DisplayName="Deadhouse Vault" achievementId="3852"/>
-            <MarkerCategory name="er_ho" DisplayName="Heroes' Overlook" achievementId="3795"/>
-            <MarkerCategory name="er_lg" DisplayName="Leviathan's Gullet" achievementId="3563"/>
-            <MarkerCategory name="er_od" DisplayName="Ossa's Defeat" achievementId="3761"/>
-            <MarkerCategory name="er_pos" DisplayName="Pillars of Sovereignty" achievementId="3704"/>
-            <MarkerCategory name="er_sod" DisplayName="Shallows of Despair" achievementId="3603"/>
-            <MarkerCategory name="er_sr" DisplayName="Sovereign Ridge" achievementId="3701"/>
-            <MarkerCategory name="er_vds" DisplayName="Vulture Drifts Summit" achievementId="3767"/>
-            <MarkerCategory name="de_br" DisplayName="Brotherhood Rooftop" achievementId="6404"/>
-            <MarkerCategory name="de_jw" DisplayName="Jade Waves" achievementId="6406"/>
-            <MarkerCategory name="de_qc" DisplayName="Quarry Crane" achievementId="6395"/>
-            <MarkerCategory name="de_sr" DisplayName="Shrine Rooftop" achievementId="6360"/>
-            <MarkerCategory name="de_w" DisplayName="Warehouse" achievementId="6122"/>
-            <MarkerCategory name="ew_amc" DisplayName="Altrumm Mines Catacomb" achievementId="6351"/>
-            <MarkerCategory name="ew_aa" DisplayName="Ancient Archives" achievementId="6238"/>
-            <MarkerCategory name="ew_ap" DisplayName="Aspenwood Passageway" achievementId="6094"/>
-            <MarkerCategory name="ew_cp" DisplayName="Cemetery Pond" achievementId="6076"/>
-            <MarkerCategory name="ew_fs" DisplayName="Ferndale Stairs" achievementId="6244"/>
-            <MarkerCategory name="ew_fa" DisplayName="Fort Aspenwood" achievementId="6249"/>
-            <MarkerCategory name="ew_hzh" DisplayName="House zu Heltzer" achievementId="6102"/>
-            <MarkerCategory name="ew_mv" DisplayName="Mori Village" achievementId="6334"/>
-            <MarkerCategory name="ew_qb" DisplayName="Qinkaishi Basin" achievementId="6226"/>
-            <MarkerCategory name="ew_sp" DisplayName="Saprophyte's Pond" achievementId="6462"/>
-            <MarkerCategory name="ew_totd" DisplayName="Temple of the Dredge" achievementId="6338"/>
-            <MarkerCategory name="ew_wc" DisplayName="Wrightstone Chantry" achievementId="6382"/>
-            <MarkerCategory name="nk_av" DisplayName="Ancient Vault" achievementId="6182"/>
-            <MarkerCategory name="nk_jm" DisplayName="Jade Monument" achievementId="6389"/>
-            <MarkerCategory name="nk_lm" DisplayName="Lutgardis Market" achievementId="6341"/>
-            <MarkerCategory name="nk_lp" DisplayName="Lutgardis Plaza" achievementId="6449"/>
-            <MarkerCategory name="nk_lprg" DisplayName="Lutgardis Plaza Rooftop Garden" achievementId="6477"/>
-            <MarkerCategory name="nk_mwp" DisplayName="Ministry Ward Platform" achievementId="6441"/>
-            <MarkerCategory name="nk_mww" DisplayName="Ministry Ward Waypoint" achievementId="6177"/>
-            <MarkerCategory name="nk_nbr" DisplayName="Naksi Bay Ruins" achievementId="6476"/>
-            <MarkerCategory name="nk_psd" DisplayName="Petrified Shipping Docks" achievementId="6214"/>
-            <MarkerCategory name="nk_pot" DisplayName="Pool of Tranquility" achievementId="6507"/>
-            <MarkerCategory name="nk_sy" DisplayName="Salvage Yard" achievementId="6128"/>
-            <MarkerCategory name="nk_sg" DisplayName="Shipwreck Graveyard" achievementId="6365"/>
-            <MarkerCategory name="nk_sokr" DisplayName="South Old Kaineng Ruins" achievementId="6379"/>
-            <MarkerCategory name="sp_atr" DisplayName="Abandoned Temple Rooftop" achievementId="6281"/>
-            <MarkerCategory name="sp_ah" DisplayName="Affluent House" achievementId="6070"/>
-            <MarkerCategory name="sp_aw" DisplayName="Airship Wreckage" achievementId="6100"/>
-            <MarkerCategory name="sp_cp" DisplayName="Camp Peaks" achievementId="6119"/>
-            <MarkerCategory name="sp_cc" DisplayName="Crystal Cave" achievementId="6104"/>
-            <MarkerCategory name="sp_dt" DisplayName="Derelict Temple" achievementId="6191"/>
-            <MarkerCategory name="sp_dc" DisplayName="Dreary Caves" achievementId="6267"/>
-            <MarkerCategory name="sp_mt" DisplayName="Monastery Temple" achievementId="6095"/>
-            <MarkerCategory name="sp_ni" DisplayName="Naga Island" achievementId="6410"/>
-            <MarkerCategory name="sp_ncb" DisplayName="Northern Cherry Blossom" achievementId="6277"/>
-            <MarkerCategory name="sp_sp" DisplayName="Shore Peaks" achievementId="6087"/>
-            <MarkerCategory name="sp_vs" DisplayName="Valor Shrine" achievementId="6479"/>
-            <MarkerCategory name="sp_zdci" DisplayName="Zen Daijun Cat Island" achievementId="6105"/>
-            <MarkerCategory name="sp_zdt" DisplayName="Zen Daijun Temple" achievementId="6149"/>
-            <MarkerCategory name="de_tt" DisplayName="Thirsty Tourist" achievementId="6124"/>
-            <MarkerCategory name="a_bp" DisplayName="Balanced Perspective" achievementId="7182"/>
-            <MarkerCategory name="a_bs" DisplayName="Bastion Shallows" achievementId="7213"/>
-            <MarkerCategory name="a_cl" DisplayName="Caveside Lookout" achievementId="7045"/>
-            <MarkerCategory name="a_cp" DisplayName="Celestial Pilaster" achievementId="7046"/>
-            <MarkerCategory name="a_obtc" DisplayName="Obscured by the Clouds" achievementId="6999"/>
-            <MarkerCategory name="a_ta" DisplayName="The Arboretum" achievementId="7209"/>
-            <MarkerCategory name="a_tdh" DisplayName="The Debate Hall" achievementId="6966"/>
-            <MarkerCategory name="a_tpow" DisplayName="The Plaza of Wisdom" achievementId="6977"/>
-            <MarkerCategory name="a_wb" DisplayName="Windy Bluff" achievementId="7124"/>
-            <MarkerCategory name="in_ae" DisplayName="Abyssal Edge" achievementId="7731"/>
-            <MarkerCategory name="in_bvp" DisplayName="Branch Vantage Point" achievementId="7817"/>
-            <MarkerCategory name="in_coz" DisplayName="Citadel of Zakiros" achievementId="8014"/>
-            <MarkerCategory name="in_df" DisplayName="Deep Falls" achievementId="7671"/>
-            <MarkerCategory name="in_hg" DisplayName="Heitor's Gate" achievementId="7683"/>
-            <MarkerCategory name="in_hesn" DisplayName="High-Elevation Skyscale Nest" achievementId="7836"/>
-            <MarkerCategory name="in_la" DisplayName="Lost Altar" achievementId="7694"/>
-            <MarkerCategory name="in_mh" DisplayName="Memory's Hollow" achievementId="7673"/>
-            <MarkerCategory name="in_ms" DisplayName="Mourning's Shade" achievementId="7708"/>
-            <MarkerCategory name="in_se" DisplayName="Southern Extractor" achievementId="7724"/>
-            <MarkerCategory name="sa_atj" DisplayName="Above the Jungle" achievementId="7171"/>
-            <MarkerCategory name="sa_boa" DisplayName="Beacon of Ages" achievementId="7188"/>
-            <MarkerCategory name="sa_dm" DisplayName="Droknar's Mines" achievementId="7016"/>
-            <MarkerCategory name="sa_msr" DisplayName="MinSec Server Room" achievementId="7150"/>
-            <MarkerCategory name="sa_rnf" DisplayName="Rata Novus Foundations" achievementId="7125"/>
-            <MarkerCategory name="sa_rno" DisplayName="Rata Novus Outcrop" achievementId="7086"/>
-            <MarkerCategory name="sa_ss" DisplayName="Skyscale Sanctuary" achievementId="7093"/>
-            <MarkerCategory name="sa_sc" DisplayName="Southern Clearing" achievementId="7177"/>
-            <MarkerCategory name="sa_tft" DisplayName="The Fractured Tower" achievementId="7115"/>
-            <MarkerCategory name="sa_utd" DisplayName="Under the Dunes" achievementId="7216"/>
-            <MarkerCategory name="sa_wgs" DisplayName="War God's Spire" achievementId="7006"/>
-            <MarkerCategory name="wt_abev" DisplayName="A Bird's Eye View" achievementId="7022"/>
-            <MarkerCategory name="wt_ta" DisplayName="The Apex" achievementId="7000"/>
-            <MarkerCategory name="js_br" DisplayName="Bloodtree's Reach" achievementId="8308"/>
-            <MarkerCategory name="js_fv" DisplayName="Festering Vantage" achievementId="8274"/>
-            <MarkerCategory name="js_fl" DisplayName="Forager's Lookout" achievementId="8254"/>
-            <MarkerCategory name="js_gc" DisplayName="Greenwood's Corner" achievementId="8186"/>
-            <MarkerCategory name="js_ms" DisplayName="Maw's Stone" achievementId="8277"/>
-            <MarkerCategory name="js_por" DisplayName="Pillar of Reaping" achievementId="8225"/>
-            <MarkerCategory name="js_sa" DisplayName="Stormy Ascent" achievementId="8264"/>
-            <MarkerCategory name="js_sca" DisplayName="Stricken Cathedral" achievementId="8211"/>
-            <MarkerCategory name="js_scl" DisplayName="Sulfurous Climb" achievementId="8359"/>
-            <MarkerCategory name="js_tbo" DisplayName="Thunder Bay Overlook" achievementId="8315"/>
-            <MarkerCategory name="js_tt" DisplayName="Tumultuous Tree" achievementId="8181"/>
-            <MarkerCategory name="ls_boim" DisplayName="Battle of Ice Memorial" achievementId="8238"/>
-            <MarkerCategory name="ls_as" DisplayName="Alessia's Secret" achievementId="8295"/>
-            <MarkerCategory name="ls_cp" DisplayName="Clearing's Peak" achievementId="8169"/>
-            <MarkerCategory name="ls_gf" DisplayName="Geyser Flow" achievementId="8212"/>
-            <MarkerCategory name="ls_lr" DisplayName="Lupine Reverie" achievementId="8321"/>
-            <MarkerCategory name="ls_pp" DisplayName="Poky's Perch" achievementId="8215"/>
-            <MarkerCategory name="ls_rf" DisplayName="Ruminant Fields" achievementId="8235"/>
-            <MarkerCategory name="ls_si" DisplayName="Severed Isle" achievementId="8176"/>
-            <MarkerCategory name="ls_ss" DisplayName="Springs Stand" achievementId="8307"/>
-            <MarkerCategory name="ls_tt" DisplayName="Troll's Treasure" achievementId="8365"/>
-            <MarkerCategory name="ls_wr" DisplayName="Waterfall Roost" achievementId="8220"/>
+            <MarkerCategory name="bc_bbb" DisplayName="Bloody Bill's Base" achievementId="3501"></MarkerCategory>
+            <MarkerCategory name="dc_dsp" DisplayName="Dostoev Sky Peak" achievementId="3534"></MarkerCategory>
+            <MarkerCategory name="fr_cd" DisplayName="Cozen Desolation" achievementId="3530"></MarkerCategory>
+            <MarkerCategory name="hh_ho" DisplayName="Hidden Ourobon" achievementId="3539"></MarkerCategory>
+            <MarkerCategory name="im_shc" DisplayName="Sunken Halls of Clarent" achievementId="3526"></MarkerCategory>
+            <MarkerCategory name="ml_sc" DisplayName="Scavenger's Chasm" achievementId="3476"></MarkerCategory>
+            <MarkerCategory name="mm_vr" DisplayName="Volcanic Rim" achievementId="3531"></MarkerCategory>
+            <MarkerCategory name="sf_sh" DisplayName="Shattercleft Hills" achievementId="3543"></MarkerCategory>
+            <MarkerCategory name="tf_cm" DisplayName="Copperhammer Mines" achievementId="3504"></MarkerCategory>
+            <MarkerCategory name="ab_bq" DisplayName="Burnisher Quarry" achievementId="2608"></MarkerCategory>
+            <MarkerCategory name="ab_eb" DisplayName="Eastwatch Bluff" achievementId="2267"></MarkerCategory>
+            <MarkerCategory name="ab_jg" DisplayName="Jawatl Grounds" achievementId="2204"></MarkerCategory>
+            <MarkerCategory name="ab_ls" DisplayName="Lastgear Standing" achievementId="2143"></MarkerCategory>
+            <MarkerCategory name="ab_lt" DisplayName="Luminate's Throne" achievementId="2517"></MarkerCategory>
+            <MarkerCategory name="ab_motf" DisplayName="Masks of the Fallen" achievementId="2168"></MarkerCategory>
+            <MarkerCategory name="ab_sc" DisplayName="Southwatch Creep" achievementId="2164"></MarkerCategory>
+            <MarkerCategory name="ab_tf" DisplayName="The Falls" achievementId="2612"></MarkerCategory>
+            <MarkerCategory name="td_nc" DisplayName="Northern Confluence" achievementId="2396"></MarkerCategory>
+            <MarkerCategory name="td_nl" DisplayName="Nuhoch Lane" achievementId="2457"></MarkerCategory>
+            <MarkerCategory name="td_oowo" DisplayName="Order of Whispers Outpost" achievementId="2305"></MarkerCategory>
+            <MarkerCategory name="td_th" DisplayName="Terraced Hive" achievementId="2380"></MarkerCategory>
+            <MarkerCategory name="td_tv" DisplayName="Twisting Viaduct" achievementId="2349"></MarkerCategory>
+            <MarkerCategory name="vb_cope" DisplayName="Canopy Over Pact Encampment" achievementId="2324"></MarkerCategory>
+            <MarkerCategory name="vb_cca" DisplayName="Creaking Cavern" achievementId="2147"></MarkerCategory>
+            <MarkerCategory name="vb_ccr" DisplayName="Creeping Crevasse" achievementId="2149"></MarkerCategory>
+            <MarkerCategory name="vb_fc" DisplayName="Fumerol Caves" achievementId="2339"></MarkerCategory>
+            <MarkerCategory name="vb_hp" DisplayName="Heartless Pass" achievementId="2150"></MarkerCategory>
+            <MarkerCategory name="vb_hh" DisplayName="Holdfast Hollow" achievementId="2146"></MarkerCategory>
+            <MarkerCategory name="vb_onl" DisplayName="Outside Noble Ledges" achievementId="2148"></MarkerCategory>
+            <MarkerCategory name="vb_tcg" DisplayName="The Corpse Grove" achievementId="2144"></MarkerCategory>
+            <MarkerCategory name="vb_tr" DisplayName="Thistlevine Ravine" achievementId="2145"></MarkerCategory>
+            <MarkerCategory name="co_ab" DisplayName="Amnoon Bazaar" achievementId="3655"></MarkerCategory>
+            <MarkerCategory name="co_gl" DisplayName="Glint's Legacy" achievementId="3714"></MarkerCategory>
+            <MarkerCategory name="co_ig" DisplayName="Imed's Grotto" achievementId="3710"></MarkerCategory>
+            <MarkerCategory name="co_oa" DisplayName="Old Amnoon" achievementId="3763"></MarkerCategory>
+            <MarkerCategory name="co_son" DisplayName="Sanctum of Nabkha" achievementId="3717"></MarkerCategory>
+            <MarkerCategory name="co_sq" DisplayName="Sifuri Quicksand" achievementId="3805"></MarkerCategory>
+            <MarkerCategory name="dh_atf" DisplayName="Above the Flats" achievementId="3591"></MarkerCategory>
+            <MarkerCategory name="dh_botw" DisplayName="Base of the Watchtower" achievementId="3671"></MarkerCategory>
+            <MarkerCategory name="dh_bh" DisplayName="Brightwater Hollow" achievementId="3878"></MarkerCategory>
+            <MarkerCategory name="dh_dp" DisplayName="Derelict Perch" achievementId="3800"></MarkerCategory>
+            <MarkerCategory name="dh_dv" DisplayName="Discarded Vessels" achievementId="3630"></MarkerCategory>
+            <MarkerCategory name="dh_gb" DisplayName="Giant's Bough" achievementId="3640"></MarkerCategory>
+            <MarkerCategory name="dh_hr" DisplayName="Highjump Rise" achievementId="3769"></MarkerCategory>
+            <MarkerCategory name="dh_ko" DisplayName="Kanuz Overlook" achievementId="3875"></MarkerCategory>
+            <MarkerCategory name="dh_lfgl" DisplayName="Lifeblood Falls Grub Ledge" achievementId="3783"></MarkerCategory>
+            <MarkerCategory name="dh_mo" DisplayName="Makali Outpost" achievementId="3605"></MarkerCategory>
+            <MarkerCategory name="dh_osn" DisplayName="Overreach Spider Nest" achievementId="3810"></MarkerCategory>
+            <MarkerCategory name="dh_poa" DisplayName="Palace of Aban" achievementId="3656"></MarkerCategory>
+            <MarkerCategory name="dh_ss" DisplayName="Standstill Spire" achievementId="3755"></MarkerCategory>
+            <MarkerCategory name="dh_sc" DisplayName="Sunderlands Crater" achievementId="3713"></MarkerCategory>
+            <MarkerCategory name="dh_tt" DisplayName="The Tombs" achievementId="3610"></MarkerCategory>
+            <MarkerCategory name="d_oav" DisplayName="Arena of Vayu" achievementId="3695"></MarkerCategory>
+            <MarkerCategory name="d_hoj" DisplayName="Henge of Joko" achievementId="3659"></MarkerCategory>
+            <MarkerCategory name="d_sjl" DisplayName="Sand Jackal Leap" achievementId="3592"></MarkerCategory>
+            <MarkerCategory name="d_ss" DisplayName="Sandfall Sanctum" achievementId="3573"></MarkerCategory>
+            <MarkerCategory name="d_sr" DisplayName="Shattered Ravines" achievementId="3620"></MarkerCategory>
+            <MarkerCategory name="d_si" DisplayName="Silent Isle" achievementId="3885"></MarkerCategory>
+            <MarkerCategory name="d_tw" DisplayName="Tarstone Weeps" achievementId="3600"></MarkerCategory>
+            <MarkerCategory name="d_tmot" DisplayName="The Mouth of Torment" achievementId="3645"></MarkerCategory>
+            <MarkerCategory name="dov_kb" DisplayName="Kodash Brazier" achievementId="3803"></MarkerCategory>
+            <MarkerCategory name="dov_ys" DisplayName="Yahnur Sandfall" achievementId="3692"></MarkerCategory>
+            <MarkerCategory name="dov_zt" DisplayName="Zagonur Towers" achievementId="3841"></MarkerCategory>
+            <MarkerCategory name="er_dv" DisplayName="Deadhouse Vault" achievementId="3852"></MarkerCategory>
+            <MarkerCategory name="er_ho" DisplayName="Heroes' Overlook" achievementId="3795"></MarkerCategory>
+            <MarkerCategory name="er_lg" DisplayName="Leviathan's Gullet" achievementId="3563"></MarkerCategory>
+            <MarkerCategory name="er_od" DisplayName="Ossa's Defeat" achievementId="3761"></MarkerCategory>
+            <MarkerCategory name="er_pos" DisplayName="Pillars of Sovereignty" achievementId="3704"></MarkerCategory>
+            <MarkerCategory name="er_sod" DisplayName="Shallows of Despair" achievementId="3603"></MarkerCategory>
+            <MarkerCategory name="er_sr" DisplayName="Sovereign Ridge" achievementId="3701"></MarkerCategory>
+            <MarkerCategory name="er_vds" DisplayName="Vulture Drifts Summit" achievementId="3767"></MarkerCategory>
+            <MarkerCategory name="de_br" DisplayName="Brotherhood Rooftop" achievementId="6404"></MarkerCategory>
+            <MarkerCategory name="de_jw" DisplayName="Jade Waves" achievementId="6406"></MarkerCategory>
+            <MarkerCategory name="de_qc" DisplayName="Quarry Crane" achievementId="6395"></MarkerCategory>
+            <MarkerCategory name="de_sr" DisplayName="Shrine Rooftop" achievementId="6360"></MarkerCategory>
+            <MarkerCategory name="de_w" DisplayName="Warehouse" achievementId="6122"></MarkerCategory>
+            <MarkerCategory name="ew_amc" DisplayName="Altrumm Mines Catacomb" achievementId="6351"></MarkerCategory>
+            <MarkerCategory name="ew_aa" DisplayName="Ancient Archives" achievementId="6238"></MarkerCategory>
+            <MarkerCategory name="ew_ap" DisplayName="Aspenwood Passageway" achievementId="6094"></MarkerCategory>
+            <MarkerCategory name="ew_cp" DisplayName="Cemetery Pond" achievementId="6076"></MarkerCategory>
+            <MarkerCategory name="ew_fs" DisplayName="Ferndale Stairs" achievementId="6244"></MarkerCategory>
+            <MarkerCategory name="ew_fa" DisplayName="Fort Aspenwood" achievementId="6249"></MarkerCategory>
+            <MarkerCategory name="ew_hzh" DisplayName="House zu Heltzer" achievementId="6102"></MarkerCategory>
+            <MarkerCategory name="ew_mv" DisplayName="Mori Village" achievementId="6334"></MarkerCategory>
+            <MarkerCategory name="ew_qb" DisplayName="Qinkaishi Basin" achievementId="6226"></MarkerCategory>
+            <MarkerCategory name="ew_sp" DisplayName="Saprophyte's Pond" achievementId="6462"></MarkerCategory>
+            <MarkerCategory name="ew_totd" DisplayName="Temple of the Dredge" achievementId="6338"></MarkerCategory>
+            <MarkerCategory name="ew_wc" DisplayName="Wrightstone Chantry" achievementId="6382"></MarkerCategory>
+            <MarkerCategory name="nk_av" DisplayName="Ancient Vault" achievementId="6182"></MarkerCategory>
+            <MarkerCategory name="nk_jm" DisplayName="Jade Monument" achievementId="6389"></MarkerCategory>
+            <MarkerCategory name="nk_lm" DisplayName="Lutgardis Market" achievementId="6341"></MarkerCategory>
+            <MarkerCategory name="nk_lp" DisplayName="Lutgardis Plaza" achievementId="6449"></MarkerCategory>
+            <MarkerCategory name="nk_lprg" DisplayName="Lutgardis Plaza Rooftop Garden" achievementId="6477"></MarkerCategory>
+            <MarkerCategory name="nk_mwp" DisplayName="Ministry Ward Platform" achievementId="6441"></MarkerCategory>
+            <MarkerCategory name="nk_mww" DisplayName="Ministry Ward Waypoint" achievementId="6177"></MarkerCategory>
+            <MarkerCategory name="nk_nbr" DisplayName="Naksi Bay Ruins" achievementId="6476"></MarkerCategory>
+            <MarkerCategory name="nk_psd" DisplayName="Petrified Shipping Docks" achievementId="6214"></MarkerCategory>
+            <MarkerCategory name="nk_pot" DisplayName="Pool of Tranquility" achievementId="6507"></MarkerCategory>
+            <MarkerCategory name="nk_sy" DisplayName="Salvage Yard" achievementId="6128"></MarkerCategory>
+            <MarkerCategory name="nk_sg" DisplayName="Shipwreck Graveyard" achievementId="6365"></MarkerCategory>
+            <MarkerCategory name="nk_sokr" DisplayName="South Old Kaineng Ruins" achievementId="6379"></MarkerCategory>
+            <MarkerCategory name="sp_atr" DisplayName="Abandoned Temple Rooftop" achievementId="6281"></MarkerCategory>
+            <MarkerCategory name="sp_ah" DisplayName="Affluent House" achievementId="6070"></MarkerCategory>
+            <MarkerCategory name="sp_aw" DisplayName="Airship Wreckage" achievementId="6100"></MarkerCategory>
+            <MarkerCategory name="sp_cp" DisplayName="Camp Peaks" achievementId="6119"></MarkerCategory>
+            <MarkerCategory name="sp_cc" DisplayName="Crystal Cave" achievementId="6104"></MarkerCategory>
+            <MarkerCategory name="sp_dt" DisplayName="Derelict Temple" achievementId="6191"></MarkerCategory>
+            <MarkerCategory name="sp_dc" DisplayName="Dreary Caves" achievementId="6267"></MarkerCategory>
+            <MarkerCategory name="sp_mt" DisplayName="Monastery Temple" achievementId="6095"></MarkerCategory>
+            <MarkerCategory name="sp_ni" DisplayName="Naga Island" achievementId="6410"></MarkerCategory>
+            <MarkerCategory name="sp_ncb" DisplayName="Northern Cherry Blossom" achievementId="6277"></MarkerCategory>
+            <MarkerCategory name="sp_sp" DisplayName="Shore Peaks" achievementId="6087"></MarkerCategory>
+            <MarkerCategory name="sp_vs" DisplayName="Valor Shrine" achievementId="6479"></MarkerCategory>
+            <MarkerCategory name="sp_zdci" DisplayName="Zen Daijun Cat Island" achievementId="6105"></MarkerCategory>
+            <MarkerCategory name="sp_zdt" DisplayName="Zen Daijun Temple" achievementId="6149"></MarkerCategory>
+            <MarkerCategory name="de_tt" DisplayName="Thirsty Tourist" achievementId="6124"></MarkerCategory>
+            <MarkerCategory name="a_bp" DisplayName="Balanced Perspective" achievementId="7182"></MarkerCategory>
+            <MarkerCategory name="a_bs" DisplayName="Bastion Shallows" achievementId="7213"></MarkerCategory>
+            <MarkerCategory name="a_cl" DisplayName="Caveside Lookout" achievementId="7045"></MarkerCategory>
+            <MarkerCategory name="a_cp" DisplayName="Celestial Pilaster" achievementId="7046"></MarkerCategory>
+            <MarkerCategory name="a_obtc" DisplayName="Obscured by the Clouds" achievementId="6999"></MarkerCategory>
+            <MarkerCategory name="a_ta" DisplayName="The Arboretum" achievementId="7209"></MarkerCategory>
+            <MarkerCategory name="a_tdh" DisplayName="The Debate Hall" achievementId="6966"></MarkerCategory>
+            <MarkerCategory name="a_tpow" DisplayName="The Plaza of Wisdom" achievementId="6977"></MarkerCategory>
+            <MarkerCategory name="a_wb" DisplayName="Windy Bluff" achievementId="7124"></MarkerCategory>
+            <MarkerCategory name="in_ae" DisplayName="Abyssal Edge" achievementId="7731"></MarkerCategory>
+            <MarkerCategory name="in_bvp" DisplayName="Branch Vantage Point" achievementId="7817"></MarkerCategory>
+            <MarkerCategory name="in_coz" DisplayName="Citadel of Zakiros" achievementId="8014"></MarkerCategory>
+            <MarkerCategory name="in_df" DisplayName="Deep Falls" achievementId="7671"></MarkerCategory>
+            <MarkerCategory name="in_hg" DisplayName="Heitor's Gate" achievementId="7683"></MarkerCategory>
+            <MarkerCategory name="in_hesn" DisplayName="High-Elevation Skyscale Nest" achievementId="7836"></MarkerCategory>
+            <MarkerCategory name="in_la" DisplayName="Lost Altar" achievementId="7694"></MarkerCategory>
+            <MarkerCategory name="in_mh" DisplayName="Memory's Hollow" achievementId="7673"></MarkerCategory>
+            <MarkerCategory name="in_ms" DisplayName="Mourning's Shade" achievementId="7708"></MarkerCategory>
+            <MarkerCategory name="in_se" DisplayName="Southern Extractor" achievementId="7724"></MarkerCategory>
+            <MarkerCategory name="sa_atj" DisplayName="Above the Jungle" achievementId="7171"></MarkerCategory>
+            <MarkerCategory name="sa_boa" DisplayName="Beacon of Ages" achievementId="7188"></MarkerCategory>
+            <MarkerCategory name="sa_dm" DisplayName="Droknar's Mines" achievementId="7016"></MarkerCategory>
+            <MarkerCategory name="sa_msr" DisplayName="MinSec Server Room" achievementId="7150"></MarkerCategory>
+            <MarkerCategory name="sa_rnf" DisplayName="Rata Novus Foundations" achievementId="7125"></MarkerCategory>
+            <MarkerCategory name="sa_rno" DisplayName="Rata Novus Outcrop" achievementId="7086"></MarkerCategory>
+            <MarkerCategory name="sa_ss" DisplayName="Skyscale Sanctuary" achievementId="7093"></MarkerCategory>
+            <MarkerCategory name="sa_sc" DisplayName="Southern Clearing" achievementId="7177"></MarkerCategory>
+            <MarkerCategory name="sa_tft" DisplayName="The Fractured Tower" achievementId="7115"></MarkerCategory>
+            <MarkerCategory name="sa_utd" DisplayName="Under the Dunes" achievementId="7216"></MarkerCategory>
+            <MarkerCategory name="sa_wgs" DisplayName="War God's Spire" achievementId="7006"></MarkerCategory>
+            <MarkerCategory name="wt_abev" DisplayName="A Bird's Eye View" achievementId="7022"></MarkerCategory>
+            <MarkerCategory name="wt_ta" DisplayName="The Apex" achievementId="7000"></MarkerCategory>
+            <MarkerCategory name="js_br" DisplayName="Bloodtree's Reach" achievementId="8308"></MarkerCategory>
+            <MarkerCategory name="js_fv" DisplayName="Festering Vantage" achievementId="8274"></MarkerCategory>
+            <MarkerCategory name="js_fl" DisplayName="Forager's Lookout" achievementId="8254"></MarkerCategory>
+            <MarkerCategory name="js_gc" DisplayName="Greenwood's Corner" achievementId="8186"></MarkerCategory>
+            <MarkerCategory name="js_ms" DisplayName="Maw's Stone" achievementId="8277"></MarkerCategory>
+            <MarkerCategory name="js_por" DisplayName="Pillar of Reaping" achievementId="8225"></MarkerCategory>
+            <MarkerCategory name="js_sa" DisplayName="Stormy Ascent" achievementId="8264"></MarkerCategory>
+            <MarkerCategory name="js_sca" DisplayName="Stricken Cathedral" achievementId="8211"></MarkerCategory>
+            <MarkerCategory name="js_scl" DisplayName="Sulfurous Climb" achievementId="8359"></MarkerCategory>
+            <MarkerCategory name="js_tbo" DisplayName="Thunder Bay Overlook" achievementId="8315"></MarkerCategory>
+            <MarkerCategory name="js_tt" DisplayName="Tumultuous Tree" achievementId="8181"></MarkerCategory>
+            <MarkerCategory name="ls_boim" DisplayName="Battle of Ice Memorial" achievementId="8238"></MarkerCategory>
+            <MarkerCategory name="ls_as" DisplayName="Alessia's Secret" achievementId="8295"></MarkerCategory>
+            <MarkerCategory name="ls_cp" DisplayName="Clearing's Peak" achievementId="8169"></MarkerCategory>
+            <MarkerCategory name="ls_gf" DisplayName="Geyser Flow" achievementId="8212"></MarkerCategory>
+            <MarkerCategory name="ls_lr" DisplayName="Lupine Reverie" achievementId="8321"></MarkerCategory>
+            <MarkerCategory name="ls_pp" DisplayName="Poky's Perch" achievementId="8215"></MarkerCategory>
+            <MarkerCategory name="ls_rf" DisplayName="Ruminant Fields" achievementId="8235"></MarkerCategory>
+            <MarkerCategory name="ls_si" DisplayName="Severed Isle" achievementId="8176"></MarkerCategory>
+            <MarkerCategory name="ls_ss" DisplayName="Springs Stand" achievementId="8307"></MarkerCategory>
+            <MarkerCategory name="ls_tt" DisplayName="Troll's Treasure" achievementId="8365"></MarkerCategory>
+            <MarkerCategory name="ls_wr" DisplayName="Waterfall Roost" achievementId="8220"></MarkerCategory>
         </MarkerCategory>
         <MarkerCategory name="fishing" DisplayName="Fishing">
             <MarkerCategory name="holes" DisplayName="Fishing Holes" iconFile="Data/Icons/fishing_pin_b.png" bounce="rise" bounce-height="3" autoTrigger="1" triggerRange="25" fadeNear="3000" fadeFar="5000">
-                <MarkerCategory name="astral" DisplayName="Astral Fish"/>
-                <MarkerCategory name="dream" DisplayName="Boreal Fish"/>
-                <MarkerCategory name="brackishj" DisplayName="Brackish Janthir Fish"/>
-                <MarkerCategory name="cavern" DisplayName="Cavern Fish"/>
-                <MarkerCategory name="channel" DisplayName="Channel Fish"/>
-                <MarkerCategory name="coastal" DisplayName="Coastal Fish"/>
-                <MarkerCategory name="deep" DisplayName="Deep Fishing Hole"/>
-                <MarkerCategory name="deeptower" DisplayName="Deep Tower Fish"/>
-                <MarkerCategory name="desert" DisplayName="Desert Fish"/>
-                <MarkerCategory name="dream" DisplayName="Dream Fish"/>
+                <MarkerCategory name="astral" DisplayName="Astral Fish"></MarkerCategory>
+                <MarkerCategory name="dream" DisplayName="Boreal Fish"></MarkerCategory>
+                <MarkerCategory name="brackishj" DisplayName="Brackish Janthir Fish"></MarkerCategory>
+                <MarkerCategory name="cavern" DisplayName="Cavern Fish"></MarkerCategory>
+                <MarkerCategory name="channel" DisplayName="Channel Fish"></MarkerCategory>
+                <MarkerCategory name="coastal" DisplayName="Coastal Fish"></MarkerCategory>
+                <MarkerCategory name="deep" DisplayName="Deep Fishing Hole"></MarkerCategory>
+                <MarkerCategory name="deeptower" DisplayName="Deep Tower Fish"></MarkerCategory>
+                <MarkerCategory name="desert" DisplayName="Desert Fish"></MarkerCategory>
+                <MarkerCategory name="dream" DisplayName="Dream Fish"></MarkerCategory>
                 <MarkerCategory name="event" DisplayName="Event/Heart/Other">
-                    <MarkerCategory name="innerchamber" DisplayName="Inner Chamber Fish"/>
-                    <MarkerCategory name="lutgardis" DisplayName="Lutgardis Trout"/>
-                    <MarkerCategory name="naksi" DisplayName="Naksi Bay Fish"/>
-                    <MarkerCategory name="rare" DisplayName="Rare Fish"/>
-                    <MarkerCategory name="shinota" DisplayName="Shinota Blackfins"/>
-                    <MarkerCategory name="wreckage" DisplayName="Wreckage Site"/>
+                    <MarkerCategory name="innerchamber" DisplayName="Inner Chamber Fish"></MarkerCategory>
+                    <MarkerCategory name="lutgardis" DisplayName="Lutgardis Trout"></MarkerCategory>
+                    <MarkerCategory name="naksi" DisplayName="Naksi Bay Fish"></MarkerCategory>
+                    <MarkerCategory name="rare" DisplayName="Rare Fish"></MarkerCategory>
+                    <MarkerCategory name="shinota" DisplayName="Shinota Blackfins"></MarkerCategory>
+                    <MarkerCategory name="wreckage" DisplayName="Wreckage Site"></MarkerCategory>
                 </MarkerCategory>
-                <MarkerCategory name="fracchannel" DisplayName="Fractured Channel Fish"/>
-                <MarkerCategory name="fracdesert" DisplayName="Fractured Desert Fish"/>
-                <MarkerCategory name="fracfresh" DisplayName="Fractured Freshwater Fish"/>
-                <MarkerCategory name="fraclake" DisplayName="Fractured Lake Fish"/>
-                <MarkerCategory name="freshwater" DisplayName="Freshwater Fish"/>
-                <MarkerCategory name="freshj" DisplayName="Freshwater Janthir Fish"/>
-                <MarkerCategory name="grotto" DisplayName="Grotto Fish"/>
-                <MarkerCategory name="lake" DisplayName="Lake Fish"/>
-                <MarkerCategory name="lowbrackish" DisplayName="Lowland Brackish Fish"/>
-                <MarkerCategory name="lowfresh" DisplayName="Lowland Freshwater Fish"/>
-                <MarkerCategory name="lowoffshore" DisplayName="Lowland Offshore Fish"/>
-                <MarkerCategory name="lowshore" DisplayName="Lowland Shore Fish"/>
-                <MarkerCategory name="mysterious" DisplayName="Mysterious Waters Fish"/>
-                <MarkerCategory name="nayosian" DisplayName="Nayosian Fish"/>
-                <MarkerCategory name="noxious" DisplayName="Noxious Water Fish"/>
-                <MarkerCategory name="offshore" DisplayName="Offshore Fish"/>
-                <MarkerCategory name="osj" DisplayName="Offshore Saltwater Janthir Fish"/>
-                <MarkerCategory name="polluted" DisplayName="Polluted Lake Fish"/>
-                <MarkerCategory name="quarry" DisplayName="Quarry Fish"/>
-                <MarkerCategory name="random" DisplayName="Random Fish"/>
-                <MarkerCategory name="rare" DisplayName="Rare Fish"/>
-                <MarkerCategory name="river" DisplayName="River Fish"/>
-                <MarkerCategory name="saltwater" DisplayName="Saltwater Fish"/>
-                <MarkerCategory name="shore" DisplayName="Shore Fish"/>
-                <MarkerCategory name="ssj" DisplayName="Shore Saltwater Janthir Fish"/>
-                <MarkerCategory name="spire" DisplayName="Spire Fish"/>
-                <MarkerCategory name="volcanic" DisplayName="Volcanic Fish"/>
+                <MarkerCategory name="fracchannel" DisplayName="Fractured Channel Fish"></MarkerCategory>
+                <MarkerCategory name="fracdesert" DisplayName="Fractured Desert Fish"></MarkerCategory>
+                <MarkerCategory name="fracfresh" DisplayName="Fractured Freshwater Fish"></MarkerCategory>
+                <MarkerCategory name="fraclake" DisplayName="Fractured Lake Fish"></MarkerCategory>
+                <MarkerCategory name="freshwater" DisplayName="Freshwater Fish"></MarkerCategory>
+                <MarkerCategory name="freshj" DisplayName="Freshwater Janthir Fish"></MarkerCategory>
+                <MarkerCategory name="grotto" DisplayName="Grotto Fish"></MarkerCategory>
+                <MarkerCategory name="lake" DisplayName="Lake Fish"></MarkerCategory>
+                <MarkerCategory name="lowbrackish" DisplayName="Lowland Brackish Fish"></MarkerCategory>
+                <MarkerCategory name="lowfresh" DisplayName="Lowland Freshwater Fish"></MarkerCategory>
+                <MarkerCategory name="lowoffshore" DisplayName="Lowland Offshore Fish"></MarkerCategory>
+                <MarkerCategory name="lowshore" DisplayName="Lowland Shore Fish"></MarkerCategory>
+                <MarkerCategory name="mysterious" DisplayName="Mysterious Waters Fish"></MarkerCategory>
+                <MarkerCategory name="nayosian" DisplayName="Nayosian Fish"></MarkerCategory>
+                <MarkerCategory name="noxious" DisplayName="Noxious Water Fish"></MarkerCategory>
+                <MarkerCategory name="offshore" DisplayName="Offshore Fish"></MarkerCategory>
+                <MarkerCategory name="osj" DisplayName="Offshore Saltwater Janthir Fish"></MarkerCategory>
+                <MarkerCategory name="polluted" DisplayName="Polluted Lake Fish"></MarkerCategory>
+                <MarkerCategory name="quarry" DisplayName="Quarry Fish"></MarkerCategory>
+                <MarkerCategory name="random" DisplayName="Random Fish"></MarkerCategory>
+                <MarkerCategory name="rare" DisplayName="Rare Fish"></MarkerCategory>
+                <MarkerCategory name="river" DisplayName="River Fish"></MarkerCategory>
+                <MarkerCategory name="saltwater" DisplayName="Saltwater Fish"></MarkerCategory>
+                <MarkerCategory name="shore" DisplayName="Shore Fish"></MarkerCategory>
+                <MarkerCategory name="ssj" DisplayName="Shore Saltwater Janthir Fish"></MarkerCategory>
+                <MarkerCategory name="spire" DisplayName="Spire Fish"></MarkerCategory>
+                <MarkerCategory name="volcanic" DisplayName="Volcanic Fish"></MarkerCategory>
             </MarkerCategory>
             <MarkerCategory name="bait" DisplayName="Fishing Bait">
-                <MarkerCategory name="instrux" DisplayName="Click below to copy WPs, here for trails" defaulttoggle="0" texture="Data/Icons/default_trail.png" alpha="0.7" color="#56B4E9"/>
-                <MarkerCategory name="fishegg" DisplayName="Fish Egg" isseparator="1" copy="[&amp;BC8EAAA=][&amp;BOcBAAA=][&amp;BEMLAAA=]" copy-message="Fish Egg WPs copied to clipboard!"/>
-                <MarkerCategory name="minnow" DisplayName="Freshwater Minnow" isseparator="1" copy="[&amp;BMcMAAA=][&amp;BGMNAAA=][&amp;BC8EAAA=][&amp;BOcBAAA=]" copy-message="Freshwater Minnow WPs copied to clipboard!"/>
-                <MarkerCategory name="glowworm" DisplayName="Glow Worm" isseparator="1" copy="[&amp;BMcMAAA=][&amp;BGMNAAA=]" copy-message="Glow Worm WPs copied to clipboard!"/>
-                <MarkerCategory name="beetle" DisplayName="Lava Beetle" isseparator="1" copy="[&amp;BHgJAAA=]" copy-message="Lava Beetle WP copied to clipboard!"/>
-                <MarkerCategory name="leech" DisplayName="Leech" isseparator="1" copy="[&amp;BO8JAAA=]" copy-message="Leech WP copied to clipboard!"/>
-                <MarkerCategory name="lightning" DisplayName="Lightning Bug" isseparator="1" copy="[&amp;BOcBAAA=]" copy-message="Lightning Bug WP copied to clipboard!"/>
-                <MarkerCategory name="nightcrawler" DisplayName="Nightcrawler" isseparator="1" copy="[&amp;BKIMAAA=]" copy-message="Nightcrawler WP copied to clipboard!"/>
-                <MarkerCategory name="ramshorn" DisplayName="Ramshorn Snail" isseparator="1" copy="[&amp;BIACAAA=]" copy-message="Ramshorn Snail WP copied to clipboard!"/>
-                <MarkerCategory name="sardine" DisplayName="Sardine" isseparator="1" copy="[&amp;BJ4MAAA=][&amp;BMYMAAA=][&amp;BAcFAAA=][&amp;BO8JAAA=]" copy-message="Sardine WPs copied to clipboard!"/>
-                <MarkerCategory name="scorpion" DisplayName="Scorpion" isseparator="1" copy="[&amp;BLsKAAA=]" copy-message="Scorpion WP copied to clipboard!"/>
-                <MarkerCategory name="shrimpling" DisplayName="Shrimpling" isseparator="1" copy="[&amp;BJ4MAAA=][&amp;BMYMAAA=][&amp;BKIMAAA=][&amp;BC8EAAA=][&amp;BIACAAA=]" copy-message="Shrimpling WPs copied to clipboard!"/>
-                <MarkerCategory name="sparkfly" DisplayName="Sparkfly Larva" isseparator="1" copy="[&amp;BAcFAAA=]" copy-message="Sparkfly Larva WP copied to clipboard!"/>
+                <MarkerCategory name="instrux" DisplayName="Click below to copy WPs, here for trails" defaulttoggle="0" texture="Data/Icons/default_trail.png" alpha="0.7" color="#56B4E9"></MarkerCategory>
+                <MarkerCategory name="fishegg" DisplayName="Fish Egg" isseparator="1" copy="[&amp;BC8EAAA=][&amp;BOcBAAA=][&amp;BEMLAAA=]" copy-message="Fish Egg WPs copied to clipboard!"></MarkerCategory>
+                <MarkerCategory name="minnow" DisplayName="Freshwater Minnow" isseparator="1" copy="[&amp;BMcMAAA=][&amp;BGMNAAA=][&amp;BC8EAAA=][&amp;BOcBAAA=]" copy-message="Freshwater Minnow WPs copied to clipboard!"></MarkerCategory>
+                <MarkerCategory name="glowworm" DisplayName="Glow Worm" isseparator="1" copy="[&amp;BMcMAAA=][&amp;BGMNAAA=]" copy-message="Glow Worm WPs copied to clipboard!"></MarkerCategory>
+                <MarkerCategory name="beetle" DisplayName="Lava Beetle" isseparator="1" copy="[&amp;BHgJAAA=]" copy-message="Lava Beetle WP copied to clipboard!"></MarkerCategory>
+                <MarkerCategory name="leech" DisplayName="Leech" isseparator="1" copy="[&amp;BO8JAAA=]" copy-message="Leech WP copied to clipboard!"></MarkerCategory>
+                <MarkerCategory name="lightning" DisplayName="Lightning Bug" isseparator="1" copy="[&amp;BOcBAAA=]" copy-message="Lightning Bug WP copied to clipboard!"></MarkerCategory>
+                <MarkerCategory name="nightcrawler" DisplayName="Nightcrawler" isseparator="1" copy="[&amp;BKIMAAA=]" copy-message="Nightcrawler WP copied to clipboard!"></MarkerCategory>
+                <MarkerCategory name="ramshorn" DisplayName="Ramshorn Snail" isseparator="1" copy="[&amp;BIACAAA=]" copy-message="Ramshorn Snail WP copied to clipboard!"></MarkerCategory>
+                <MarkerCategory name="sardine" DisplayName="Sardine" isseparator="1" copy="[&amp;BJ4MAAA=][&amp;BMYMAAA=][&amp;BAcFAAA=][&amp;BO8JAAA=]" copy-message="Sardine WPs copied to clipboard!"></MarkerCategory>
+                <MarkerCategory name="scorpion" DisplayName="Scorpion" isseparator="1" copy="[&amp;BLsKAAA=]" copy-message="Scorpion WP copied to clipboard!"></MarkerCategory>
+                <MarkerCategory name="shrimpling" DisplayName="Shrimpling" isseparator="1" copy="[&amp;BJ4MAAA=][&amp;BMYMAAA=][&amp;BKIMAAA=][&amp;BC8EAAA=][&amp;BIACAAA=]" copy-message="Shrimpling WPs copied to clipboard!"></MarkerCategory>
+                <MarkerCategory name="sparkfly" DisplayName="Sparkfly Larva" isseparator="1" copy="[&amp;BAcFAAA=]" copy-message="Sparkfly Larva WP copied to clipboard!"></MarkerCategory>
             </MarkerCategory>
         </MarkerCategory>
         <MarkerCategory name="vendors" DisplayName="Vendors">
-            <MarkerCategory name="psna" DisplayName="Pact Supply (PSNA)" iconFile="Data/Icons/psna_clipboard.png" texture="Data/Icons/default_trail.png" schedule-duration="1440" iconSize="1.5" heightOffset="1.5"/>
+            <MarkerCategory name="psna" DisplayName="Pact Supply (PSNA)" iconFile="Data/Icons/psna_clipboard.png" texture="Data/Icons/default_trail.png" schedule-duration="1440" iconSize="1.5" heightOffset="1.5"></MarkerCategory>
         </MarkerCategory>
 
 	</MarkerCategory>

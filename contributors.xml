@@ -7,57 +7,61 @@ xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
 	<MarkerCategory name="mmm" DisplayName="Metal Marker Myriad">
         <MarkerCategory name="contributors" DisplayName="Contributors/Thanks" isseparator="1">
             <MarkerCategory name="metallis" DisplayName="Metallis" isseparator="1">
-                <MarkerCategory name="heknows" DisplayName="He knows what he did." isseparator="1"/>
-                <MarkerCategory name="pack" DisplayName="Namely most of this pack." isseparator="1"/>
-                <MarkerCategory name="discord" DisplayName="Discord Link (click me!)" copy="https://discord.gg/FP8dQj6KBj" copy-message="Discord link copied!" isseparator="1"/>
-                <MarkerCategory name="kofi" DisplayName="Ko-fi Link (click me!)" copy="https://ko-fi.com/metallis" copy-message="Ko-fi link copied!" isseparator="1"/>
+                <MarkerCategory name="discord" DisplayName="Discord (click me!)" copy="https://discord.gg/FP8dQj6KBj" copy-message="Discord link copied!" isseparator="1"></MarkerCategory>
+                <MarkerCategory name="kofi" DisplayName="Support me on Ko-fi (click me!)" copy="https://ko-fi.com/metallis" copy-message="Metallis' Ko-fi link copied!" isseparator="1"></MarkerCategory>
             </MarkerCategory>
             <MarkerCategory name="freesnow" DisplayName="Freesnow" isseparator="1">
-                <MarkerCategory name="bhud" DisplayName="For making Blish HUD" isseparator="1"/>
-                <MarkerCategory name="sanity" DisplayName="Sanity checking" isseparator="1"/>
+                <MarkerCategory name="bhud" DisplayName="For making Blish HUD" isseparator="1"></MarkerCategory>
+                <MarkerCategory name="sanity" DisplayName="Sanity checking/tshooting" isseparator="1"></MarkerCategory>
+                <MarkerCategory name="kofi" DisplayName="Support them on Ko-fi (click me!)" copy="https://ko-fi.com/freesnow" copy-message="Freesnow's Ko-fi link copied!" isseparator="1"></MarkerCategory>
             </MarkerCategory>
             <MarkerCategory name="pewpew" DisplayName="Pewpewcannon" isseparator="1">
-                <MarkerCategory name="specops" DisplayName="Included SpecOps guide markers" isseparator="1"/>
-                <MarkerCategory name="bashy" DisplayName="Included 'Bashy' DB Adventure trail" isseparator="1"/>
+                <MarkerCategory name="specops" DisplayName="Included SpecOps guide markers" isseparator="1"></MarkerCategory>
+                <MarkerCategory name="bashy" DisplayName="Included 'Bashy' DB Adventure trail" isseparator="1"></MarkerCategory>
             </MarkerCategory>
             <MarkerCategory name="quitarhero" DisplayName="QuitarHero" isseparator="1">
-                <MarkerCategory name="sanity" DisplayName="Sanity checking" isseparator="1"/>
-                <MarkerCategory name="markers" DisplayName="Marking assistance with JW" isseparator="1"/>
-                <MarkerCategory name="pushing" DisplayName="Pushing the boundaries of marker-dom" isseparator="1"/>
+                <MarkerCategory name="sanity" DisplayName="Sanity checking/tshooting" isseparator="1"></MarkerCategory>
+                <MarkerCategory name="markers" DisplayName="Marking assistance with JW" isseparator="1"></MarkerCategory>
+                <MarkerCategory name="pushing" DisplayName="Pushing the boundaries of marker-dom" isseparator="1"></MarkerCategory>
             </MarkerCategory>
             <MarkerCategory name="teh" DisplayName="Teh" isseparator="1">
-                <MarkerCategory name="lua" DisplayName="Lua scripting" isseparator="1"/>
-                <MarkerCategory name="sanity" DisplayName="Sanity checking" isseparator="1"/>
+                <MarkerCategory name="lua" DisplayName="Lua scripting" isseparator="1"></MarkerCategory>
+                <MarkerCategory name="sanity" DisplayName="Sanity checking/tshooting" isseparator="1"></MarkerCategory>
             </MarkerCategory>
             <MarkerCategory name="hexedhero" DisplayName="HexedHero" isseparator="1">
-                <MarkerCategory name="mpa" DisplayName="For making MPA" isseparator="1"/>
-                <MarkerCategory name="fishingholes" DisplayName="Marking Fishing Holes" isseparator="1"/>
+                <MarkerCategory name="mpa" DisplayName="For making MPA" isseparator="1"></MarkerCategory>
+                <MarkerCategory name="fishingholes" DisplayName="Marking Fishing Holes" isseparator="1"></MarkerCategory>
             </MarkerCategory>
             <MarkerCategory name="luaren" DisplayName="Luaren" isseparator="1">
-                <MarkerCategory name="collab" DisplayName="SotO collab work!" isseparator="1"/>
-                <MarkerCategory name="twitch" DisplayName="Twitch Link (click me!)" copy="https://twitch.tv/luaren" copy-message="Twitch link copied!" isseparator="1"/>
+                <MarkerCategory name="collab" DisplayName="SotO collab work!" isseparator="1"></MarkerCategory>
+                <MarkerCategory name="twitch" DisplayName="Follow them on Twitch (click me!)" copy="https://twitch.tv/luaren" copy-message="Twitch link copied!" isseparator="1"></MarkerCategory>
+            </MarkerCategory>
+            <MarkerCategory name="rediche" DisplayName="Rediche" isseparator="1">
+                <MarkerCategory name="inspiration" DisplayName="Insipration/motivation" isseparator="1"></MarkerCategory>
+                <MarkerCategory name="twitch" DisplayName="Follow them on Twitch (click me!)" copy="https://twitch.tv/rediche" copy-message="Twitch link copied!" isseparator="1"></MarkerCategory>
+                <MarkerCategory name="discord" DisplayName="Discord (click me!)" copy="https://gw2.link/discord" copy-message="Discord link copied!" isseparator="1"></MarkerCategory>
             </MarkerCategory>
             <MarkerCategory name="uc" DisplayName="Unskippable Cutscene" isseparator="1">
-                <MarkerCategory name="collab" DisplayName="Echovald collab!" isseparator="1"/>
+                <MarkerCategory name="collab" DisplayName="Echovald collab!" isseparator="1"></MarkerCategory>
             </MarkerCategory>
             <MarkerCategory name="nicodemus" DisplayName="Nicodemus" isseparator="1">
-                <MarkerCategory name="fishingholes" DisplayName="Designing fishing hole marker" isseparator="1"/>
-                <MarkerCategory name="psna" DisplayName="PSNA testing and marking" isseparator="1"/>
+                <MarkerCategory name="fishingholes" DisplayName="Designing fishing hole marker" isseparator="1"></MarkerCategory>
+                <MarkerCategory name="psna" DisplayName="PSNA testing and marking" isseparator="1"></MarkerCategory>
             </MarkerCategory>
             <MarkerCategory name="maanlichtje" DisplayName="maanlichtje" isseparator="1">
-                <MarkerCategory name="fishingholes" DisplayName="Marking Fishing Holes" isseparator="1"/>
+                <MarkerCategory name="fishingholes" DisplayName="Marking Fishing Holes" isseparator="1"></MarkerCategory>
             </MarkerCategory>
             <MarkerCategory name="ldr" DisplayName="LDR" isseparator="1">
-                <MarkerCategory name="fishingholes" DisplayName="Marking Fishing Holes" isseparator="1"/>
+                <MarkerCategory name="fishingholes" DisplayName="Marking Fishing Holes" isseparator="1"></MarkerCategory>
             </MarkerCategory>
             <MarkerCategory name="neroc" DisplayName="Neroc" isseparator="1">
-                <MarkerCategory name="fishingholes" DisplayName="Marking Fishing Holes" isseparator="1"/>
+                <MarkerCategory name="fishingholes" DisplayName="Marking Fishing Holes" isseparator="1"></MarkerCategory>
             </MarkerCategory>
             <MarkerCategory name="heroinedark" DisplayName="HeroineDark" isseparator="1">
-                <MarkerCategory name="fishingholes" DisplayName="Marking Fishing Holes" isseparator="1"/>
+                <MarkerCategory name="fishingholes" DisplayName="Marking Fishing Holes" isseparator="1"></MarkerCategory>
             </MarkerCategory>
             <MarkerCategory name="ralka" DisplayName="Ralka" isseparator="1">
-                <MarkerCategory name="fishingholes" DisplayName="Marking Fishing Holes" isseparator="1"/>
+                <MarkerCategory name="fishingholes" DisplayName="Marking Fishing Holes" isseparator="1"></MarkerCategory>
             </MarkerCategory>
         </MarkerCategory>
     </MarkerCategory>

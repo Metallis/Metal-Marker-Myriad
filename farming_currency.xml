@@ -9,7 +9,7 @@ xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
 	</MarkerCategory>
 	<POIs>
 		<!-- Calcified Gasp -->
-		<Trail type="mmm.farming.currency.gasp" trailData="Data/Trails/luaren_nayos_gasps.trl" texture="Data/Icons/luaren_uwu_arrow.png" color="#ff6ede"/>
+		<Trail type="mmm.farming.currency.gasp.trail" trailData="Data/Trails/luaren_nayos_gasps.trl"/>
 		<POI MapID="1526" xpos="654.728" ypos="201.499" zpos="-133.086" type="mmm.farming.currency.gasp.orbs" GUID="BmfBpKDBPUm/mbBsC+gTPw=="/>
 		<POI MapID="1526" xpos="676.355" ypos="224.592" zpos="-126.06" type="mmm.farming.currency.gasp.orbs" GUID="ivRG9NB6Bkq4EKw1ULkuow=="/>
 		<POI MapID="1526" xpos="647.598" ypos="232.961" zpos="-93.4242" type="mmm.farming.currency.gasp.orbs" GUID="ibjr5zuzqkm6r2vEiEhEUw=="/>
@@ -91,7 +91,7 @@ xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
 
 		<!-- Pinch of Stardust -->
 		<!-- Credit to Luaren on YT! https://www.youtube.com/watch?v=CY8FsXuKS3c -->
-		<Trail type="mmm.farming.currency.stardust" trailData="Data/Trails/luaren_amny_stardust.trl" texture="Data/Icons/luaren_uwu_arrow.png" color="#ff6ede"/>
+		<Trail type="mmm.farming.currency.stardust.trail" trailData="Data/Trails/luaren_amny_stardust.trl"/>
 		<POI MapID="1517" xpos="-676.697" ypos="496.387" zpos="-263.578" type="mmm.farming.currency.stardust.orbs" GUID="XNNHooZpoUuhZKspkgDXNg=="/>
 		<POI MapID="1517" xpos="-676.694" ypos="463.295" zpos="-263.557" type="mmm.farming.currency.stardust.orbs" GUID="b3/Wmg4tDUqcqDM/2jveWQ=="/>
 		<POI MapID="1517" xpos="-676.651" ypos="430.195" zpos="-263.608" type="mmm.farming.currency.stardust.orbs" GUID="Uw1I5ixA3EGJrneWB/3eWw=="/>
@@ -155,7 +155,7 @@ xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
 
 		<!-- Static Charge -->
 		<!-- Credit to Luaren on YT! https://www.youtube.com/watch?v=bPrZEC3-cAA -->
-		<Trail type="mmm.farming.currency.staticcharge" trailData="Data/Trails/luaren_sa_static_charges.trl" texture="Data/Icons/luaren_uwu_arrow.png" color="#ff6ede"/>
+		<Trail type="mmm.farming.currency.staticcharge.trail" trailData="Data/Trails/luaren_sa_static_charges.trl"/>
 		<POI MapID="1510" xpos="-768.099" ypos="484.192" zpos="289.393" type="mmm.farming.currency.staticcharge" GUID="xJBApjWDLU2AMYiJISBgnA==" iconFile="Data/Icons/finish_flag.png"/>
 		<POI MapID="1510" xpos="-702.104" ypos="563.084" zpos="146.701" type="mmm.farming.currency.staticcharge.orbs" GUID="sbHw73+WMUKCSJnZ18/edg=="/>
 		<POI MapID="1510" xpos="-702.083" ypos="580.389" zpos="121.707" type="mmm.farming.currency.staticcharge.orbs" GUID="FJCHcGpw5Uu9zFdG71vTtg=="/>

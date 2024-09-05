@@ -8,7 +8,7 @@ xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
     <MarkerCategory name="mmm" DisplayName="Metal Marker Myriad">
     </MarkerCategory>
     <POIs>
-        <Trail type="mmm.mapcomp.lanterns" trailData="Data/Trails/inner_nayos_lanterns.trl" texture="Data/Icons/default_trail.png" fadeNear="3000" fadeFar="5000" color="#e69f00"/>
+        <Trail type="mmm.mapcomp.lanterns" trailData="Data/Trails/inner_nayos_lanterns.trl" texture="Data/Icons/default_trail.png" color="#e69f00"/>
         <POI MapID="1526" xpos="220.313" ypos="236.4587" zpos="-498.5689" type="mmm.mapcomp.lanterns" GUID="e06ROOyl9UWfjRFK9LNRlQ==" iconFile="Data/Icons/waypoint.png" triggerRange="10" copy="[&amp;BGYOAAA=]" copy-message="Back to Camp WP, code in clipboard"/>
         <POI MapID="1526" xpos="151.3987" ypos="270.5143" zpos="198.8089" type="mmm.mapcomp.lanterns" GUID="MHsUNIXv/02yGk2cwTX4nQ==" iconFile="Data/Icons/finish_flag.png" triggerRange="10" copy="[&amp;BGYOAAA=]" copy-message="Back to Camp WP, code in clipboard"/>
         <POI MapID="1526" xpos="696.9831" ypos="216.0264" zpos="-433.6294" type="mmm.mapcomp.lanterns" GUID="TMN7n+85AEOWpfxRzDwfeQ==" iconFile="Data/Icons/1.png" iconSize="0.5" mapVisibility="0" miniMapVisibility="0"/>

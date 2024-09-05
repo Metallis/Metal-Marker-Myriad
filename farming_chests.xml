@@ -10,10 +10,10 @@ xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
         <!-- Bjora Essence Chests and Norn Chests -->
         <POI MapID="1343" xpos="-953.881" ypos="0.605" zpos="231.139" type="mmm.exploration.mastery.bjorachests" iconFile="Data/Icons/waypoint.png" copy="[&amp;BDkMAAA=]" copy-message="Waypoint copied! Teleport back to Still Waters" GUID="C2J7Uid+PkmqWXuIk7UNMg=="/>
         <POI MapID="1343" xpos="113.992" ypos="191.881" zpos="502.760" type="mmm.exploration.mastery.bjorachests" iconFile="Data/Icons/finish_flag.png" GUID="scSwwpU+iU6yIfgkX6EChQ=="/>
-        <Trail type="mmm.farming.chests.bjorachests" trailData="Data/Trails/bjora_essence_chests.trl" texture="Data/Icons/default_trail.png" color="#d55e00" fadeNear="6000" fadeFar="7000"/>
+        <Trail type="mmm.farming.chests.bjorachests" trailData="Data/Trails/bjora_essence_chests.trl" texture="Data/Icons/default_trail.png" color="#d55e00"/>
         <!-- Greater Arcane Chests -->
-        <Trail type="mmm.farming.chests.garcane" trailData="Data/Trails/amnytas_greater_arcanes.trl" texture="Data/Icons/default_trail.png" fadeNear="3000" fadeFar="5000" color="#56B4E9"/>
-        <Trail type="mmm.farming.chests.garcane" trailData="Data/Trails/luaren_sa_g_arcane.trl" texture="Data/Icons/luaren_uwu_arrow.png" fadeNear="3000" fadeFar="5000" color="#ff6ede"/>
+        <Trail type="mmm.farming.chests.garcane" trailData="Data/Trails/amnytas_greater_arcanes.trl" texture="Data/Icons/default_trail.png" color="#56B4E9"/>
+        <Trail type="mmm.farming.chests.garcane" trailData="Data/Trails/luaren_sa_g_arcane.trl" texture="Data/Icons/luaren_uwu_arrow.png" color="#ff6ede"/>
         <POI MapID="1510" xpos="-645.7746" ypos="549.6155" zpos="160.8512" type="mmm.farming.chests.garcane" iconFile="Data/Icons/beetle.png" GUID="wGMDJ+KKmEaypgRhgnv5dQ=="/>
         <POI MapID="1510" xpos="-844.95343" ypos="551.637695" zpos="68.991325" type="mmm.farming.chests.garcane" iconFile="Data/Icons/skyscale.png" GUID="onlI8U+4Y0yJ2D1aWblitg=="/>
         <POI MapID="1510" xpos="-626.717102" ypos="586.177246" zpos="-376.652222" type="mmm.farming.chests.garcane" iconFile="Data/Icons/griffon.png" GUID="MoSpHn4KDEyIJou0hQ0bIQ=="/>
