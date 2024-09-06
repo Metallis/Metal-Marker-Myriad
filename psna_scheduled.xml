@@ -3,10 +3,9 @@
 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
 xsi:schemaLocation="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD https://raw.githubusercontent.com/xrandox/Gw2_Marker_Pack_DTD_XSD/main/GW2MarkerPack.xsd"
 xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
-    <!-- Discord Invite:https://discord.gg/FP8dQj6KBj -->
+    <!-- Discord Invite: https://discord.gg/FP8dQj6KBj -->
     <!-- Some locations mapped with help of Nicodemus of the Blish HUD Discord -->
-    <MarkerCategory name="mmm" DisplayName="Metal Marker Myriad">
-    </MarkerCategory>
+    <MarkerCategory name="mmm" DisplayName="Metal Marker Myriad"></MarkerCategory>
     <POIs>
         <!-- Divinity's Reach -->
         <POI MapID="18" xpos="-307.901" ypos="66.1253" zpos="80.4258" type="mmm.vendors.psna" schedule="0 8 * * 1" copy="[&amp;BIgHAAA=][&amp;BEwDAAA=][&amp;BNIEAAA=][&amp;BKYBAAA=][&amp;BIMCAAA=][&amp;BB4CAAA=]" copy-message="PSNA Waypoints copied to clipboard!" GUID="/cvM2IJGZ023nU9UhdnVmw=="/>

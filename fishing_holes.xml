@@ -3,10 +3,8 @@
 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
 xsi:schemaLocation="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD https://raw.githubusercontent.com/xrandox/Gw2_Marker_Pack_DTD_XSD/main/GW2MarkerPack.xsd"
 xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
+    <!-- Discord Invite: https://discord.gg/FP8dQj6KBj -->
     <MarkerCategory name="mmm" DisplayName="Metal Marker Myriad">
-        <!-- Icon courtesy of Nicodemus in the BHUD Discord server -->
-        <!-- Markers placed by Metallis (Discord: _metallis_) with help from maanlichtje, LDR, Neroc, HeroineDark and HexedHero-->
-        <!-- Discord Invite: https://discord.gg/FP8dQj6KBj -->
     </MarkerCategory>
     <POIs>
         <!-- Queensdale -->
@@ -3250,5 +3248,5 @@ xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
         <POI MapID="1554" xpos="174.8715" ypos="1.376387" zpos="-218.2443" type="mmm.fishing.holes.brackishj" GUID="2dLpDMKwrUK2avO90C2MIQ=="/>
         <POI MapID="1554" xpos="374.5286" ypos="1.376387" zpos="795.7211" type="mmm.fishing.holes.osj" GUID="cHhGXkvZzUCjhIZRCjod2Q=="/>
         <POI MapID="1554" xpos="883.1" ypos="1.376388" zpos="-335.4341" type="mmm.fishing.holes.ssj" GUID="C1yK2DuSJUiVBnU8uvirhA=="/>
-	</POIs>
+    </POIs>
 </OverlayData>

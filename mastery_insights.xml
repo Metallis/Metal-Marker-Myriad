@@ -3,8 +3,7 @@
 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
 xsi:schemaLocation="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD https://raw.githubusercontent.com/xrandox/Gw2_Marker_Pack_DTD_XSD/main/GW2MarkerPack.xsd"
 xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
-    <MarkerCategory name="mmm" DisplayName="Metal Marker Myriad">
-    </MarkerCategory>
+    <MarkerCategory name="mmm" DisplayName="Metal Marker Myriad"></MarkerCategory>
     <POIs>
         <Trail type="mmm.insights.bc_bbb" trailData="Data/Trails/bc_bbb.trl"/>
         <Trail type="mmm.insights.dc_dsp" trailData="Data/Trails/dc_dsp.trl"/>

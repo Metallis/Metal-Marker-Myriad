@@ -3,45 +3,55 @@
 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
 xsi:schemaLocation="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD https://raw.githubusercontent.com/xrandox/Gw2_Marker_Pack_DTD_XSD/main/GW2MarkerPack.xsd"
 xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
-<!-- Mapped and Designed by Pewpew Kapew (Girbilcannon.8259) of The TINY Army -->
-<!-- Included with permission -->
+    <!-- Mapped and Designed by Pewpew Kapew (Girbilcannon.8259) of The TINY Army -->
+    <!-- tinyarmy.org -->
+    <!-- discord.gg/tinyarmy -->
+    <!-- Included with permission -->
     <MarkerCategory name="mmm" DisplayName="Metal Marker Myriad">
-	</MarkerCategory>
-	<POIs>
+        <MarkerCategory name="festivals" DisplayName="Festivals">
+            <MarkerCategory name="db" DisplayName="Dragon Bash" festival="dragonbash">
+                <MarkerCategory name="pinata_bash" DisplayName="PewCannon - Pinata Bash">
+                    <MarkerCategory name="pinata_trail" DisplayName="Trail" animSpeed="0"></MarkerCategory>
+                    <MarkerCategory name="pinata_flag" DisplayName="Pinata Flag" fadeNear="300000" fadeFar="300100" iconSize="1.0" heightOffset="1.0" iconFile="DATA/bashy_flag.png"></MarkerCategory>
+                </MarkerCategory>
+            </MarkerCategory>
+        </MarkerCategory>
+    </MarkerCategory>
+    <POIs>
         <!-- Pinata Bash Trail -->
-        <Trail type="mmm.festivals.db.pinata_bashpinata_trail" trailData="Data/Trails/bashy_25_trail_foot.trl" animSpeed="0" texture="Data/bashy_trail_blue.png"/>
-        <Trail type="mmm.festivals.db.pinata_bashpinata_toggletrail" trailData="Data/Trails/bashy_25_trail_target.trl" animSpeed="0" texture="Data/bashy_trail_green.png"/>
-        <Trail type="mmm.festivals.db.pinata_bashpinata_toggletrail" trailData="Data/Trails/bashy_25_trail_launch2.trl" animSpeed="0" texture="Data/bashy_trail_green.png"/>
-        <Trail type="mmm.festivals.db.pinata_bashpinata_trail" trailData="Data/Trails/bashy_25_trail_launch.trl" animSpeed="0" texture="Data/bashy_trail_red.png"/>
-		<!-- Pinata Bash Markers -->
-        <POI MapID="326" xpos="141.109" ypos="334.471" zpos="-113.898" type="mmm.festivals.db.pinata_bashpinata_flag" GUID="0sWXfsFnEU2li3JUrRCb+w=="/>
-		<POI MapID="326" xpos="198.899" ypos="231.666" zpos="-7.51519" type="mmm.festivals.db.pinata_bashpinata_flag" GUID="w/6+ptB84kmiEB+cw68q/A=="/>
-		<POI MapID="326" xpos="294.285" ypos="227.762" zpos="-33.7732" type="mmm.festivals.db.pinata_bashpinata_flag" GUID="VzBuo6kZqEi5PJNdqEaBcw=="/>
-		<POI MapID="326" xpos="390.152" ypos="251.522" zpos="-72.4129" type="mmm.festivals.db.pinata_bashpinata_flag" GUID="72CJ+JlL2UScbzNtL1mx3w=="/>
-		<POI MapID="326" xpos="434.053" ypos="254.062" zpos="-80.7484" type="mmm.festivals.db.pinata_bashpinata_flag" GUID="I9o87+PZNUqMh1jsAXLoYQ=="/>
-		<POI MapID="326" xpos="414.949" ypos="251.456" zpos="-97.1069" type="mmm.festivals.db.pinata_bashpinata_flag" GUID="jNp7R8ZCyUySuGcOWz9Eqg=="/>
-		<POI MapID="326" xpos="185.04" ypos="335.41" zpos="-153.498" type="mmm.festivals.db.pinata_bashpinata_flag" GUID="hD5rjWyfVUqzX4/vn8Molg=="/>
-		<POI MapID="326" xpos="204.972" ypos="335.43" zpos="-181.953" type="mmm.festivals.db.pinata_bashpinata_flag" GUID="QxY4HqDaXU+HNsjjupdl8Q=="/>
-		<POI MapID="326" xpos="175.932" ypos="335.484" zpos="-195.778" type="mmm.festivals.db.pinata_bashpinata_flag" GUID="YPIBdPQqV0SNvqyZkYLTug=="/>
-		<POI MapID="326" xpos="311.208" ypos="324.673" zpos="-261.362" type="mmm.festivals.db.pinata_bashpinata_flag" GUID="k1b6+CGQCkyosRiRTk+9cg=="/>
-		<POI MapID="326" xpos="367.829" ypos="225.794" zpos="66.3686" type="mmm.festivals.db.pinata_bashpinata_flag" GUID="l0FQKquz3EWG4KP6cw9M6g=="/>
-		<POI MapID="326" xpos="81.5761" ypos="335.413" zpos="-100.749" type="mmm.festivals.db.pinata_bashpinata_flag" GUID="ymGxeLSSoEmLdC1Hc4ZwQA=="/>
-		<POI MapID="326" xpos="56.5373" ypos="335.458" zpos="-115.524" type="mmm.festivals.db.pinata_bashpinata_flag" GUID="0ZyxpGKCBkuqSW6Fj8+x6A=="/>
-		<POI MapID="326" xpos="41.0304" ypos="335.445" zpos="-102.618" type="mmm.festivals.db.pinata_bashpinata_flag" GUID="NVXDUcik70KjanfDuBQ/hQ=="/>
-		<POI MapID="326" xpos="-77.4168" ypos="307.532" zpos="22.7359" type="mmm.festivals.db.pinata_bashpinata_flag" GUID="IP6Xegmmr0myfBmKdHs7Hw=="/>
-		<POI MapID="326" xpos="121.018" ypos="233.65" zpos="41.5414" type="mmm.festivals.db.pinata_bashpinata_flag" GUID="HuP/y4+CTkuqXjPvxt9FWQ=="/>
-		<POI MapID="326" xpos="42.5408" ypos="268.199" zpos="60.6141" type="mmm.festivals.db.pinata_bashpinata_flag" GUID="8i7xFqS2HEe0vCK2eGALZQ=="/>
-		<POI MapID="326" xpos="53.3939" ypos="249.677" zpos="145.328" type="mmm.festivals.db.pinata_bashpinata_flag" GUID="1FwFWwQlckWWYUBcLKCreg=="/>
-		<POI MapID="326" xpos="32.1952" ypos="249.56" zpos="128.576" type="mmm.festivals.db.pinata_bashpinata_flag" GUID="IageEnGdjEqtHjDq0obAMQ=="/>
-		<POI MapID="326" xpos="29.5783" ypos="249.56" zpos="153.888" type="mmm.festivals.db.pinata_bashpinata_flag" GUID="kuqxsuylHEK+ynlrRpLA5g=="/>
-		<POI MapID="326" xpos="174.22" ypos="235.893" zpos="177.427" type="mmm.festivals.db.pinata_bashpinata_flag" GUID="m4CcL4ZHtUOLAgsqTYpFFQ=="/>
-		<POI MapID="326" xpos="235.13" ypos="264.888" zpos="250.037" type="mmm.festivals.db.pinata_bashpinata_flag" GUID="nVP4z4hFCE2p9Bs2prM4Sw=="/>
-		<POI MapID="326" xpos="233.572" ypos="265.922" zpos="278.269" type="mmm.festivals.db.pinata_bashpinata_flag" GUID="DSLOXQ8GFECUOWysbo+umg=="/>
-		<POI MapID="326" xpos="258.981" ypos="265.921" zpos="275.987" type="mmm.festivals.db.pinata_bashpinata_flag" GUID="HfV1lpBsWkaUPOBcUjsHEA=="/>
-		<POI MapID="326" xpos="317.52" ypos="234.099" zpos="169.827" type="mmm.festivals.db.pinata_bashpinata_flag" GUID="3Pu/JdVq/kmSgMWOaHMgpg=="/>
-		<POI MapID="326" xpos="444.498" ypos="218.233" zpos="162.961" type="mmm.festivals.db.pinata_bashpinata_flag" GUID="+noGzFeuh0mn06ztXT3G8Q=="/>
-		<POI MapID="326" xpos="457.394" ypos="218.473" zpos="192.011" type="mmm.festivals.db.pinata_bashpinata_flag" GUID="f7sUQHTlrk+LlCLIYEfOfw=="/>
-		<POI MapID="326" xpos="482.584" ypos="218.473" zpos="184.455" type="mmm.festivals.db.pinata_bashpinata_flag" GUID="87bA2zrD5EepYLSsLwmRXQ=="/>
-		<POI MapID="326" xpos="375.481" ypos="297.745" zpos="-168.748" type="mmm.festivals.db.pinata_bashpinata_flag" GUID="OA/sO70JgEuA+LCclX7lIA=="/>
-	</POIs>
+        <Trail type="mmm.festivals.db.pinata_bash.pinata_trail" trailData="Data/Trails/bashy_25_trail_foot.trl" texture="Data/bashy_trail_blue.png"/>
+        <Trail type="mmm.festivals.db.pinata_bash.pinata_trail" trailData="Data/Trails/bashy_25_trail_target.trl" texture="Data/bashy_trail_green.png"/>
+        <Trail type="mmm.festivals.db.pinata_bash.pinata_trail" trailData="Data/Trails/bashy_25_trail_launch2.trl" texture="Data/bashy_trail_green.png"/>
+        <Trail type="mmm.festivals.db.pinata_bash.pinata_trail" trailData="Data/Trails/bashy_25_trail_launch.trl" texture="Data/bashy_trail_red.png"/>
+        <!-- Pinata Bash Markers -->
+        <POI MapID="326" xpos="141.109" ypos="334.471" zpos="-113.898" type="mmm.festivals.db.pinata_bash.pinata_flag" GUID="0sWXfsFnEU2li3JUrRCb+w=="/>
+        <POI MapID="326" xpos="198.899" ypos="231.666" zpos="-7.51519" type="mmm.festivals.db.pinata_bash.pinata_flag" GUID="w/6+ptB84kmiEB+cw68q/A=="/>
+        <POI MapID="326" xpos="294.285" ypos="227.762" zpos="-33.7732" type="mmm.festivals.db.pinata_bash.pinata_flag" GUID="VzBuo6kZqEi5PJNdqEaBcw=="/>
+        <POI MapID="326" xpos="390.152" ypos="251.522" zpos="-72.4129" type="mmm.festivals.db.pinata_bash.pinata_flag" GUID="72CJ+JlL2UScbzNtL1mx3w=="/>
+        <POI MapID="326" xpos="434.053" ypos="254.062" zpos="-80.7484" type="mmm.festivals.db.pinata_bash.pinata_flag" GUID="I9o87+PZNUqMh1jsAXLoYQ=="/>
+        <POI MapID="326" xpos="414.949" ypos="251.456" zpos="-97.1069" type="mmm.festivals.db.pinata_bash.pinata_flag" GUID="jNp7R8ZCyUySuGcOWz9Eqg=="/>
+        <POI MapID="326" xpos="185.04" ypos="335.41" zpos="-153.498" type="mmm.festivals.db.pinata_bash.pinata_flag" GUID="hD5rjWyfVUqzX4/vn8Molg=="/>
+        <POI MapID="326" xpos="204.972" ypos="335.43" zpos="-181.953" type="mmm.festivals.db.pinata_bash.pinata_flag" GUID="QxY4HqDaXU+HNsjjupdl8Q=="/>
+        <POI MapID="326" xpos="175.932" ypos="335.484" zpos="-195.778" type="mmm.festivals.db.pinata_bash.pinata_flag" GUID="YPIBdPQqV0SNvqyZkYLTug=="/>
+        <POI MapID="326" xpos="311.208" ypos="324.673" zpos="-261.362" type="mmm.festivals.db.pinata_bash.pinata_flag" GUID="k1b6+CGQCkyosRiRTk+9cg=="/>
+        <POI MapID="326" xpos="367.829" ypos="225.794" zpos="66.3686" type="mmm.festivals.db.pinata_bash.pinata_flag" GUID="l0FQKquz3EWG4KP6cw9M6g=="/>
+        <POI MapID="326" xpos="81.5761" ypos="335.413" zpos="-100.749" type="mmm.festivals.db.pinata_bash.pinata_flag" GUID="ymGxeLSSoEmLdC1Hc4ZwQA=="/>
+        <POI MapID="326" xpos="56.5373" ypos="335.458" zpos="-115.524" type="mmm.festivals.db.pinata_bash.pinata_flag" GUID="0ZyxpGKCBkuqSW6Fj8+x6A=="/>
+        <POI MapID="326" xpos="41.0304" ypos="335.445" zpos="-102.618" type="mmm.festivals.db.pinata_bash.pinata_flag" GUID="NVXDUcik70KjanfDuBQ/hQ=="/>
+        <POI MapID="326" xpos="-77.4168" ypos="307.532" zpos="22.7359" type="mmm.festivals.db.pinata_bash.pinata_flag" GUID="IP6Xegmmr0myfBmKdHs7Hw=="/>
+        <POI MapID="326" xpos="121.018" ypos="233.65" zpos="41.5414" type="mmm.festivals.db.pinata_bash.pinata_flag" GUID="HuP/y4+CTkuqXjPvxt9FWQ=="/>
+        <POI MapID="326" xpos="42.5408" ypos="268.199" zpos="60.6141" type="mmm.festivals.db.pinata_bash.pinata_flag" GUID="8i7xFqS2HEe0vCK2eGALZQ=="/>
+        <POI MapID="326" xpos="53.3939" ypos="249.677" zpos="145.328" type="mmm.festivals.db.pinata_bash.pinata_flag" GUID="1FwFWwQlckWWYUBcLKCreg=="/>
+        <POI MapID="326" xpos="32.1952" ypos="249.56" zpos="128.576" type="mmm.festivals.db.pinata_bash.pinata_flag" GUID="IageEnGdjEqtHjDq0obAMQ=="/>
+        <POI MapID="326" xpos="29.5783" ypos="249.56" zpos="153.888" type="mmm.festivals.db.pinata_bash.pinata_flag" GUID="kuqxsuylHEK+ynlrRpLA5g=="/>
+        <POI MapID="326" xpos="174.22" ypos="235.893" zpos="177.427" type="mmm.festivals.db.pinata_bash.pinata_flag" GUID="m4CcL4ZHtUOLAgsqTYpFFQ=="/>
+        <POI MapID="326" xpos="235.13" ypos="264.888" zpos="250.037" type="mmm.festivals.db.pinata_bash.pinata_flag" GUID="nVP4z4hFCE2p9Bs2prM4Sw=="/>
+        <POI MapID="326" xpos="233.572" ypos="265.922" zpos="278.269" type="mmm.festivals.db.pinata_bash.pinata_flag" GUID="DSLOXQ8GFECUOWysbo+umg=="/>
+        <POI MapID="326" xpos="258.981" ypos="265.921" zpos="275.987" type="mmm.festivals.db.pinata_bash.pinata_flag" GUID="HfV1lpBsWkaUPOBcUjsHEA=="/>
+        <POI MapID="326" xpos="317.52" ypos="234.099" zpos="169.827" type="mmm.festivals.db.pinata_bash.pinata_flag" GUID="3Pu/JdVq/kmSgMWOaHMgpg=="/>
+        <POI MapID="326" xpos="444.498" ypos="218.233" zpos="162.961" type="mmm.festivals.db.pinata_bash.pinata_flag" GUID="+noGzFeuh0mn06ztXT3G8Q=="/>
+        <POI MapID="326" xpos="457.394" ypos="218.473" zpos="192.011" type="mmm.festivals.db.pinata_bash.pinata_flag" GUID="f7sUQHTlrk+LlCLIYEfOfw=="/>
+        <POI MapID="326" xpos="482.584" ypos="218.473" zpos="184.455" type="mmm.festivals.db.pinata_bash.pinata_flag" GUID="87bA2zrD5EepYLSsLwmRXQ=="/>
+        <POI MapID="326" xpos="375.481" ypos="297.745" zpos="-168.748" type="mmm.festivals.db.pinata_bash.pinata_flag" GUID="OA/sO70JgEuA+LCclX7lIA=="/>
+    </POIs>
 </OverlayData>

@@ -3,21 +3,20 @@
 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
 xsi:schemaLocation="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD https://raw.githubusercontent.com/xrandox/Gw2_Marker_Pack_DTD_XSD/main/GW2MarkerPack.xsd"
 xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
-    <!-- Discord Invite:https://discord.gg/FP8dQj6KBj -->
-    <MarkerCategory name="mmm" DisplayName="Metal Marker Myriad">
-    </MarkerCategory>
+    <!-- Discord Invite: https://discord.gg/FP8dQj6KBj -->
+    <MarkerCategory name="mmm" DisplayName="Metal Marker Myriad"></MarkerCategory>
     <POIs>
         <!-- Infused Living Crystal -->
-        <Trail type="mmm.achievements.legendaries.raidarmor.envoy1.ilc" trailData="Data/Trails/raid_armor_living_crystal.trl" texture="Data/Icons/default_trail.png" color="#FFFFFFF"/>
+        <Trail type="mmm.achievements.legendaries.raidarmor.envoy1.ilc" trailData="Data/Trails/raid_armor_living_crystal.trl" color="#FFFFFFF"/>
         <!-- Infused Soul Mirror -->
-        <Trail type="mmm.achievements.legendaries.raidarmor.envoy1.ism" trailData="Data/Trails/raid_armor_soul_mirror.trl" texture="Data/Icons/default_trail.png" color="#FFFFFFF"/>
+        <Trail type="mmm.achievements.legendaries.raidarmor.envoy1.ism" trailData="Data/Trails/raid_armor_soul_mirror.trl" color="#FFFFFFF"/>
             <!-- Mark the sconce and where to interact -->
         <!-- Auric Energy Crystal -->
-        <Trail type="mmm.achievements.legendaries.raidarmor.envoy1.aec" trailData="Data/Trails/raid_armor_auric_energy_crystal.trl" texture="Data/Icons/default_trail.png" color="#FFFFFFF"/>
+        <Trail type="mmm.achievements.legendaries.raidarmor.envoy1.aec" trailData="Data/Trails/raid_armor_auric_energy_crystal.trl" color="#FFFFFFF"/>
         <!-- Spirit Weave -->
         <!-- Coagulated Ectoplasm -->
         <!-- Arcane Dust -->
-        <Trail type="mmm.achievements.legendaries.raidarmor.envoy1.ad" trailData="Data/Trails/raid_armor_powdered_aurillium.trl" texture="Data/Icons/default_trail.png" color="#FFFFFFF"/>
+        <Trail type="mmm.achievements.legendaries.raidarmor.envoy1.ad" trailData="Data/Trails/raid_armor_powdered_aurillium.trl" color="#FFFFFFF"/>
         <POI MapID="1043" xpos="133.9706" ypos="3.48297" zpos="-299.9541" type="mmm.achievements.legendaries.raidarmor.envoy1.ad" iconFile="Data/Icons/skyscale.png" GUID="20WW+0NXkUSrL/t5Bqiugw=="/>
         <!-- Mushroom Medley -->
         <!-- Giant Beehive -->
@@ -25,7 +24,7 @@ xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
         <!-- Bloodstone Battery -->
         <!-- Soul of the Keep -->
         <!-- Tormented Aurillium -->
-        <Trail type="mmm.achievements.legendaries.raidarmor.envoy1.ta" trailData="Data/Trails/raid_armor_tormented_aurillium.trl" texture="Data/Icons/default_trail.png" color="#FFFFFFF"/>
+        <Trail type="mmm.achievements.legendaries.raidarmor.envoy1.ta" trailData="Data/Trails/raid_armor_tormented_aurillium.trl" color="#FFFFFFF"/>
         <!-- Spirit Strings -->
         <!-- Bloodstone-Infused Ectoplasm -->
         <!-- Crystalline Heart -->

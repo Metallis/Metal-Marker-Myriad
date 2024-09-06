@@ -3,9 +3,8 @@
 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
 xsi:schemaLocation="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD https://raw.githubusercontent.com/xrandox/Gw2_Marker_Pack_DTD_XSD/main/GW2MarkerPack.xsd"
 xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
-<!-- Discord Invite:https://discord.gg/FP8dQj6KBj -->
-    <MarkerCategory name="mmm" DisplayName="Metal Marker Myriad">
-    </MarkerCategory>
+<!-- Discord Invite: https://discord.gg/FP8dQj6KBj -->
+    <MarkerCategory name="mmm" DisplayName="Metal Marker Myriad"></MarkerCategory>
     <POIs>
         <!-- Crates -->
         <POI MapID="1554" xpos="377.7398" ypos="4.640392" zpos="462.8091" type="mmm.mapcomp.hearts.interact" GUID="jBgp9TxBb0+Z0M1LeahzoA=="/>

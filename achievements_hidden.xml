@@ -3,9 +3,8 @@
 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
 xsi:schemaLocation="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD https://raw.githubusercontent.com/xrandox/Gw2_Marker_Pack_DTD_XSD/main/GW2MarkerPack.xsd"
 xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
-<MarkerCategory name="mmm" DisplayName="Metal Marker Myriad">
-    </MarkerCategory>
-
+    <!-- Discord Invite: https://discord.gg/FP8dQj6KBj -->
+    <MarkerCategory name="mmm" DisplayName="Metal Marker Myriad"></MarkerCategory>
     <POIs>
         <POI MapID="1550" xpos="699.1066" ypos="92.27327" zpos="310.3289" info="Use /cheer" type="mmm.achievements.hidden.ls_litf" GUID="wnNvS1RzAEiYmcn8r5pksA=="/>
         <POI MapID="1550" xpos="356.642" ypos="149.9953" zpos="233.0186" info="Step in and get downed by the sawblade." type="mmm.achievements.hidden.ls_ws" GUID="I0aQy0dAgEaWj/gAduGOKg=="/>

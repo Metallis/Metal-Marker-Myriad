@@ -3,8 +3,8 @@
 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
 xsi:schemaLocation="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD https://raw.githubusercontent.com/xrandox/Gw2_Marker_Pack_DTD_XSD/main/GW2MarkerPack.xsd"
 xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
-	<!-- Discord Invite:https://discord.gg/FP8dQj6KBj -->
-	<MarkerCategory name="mmm" DisplayName="Metal Marker Myriad">
+    <!-- Discord Invite: https://discord.gg/FP8dQj6KBj -->
+    <MarkerCategory name="mmm" DisplayName="Metal Marker Myriad">
         <MarkerCategory name="contributors" DisplayName="Contributors/Thanks" isseparator="1">
             <MarkerCategory name="metallis" DisplayName="Metallis" isseparator="1">
                 <MarkerCategory name="discord" DisplayName="Discord (click me!)" copy="https://discord.gg/FP8dQj6KBj" copy-message="Discord link copied!" isseparator="1"></MarkerCategory>
@@ -14,10 +14,6 @@ xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
                 <MarkerCategory name="bhud" DisplayName="For making Blish HUD" isseparator="1"></MarkerCategory>
                 <MarkerCategory name="sanity" DisplayName="Sanity checking/tshooting" isseparator="1"></MarkerCategory>
                 <MarkerCategory name="kofi" DisplayName="Support them on Ko-fi (click me!)" copy="https://ko-fi.com/freesnow" copy-message="Freesnow's Ko-fi link copied!" isseparator="1"></MarkerCategory>
-            </MarkerCategory>
-            <MarkerCategory name="pewpew" DisplayName="Pewpewcannon" isseparator="1">
-                <MarkerCategory name="specops" DisplayName="Included SpecOps guide markers" isseparator="1"></MarkerCategory>
-                <MarkerCategory name="bashy" DisplayName="Included 'Bashy' DB Adventure trail" isseparator="1"></MarkerCategory>
             </MarkerCategory>
             <MarkerCategory name="quitarhero" DisplayName="QuitarHero" isseparator="1">
                 <MarkerCategory name="sanity" DisplayName="Sanity checking/tshooting" isseparator="1"></MarkerCategory>
@@ -34,12 +30,16 @@ xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
             </MarkerCategory>
             <MarkerCategory name="luaren" DisplayName="Luaren" isseparator="1">
                 <MarkerCategory name="collab" DisplayName="SotO collab work!" isseparator="1"></MarkerCategory>
-                <MarkerCategory name="twitch" DisplayName="Follow them on Twitch (click me!)" copy="https://twitch.tv/luaren" copy-message="Twitch link copied!" isseparator="1"></MarkerCategory>
+                <MarkerCategory name="twitch" DisplayName="Follo on Twitch (click me!)" copy="https://twitch.tv/luaren" copy-message="Twitch link copied!" isseparator="1"></MarkerCategory>
             </MarkerCategory>
             <MarkerCategory name="rediche" DisplayName="Rediche" isseparator="1">
                 <MarkerCategory name="inspiration" DisplayName="Insipration/motivation" isseparator="1"></MarkerCategory>
-                <MarkerCategory name="twitch" DisplayName="Follow them on Twitch (click me!)" copy="https://twitch.tv/rediche" copy-message="Twitch link copied!" isseparator="1"></MarkerCategory>
+                <MarkerCategory name="twitch" DisplayName="Follow on Twitch (click me!)" copy="https://twitch.tv/rediche" copy-message="Twitch link copied!" isseparator="1"></MarkerCategory>
                 <MarkerCategory name="discord" DisplayName="Discord (click me!)" copy="https://gw2.link/discord" copy-message="Discord link copied!" isseparator="1"></MarkerCategory>
+            </MarkerCategory>
+            <MarkerCategory name="pewpew" DisplayName="Pewpewcannon" isseparator="1">
+                <MarkerCategory name="specops" DisplayName="Included SpecOps guide markers" isseparator="1"></MarkerCategory>
+                <MarkerCategory name="bashy" DisplayName="Included 'Bashy' DB Adventure trail" isseparator="1"></MarkerCategory>
             </MarkerCategory>
             <MarkerCategory name="uc" DisplayName="Unskippable Cutscene" isseparator="1">
                 <MarkerCategory name="collab" DisplayName="Echovald collab!" isseparator="1"></MarkerCategory>

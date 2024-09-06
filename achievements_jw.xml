@@ -3,10 +3,8 @@
 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
 xsi:schemaLocation="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD https://raw.githubusercontent.com/xrandox/Gw2_Marker_Pack_DTD_XSD/main/GW2MarkerPack.xsd"
 xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
-    <!-- Discord Invite:https://discord.gg/FP8dQj6KBj -->
-    <MarkerCategory name="mmm" DisplayName="Metal Marker Myriad">
-
-    </MarkerCategory>
+    <!-- Discord Invite: https://discord.gg/FP8dQj6KBj -->
+    <MarkerCategory name="mmm" DisplayName="Metal Marker Myriad"></MarkerCategory>
     <POIs>
     <!-- Build-A-Quaggan -->
     <POI MapID="1554" xpos="23.55177" ypos="30.75488" zpos="-697.9586" type="mmm.achievements.jw.baq.fibers" GUID="F5trtK5TwUmvtqbrD5GexA=="/>

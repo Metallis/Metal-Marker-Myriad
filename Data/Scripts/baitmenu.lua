@@ -1,5 +1,5 @@
 -- Construct Menu
-local MMM_MainMenu = Menu:Add("MMM - Fishing Bait Locations", copyBait, false, false, "Copies bait waypoint codes")
+
 -- Submenu Options
 MMM_MainMenu:Add("Fish Egg", function (Copy) User.SetClipboard("[&BC8EAAA=][&BOcBAAA=][&BEMLAAA=]", "Fish Egg WPs copied to clipboard.") end, false, false, "Copies the relevant WPs to your clipboard.")
 MMM_MainMenu:Add("Freshwater Minnow", function (Copy) User.SetClipboard("[&BMcMAAA=][&BGMNAAA=][&BC8EAAA=][&BOcBAAA=]", "Freshwater Minnow WPs copied to clipboard.") end, false, false, "Copies the relevant WPs to your clipboard.")

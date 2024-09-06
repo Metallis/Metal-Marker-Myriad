@@ -3,16 +3,15 @@
 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
 xsi:schemaLocation="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD https://raw.githubusercontent.com/xrandox/Gw2_Marker_Pack_DTD_XSD/main/GW2MarkerPack.xsd"
 xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
-	<!-- Discord Invite:https://discord.gg/FP8dQj6KBj -->
-	<MarkerCategory name="mmm" DisplayName="Metal Marker Myriad">
-    </MarkerCategory>
+    <!-- Discord Invite: https://discord.gg/FP8dQj6KBj -->
+    <MarkerCategory name="mmm" DisplayName="Metal Marker Myriad"></MarkerCategory>
     <POIs>
         <!-- Bjora Essence Chests and Norn Chests -->
-        <POI MapID="1343" xpos="-953.881" ypos="0.605" zpos="231.139" type="mmm.exploration.mastery.bjorachests" iconFile="Data/Icons/waypoint.png" copy="[&amp;BDkMAAA=]" copy-message="Waypoint copied! Teleport back to Still Waters" GUID="C2J7Uid+PkmqWXuIk7UNMg=="/>
-        <POI MapID="1343" xpos="113.992" ypos="191.881" zpos="502.760" type="mmm.exploration.mastery.bjorachests" iconFile="Data/Icons/finish_flag.png" GUID="scSwwpU+iU6yIfgkX6EChQ=="/>
-        <Trail type="mmm.farming.chests.bjorachests" trailData="Data/Trails/bjora_essence_chests.trl" texture="Data/Icons/default_trail.png" color="#d55e00"/>
+        <POI MapID="1343" xpos="-953.881" ypos="0.605" zpos="231.139" type="mmm.farming.chests.bjoraessence" iconFile="Data/Icons/waypoint.png" copy="[&amp;BDkMAAA=]" copy-message="Waypoint copied! Teleport back to Still Waters" GUID="C2J7Uid+PkmqWXuIk7UNMg=="/>
+        <POI MapID="1343" xpos="113.992" ypos="191.881" zpos="502.760" type="mmm.farming.chests.bjoraessence" iconFile="Data/Icons/finish_flag.png" GUID="scSwwpU+iU6yIfgkX6EChQ=="/>
+        <Trail type="mmm.farming.chests.bjoraessence" trailData="Data/Trails/bjora_essence_chests.trl" color="#d55e00"/>
         <!-- Greater Arcane Chests -->
-        <Trail type="mmm.farming.chests.garcane" trailData="Data/Trails/amnytas_greater_arcanes.trl" texture="Data/Icons/default_trail.png" color="#56B4E9"/>
+        <Trail type="mmm.farming.chests.garcane" trailData="Data/Trails/amnytas_greater_arcanes.trl" color="#56B4E9"/>
         <Trail type="mmm.farming.chests.garcane" trailData="Data/Trails/luaren_sa_g_arcane.trl" texture="Data/Icons/luaren_uwu_arrow.png" color="#ff6ede"/>
         <POI MapID="1510" xpos="-645.7746" ypos="549.6155" zpos="160.8512" type="mmm.farming.chests.garcane" iconFile="Data/Icons/beetle.png" GUID="wGMDJ+KKmEaypgRhgnv5dQ=="/>
         <POI MapID="1510" xpos="-844.95343" ypos="551.637695" zpos="68.991325" type="mmm.farming.chests.garcane" iconFile="Data/Icons/skyscale.png" GUID="onlI8U+4Y0yJ2D1aWblitg=="/>
@@ -27,23 +26,23 @@ xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
         <POI MapID="1510" xpos="614.951782" ypos="274.197998" zpos="457.45636" type="mmm.farming.chests.garcane" iconFile="Data/Icons/griffon.png" GUID="8UdEiwF1i0+Kz2vE9Y5Ytg=="/>
         <POI MapID="1510" xpos="1032.971" ypos="177.2564" zpos="351.781" type="mmm.farming.chests.garcane" iconFile="Data/Icons/finish_flag.png" autoTrigger="1" triggerRange="5" copy="[&amp;BL4NAAA=]" copy-message="Jump to Droknar's WP, if needed! (copied to clipboard)" GUID="O47yqjQNXUa2q2sZ9KVqYQ=="/>
         <POI MapID="1526" xpos="-788.785" ypos="148.935" zpos="168.454" type="mmm.farming.chests.garcane" GUID="6D0GRKDyKUGxjaf50Bwoag=="/>
-		<POI MapID="1517" xpos="56.3714" ypos="700.364" zpos="-221.437" type="mmm.farming.chests.garcane" GUID="7JlNwaeUhkmHlu99Otka4w=="/>
-		<POI MapID="1517" xpos="10.6698" ypos="677.259" zpos="-208.345" type="mmm.farming.chests.garcane" GUID="OUFIAenmtEuuAMx3JgxyDA=="/>
-		<POI MapID="1517" xpos="10.4338" ypos="648.156" zpos="-115.536" type="mmm.farming.chests.garcane" GUID="mEUyenoXikejtjn4vodjnw=="/>
-		<POI MapID="1517" xpos="67.0849" ypos="648.156" zpos="-220.899" type="mmm.farming.chests.garcane" GUID="AOoZqw7/vEamYzRPg6A4Ug=="/>
-		<POI MapID="1517" xpos="61.099" ypos="677.259" zpos="-129.769" type="mmm.farming.chests.garcane" GUID="0Ygtv/WTykiWF+ZxeY485w=="/>
-		<POI MapID="1517" xpos="413.475" ypos="384.999" zpos="426.168" type="mmm.farming.chests.garcane" GUID="GZ1TL+Lq8EKb+YhzmE9rig=="/>
-		<POI MapID="1517" xpos="367.879" ypos="384.978" zpos="426.366" type="mmm.farming.chests.garcane" GUID="7R2NF3lXp0euuYNKuIonaQ=="/>
-		<POI MapID="1517" xpos="-552.1" ypos="443.201" zpos="683.786" type="mmm.farming.chests.garcane" GUID="lshTdWpbz0i6HmvgyV+7Kw=="/>
-		<POI MapID="1517" xpos="-532.432" ypos="443.31" zpos="756.353" type="mmm.farming.chests.garcane" GUID="p6f1v5P/I0SfR8wHrIlnSg=="/>
-		<POI MapID="1517" xpos="-532.031" ypos="443.276" zpos="647.996" type="mmm.farming.chests.garcane" GUID="IJbvvcH8rkiDpVjDXOTslA=="/>
-        <Trail type="mmm.farming.chests.garcane" trailData="Data/Trails/nayos_greater_arcanes.trl" texture="Data/Icons/default_trail.png" color="#56b4e9"/>
-		<POI MapID="1526" xpos="967.103" ypos="225.218" zpos="355.706" type="mmm.farming.chests.garcane" GUID="nPaPWSpHxUytschNhzWbJA=="/>
-		<POI MapID="1526" xpos="957.273" ypos="213.854" zpos="306.649" type="mmm.farming.chests.garcane" GUID="fY87mOQwC0C9Cr1lpwOA5g=="/>
-		<POI MapID="1526" xpos="924.443" ypos="225.163" zpos="381.957" type="mmm.farming.chests.garcane" GUID="SEy59JGfG0i7o5lXjvIjCw=="/>
-		<POI MapID="1526" xpos="102.169" ypos="283.675" zpos="-159.444" type="mmm.farming.chests.garcane" GUID="KHRoGd7kTkSNkWcMAqZsTQ=="/>
-		<POI MapID="1526" xpos="25.3311" ypos="269.492" zpos="563.109" type="mmm.farming.chests.garcane" GUID="5SGMA1wX1kGGZmUFBAv9AA=="/>
-		<POI MapID="1526" xpos="153.739" ypos="424.828" zpos="-25.0379" type="mmm.farming.chests.garcane" GUID="KllVXqk2ekmGgwFl0Q/xeg=="/>
+        <POI MapID="1517" xpos="56.3714" ypos="700.364" zpos="-221.437" type="mmm.farming.chests.garcane" GUID="7JlNwaeUhkmHlu99Otka4w=="/>
+        <POI MapID="1517" xpos="10.6698" ypos="677.259" zpos="-208.345" type="mmm.farming.chests.garcane" GUID="OUFIAenmtEuuAMx3JgxyDA=="/>
+        <POI MapID="1517" xpos="10.4338" ypos="648.156" zpos="-115.536" type="mmm.farming.chests.garcane" GUID="mEUyenoXikejtjn4vodjnw=="/>
+        <POI MapID="1517" xpos="67.0849" ypos="648.156" zpos="-220.899" type="mmm.farming.chests.garcane" GUID="AOoZqw7/vEamYzRPg6A4Ug=="/>
+        <POI MapID="1517" xpos="61.099" ypos="677.259" zpos="-129.769" type="mmm.farming.chests.garcane" GUID="0Ygtv/WTykiWF+ZxeY485w=="/>
+        <POI MapID="1517" xpos="413.475" ypos="384.999" zpos="426.168" type="mmm.farming.chests.garcane" GUID="GZ1TL+Lq8EKb+YhzmE9rig=="/>
+        <POI MapID="1517" xpos="367.879" ypos="384.978" zpos="426.366" type="mmm.farming.chests.garcane" GUID="7R2NF3lXp0euuYNKuIonaQ=="/>
+        <POI MapID="1517" xpos="-552.1" ypos="443.201" zpos="683.786" type="mmm.farming.chests.garcane" GUID="lshTdWpbz0i6HmvgyV+7Kw=="/>
+        <POI MapID="1517" xpos="-532.432" ypos="443.31" zpos="756.353" type="mmm.farming.chests.garcane" GUID="p6f1v5P/I0SfR8wHrIlnSg=="/>
+        <POI MapID="1517" xpos="-532.031" ypos="443.276" zpos="647.996" type="mmm.farming.chests.garcane" GUID="IJbvvcH8rkiDpVjDXOTslA=="/>
+        <Trail type="mmm.farming.chests.garcane" trailData="Data/Trails/nayos_greater_arcanes.trl" color="#56b4e9"/>
+        <POI MapID="1526" xpos="967.103" ypos="225.218" zpos="355.706" type="mmm.farming.chests.garcane" GUID="nPaPWSpHxUytschNhzWbJA=="/>
+        <POI MapID="1526" xpos="957.273" ypos="213.854" zpos="306.649" type="mmm.farming.chests.garcane" GUID="fY87mOQwC0C9Cr1lpwOA5g=="/>
+        <POI MapID="1526" xpos="924.443" ypos="225.163" zpos="381.957" type="mmm.farming.chests.garcane" GUID="SEy59JGfG0i7o5lXjvIjCw=="/>
+        <POI MapID="1526" xpos="102.169" ypos="283.675" zpos="-159.444" type="mmm.farming.chests.garcane" GUID="KHRoGd7kTkSNkWcMAqZsTQ=="/>
+        <POI MapID="1526" xpos="25.3311" ypos="269.492" zpos="563.109" type="mmm.farming.chests.garcane" GUID="5SGMA1wX1kGGZmUFBAv9AA=="/>
+        <POI MapID="1526" xpos="153.739" ypos="424.828" zpos="-25.0379" type="mmm.farming.chests.garcane" GUID="KllVXqk2ekmGgwFl0Q/xeg=="/>
         <!-- Major Kodan Cache (Visible) -->
         <POI MapID="1554" xpos="607.1371" ypos="24.21965" zpos="-244.9958" type="mmm.farming.chests.mkodan" GUID="4J+nD6IGYUGfqAOBk5rauA=="/>
         <POI MapID="1550" xpos="758.8858" ypos="299.5064" zpos="191.9103" type="mmm.farming.chests.mkodan" GUID="btRXg5uAV0mydG1yJVSJbA=="/>
@@ -66,7 +65,6 @@ xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
         <POI MapID="1550" xpos="-135.1049" ypos="312.4497" zpos="-383.8064" type="mmm.farming.chests.mkodan" GUID="R/vEIQjdAkSmtqSw/YQqOw=="/>
         <POI MapID="1550" xpos="34.10831" ypos="20.83994" zpos="389.7236" type="mmm.farming.chests.mkodan" GUID="Hn6aEWdbs0eRIdx8alboyw=="/>
         <!-- Warclaw Sniff Spots -->
-        <POI MapID="1550" xpos="-991.0939" ypos="205.7086" zpos="-31.68695" type="mmm.farming.chests.sniff" GUID="dlT7dVuS3US0X+QJq3+J7Q=="/>
         <POI MapID="1554" xpos="299.8351" ypos="8.982041" zpos="-10.84787" type="mmm.farming.chests.sniff" GUID="g3krVkqYZ0WBFGA6TZOauQ=="/>
         <POI MapID="1550" xpos="-879.2496" ypos="260.8277" zpos="-265.4616" type="mmm.farming.chests.sniff" GUID="w5avNUePukm40rWyqZA0cA=="/>
         <POI MapID="1554" xpos="-552.4833" ypos="118.2202" zpos="-180.701" type="mmm.farming.chests.sniff" GUID="IPyGf+Rn10KLN2vGI9fuEA=="/>
@@ -81,5 +79,10 @@ xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
         <POI MapID="1554" xpos="434.1064" ypos="29.96684" zpos="201.1648" type="mmm.farming.chests.sniff" GUID="WzAZx3o+Z0muUusxywnuzA=="/>
         <POI MapID="1554" xpos="500.6468" ypos="14.66405" zpos="183.5287" type="mmm.farming.chests.sniff" GUID="FrV0bR+6s0+IFY2sMFG4Kg=="/>
         <POI MapID="1550" xpos="83.37656" ypos="218.1242" zpos="329.6742" type="mmm.farming.chests.sniff" GUID="0UuCdiQhwE6glyJ7V7j+qQ=="/>
+        <POI MapID="1550" xpos="-927.1957" ypos="209.3738" zpos="53.1456" type="mmm.farming.chests.sniff" GUID="ROxNFmZIvEiwHeJQjifNuA=="/>
+        <POI MapID="1550" xpos="-644.2131" ypos="210.9491" zpos="-259.2567" type="mmm.farming.chests.sniff" GUID="epNWehggKUq3hacF8xPCtQ=="/>
+        <POI MapID="1550" xpos="-450.5429" ypos="206.2963" zpos="-286.7148" type="mmm.farming.chests.sniff" GUID="jR7SK0y+/0yHM+/G5N55oQ=="/>
+        <POI MapID="1550" xpos="-985.7099" ypos="207.2379" zpos="-46.24557" type="mmm.farming.chests.sniff" GUID="7GJPusK2y0Gyke2wWKj1XQ=="/>
+        <POI MapID="1550" xpos="-235.4463" ypos="90.26842" zpos="274.0175" type="mmm.farming.chests.sniff" GUID="vcQBudN1s0SvVcEPDBAZZw=="/>
     </POIs>
 </OverlayData>

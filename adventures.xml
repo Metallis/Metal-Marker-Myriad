@@ -3,35 +3,28 @@
 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
 xsi:schemaLocation="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD https://raw.githubusercontent.com/xrandox/Gw2_Marker_Pack_DTD_XSD/main/GW2MarkerPack.xsd"
 xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
-    <MarkerCategory name="mmm" DisplayName="Metal Marker Myriad">
-        <MarkerCategory name="adventures" DisplayName="Adventures">
-            <MarkerCategory name="ox_yoke" DisplayName="The Ox's Yoke"/>
-            <MarkerCategory name="skiff_nkc" DisplayName="Swift Skiffs - Kaineng"/>
-            <MarkerCategory name="ls_hns" DisplayName="Lowland Shore: Hide-and-Seek Challenge" iconFile="Data/Icons/flag.png" color="#FFFF00"/>
-            <MarkerCategory name="js_swc" DisplayName="Janthir Syntri: Save Woodland Creatures" iconFile="Data/Icons/flag.png" color="#FFFF00"/>
-        </MarkerCategory>
-    </MarkerCategory>
+    <MarkerCategory name="mmm" DisplayName="Metal Marker Myriad"></MarkerCategory>
     <POIs>
         <!-- The Ox's Yoke -->
-        <Trail type="mmm.adventures.ox_yoke" trailData="Data/Trails/ox_yoke_avoid.trl" texture="Data/Icons/default_trail.png" fadeNear="3000" fadeFar="5000" color="#d55e00"/>
+        <Trail type="mmm.adventures.ox_yoke" trailData="Data/Trails/ox_yoke_avoid.trl" fadeNear="3000" fadeFar="5000" color="#d55e00"/>
         <!-- Swift Skiffs - NKC -->
-        <Trail type="mmm.adventures.skiff_nkc" trailData="Data/Trails/nkc_swift_skiffs.trl" texture="Data/Icons/default_trail.png" color="#f0e442"/>
+        <Trail type="mmm.adventures.skiff_nkc" trailData="Data/Trails/nkc_swift_skiffs.trl" color="#f0e442"/>
         <POI MapID="1438" xpos="196.301" ypos="1.37639" zpos="282.028" type="mmm.adventures.skiff_nkc" iconFile="Data/Icons/1.png" GUID="AOTQgBzrLkyhc1Mz3N3u5w=="/>
-		<POI MapID="1438" xpos="228.559" ypos="1.37639" zpos="255.193" type="mmm.adventures.skiff_nkc" iconFile="Data/Icons/3.png" GUID="CID4QOgjnk+ShrOJM2MJWw=="/>
+        <POI MapID="1438" xpos="228.559" ypos="1.37639" zpos="255.193" type="mmm.adventures.skiff_nkc" iconFile="Data/Icons/3.png" GUID="CID4QOgjnk+ShrOJM2MJWw=="/>
         <POI MapID="1438" xpos="230.662" ypos="1.37639" zpos="239.877" type="mmm.adventures.skiff_nkc" iconFile="Data/Icons/5.png" GUID="PKl5sPyfO0uHcKlLtK3tmw=="/>
-		<POI MapID="1438" xpos="24.6639" ypos="1.37639" zpos="-270.255" type="mmm.adventures.skiff_nkc" iconFile="Data/Icons/1.png" GUID="KGoAy23xQ064E8gOMEcNMQ=="/>
-		<POI MapID="1438" xpos="6.04291" ypos="1.37639" zpos="-305.098" type="mmm.adventures.skiff_nkc" iconFile="Data/Icons/2.png" GUID="WWyFnroWx0SHf8wQBQIPcw=="/>
-		<POI MapID="1438" xpos="28.3655" ypos="1.37639" zpos="-323.433" type="mmm.adventures.skiff_nkc" iconFile="Data/Icons/1.png" GUID="qjpMaUZiWEqpIBavjwRz3A=="/>
-		<POI MapID="1438" xpos="17.8942" ypos="1.37639" zpos="-357.369" type="mmm.adventures.skiff_nkc" iconFile="Data/Icons/3.png" GUID="SXap6lXZnU60irTIJ7xhOw=="/>
-		<POI MapID="1438" xpos="5.42966" ypos="1.37639" zpos="-357.362" type="mmm.adventures.skiff_nkc" iconFile="Data/Icons/5.png" GUID="B2vZQYPT2Um7C6uEc5tc2g=="/>
-		<POI MapID="1438" xpos="-262.836" ypos="1.37639" zpos="-297.858" type="mmm.adventures.skiff_nkc" iconFile="Data/Icons/1.png" GUID="5ATCRspGAE24og9QT+P3Tg=="/>
-		<POI MapID="1438" xpos="-254.38" ypos="1.37639" zpos="-245.334" type="mmm.adventures.skiff_nkc" iconFile="Data/Icons/2.png" GUID="x6Hvw4BX1kqOyFEbHU7/Kw=="/>
-		<POI MapID="1438" xpos="-198.838" ypos="1.37639" zpos="-119.062" type="mmm.adventures.skiff_nkc" iconFile="Data/Icons/3.png" GUID="+diOzncL6UiLT4wv85dxqw=="/>
-		<POI MapID="1438" xpos="-331.933" ypos="1.37639" zpos="6.51453" type="mmm.adventures.skiff_nkc" iconFile="Data/Icons/1.png" GUID="zG+r+8bJxkuHLzK9J7HzNA=="/>
-		<POI MapID="1438" xpos="-301.53" ypos="1.37639" zpos="57.7344" type="mmm.adventures.skiff_nkc" iconFile="Data/Icons/3.png" GUID="8v/KZc5zGEioPXTUwYzQ7A=="/>
-		<POI MapID="1438" xpos="-308.567" ypos="1.37639" zpos="71.419" type="mmm.adventures.skiff_nkc" iconFile="Data/Icons/5.png" GUID="tyfokemnikOx1sfBMZe2fg=="/>
-		<POI MapID="1438" xpos="-224.505" ypos="-1.0668" zpos="257.49" type="mmm.adventures.skiff_nkc" iconFile="Data/Icons/3.png" GUID="YPR1N3b+D0WRWjt79DTlUw=="/>
-		<POI MapID="1438" xpos="-211.671" ypos="-1.0668" zpos="263.418" type="mmm.adventures.skiff_nkc" iconFile="Data/Icons/5.png" GUID="LprIhBY8mUC8uGrfxtLn7A=="/>
+        <POI MapID="1438" xpos="24.6639" ypos="1.37639" zpos="-270.255" type="mmm.adventures.skiff_nkc" iconFile="Data/Icons/1.png" GUID="KGoAy23xQ064E8gOMEcNMQ=="/>
+        <POI MapID="1438" xpos="6.04291" ypos="1.37639" zpos="-305.098" type="mmm.adventures.skiff_nkc" iconFile="Data/Icons/2.png" GUID="WWyFnroWx0SHf8wQBQIPcw=="/>
+        <POI MapID="1438" xpos="28.3655" ypos="1.37639" zpos="-323.433" type="mmm.adventures.skiff_nkc" iconFile="Data/Icons/1.png" GUID="qjpMaUZiWEqpIBavjwRz3A=="/>
+        <POI MapID="1438" xpos="17.8942" ypos="1.37639" zpos="-357.369" type="mmm.adventures.skiff_nkc" iconFile="Data/Icons/3.png" GUID="SXap6lXZnU60irTIJ7xhOw=="/>
+        <POI MapID="1438" xpos="5.42966" ypos="1.37639" zpos="-357.362" type="mmm.adventures.skiff_nkc" iconFile="Data/Icons/5.png" GUID="B2vZQYPT2Um7C6uEc5tc2g=="/>
+        <POI MapID="1438" xpos="-262.836" ypos="1.37639" zpos="-297.858" type="mmm.adventures.skiff_nkc" iconFile="Data/Icons/1.png" GUID="5ATCRspGAE24og9QT+P3Tg=="/>
+        <POI MapID="1438" xpos="-254.38" ypos="1.37639" zpos="-245.334" type="mmm.adventures.skiff_nkc" iconFile="Data/Icons/2.png" GUID="x6Hvw4BX1kqOyFEbHU7/Kw=="/>
+        <POI MapID="1438" xpos="-198.838" ypos="1.37639" zpos="-119.062" type="mmm.adventures.skiff_nkc" iconFile="Data/Icons/3.png" GUID="+diOzncL6UiLT4wv85dxqw=="/>
+        <POI MapID="1438" xpos="-331.933" ypos="1.37639" zpos="6.51453" type="mmm.adventures.skiff_nkc" iconFile="Data/Icons/1.png" GUID="zG+r+8bJxkuHLzK9J7HzNA=="/>
+        <POI MapID="1438" xpos="-301.53" ypos="1.37639" zpos="57.7344" type="mmm.adventures.skiff_nkc" iconFile="Data/Icons/3.png" GUID="8v/KZc5zGEioPXTUwYzQ7A=="/>
+        <POI MapID="1438" xpos="-308.567" ypos="1.37639" zpos="71.419" type="mmm.adventures.skiff_nkc" iconFile="Data/Icons/5.png" GUID="tyfokemnikOx1sfBMZe2fg=="/>
+        <POI MapID="1438" xpos="-224.505" ypos="-1.0668" zpos="257.49" type="mmm.adventures.skiff_nkc" iconFile="Data/Icons/3.png" GUID="YPR1N3b+D0WRWjt79DTlUw=="/>
+        <POI MapID="1438" xpos="-211.671" ypos="-1.0668" zpos="263.418" type="mmm.adventures.skiff_nkc" iconFile="Data/Icons/5.png" GUID="LprIhBY8mUC8uGrfxtLn7A=="/>
         <!-- Lowland Shore: Hide-and-Seek Challenge -->
         <POI MapID="1550" xpos="473.1302" ypos="150.2107" zpos="130.6473" type="mmm.adventures.ls_hns" GUID="AxMzWPzG50yd/9pSPH9Fsw=="/>
         <POI MapID="1550" xpos="432.2907" ypos="156.7739" zpos="81.85669" type="mmm.adventures.ls_hns" GUID="48pSw500ok6oCzMiczc6zQ=="/>
