@@ -1,0 +1,14 @@
+XML Encoding Cheat Sheet
+&amp; is &
+&#xA; is newline
+
+
+
+Colors
+#E69F00 Gold
+#56B4E9 Light Blue
+#009E73 Greenish
+#F0E442 Bright Yellow
+#0072B2 Dark Blue
+#D55E00 Orange
+#CC79A7 Pink

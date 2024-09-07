@@ -26,7 +26,7 @@ function MMM_CopyPSNA()
     for _, day in ipairs(COPY_INFO) do
         if day[1] == MMM.psna.psnaDay then
             MMM.psna.copy = day[2]
-            User.SetClipboard(MMM.psna.copy, "PSNA Waypoints copied to clipboard!")
+            User.SetClipboard(MMM.psna.copy, "Today's PSNA Waypoints copied to clipboard!")
             break
         end
     end

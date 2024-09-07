@@ -4,7 +4,7 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 xsi:schemaLocation="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD https://raw.githubusercontent.com/xrandox/Gw2_Marker_Pack_DTD_XSD/main/GW2MarkerPack.xsd"
 xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
     <!-- Discord Invite: https://discord.gg/FP8dQj6KBj -->
-    <MarkerCategory name="mmm" DisplayName="Metal Marker Myriad" texture="Data/Icons/default_trail.png" iconFile="Data/Icons/default_icon.png">
+    <MarkerCategory name="mmm" DisplayName="Metal Marker Myriad" texture="Data/Icons/default_trail.png" iconFile="Data/Icons/default_marker.png" fadeNear="1500" fadeFar="5000">
         <MarkerCategory name="contributors" DisplayName="Contributors/Thanks" isseparator="1"></MarkerCategory>
         <MarkerCategory name="achievements" DisplayName="Achievements/Collections">
             <MarkerCategory name="general" DisplayName="General">
@@ -373,10 +373,10 @@ xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
                 </MarkerCategory>
             </MarkerCategory>
             <MarkerCategory name="items" DisplayName="Items/Loot">
-
+                
             </MarkerCategory>
             <MarkerCategory name="materials" DisplayName="Materials">
-
+                
             </MarkerCategory>
         </MarkerCategory>
         <MarkerCategory name="festivals" DisplayName="Festivals">
@@ -387,15 +387,78 @@ xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
                 </MarkerCategory>
             </MarkerCategory>
         </MarkerCategory>
+        <MarkerCategory name="fishing" DisplayName="Fishing">
+            <MarkerCategory name="holes" DisplayName="Fishing Holes" iconFile="Data/Icons/fishing_pin_b.png" bounce="rise" bounce-height="3" autoTrigger="1" triggerRange="25" fadeNear="3000" fadeFar="5000">
+                <MarkerCategory name="astral" DisplayName="Astral Fish"></MarkerCategory>
+                <MarkerCategory name="dream" DisplayName="Boreal Fish"></MarkerCategory>
+                <MarkerCategory name="brackishj" DisplayName="Brackish Janthir Fish"></MarkerCategory>
+                <MarkerCategory name="cavern" DisplayName="Cavern Fish"></MarkerCategory>
+                <MarkerCategory name="channel" DisplayName="Channel Fish"></MarkerCategory>
+                <MarkerCategory name="coastal" DisplayName="Coastal Fish"></MarkerCategory>
+                <MarkerCategory name="deep" DisplayName="Deep Fishing Hole"></MarkerCategory>
+                <MarkerCategory name="deeptower" DisplayName="Deep Tower Fish"></MarkerCategory>
+                <MarkerCategory name="desert" DisplayName="Desert Fish"></MarkerCategory>
+                <MarkerCategory name="dream" DisplayName="Dream Fish"></MarkerCategory>
+                <MarkerCategory name="event" DisplayName="Event/Heart/Other">
+                    <MarkerCategory name="innerchamber" DisplayName="Inner Chamber Fish"></MarkerCategory>
+                    <MarkerCategory name="lutgardis" DisplayName="Lutgardis Trout"></MarkerCategory>
+                    <MarkerCategory name="naksi" DisplayName="Naksi Bay Fish"></MarkerCategory>
+                    <MarkerCategory name="rare" DisplayName="Rare Fish"></MarkerCategory>
+                    <MarkerCategory name="shinota" DisplayName="Shinota Blackfins"></MarkerCategory>
+                    <MarkerCategory name="wreckage" DisplayName="Wreckage Site"></MarkerCategory>
+                </MarkerCategory>
+                <MarkerCategory name="fracchannel" DisplayName="Fractured Channel Fish"></MarkerCategory>
+                <MarkerCategory name="fracdesert" DisplayName="Fractured Desert Fish"></MarkerCategory>
+                <MarkerCategory name="fracfresh" DisplayName="Fractured Freshwater Fish"></MarkerCategory>
+                <MarkerCategory name="fraclake" DisplayName="Fractured Lake Fish"></MarkerCategory>
+                <MarkerCategory name="freshwater" DisplayName="Freshwater Fish"></MarkerCategory>
+                <MarkerCategory name="freshj" DisplayName="Freshwater Janthir Fish"></MarkerCategory>
+                <MarkerCategory name="grotto" DisplayName="Grotto Fish"></MarkerCategory>
+                <MarkerCategory name="lake" DisplayName="Lake Fish"></MarkerCategory>
+                <MarkerCategory name="lowbrackish" DisplayName="Lowland Brackish Fish"></MarkerCategory>
+                <MarkerCategory name="lowfresh" DisplayName="Lowland Freshwater Fish"></MarkerCategory>
+                <MarkerCategory name="lowoffshore" DisplayName="Lowland Offshore Fish"></MarkerCategory>
+                <MarkerCategory name="lowshore" DisplayName="Lowland Shore Fish"></MarkerCategory>
+                <MarkerCategory name="mysterious" DisplayName="Mysterious Waters Fish"></MarkerCategory>
+                <MarkerCategory name="nayosian" DisplayName="Nayosian Fish"></MarkerCategory>
+                <MarkerCategory name="noxious" DisplayName="Noxious Water Fish"></MarkerCategory>
+                <MarkerCategory name="offshore" DisplayName="Offshore Fish"></MarkerCategory>
+                <MarkerCategory name="osj" DisplayName="Offshore Saltwater Janthir Fish"></MarkerCategory>
+                <MarkerCategory name="polluted" DisplayName="Polluted Lake Fish"></MarkerCategory>
+                <MarkerCategory name="quarry" DisplayName="Quarry Fish"></MarkerCategory>
+                <MarkerCategory name="random" DisplayName="Random Fish"></MarkerCategory>
+                <MarkerCategory name="rare" DisplayName="Rare Fish"></MarkerCategory>
+                <MarkerCategory name="river" DisplayName="River Fish"></MarkerCategory>
+                <MarkerCategory name="saltwater" DisplayName="Saltwater Fish"></MarkerCategory>
+                <MarkerCategory name="shore" DisplayName="Shore Fish"></MarkerCategory>
+                <MarkerCategory name="ssj" DisplayName="Shore Saltwater Janthir Fish"></MarkerCategory>
+                <MarkerCategory name="spire" DisplayName="Spire Fish"></MarkerCategory>
+                <MarkerCategory name="volcanic" DisplayName="Volcanic Fish"></MarkerCategory>
+            </MarkerCategory>
+            <MarkerCategory name="bait" DisplayName="Fishing Bait">
+                <MarkerCategory name="instrux" DisplayName="Click below to copy WPs, here for trails" defaulttoggle="0" texture="Data/Icons/default_trail.png" alpha="0.7" color="#56B4E9"></MarkerCategory>
+                <MarkerCategory name="fishegg" DisplayName="Fish Egg" isseparator="1" copy="[&amp;BC8EAAA=][&amp;BOcBAAA=][&amp;BEMLAAA=]" copy-message="Fish Egg WPs copied to clipboard!"></MarkerCategory>
+                <MarkerCategory name="minnow" DisplayName="Freshwater Minnow" isseparator="1" copy="[&amp;BMcMAAA=][&amp;BGMNAAA=][&amp;BC8EAAA=][&amp;BOcBAAA=]" copy-message="Freshwater Minnow WPs copied to clipboard!"></MarkerCategory>
+                <MarkerCategory name="glowworm" DisplayName="Glow Worm" isseparator="1" copy="[&amp;BMcMAAA=][&amp;BGMNAAA=]" copy-message="Glow Worm WPs copied to clipboard!"></MarkerCategory>
+                <MarkerCategory name="beetle" DisplayName="Lava Beetle" isseparator="1" copy="[&amp;BHgJAAA=]" copy-message="Lava Beetle WP copied to clipboard!"></MarkerCategory>
+                <MarkerCategory name="leech" DisplayName="Leech" isseparator="1" copy="[&amp;BO8JAAA=]" copy-message="Leech WP copied to clipboard!"></MarkerCategory>
+                <MarkerCategory name="lightning" DisplayName="Lightning Bug" isseparator="1" copy="[&amp;BOcBAAA=]" copy-message="Lightning Bug WP copied to clipboard!"></MarkerCategory>
+                <MarkerCategory name="nightcrawler" DisplayName="Nightcrawler" isseparator="1" copy="[&amp;BKIMAAA=]" copy-message="Nightcrawler WP copied to clipboard!"></MarkerCategory>
+                <MarkerCategory name="ramshorn" DisplayName="Ramshorn Snail" isseparator="1" copy="[&amp;BIACAAA=]" copy-message="Ramshorn Snail WP copied to clipboard!"></MarkerCategory>
+                <MarkerCategory name="sardine" DisplayName="Sardine" isseparator="1" copy="[&amp;BJ4MAAA=][&amp;BMYMAAA=][&amp;BAcFAAA=][&amp;BO8JAAA=]" copy-message="Sardine WPs copied to clipboard!"></MarkerCategory>
+                <MarkerCategory name="scorpion" DisplayName="Scorpion" isseparator="1" copy="[&amp;BLsKAAA=]" copy-message="Scorpion WP copied to clipboard!"></MarkerCategory>
+                <MarkerCategory name="shrimpling" DisplayName="Shrimpling" isseparator="1" copy="[&amp;BJ4MAAA=][&amp;BMYMAAA=][&amp;BKIMAAA=][&amp;BC8EAAA=][&amp;BIACAAA=]" copy-message="Shrimpling WPs copied to clipboard!"></MarkerCategory>
+                <MarkerCategory name="sparkfly" DisplayName="Sparkfly Larva" isseparator="1" copy="[&amp;BAcFAAA=]" copy-message="Sparkfly Larva WP copied to clipboard!"></MarkerCategory>
+            </MarkerCategory>
+        </MarkerCategory>
         <MarkerCategory name="gathering" DisplayName="Gathering" bounce="rise" bounce-height="3" autoTrigger="1" triggerRange="25">
+            <MarkerCategory name="amberore" DisplayName="Titan Amber/Ore" iconFile="Data/Icons/amber_ore.png"></MarkerCategory>
             <MarkerCategory name="carrot" DisplayName="Carrots" iconFile="Data/Icons/carrot.png"></MarkerCategory>
-            <MarkerCategory name="chargedore" DisplayName="Charged Titan Ore" iconFile="Data/Icons/charged_titan_ore.png"></MarkerCategory>
             <MarkerCategory name="echoresin" DisplayName="Chunk of Petrified Echovald Resin" iconFile="Data/Icons/echovald_resin.png"></MarkerCategory>
             <MarkerCategory name="honeyflower" DisplayName="Honey Flower" iconFile="Data/Icons/honey_flower.png"></MarkerCategory>
             <MarkerCategory name="kale" DisplayName="Kale" iconFile="Data/Icons/kale_leaf.png"></MarkerCategory>
             <MarkerCategory name="lettuce" DisplayName="Lettuce" iconFile="Data/Icons/head_of_lettuce.png"></MarkerCategory>
             <MarkerCategory name="lowlandpine" DisplayName="Lowland Pine Sapling" iconFile="Data/Icons/lowland_pine_log.png"></MarkerCategory>
-            <MarkerCategory name="rottedamber" DisplayName="Rotted Titan Amber" iconFile="Data/Icons/rotted_titan_amber.png"></MarkerCategory>
             <MarkerCategory name="strawberry" DisplayName="Strawberries" iconFile="Data/Icons/strawberry.png"></MarkerCategory>
             <MarkerCategory name="toxicspore" DisplayName="Pristine Toxic Spore Sample" iconFile="Data/Icons/toxic_spore.png">
                 <MarkerCategory name="offshootevents" DisplayName="Toxic Offshoot Events" iconSize="3" color="#ff7f7f"></MarkerCategory>
@@ -408,7 +471,7 @@ xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
                 <MarkerCategory name="guide" DisplayName="Guide" iconFile="Data/Icons/glide_booster.png" mapVisibility="0" miniMapVisibility="0"></MarkerCategory>
                 <MarkerCategory name="braziers" DisplayName="Braziers"></MarkerCategory>
             </MarkerCategory>
-            <MarkerCategory name="qc" DisplayName="Queen's Confidence">
+            <MarkerCategory name="qc" DisplayName="Queen's Confidence" fadeNear="700" fadeFar="900">
                 <MarkerCategory name="trail" DisplayName="Trail"></MarkerCategory>
                 <MarkerCategory name="guide" DisplayName="Guide"></MarkerCategory>
             </MarkerCategory>
@@ -477,19 +540,27 @@ xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
             </MarkerCategory>
         </MarkerCategory>
         <MarkerCategory name="mapcomp" DisplayName="Map Completion">
-            <MarkerCategory name="hearts" DisplayName="Hearts" iconFile="Data/Icons/heart_full.png">
-                <MarkerCategory name="interact" DisplayName="Interactables"></MarkerCategory>
-                <MarkerCategory name="touch" DisplayName="Touch"></MarkerCategory>
+            <MarkerCategory name="hearts" DisplayName="Hearts" iconFile="Data/Icons/interact.png">
+                <MarkerCategory name="js_fb" DisplayName="Festering Basin">
+                    <MarkerCategory name="interact" DisplayName="Mursaat Relics"></MarkerCategory>
+                </MarkerCategory>
+                <MarkerCategory name="js_ohs" DisplayName="Old Hutment Site"></MarkerCategory>
+                <MarkerCategory name="js_eh" DisplayName="Echoing Hills">
+                    <MarkerCategory name="interact" DisplayName="Supply Crate Build Location"></MarkerCategory>
+                    <MarkerCategory name="touch" DisplayName="Fires" iconSize="0.5"></MarkerCategory>
+                </MarkerCategory>
             </MarkerCategory>
             <MarkerCategory name="lanterns" DisplayName="Lanterns"></MarkerCategory>
         </MarkerCategory>
-        <MarkerCategory name="insights" DisplayName="Mastery Insights" color="#D55E00">
+        <MarkerCategory name="insights" DisplayName="Mastery Insights">
             <MarkerCategory name="bc_bbb" DisplayName="Bloody Bill's Base" achievementId="3501"></MarkerCategory>
             <MarkerCategory name="dc_dsp" DisplayName="Dostoev Sky Peak" achievementId="3534"></MarkerCategory>
             <MarkerCategory name="fr_cd" DisplayName="Cozen Desolation" achievementId="3530"></MarkerCategory>
             <MarkerCategory name="hh_ho" DisplayName="Hidden Ourobon" achievementId="3539"></MarkerCategory>
             <MarkerCategory name="im_shc" DisplayName="Sunken Halls of Clarent" achievementId="3526"></MarkerCategory>
-            <MarkerCategory name="ml_sc" DisplayName="Scavenger's Chasm" achievementId="3476"></MarkerCategory>
+            <MarkerCategory name="ml_sc" DisplayName="Scavenger's Chasm" achievementId="3476" fadeNear="700" fadeFar="900">
+                <MarkerCategory name="mb" DisplayName="Mount Bypass Route" defaulttoggle="0"></MarkerCategory>
+            </MarkerCategory>
             <MarkerCategory name="mm_vr" DisplayName="Volcanic Rim" achievementId="3531"></MarkerCategory>
             <MarkerCategory name="sf_sh" DisplayName="Shattercleft Hills" achievementId="3543"></MarkerCategory>
             <MarkerCategory name="tf_cm" DisplayName="Copperhammer Mines" achievementId="3504"></MarkerCategory>
@@ -654,70 +725,6 @@ xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
             <MarkerCategory name="ls_ss" DisplayName="Springs Stand" achievementId="8307"></MarkerCategory>
             <MarkerCategory name="ls_tt" DisplayName="Troll's Treasure" achievementId="8365"></MarkerCategory>
             <MarkerCategory name="ls_wr" DisplayName="Waterfall Roost" achievementId="8220"></MarkerCategory>
-        </MarkerCategory>
-        <MarkerCategory name="fishing" DisplayName="Fishing">
-            <MarkerCategory name="holes" DisplayName="Fishing Holes" iconFile="Data/Icons/fishing_pin_b.png" bounce="rise" bounce-height="3" autoTrigger="1" triggerRange="25" fadeNear="3000" fadeFar="5000">
-                <MarkerCategory name="astral" DisplayName="Astral Fish"></MarkerCategory>
-                <MarkerCategory name="dream" DisplayName="Boreal Fish"></MarkerCategory>
-                <MarkerCategory name="brackishj" DisplayName="Brackish Janthir Fish"></MarkerCategory>
-                <MarkerCategory name="cavern" DisplayName="Cavern Fish"></MarkerCategory>
-                <MarkerCategory name="channel" DisplayName="Channel Fish"></MarkerCategory>
-                <MarkerCategory name="coastal" DisplayName="Coastal Fish"></MarkerCategory>
-                <MarkerCategory name="deep" DisplayName="Deep Fishing Hole"></MarkerCategory>
-                <MarkerCategory name="deeptower" DisplayName="Deep Tower Fish"></MarkerCategory>
-                <MarkerCategory name="desert" DisplayName="Desert Fish"></MarkerCategory>
-                <MarkerCategory name="dream" DisplayName="Dream Fish"></MarkerCategory>
-                <MarkerCategory name="event" DisplayName="Event/Heart/Other">
-                    <MarkerCategory name="innerchamber" DisplayName="Inner Chamber Fish"></MarkerCategory>
-                    <MarkerCategory name="lutgardis" DisplayName="Lutgardis Trout"></MarkerCategory>
-                    <MarkerCategory name="naksi" DisplayName="Naksi Bay Fish"></MarkerCategory>
-                    <MarkerCategory name="rare" DisplayName="Rare Fish"></MarkerCategory>
-                    <MarkerCategory name="shinota" DisplayName="Shinota Blackfins"></MarkerCategory>
-                    <MarkerCategory name="wreckage" DisplayName="Wreckage Site"></MarkerCategory>
-                </MarkerCategory>
-                <MarkerCategory name="fracchannel" DisplayName="Fractured Channel Fish"></MarkerCategory>
-                <MarkerCategory name="fracdesert" DisplayName="Fractured Desert Fish"></MarkerCategory>
-                <MarkerCategory name="fracfresh" DisplayName="Fractured Freshwater Fish"></MarkerCategory>
-                <MarkerCategory name="fraclake" DisplayName="Fractured Lake Fish"></MarkerCategory>
-                <MarkerCategory name="freshwater" DisplayName="Freshwater Fish"></MarkerCategory>
-                <MarkerCategory name="freshj" DisplayName="Freshwater Janthir Fish"></MarkerCategory>
-                <MarkerCategory name="grotto" DisplayName="Grotto Fish"></MarkerCategory>
-                <MarkerCategory name="lake" DisplayName="Lake Fish"></MarkerCategory>
-                <MarkerCategory name="lowbrackish" DisplayName="Lowland Brackish Fish"></MarkerCategory>
-                <MarkerCategory name="lowfresh" DisplayName="Lowland Freshwater Fish"></MarkerCategory>
-                <MarkerCategory name="lowoffshore" DisplayName="Lowland Offshore Fish"></MarkerCategory>
-                <MarkerCategory name="lowshore" DisplayName="Lowland Shore Fish"></MarkerCategory>
-                <MarkerCategory name="mysterious" DisplayName="Mysterious Waters Fish"></MarkerCategory>
-                <MarkerCategory name="nayosian" DisplayName="Nayosian Fish"></MarkerCategory>
-                <MarkerCategory name="noxious" DisplayName="Noxious Water Fish"></MarkerCategory>
-                <MarkerCategory name="offshore" DisplayName="Offshore Fish"></MarkerCategory>
-                <MarkerCategory name="osj" DisplayName="Offshore Saltwater Janthir Fish"></MarkerCategory>
-                <MarkerCategory name="polluted" DisplayName="Polluted Lake Fish"></MarkerCategory>
-                <MarkerCategory name="quarry" DisplayName="Quarry Fish"></MarkerCategory>
-                <MarkerCategory name="random" DisplayName="Random Fish"></MarkerCategory>
-                <MarkerCategory name="rare" DisplayName="Rare Fish"></MarkerCategory>
-                <MarkerCategory name="river" DisplayName="River Fish"></MarkerCategory>
-                <MarkerCategory name="saltwater" DisplayName="Saltwater Fish"></MarkerCategory>
-                <MarkerCategory name="shore" DisplayName="Shore Fish"></MarkerCategory>
-                <MarkerCategory name="ssj" DisplayName="Shore Saltwater Janthir Fish"></MarkerCategory>
-                <MarkerCategory name="spire" DisplayName="Spire Fish"></MarkerCategory>
-                <MarkerCategory name="volcanic" DisplayName="Volcanic Fish"></MarkerCategory>
-            </MarkerCategory>
-            <MarkerCategory name="bait" DisplayName="Fishing Bait">
-                <MarkerCategory name="instrux" DisplayName="Click below to copy WPs, here for trails" defaulttoggle="0" texture="Data/Icons/default_trail.png" alpha="0.7" color="#56B4E9"></MarkerCategory>
-                <MarkerCategory name="fishegg" DisplayName="Fish Egg" isseparator="1" copy="[&amp;BC8EAAA=][&amp;BOcBAAA=][&amp;BEMLAAA=]" copy-message="Fish Egg WPs copied to clipboard!"></MarkerCategory>
-                <MarkerCategory name="minnow" DisplayName="Freshwater Minnow" isseparator="1" copy="[&amp;BMcMAAA=][&amp;BGMNAAA=][&amp;BC8EAAA=][&amp;BOcBAAA=]" copy-message="Freshwater Minnow WPs copied to clipboard!"></MarkerCategory>
-                <MarkerCategory name="glowworm" DisplayName="Glow Worm" isseparator="1" copy="[&amp;BMcMAAA=][&amp;BGMNAAA=]" copy-message="Glow Worm WPs copied to clipboard!"></MarkerCategory>
-                <MarkerCategory name="beetle" DisplayName="Lava Beetle" isseparator="1" copy="[&amp;BHgJAAA=]" copy-message="Lava Beetle WP copied to clipboard!"></MarkerCategory>
-                <MarkerCategory name="leech" DisplayName="Leech" isseparator="1" copy="[&amp;BO8JAAA=]" copy-message="Leech WP copied to clipboard!"></MarkerCategory>
-                <MarkerCategory name="lightning" DisplayName="Lightning Bug" isseparator="1" copy="[&amp;BOcBAAA=]" copy-message="Lightning Bug WP copied to clipboard!"></MarkerCategory>
-                <MarkerCategory name="nightcrawler" DisplayName="Nightcrawler" isseparator="1" copy="[&amp;BKIMAAA=]" copy-message="Nightcrawler WP copied to clipboard!"></MarkerCategory>
-                <MarkerCategory name="ramshorn" DisplayName="Ramshorn Snail" isseparator="1" copy="[&amp;BIACAAA=]" copy-message="Ramshorn Snail WP copied to clipboard!"></MarkerCategory>
-                <MarkerCategory name="sardine" DisplayName="Sardine" isseparator="1" copy="[&amp;BJ4MAAA=][&amp;BMYMAAA=][&amp;BAcFAAA=][&amp;BO8JAAA=]" copy-message="Sardine WPs copied to clipboard!"></MarkerCategory>
-                <MarkerCategory name="scorpion" DisplayName="Scorpion" isseparator="1" copy="[&amp;BLsKAAA=]" copy-message="Scorpion WP copied to clipboard!"></MarkerCategory>
-                <MarkerCategory name="shrimpling" DisplayName="Shrimpling" isseparator="1" copy="[&amp;BJ4MAAA=][&amp;BMYMAAA=][&amp;BKIMAAA=][&amp;BC8EAAA=][&amp;BIACAAA=]" copy-message="Shrimpling WPs copied to clipboard!"></MarkerCategory>
-                <MarkerCategory name="sparkfly" DisplayName="Sparkfly Larva" isseparator="1" copy="[&amp;BAcFAAA=]" copy-message="Sparkfly Larva WP copied to clipboard!"></MarkerCategory>
-            </MarkerCategory>
         </MarkerCategory>
         <MarkerCategory name="vendors" DisplayName="Vendors">
             <MarkerCategory name="psna" DisplayName="Pact Supply (PSNA)" iconFile="Data/Icons/psna_clipboard.png" texture="Data/Icons/default_trail.png" schedule-duration="1440" iconSize="1.5" heightOffset="1.5"></MarkerCategory>

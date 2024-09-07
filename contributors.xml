@@ -6,6 +6,7 @@ xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
     <!-- Discord Invite: https://discord.gg/FP8dQj6KBj -->
     <MarkerCategory name="mmm" DisplayName="Metal Marker Myriad">
         <MarkerCategory name="contributors" DisplayName="Contributors/Thanks" isseparator="1">
+            <MarkerCategory name="show" DisplayName="Show Hidden Categories to see!" isseparator="1"></MarkerCategory>
             <MarkerCategory name="metallis" DisplayName="Metallis" isseparator="1">
                 <MarkerCategory name="discord" DisplayName="Discord (click me!)" copy="https://discord.gg/FP8dQj6KBj" copy-message="Discord link copied!" isseparator="1"></MarkerCategory>
                 <MarkerCategory name="kofi" DisplayName="Support me on Ko-fi (click me!)" copy="https://ko-fi.com/metallis" copy-message="Metallis' Ko-fi link copied!" isseparator="1"></MarkerCategory>
@@ -65,3 +66,4 @@ xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
             </MarkerCategory>
         </MarkerCategory>
     </MarkerCategory>
+</OverlayData>

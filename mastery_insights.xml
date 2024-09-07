@@ -5,177 +5,180 @@ xsi:schemaLocation="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD https://r
 xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
     <MarkerCategory name="mmm" DisplayName="Metal Marker Myriad"></MarkerCategory>
     <POIs>
-        <Trail type="mmm.insights.bc_bbb" trailData="Data/Trails/bc_bbb.trl"/>
-        <Trail type="mmm.insights.dc_dsp" trailData="Data/Trails/dc_dsp.trl"/>
-        <Trail type="mmm.insights.fr_cd" trailData="Data/Trails/fr_cd.trl"/>
-        <Trail type="mmm.insights.hh_ho" trailData="Data/Trails/hh_ho.trl"/>
-        <Trail type="mmm.insights.im_shc" trailData="Data/Trails/im_shc.trl"/>
-        <Trail type="mmm.insights.ml_sc" trailData="Data/Trails/ml_sc.trl"/>
-        <Trail type="mmm.insights.mm_vr" trailData="Data/Trails/mm_vr.trl"/>
-        <Trail type="mmm.insights.sf_sh" trailData="Data/Trails/sf_sh.trl"/>
-        <Trail type="mmm.insights.tf_cm" trailData="Data/Trails/tf_cm.trl"/>
-        <Trail type="mmm.insights.ab_bq" trailData="Data/Trails/ab_bq.trl"/>
-        <Trail type="mmm.insights.ab_eb" trailData="Data/Trails/ab_eb.trl"/>
-        <Trail type="mmm.insights.ab_jg" trailData="Data/Trails/ab_jg.trl"/>
-        <Trail type="mmm.insights.ab_ls" trailData="Data/Trails/ab_ls.trl"/>
-        <Trail type="mmm.insights.ab_lt" trailData="Data/Trails/ab_lt.trl"/>
-        <Trail type="mmm.insights.ab_motf" trailData="Data/Trails/ab_motf.trl"/>
-        <Trail type="mmm.insights.ab_sc" trailData="Data/Trails/ab_sc.trl"/>
-        <Trail type="mmm.insights.ab_tf" trailData="Data/Trails/ab_tf.trl"/>
-        <Trail type="mmm.insights.td_nc" trailData="Data/Trails/td_nc.trl"/>
-        <Trail type="mmm.insights.td_nl" trailData="Data/Trails/td_nl.trl"/>
-        <Trail type="mmm.insights.td_oowo" trailData="Data/Trails/td_oowo.trl"/>
-        <Trail type="mmm.insights.td_th" trailData="Data/Trails/td_th.trl"/>
-        <Trail type="mmm.insights.td_tv" trailData="Data/Trails/td_tv.trl"/>
-        <Trail type="mmm.insights.vb_cope" trailData="Data/Trails/vb_cope.trl"/>
-        <Trail type="mmm.insights.vb_cca" trailData="Data/Trails/vb_cca.trl"/>
-        <Trail type="mmm.insights.vb_ccr" trailData="Data/Trails/vb_ccr.trl"/>
-        <Trail type="mmm.insights.vb_fc" trailData="Data/Trails/vb_fc.trl"/>
-        <Trail type="mmm.insights.vb_hp" trailData="Data/Trails/vb_hp.trl"/>
-        <Trail type="mmm.insights.vb_hh" trailData="Data/Trails/vb_hh.trl"/>
-        <Trail type="mmm.insights.vb_onl" trailData="Data/Trails/vb_onl.trl"/>
-        <Trail type="mmm.insights.vb_tcg" trailData="Data/Trails/vb_tcg.trl"/>
-        <Trail type="mmm.insights.vb_tr" trailData="Data/Trails/vb_tr.trl"/>
-        <Trail type="mmm.insights.co_ab" trailData="Data/Trails/co_ab.trl"/>
-        <Trail type="mmm.insights.co_gl" trailData="Data/Trails/co_gl.trl"/>
-        <Trail type="mmm.insights.co_ig" trailData="Data/Trails/co_ig.trl"/>
-        <Trail type="mmm.insights.co_oa" trailData="Data/Trails/co_oa.trl"/>
-        <Trail type="mmm.insights.co_son" trailData="Data/Trails/co_son.trl"/>
-        <Trail type="mmm.insights.co_sq" trailData="Data/Trails/co_sq.trl"/>
-        <Trail type="mmm.insights.dh_atf" trailData="Data/Trails/dh_atf.trl"/>
-        <Trail type="mmm.insights.dh_botw" trailData="Data/Trails/dh_botw.trl"/>
-        <Trail type="mmm.insights.dh_bh" trailData="Data/Trails/dh_bh.trl"/>
-        <Trail type="mmm.insights.dh_dp" trailData="Data/Trails/dh_dp.trl"/>
-        <Trail type="mmm.insights.dh_dv" trailData="Data/Trails/dh_dv.trl"/>
-        <Trail type="mmm.insights.dh_gb" trailData="Data/Trails/dh_gb.trl"/>
-        <Trail type="mmm.insights.dh_hr" trailData="Data/Trails/dh_hr.trl"/>
-        <Trail type="mmm.insights.dh_ko" trailData="Data/Trails/dh_ko.trl"/>
-        <Trail type="mmm.insights.dh_lfgl" trailData="Data/Trails/dh_lfgl.trl"/>
-        <Trail type="mmm.insights.dh_mo" trailData="Data/Trails/dh_mo.trl"/>
-        <Trail type="mmm.insights.dh_osn" trailData="Data/Trails/dh_osn.trl"/>
-        <Trail type="mmm.insights.dh_poa" trailData="Data/Trails/dh_poa.trl"/>
-        <Trail type="mmm.insights.dh_ss" trailData="Data/Trails/dh_ss.trl"/>
-        <Trail type="mmm.insights.dh_sc" trailData="Data/Trails/dh_sc.trl"/>
-        <Trail type="mmm.insights.dh_tt" trailData="Data/Trails/dh_tt.trl"/>
-        <Trail type="mmm.insights.d_oav" trailData="Data/Trails/d_oav.trl"/>
-        <Trail type="mmm.insights.d_hoj" trailData="Data/Trails/d_hoj.trl"/>
-        <Trail type="mmm.insights.d_sjl" trailData="Data/Trails/d_sjl.trl"/>
-        <Trail type="mmm.insights.d_ss" trailData="Data/Trails/d_ss.trl"/>
-        <Trail type="mmm.insights.d_sr" trailData="Data/Trails/d_sr.trl"/>
-        <Trail type="mmm.insights.d_si" trailData="Data/Trails/d_si.trl"/>
-        <Trail type="mmm.insights.d_tw" trailData="Data/Trails/d_tw.trl"/>
-        <Trail type="mmm.insights.d_tmot" trailData="Data/Trails/d_tmot.trl"/>
-        <Trail type="mmm.insights.dov_kb" trailData="Data/Trails/dov_kb.trl"/>
-        <Trail type="mmm.insights.dov_ys" trailData="Data/Trails/dov_ys.trl"/>
-        <Trail type="mmm.insights.dov_zt" trailData="Data/Trails/dov_zt.trl"/>
-        <Trail type="mmm.insights.er_dv" trailData="Data/Trails/er_dv.trl"/>
-        <Trail type="mmm.insights.er_ho" trailData="Data/Trails/er_ho.trl"/>
-        <Trail type="mmm.insights.er_lg" trailData="Data/Trails/er_lg.trl"/>
-        <Trail type="mmm.insights.er_od" trailData="Data/Trails/er_od.trl"/>
-        <Trail type="mmm.insights.er_pos" trailData="Data/Trails/er_pos.trl"/>
-        <Trail type="mmm.insights.er_sod" trailData="Data/Trails/er_sod.trl"/>
-        <Trail type="mmm.insights.er_sr" trailData="Data/Trails/er_sr.trl"/>
-        <Trail type="mmm.insights.er_vds" trailData="Data/Trails/er_vds.trl"/>
-        <Trail type="mmm.insights.de_br" trailData="Data/Trails/de_br.trl"/>
-        <Trail type="mmm.insights.de_jw" trailData="Data/Trails/de_jw.trl"/>
-        <Trail type="mmm.insights.de_qc" trailData="Data/Trails/de_qc.trl"/>
-        <Trail type="mmm.insights.de_sr" trailData="Data/Trails/de_sr.trl"/>
-        <Trail type="mmm.insights.de_w" trailData="Data/Trails/de_w.trl"/>
-        <Trail type="mmm.insights.ew_amc" trailData="Data/Trails/ew_amc.trl"/>
-        <Trail type="mmm.insights.ew_aa" trailData="Data/Trails/ew_aa.trl"/>
-        <Trail type="mmm.insights.ew_ap" trailData="Data/Trails/ew_ap.trl"/>
-        <Trail type="mmm.insights.ew_cp" trailData="Data/Trails/ew_cp.trl"/>
-        <Trail type="mmm.insights.ew_fs" trailData="Data/Trails/ew_fs.trl"/>
-        <Trail type="mmm.insights.ew_fa" trailData="Data/Trails/ew_fa.trl"/>
-        <Trail type="mmm.insights.ew_hzh" trailData="Data/Trails/ew_hzh.trl"/>
-        <Trail type="mmm.insights.ew_mv" trailData="Data/Trails/ew_mv.trl"/>
-        <Trail type="mmm.insights.ew_qb" trailData="Data/Trails/ew_qb.trl"/>
-        <Trail type="mmm.insights.ew_sp" trailData="Data/Trails/ew_sp.trl"/>
-        <Trail type="mmm.insights.ew_totd" trailData="Data/Trails/ew_totd.trl"/>
-        <Trail type="mmm.insights.ew_wc" trailData="Data/Trails/ew_wc.trl"/>
-        <Trail type="mmm.insights.nk_av" trailData="Data/Trails/nk_av.trl"/>
-        <Trail type="mmm.insights.nk_jm" trailData="Data/Trails/nk_jm.trl"/>
-        <Trail type="mmm.insights.nk_lm" trailData="Data/Trails/nk_lm.trl"/>
-        <Trail type="mmm.insights.nk_lp" trailData="Data/Trails/nk_lp.trl"/>
-        <Trail type="mmm.insights.nk_lprg" trailData="Data/Trails/nk_lprg.trl"/>
-        <Trail type="mmm.insights.nk_mwp" trailData="Data/Trails/nk_mwp.trl"/>
-        <Trail type="mmm.insights.nk_mww" trailData="Data/Trails/nk_mww.trl"/>
-        <Trail type="mmm.insights.nk_nbr" trailData="Data/Trails/nk_nbr.trl"/>
-        <Trail type="mmm.insights.nk_psd" trailData="Data/Trails/nk_psd.trl"/>
-        <Trail type="mmm.insights.nk_pot" trailData="Data/Trails/nk_pot.trl"/>
-        <Trail type="mmm.insights.nk_sy" trailData="Data/Trails/nk_sy.trl"/>
-        <Trail type="mmm.insights.nk_sg" trailData="Data/Trails/nk_sg.trl"/>
-        <Trail type="mmm.insights.nk_sokr" trailData="Data/Trails/nk_sokr.trl"/>
-        <Trail type="mmm.insights.sp_atr" trailData="Data/Trails/sp_atr.trl"/>
-        <Trail type="mmm.insights.sp_ah" trailData="Data/Trails/sp_ah.trl"/>
-        <Trail type="mmm.insights.sp_aw" trailData="Data/Trails/sp_aw.trl"/>
-        <Trail type="mmm.insights.sp_cp" trailData="Data/Trails/sp_cp.trl"/>
-        <Trail type="mmm.insights.sp_cc" trailData="Data/Trails/sp_cc.trl"/>
-        <Trail type="mmm.insights.sp_dt" trailData="Data/Trails/sp_dt.trl"/>
-        <Trail type="mmm.insights.sp_dc" trailData="Data/Trails/sp_dc.trl"/>
-        <Trail type="mmm.insights.sp_mt" trailData="Data/Trails/sp_mt.trl"/>
-        <Trail type="mmm.insights.sp_ni" trailData="Data/Trails/sp_ni.trl"/>
-        <Trail type="mmm.insights.sp_ncb" trailData="Data/Trails/sp_ncb.trl"/>
-        <Trail type="mmm.insights.sp_sp" trailData="Data/Trails/sp_sp.trl"/>
-        <Trail type="mmm.insights.sp_vs" trailData="Data/Trails/sp_vs.trl"/>
-        <Trail type="mmm.insights.sp_zdci" trailData="Data/Trails/sp_zdci.trl"/>
-        <Trail type="mmm.insights.sp_zdt" trailData="Data/Trails/sp_zdt.trl"/>
-        <Trail type="mmm.insights.de_tt" trailData="Data/Trails/de_tt.trl"/>
-        <Trail type="mmm.insights.a_bp" trailData="Data/Trails/a_bp.trl"/>
-        <Trail type="mmm.insights.a_bs" trailData="Data/Trails/a_bs.trl"/>
-        <Trail type="mmm.insights.a_cl" trailData="Data/Trails/a_cl.trl"/>
-        <Trail type="mmm.insights.a_cp" trailData="Data/Trails/a_cp.trl"/>
-        <Trail type="mmm.insights.a_obtc" trailData="Data/Trails/a_obtc.trl"/>
-        <Trail type="mmm.insights.a_ta" trailData="Data/Trails/a_ta.trl"/>
-        <Trail type="mmm.insights.a_tdh" trailData="Data/Trails/a_tdh.trl"/>
-        <Trail type="mmm.insights.a_tpow" trailData="Data/Trails/a_tpow.trl"/>
-        <Trail type="mmm.insights.a_wb" trailData="Data/Trails/a_wb.trl"/>
-        <Trail type="mmm.insights.in_ae" trailData="Data/Trails/in_ae.trl"/>
-        <Trail type="mmm.insights.in_bvp" trailData="Data/Trails/in_bvp.trl"/>
-        <Trail type="mmm.insights.in_coz" trailData="Data/Trails/in_coz.trl"/>
-        <Trail type="mmm.insights.in_df" trailData="Data/Trails/in_df.trl"/>
-        <Trail type="mmm.insights.in_hg" trailData="Data/Trails/in_hg.trl"/>
-        <Trail type="mmm.insights.in_hesn" trailData="Data/Trails/in_hesn.trl"/>
-        <Trail type="mmm.insights.in_la" trailData="Data/Trails/in_la.trl"/>
-        <Trail type="mmm.insights.in_mh" trailData="Data/Trails/in_mh.trl"/>
-        <Trail type="mmm.insights.in_ms" trailData="Data/Trails/in_ms.trl"/>
-        <Trail type="mmm.insights.in_se" trailData="Data/Trails/in_se.trl"/>
-        <Trail type="mmm.insights.sa_atj" trailData="Data/Trails/sa_atj.trl"/>
-        <Trail type="mmm.insights.sa_boa" trailData="Data/Trails/sa_boa.trl"/>
-        <Trail type="mmm.insights.sa_dm" trailData="Data/Trails/sa_dm.trl"/>
-        <Trail type="mmm.insights.sa_msr" trailData="Data/Trails/sa_msr.trl"/>
-        <Trail type="mmm.insights.sa_rnf" trailData="Data/Trails/sa_rnf.trl"/>
-        <Trail type="mmm.insights.sa_rno" trailData="Data/Trails/sa_rno.trl"/>
-        <Trail type="mmm.insights.sa_ss" trailData="Data/Trails/sa_ss.trl"/>
-        <Trail type="mmm.insights.sa_sc" trailData="Data/Trails/sa_sc.trl"/>
-        <Trail type="mmm.insights.sa_tft" trailData="Data/Trails/sa_tft.trl"/>
-        <Trail type="mmm.insights.sa_utd" trailData="Data/Trails/sa_utd.trl"/>
-        <Trail type="mmm.insights.sa_wgs" trailData="Data/Trails/sa_wgs.trl"/>
-        <Trail type="mmm.insights.wt_abev" trailData="Data/Trails/wt_abev.trl"/>
-        <Trail type="mmm.insights.wt_ta" trailData="Data/Trails/wt_ta.trl"/>
-        <Trail type="mmm.insights.js_br" trailData="Data/Trails/js_br.trl"/>
-        <Trail type="mmm.insights.js_fv" trailData="Data/Trails/js_fv.trl"/>
-        <Trail type="mmm.insights.js_fl" trailData="Data/Trails/js_fl.trl"/>
-        <Trail type="mmm.insights.js_gc" trailData="Data/Trails/js_gc.trl"/>
-        <Trail type="mmm.insights.js_ms" trailData="Data/Trails/js_ms.trl"/>
-        <Trail type="mmm.insights.js_por" trailData="Data/Trails/js_por.trl"/>
-        <Trail type="mmm.insights.js_sa" trailData="Data/Trails/js_sa.trl"/>
-        <Trail type="mmm.insights.js_sca" trailData="Data/Trails/js_sca.trl"/>
-        <Trail type="mmm.insights.js_scl" trailData="Data/Trails/js_scl.trl"/>
-        <Trail type="mmm.insights.js_tbo" trailData="Data/Trails/js_tbo.trl"/>
-        <Trail type="mmm.insights.js_tt" trailData="Data/Trails/js_tt.trl"/>
-        <Trail type="mmm.insights.ls_boim" trailData="Data/Trails/ls_boim.trl"/>
-        <Trail type="mmm.insights.ls_as" trailData="Data/Trails/ls_as.trl"/>
-        <Trail type="mmm.insights.ls_cp" trailData="Data/Trails/ls_cp.trl"/>
-        <Trail type="mmm.insights.ls_gf" trailData="Data/Trails/ls_gf.trl"/>
+        <Trail type="mmm.insights.bc_bbb" trailData="Data/Trails/bc_bbb.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.dc_dsp" trailData="Data/Trails/dc_dsp.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.fr_cd" trailData="Data/Trails/fr_cd.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.hh_ho" trailData="Data/Trails/hh_ho.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.im_shc" trailData="Data/Trails/im_shc.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.ml_sc" trailData="Data/Trails/ml_sc.trl" color="#D55E00"/>
+        <POI MapID="65" xpos="769.8564" ypos="28.01042" zpos="-514.7078" type="mmm.insights.ml_sc" iconFile="Data/Icons/note.png" info="If you have any mounts and feel confident, you can try and use their jumps, etc to bypass chunks of this trail. But if you have Springer or Skyscale, I recommend the Mount Bypass Route." GUID="4Ap75rXap0yGPjms7o7MlA=="/>
+        <Trail type="mmm.insights.ml_sc.mb" trailData="Data/Trails/ml_sc_mb.trl" color="#D55E00"/>
+        <POI MapID="65" xpos="1036.834" ypos="30.28188" zpos="-365.8091" type="mmm.insights.ml_sc.mb" iconFile="Data/Icons/note.png" info="This route can only be taken with a Springer/Warclaw (possibly requiring mastery), Skyscale, or if you know how to gain infinite height with Griffon." GUID="Ir2KlfC150OTQdCVYIbaCQ=="/>
+        <Trail type="mmm.insights.mm_vr" trailData="Data/Trails/mm_vr.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.sf_sh" trailData="Data/Trails/sf_sh.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.tf_cm" trailData="Data/Trails/tf_cm.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.ab_bq" trailData="Data/Trails/ab_bq.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.ab_eb" trailData="Data/Trails/ab_eb.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.ab_jg" trailData="Data/Trails/ab_jg.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.ab_ls" trailData="Data/Trails/ab_ls.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.ab_lt" trailData="Data/Trails/ab_lt.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.ab_motf" trailData="Data/Trails/ab_motf.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.ab_sc" trailData="Data/Trails/ab_sc.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.ab_tf" trailData="Data/Trails/ab_tf.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.td_nc" trailData="Data/Trails/td_nc.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.td_nl" trailData="Data/Trails/td_nl.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.td_oowo" trailData="Data/Trails/td_oowo.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.td_th" trailData="Data/Trails/td_th.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.td_tv" trailData="Data/Trails/td_tv.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.vb_cope" trailData="Data/Trails/vb_cope.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.vb_cca" trailData="Data/Trails/vb_cca.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.vb_ccr" trailData="Data/Trails/vb_ccr.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.vb_fc" trailData="Data/Trails/vb_fc.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.vb_hp" trailData="Data/Trails/vb_hp.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.vb_hh" trailData="Data/Trails/vb_hh.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.vb_onl" trailData="Data/Trails/vb_onl.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.vb_tcg" trailData="Data/Trails/vb_tcg.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.vb_tr" trailData="Data/Trails/vb_tr.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.co_ab" trailData="Data/Trails/co_ab.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.co_gl" trailData="Data/Trails/co_gl.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.co_ig" trailData="Data/Trails/co_ig.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.co_oa" trailData="Data/Trails/co_oa.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.co_son" trailData="Data/Trails/co_son.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.co_sq" trailData="Data/Trails/co_sq.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.dh_atf" trailData="Data/Trails/dh_atf.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.dh_botw" trailData="Data/Trails/dh_botw.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.dh_bh" trailData="Data/Trails/dh_bh.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.dh_dp" trailData="Data/Trails/dh_dp.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.dh_dv" trailData="Data/Trails/dh_dv.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.dh_gb" trailData="Data/Trails/dh_gb.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.dh_hr" trailData="Data/Trails/dh_hr.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.dh_ko" trailData="Data/Trails/dh_ko.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.dh_lfgl" trailData="Data/Trails/dh_lfgl.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.dh_mo" trailData="Data/Trails/dh_mo.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.dh_osn" trailData="Data/Trails/dh_osn.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.dh_poa" trailData="Data/Trails/dh_poa.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.dh_ss" trailData="Data/Trails/dh_ss.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.dh_sc" trailData="Data/Trails/dh_sc.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.dh_tt" trailData="Data/Trails/dh_tt.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.d_oav" trailData="Data/Trails/d_oav.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.d_hoj" trailData="Data/Trails/d_hoj.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.d_sjl" trailData="Data/Trails/d_sjl.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.d_ss" trailData="Data/Trails/d_ss.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.d_sr" trailData="Data/Trails/d_sr.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.d_si" trailData="Data/Trails/d_si.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.d_tw" trailData="Data/Trails/d_tw.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.d_tmot" trailData="Data/Trails/d_tmot.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.dov_kb" trailData="Data/Trails/dov_kb.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.dov_ys" trailData="Data/Trails/dov_ys.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.dov_zt" trailData="Data/Trails/dov_zt.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.er_dv" trailData="Data/Trails/er_dv.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.er_ho" trailData="Data/Trails/er_ho.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.er_lg" trailData="Data/Trails/er_lg.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.er_od" trailData="Data/Trails/er_od.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.er_pos" trailData="Data/Trails/er_pos.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.er_sod" trailData="Data/Trails/er_sod.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.er_sr" trailData="Data/Trails/er_sr.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.er_vds" trailData="Data/Trails/er_vds.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.de_br" trailData="Data/Trails/de_br.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.de_jw" trailData="Data/Trails/de_jw.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.de_qc" trailData="Data/Trails/de_qc.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.de_sr" trailData="Data/Trails/de_sr.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.de_w" trailData="Data/Trails/de_w.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.ew_amc" trailData="Data/Trails/ew_amc.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.ew_aa" trailData="Data/Trails/ew_aa.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.ew_ap" trailData="Data/Trails/ew_ap.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.ew_cp" trailData="Data/Trails/ew_cp.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.ew_fs" trailData="Data/Trails/ew_fs.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.ew_fa" trailData="Data/Trails/ew_fa.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.ew_hzh" trailData="Data/Trails/ew_hzh.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.ew_mv" trailData="Data/Trails/ew_mv.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.ew_qb" trailData="Data/Trails/ew_qb.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.ew_sp" trailData="Data/Trails/ew_sp.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.ew_totd" trailData="Data/Trails/ew_totd.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.ew_wc" trailData="Data/Trails/ew_wc.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.nk_av" trailData="Data/Trails/nk_av.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.nk_jm" trailData="Data/Trails/nk_jm.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.nk_lm" trailData="Data/Trails/nk_lm.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.nk_lp" trailData="Data/Trails/nk_lp.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.nk_lprg" trailData="Data/Trails/nk_lprg.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.nk_mwp" trailData="Data/Trails/nk_mwp.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.nk_mww" trailData="Data/Trails/nk_mww.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.nk_nbr" trailData="Data/Trails/nk_nbr.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.nk_psd" trailData="Data/Trails/nk_psd.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.nk_pot" trailData="Data/Trails/nk_pot.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.nk_sy" trailData="Data/Trails/nk_sy.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.nk_sg" trailData="Data/Trails/nk_sg.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.nk_sokr" trailData="Data/Trails/nk_sokr.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.sp_atr" trailData="Data/Trails/sp_atr.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.sp_ah" trailData="Data/Trails/sp_ah.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.sp_aw" trailData="Data/Trails/sp_aw.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.sp_cp" trailData="Data/Trails/sp_cp.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.sp_cc" trailData="Data/Trails/sp_cc.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.sp_dt" trailData="Data/Trails/sp_dt.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.sp_dc" trailData="Data/Trails/sp_dc.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.sp_mt" trailData="Data/Trails/sp_mt.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.sp_ni" trailData="Data/Trails/sp_ni.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.sp_ncb" trailData="Data/Trails/sp_ncb.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.sp_sp" trailData="Data/Trails/sp_sp.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.sp_vs" trailData="Data/Trails/sp_vs.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.sp_zdci" trailData="Data/Trails/sp_zdci.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.sp_zdt" trailData="Data/Trails/sp_zdt.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.de_tt" trailData="Data/Trails/de_tt.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.a_bp" trailData="Data/Trails/a_bp.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.a_bs" trailData="Data/Trails/a_bs.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.a_cl" trailData="Data/Trails/a_cl.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.a_cp" trailData="Data/Trails/a_cp.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.a_obtc" trailData="Data/Trails/a_obtc.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.a_ta" trailData="Data/Trails/a_ta.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.a_tdh" trailData="Data/Trails/a_tdh.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.a_tpow" trailData="Data/Trails/a_tpow.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.a_wb" trailData="Data/Trails/a_wb.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.in_ae" trailData="Data/Trails/in_ae.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.in_bvp" trailData="Data/Trails/in_bvp.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.in_coz" trailData="Data/Trails/in_coz.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.in_df" trailData="Data/Trails/in_df.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.in_hg" trailData="Data/Trails/in_hg.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.in_hesn" trailData="Data/Trails/in_hesn.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.in_la" trailData="Data/Trails/in_la.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.in_mh" trailData="Data/Trails/in_mh.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.in_ms" trailData="Data/Trails/in_ms.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.in_se" trailData="Data/Trails/in_se.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.sa_atj" trailData="Data/Trails/sa_atj.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.sa_boa" trailData="Data/Trails/sa_boa.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.sa_dm" trailData="Data/Trails/sa_dm.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.sa_msr" trailData="Data/Trails/sa_msr.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.sa_rnf" trailData="Data/Trails/sa_rnf.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.sa_rno" trailData="Data/Trails/sa_rno.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.sa_ss" trailData="Data/Trails/sa_ss.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.sa_sc" trailData="Data/Trails/sa_sc.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.sa_tft" trailData="Data/Trails/sa_tft.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.sa_utd" trailData="Data/Trails/sa_utd.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.sa_wgs" trailData="Data/Trails/sa_wgs.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.wt_abev" trailData="Data/Trails/wt_abev.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.wt_ta" trailData="Data/Trails/wt_ta.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.js_br" trailData="Data/Trails/js_br.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.js_fv" trailData="Data/Trails/js_fv.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.js_fl" trailData="Data/Trails/js_fl.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.js_gc" trailData="Data/Trails/js_gc.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.js_ms" trailData="Data/Trails/js_ms.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.js_por" trailData="Data/Trails/js_por.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.js_sa" trailData="Data/Trails/js_sa.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.js_sca" trailData="Data/Trails/js_sca.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.js_scl" trailData="Data/Trails/js_scl.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.js_tbo" trailData="Data/Trails/js_tbo.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.js_tt" trailData="Data/Trails/js_tt.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.ls_boim" trailData="Data/Trails/ls_boim.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.ls_as" trailData="Data/Trails/ls_as.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.ls_cp" trailData="Data/Trails/ls_cp.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.ls_gf" trailData="Data/Trails/ls_gf.trl" color="#D55E00"/>
         <POI MapID="1550" xpos="-552.9745" ypos="220.6672" zpos="-303.9582" type="mmm.insights.ls_gf" iconFile="Data/Icons/warclaw.png" GUID="W47ChPEmck+KSn3vDJD2Cw=="/>
-        <POI MapID="1550" xpos="-513.2888" ypos="248.1129" zpos="-302.1671" type="mmm.insights.ls_gf" alpha="0" info="This can be done with no healing, but you may wish to use a pulsing heal, Jackal Barrier, or have a friend cast heals on you.&#xA;&#xA;Be careful of falling in the hole itself. It's hard to get out in time." GUID="JT3ToNdTK0icEfO4j8G0MQ=="/>
-        <Trail type="mmm.insights.ls_lr" trailData="Data/Trails/ls_lr.trl"/>
-        <Trail type="mmm.insights.ls_pp" trailData="Data/Trails/ls_pp.trl"/>
-        <Trail type="mmm.insights.ls_rf" trailData="Data/Trails/ls_rf.trl"/>
-        <Trail type="mmm.insights.ls_si" trailData="Data/Trails/ls_si.trl"/>
-        <Trail type="mmm.insights.ls_ss" trailData="Data/Trails/ls_ss.trl"/>
-        <Trail type="mmm.insights.ls_tt" trailData="Data/Trails/ls_tt.trl"/>
-        <Trail type="mmm.insights.ls_wr" trailData="Data/Trails/ls_wr.trl"/>        
+        <POI MapID="1550" xpos="-513.2888" ypos="248.1129" zpos="-302.1671" type="mmm.insights.ls_gf" iconFile="Data/Icons/note.png" info="This can be done with no healing, but you may wish to use a pulsing heal, Jackal Barrier, or have a friend cast heals on you.&#xA;&#xA;Be careful of falling in the hole itself. It's hard to get out in time." GUID="JT3ToNdTK0icEfO4j8G0MQ=="/>
+        <Trail type="mmm.insights.ls_lr" trailData="Data/Trails/ls_lr.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.ls_pp" trailData="Data/Trails/ls_pp.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.ls_rf" trailData="Data/Trails/ls_rf.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.ls_si" trailData="Data/Trails/ls_si.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.ls_ss" trailData="Data/Trails/ls_ss.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.ls_tt" trailData="Data/Trails/ls_tt.trl" color="#D55E00"/>
+        <Trail type="mmm.insights.ls_wr" trailData="Data/Trails/ls_wr.trl" color="#D55E00"/>        
     </POIs>
 </OverlayData>

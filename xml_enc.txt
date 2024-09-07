@@ -1,3 +1,0 @@
-XML Encoding Cheat Sheet
-&amp; is &
-&#xA; is newline

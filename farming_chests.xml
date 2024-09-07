@@ -64,6 +64,7 @@ xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
         <POI MapID="1554" xpos="75.35513" ypos="76.12436" zpos="-735.2476" type="mmm.farming.chests.mkodan" GUID="Kj9mByHBokCMRwfseum6aQ=="/>
         <POI MapID="1550" xpos="-135.1049" ypos="312.4497" zpos="-383.8064" type="mmm.farming.chests.mkodan" GUID="R/vEIQjdAkSmtqSw/YQqOw=="/>
         <POI MapID="1550" xpos="34.10831" ypos="20.83994" zpos="389.7236" type="mmm.farming.chests.mkodan" GUID="Hn6aEWdbs0eRIdx8alboyw=="/>
+        <POI MapID="1554" xpos="-342.4942" ypos="60.94016" zpos="-771.9106" type="mmm.farming.chests.mkodan" GUID="Zyg4R7s3M0eFMA2RGYJKsA=="/>
         <!-- Warclaw Sniff Spots -->
         <POI MapID="1554" xpos="299.8351" ypos="8.982041" zpos="-10.84787" type="mmm.farming.chests.sniff" GUID="g3krVkqYZ0WBFGA6TZOauQ=="/>
         <POI MapID="1550" xpos="-879.2496" ypos="260.8277" zpos="-265.4616" type="mmm.farming.chests.sniff" GUID="w5avNUePukm40rWyqZA0cA=="/>
