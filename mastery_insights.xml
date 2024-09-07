@@ -171,7 +171,7 @@ xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
         <Trail type="mmm.insights.ls_as" trailData="Data/Trails/ls_as.trl" color="#D55E00"/>
         <Trail type="mmm.insights.ls_cp" trailData="Data/Trails/ls_cp.trl" color="#D55E00"/>
         <Trail type="mmm.insights.ls_gf" trailData="Data/Trails/ls_gf.trl" color="#D55E00"/>
-        <POI MapID="1550" xpos="-552.9745" ypos="220.6672" zpos="-303.9582" type="mmm.insights.ls_gf" iconFile="Data/Icons/warclaw.png" GUID="W47ChPEmck+KSn3vDJD2Cw=="/>
+        <POI MapID="1550" xpos="-552.9745" ypos="220.6672" zpos="-303.9582" type="mmm.insights.ls_gf" iconFile="Data/Icons/Mounts/Warclaw.png" GUID="W47ChPEmck+KSn3vDJD2Cw=="/>
         <POI MapID="1550" xpos="-513.2888" ypos="248.1129" zpos="-302.1671" type="mmm.insights.ls_gf" iconFile="Data/Icons/note.png" info="This can be done with no healing, but you may wish to use a pulsing heal, Jackal Barrier, or have a friend cast heals on you.&#xA;&#xA;Be careful of falling in the hole itself. It's hard to get out in time." GUID="JT3ToNdTK0icEfO4j8G0MQ=="/>
         <Trail type="mmm.insights.ls_lr" trailData="Data/Trails/ls_lr.trl" color="#D55E00"/>
         <Trail type="mmm.insights.ls_pp" trailData="Data/Trails/ls_pp.trl" color="#D55E00"/>

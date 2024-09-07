@@ -17,7 +17,7 @@ xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
         <!-- Coagulated Ectoplasm -->
         <!-- Arcane Dust -->
         <Trail type="mmm.achievements.legendaries.raidarmor.envoy1.ad" trailData="Data/Trails/raid_armor_powdered_aurillium.trl" color="#FFFFFFF"/>
-        <POI MapID="1043" xpos="133.9706" ypos="3.48297" zpos="-299.9541" type="mmm.achievements.legendaries.raidarmor.envoy1.ad" iconFile="Data/Icons/skyscale.png" GUID="20WW+0NXkUSrL/t5Bqiugw=="/>
+        <POI MapID="1043" xpos="133.9706" ypos="3.48297" zpos="-299.9541" type="mmm.achievements.legendaries.raidarmor.envoy1.ad" iconFile="Data/Icons/Mounts/Skyscale.png" GUID="20WW+0NXkUSrL/t5Bqiugw=="/>
         <!-- Mushroom Medley -->
         <!-- Giant Beehive -->
         <!-- Vial of Forsaken Thicket Waters -->
