@@ -4,9 +4,8 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 xsi:schemaLocation="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD https://raw.githubusercontent.com/xrandox/Gw2_Marker_Pack_DTD_XSD/main/GW2MarkerPack.xsd"
 xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
 	<!-- Discord Invite:https://discord.gg/FP8dQj6KBj -->
-	<MarkerCategory name="mmm" DisplayName="Metal Marker Myriad" texture="Data/Icons/default_trail.png" iconFile="Data/Icons/default_icon.png">
-        <MarkerCategory name="contributors" DisplayName="Contributors/Thanks" isseparator="1">
-        </MarkerCategory>
+	<MarkerCategory name="mmm" DisplayName="Metal Marker Myriad" texture="Data/Icons/default_trail.png" iconFile="Data/Icons/default_icon.png" fadeNear="1500" fadeFar="3000">
+        <MarkerCategory name="contributors" DisplayName="Contributors/Thanks" isseparator="1"></MarkerCategory>
 		<MarkerCategory name="achievements" DisplayName="Achievements/Collections">
             <MarkerCategory name="general" DisplayName="General">
 				<MarkerCategory name="community" DisplayName="Community">
@@ -302,7 +301,7 @@ xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
                 <MarkerCategory name="" DisplayName="" iconFile="Data/Icons/Achievements/.png" achievementId=""></MarkerCategory>
             </MarkerCategory>
             <MarkerCategory name="story" DisplayName="Story Journal">
-                <MarkerCategory name="ton" DisplayName="Tower of Nightmares">
+                <MarkerCategory name="ton" DisplayName="Tower of Nightmares" iconFile="Data/Icons/Achievements/Tower_of_Nightmares.png">
                     <MarkerCategory name="tkh" DisplayName="Toxic Krait Historian" achievementId="1092"></MarkerCategory>
                 </MarkerCategory>
                 <MarkerCategory name="wlw" DisplayName="What Lies Within">
@@ -336,7 +335,7 @@ xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
                 <MarkerCategory name="bjoraessence" DisplayName="Bjora Essence Chests"></MarkerCategory>
                 <MarkerCategory name="garcane" DisplayName="Greater Arcane Chest"></MarkerCategory>
                 <MarkerCategory name="mkodan" DisplayName="Major Kodan Chests"></MarkerCategory>
-                <MarkerCategory name="Sniff" DisplayName="Warclaw Sniff Spots" iconFile="Data/Icons/Sniff.png"></MarkerCategory>
+                <MarkerCategory name="Sniff" DisplayName="Warclaw Sniff Spots" iconFile="Data/Icons/Skills/Sniff.png"></MarkerCategory>
             </MarkerCategory>
             <MarkerCategory name="currency" DisplayName="Wallet Currencies, Keys and Other">
                 <MarkerCategory name="unbound" DisplayName="Unbound Magic" fadeNear="1500" fadeFar="2500">
@@ -440,23 +439,23 @@ xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
             </MarkerCategory>
         </MarkerCategory>
         <MarkerCategory name="gathering" DisplayName="Gathering" bounce="rise" bounce-height="3" autoTrigger="1" triggerRange="25">
-            <MarkerCategory name="amberore" DisplayName="Titan Amber/Ore" iconFile="Data/Icons/Amber_Ore.png"></MarkerCategory>
-            <MarkerCategory name="carrot" DisplayName="Carrots" iconFile="Data/Icons/Carrot.png"></MarkerCategory>
-            <MarkerCategory name="echoresin" DisplayName="Chunk of Petrified Echovald Resin" iconFile="Data/Icons/Echovald_Resin.png"></MarkerCategory>
-            <MarkerCategory name="honeyflower" DisplayName="Honey Flower" iconFile="Data/Icons/Honey_Flower.png"></MarkerCategory>
-            <MarkerCategory name="kale" DisplayName="Kale" iconFile="Data/Icons/Kale_Leaf.png"></MarkerCategory>
-            <MarkerCategory name="lettuce" DisplayName="Lettuce" iconFile="Data/Icons/Head_of_Lettuce.png"></MarkerCategory>
-            <MarkerCategory name="lowlandpine" DisplayName="Lowland Pine Sapling" iconFile="Data/Icons/Lowlad_Pine_Log.png"></MarkerCategory>
-            <MarkerCategory name="strawberry" DisplayName="Strawberries" iconFile="Data/Icons/Strawberry.png"></MarkerCategory>
-            <MarkerCategory name="toxicspore" DisplayName="Pristine Toxic Spore Sample" iconFile="Data/Icons/Pristine_Toxic_Spore_Sample.png">
+            <MarkerCategory name="amberore" DisplayName="Titan Amber/Ore" iconFile="Data/Icons/Items/Amber_Ore.png"></MarkerCategory>
+            <MarkerCategory name="carrot" DisplayName="Carrots" iconFile="Data/Icons/Items/Carrot.png"></MarkerCategory>
+            <MarkerCategory name="echoresin" DisplayName="Chunk of Petrified Echovald Resin" iconFile="Data/Icons/Items/Echovald_Resin.png"></MarkerCategory>
+            <MarkerCategory name="honeyflower" DisplayName="Honey Flower" iconFile="Data/Icons/Items/Honey_Flower.png"></MarkerCategory>
+            <MarkerCategory name="kale" DisplayName="Kale" iconFile="Data/Icons/Items/Kale_Leaf.png"></MarkerCategory>
+            <MarkerCategory name="lettuce" DisplayName="Lettuce" iconFile="Data/Icons/Items/Head_of_Lettuce.png"></MarkerCategory>
+            <MarkerCategory name="lowlandpine" DisplayName="Lowland Pine Sapling" iconFile="Data/Icons/Items/Lowland_Pine_Log.png"></MarkerCategory>
+            <MarkerCategory name="strawberry" DisplayName="Strawberries" iconFile="Data/Icons/Items/Strawberry.png"></MarkerCategory>
+            <MarkerCategory name="toxicspore" DisplayName="Pristine Toxic Spore Sample" iconFile="Data/Icons/Items/Pristine_Toxic_Spore_Sample.png">
                 <MarkerCategory name="offshootevents" DisplayName="Toxic Offshoot Events" iconSize="3" color="#ff7f7f"></MarkerCategory>
             </MarkerCategory>
-            <MarkerCategory name="verdantherbs" DisplayName="Verdant Herbs" iconFile="Data/Icons/Verdant_Herbs.png"></MarkerCategory>
+            <MarkerCategory name="verdantherbs" DisplayName="Verdant Herbs" iconFile="Data/Icons/Items/Verdant_Herbs.png"></MarkerCategory>
         </MarkerCategory>
         <MarkerCategory name="jp" DisplayName="Jumping Puzzles">
             <MarkerCategory name="lutv" DisplayName="Light Up the Vale">
                 <MarkerCategory name="trail" DisplayName="Trail"></MarkerCategory>
-                <MarkerCategory name="guide" DisplayName="Guide" iconFile="Data/Icons/Jade_Bot_Glide_Booster.png" mapVisibility="0" miniMapVisibility="0"></MarkerCategory>
+                <MarkerCategory name="guide" DisplayName="Guide" iconFile="Data/Icons/Skills/Jade_Bot_Glide_Booster.png" mapVisibility="0" miniMapVisibility="0"></MarkerCategory>
                 <MarkerCategory name="braziers" DisplayName="Braziers"></MarkerCategory>
             </MarkerCategory>
             <MarkerCategory name="qc" DisplayName="Queen's Confidence" fadeNear="700" fadeFar="900">
@@ -466,7 +465,7 @@ xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
             <MarkerCategory name="bt" DisplayName="Buzzy Treetops">
                 <MarkerCategory name="trail" DisplayName="Trail"></MarkerCategory>
                 <MarkerCategory name="back" DisplayName="Back Way Trail" defaulttoggle="0">
-                    <MarkerCategory name="guide" DisplayName="Guide" iconFile="Data/Icons/Jade_Bot_Glide_Booster.png" mapVisibility="0" miniMapVisibility="0"></MarkerCategory>
+                    <MarkerCategory name="guide" DisplayName="Guide" iconFile="Data/Icons/Skills/Jade_Bot_Glide_Booster.png" mapVisibility="0" miniMapVisibility="0"></MarkerCategory>
                 </MarkerCategory>
             </MarkerCategory>
         </MarkerCategory>
@@ -714,8 +713,13 @@ xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
             <MarkerCategory name="ls_tt" DisplayName="Troll's Treasure" achievementId="8365"></MarkerCategory>
             <MarkerCategory name="ls_wr" DisplayName="Waterfall Roost" achievementId="8220"></MarkerCategory>
         </MarkerCategory>
+        <MarkerCategory name="rift_hunting" DisplayName="Rift Hunting">
+            <MarkerCategory name="t1" DisplayName="Tier 1"></MarkerCategory>
+            <MarkerCategory name="t2" DisplayName="Tier 2"></MarkerCategory>
+            <MarkerCategory name="t3" DisplayName="Tier 3"></MarkerCategory>
+        </MarkerCategory>
         <MarkerCategory name="vendors" DisplayName="Vendors">
-            <MarkerCategory name="psna" DisplayName="Pact Supply (PSNA)" iconFile="Data/Icons/psna_clipboard.png" texture="Data/Icons/default_trail.png" schedule-duration="1440" iconSize="1.5" heightOffset="1.5"></MarkerCategory>
+            <MarkerCategory name="psna" DisplayName="Pact Supply (PSNA)" iconFile="Data/Icons/psna.png" texture="Data/Icons/default_trail.png" schedule-duration="1440" iconSize="1.5" heightOffset="1.5"></MarkerCategory>
         </MarkerCategory>
 	</MarkerCategory>
 </OverlayData>

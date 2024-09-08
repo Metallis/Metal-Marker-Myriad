@@ -13,6 +13,6 @@ xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
         <Trail type="mmm.achievements.story.ton.tkh" trailData="Data/Trails/toxic_krait_historian_maelstrom.trl" color="#f0e442"/>
         <Trail type="mmm.achievements.story.ton.tkh" trailData="Data/Trails/toxic_krait_historian_sparkfly.trl" color="#f0e442"/>
         <Trail type="mmm.achievements.story.ton.tkh" trailData="Data/Trails/toxic_krait_historian_timberline.trl" color="#f0e442"/>
-        <POI MapID="23" xpos="-757.956" ypos="61.1531" zpos="155.895" type="mmm.achievements.story.ton.tkh" iconSize="3" iconFile="Data/Icons/toxic_krait_historian.png" copy="[&amp;BEABAAA=] [&amp;BBMAAAA=] [&amp;BJsDAAA=] [&amp;BKQBAAA=] [&amp;BLQDAAA=] [&amp;BNICAAA=] [&amp;BEcCAAA=]" copy-message="Waypoints copied! Paste them in your chatbox and click!" GUID="uvPawm+fW02hXxaaUmJ9Rg=="/>
+        <POI MapID="23" xpos="-757.956" ypos="61.1531" zpos="155.895" type="mmm.achievements.story.ton.tkh" copy="[&amp;BEABAAA=] [&amp;BBMAAAA=] [&amp;BJsDAAA=] [&amp;BKQBAAA=] [&amp;BLQDAAA=] [&amp;BNICAAA=] [&amp;BEcCAAA=]" copy-message="Waypoints copied! Paste them in your chatbox and click!" GUID="uvPawm+fW02hXxaaUmJ9Rg=="/>
     </POIs>
 </overlaydata>
