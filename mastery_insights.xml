@@ -157,7 +157,9 @@ xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
         <Trail type="mmm.insights.wt_abev" trailData="Data/Trails/mi_wt_abev.trl" color="#D55E00"/>
         <Trail type="mmm.insights.wt_ta" trailData="Data/Trails/mi_wt_ta.trl" color="#D55E00"/>
         <Trail type="mmm.insights.js_br" trailData="Data/Trails/mi_js_br.trl" color="#D55E00"/>
+        <POI MapID="1554" xpos="-160.143" ypos="115.1333" zpos="-612.0269" type="mmm.insights.js_br" iconFile="Data/Icons/Mounts/Warclaw.png" GUID="ph2udLJ1WkqS/149EGt85g=="/>
         <Trail type="mmm.insights.js_fv" trailData="Data/Trails/mi_js_fv.trl" color="#D55E00"/>
+        <POI MapID="1554" xpos="-646.5381" ypos="10.29811" zpos="-566.2027" type="mmm.insights.js_fv" iconFile="Data/Icons/Mounts/Warclaw.png" GUID="SLAa0QDjY0iF0PCf2Qc7kA=="/>
         <Trail type="mmm.insights.js_fl" trailData="Data/Trails/mi_js_fl.trl" color="#D55E00"/>
         <Trail type="mmm.insights.js_gc" trailData="Data/Trails/mi_js_gc.trl" color="#D55E00"/>
         <Trail type="mmm.insights.js_ms" trailData="Data/Trails/mi_js_ms.trl" color="#D55E00"/>
