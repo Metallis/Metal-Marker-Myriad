@@ -46,7 +46,7 @@ xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
                 <MarkerCategory name="collab" DisplayName="Echovald collab!" isseparator="1"></MarkerCategory>
             </MarkerCategory>
             <MarkerCategory name="nicodemus" DisplayName="Nicodemus" isseparator="1">
-                <MarkerCategory name="fishingholes" DisplayName="Designing fishing hole marker" isseparator="1"></MarkerCategory>
+                <MarkerCategory name="fishingmarker" DisplayName="Designing fishing hole marker" isseparator="1"></MarkerCategory>
                 <MarkerCategory name="psna" DisplayName="PSNA testing and marking" isseparator="1"></MarkerCategory>
             </MarkerCategory>
             <MarkerCategory name="maanlichtje" DisplayName="maanlichtje" isseparator="1">
@@ -66,4 +66,33 @@ xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
             </MarkerCategory>
         </MarkerCategory>
     </MarkerCategory>
+    <POIs>
+        <POI xpos="0.1" ypos="-10000" zpos="0.1" type="mmm.contributors.metallis.discord" GUID="4o078ILMhkmaYA03emomuA== "/>
+        <POI xpos="0.1" ypos="-10000" zpos="0.1" type="mmm.contributors.metallis.kofi" GUID="N5hD7rMbukSja8M0jAVw8Q== "/>
+        <POI xpos="0.1" ypos="-10000" zpos="0.1" type="mmm.contributors.freesnow.bhud" GUID="DR4TTvqyR02EHZp+uTbVyw== "/>
+        <POI xpos="0.1" ypos="-10000" zpos="0.1" type="mmm.contributors.freesnow.sanity" GUID="de2P/4mYo0WksNhy6kbR5A== "/>
+        <POI xpos="0.1" ypos="-10000" zpos="0.1" type="mmm.contributors.freesnow.kofi" GUID="aSL7SM5TWUa+BHw9R6PH1g== "/>
+        <POI xpos="0.1" ypos="-10000" zpos="0.1" type="mmm.contributors.quitarhero.sanity" GUID="/asxnOmRu0SjGv3Jfab9ew== "/>
+        <POI xpos="0.1" ypos="-10000" zpos="0.1" type="mmm.contributors.quitarhero.markers" GUID="gjSfLoyLck+CvBLJOIcuYg== "/>
+        <POI xpos="0.1" ypos="-10000" zpos="0.1" type="mmm.contributors.quitarhero.pushing" GUID="uMtxnjazDU2q37hNZnzVYw== "/>
+        <POI xpos="0.1" ypos="-10000" zpos="0.1" type="mmm.contributors.teh.lua" GUID="5pVFMS3q+UCwvP98uo1vhA== "/>
+        <POI xpos="0.1" ypos="-10000" zpos="0.1" type="mmm.contributors.teh.sanity" GUID="trgOlx0Xq0KV+6syDik/Rg== "/>
+        <POI xpos="0.1" ypos="-10000" zpos="0.1" type="mmm.contributors.hexedhero.mpa" GUID="7tbiYzKkp02Zsbkmtv/3cQ== "/>
+        <POI xpos="0.1" ypos="-10000" zpos="0.1" type="mmm.contributors.hexedhero.fishingholes" GUID="ARixNTrzB0a2x3oZM9Iy+w== "/>
+        <POI xpos="0.1" ypos="-10000" zpos="0.1" type="mmm.contributors.luaren.collab" GUID="IPDq6kO580+KL1Zc94/6zQ== "/>
+        <POI xpos="0.1" ypos="-10000" zpos="0.1" type="mmm.contributors.luaren.twitch" GUID="/0/xAWio2E6f0kICXa2hcQ== "/>
+        <POI xpos="0.1" ypos="-10000" zpos="0.1" type="mmm.contributors.rediche.inspiration" GUID="Gsgws1xInU2g7vv9LtCV2A== "/>
+        <POI xpos="0.1" ypos="-10000" zpos="0.1" type="mmm.contributors.rediche.twitch" GUID="epaz2cne8UOvA6GdthXx9Q== "/>
+        <POI xpos="0.1" ypos="-10000" zpos="0.1" type="mmm.contributors.rediche.discord" GUID="f0BtHrJ7ZEKgF6Y+V6ICVQ== "/>
+        <POI xpos="0.1" ypos="-10000" zpos="0.1" type="mmm.contributors.pewpew.bashy" GUID="/sQIQ5l3yECHLD1BkHHUQQ== "/>
+        <POI xpos="0.1" ypos="-10000" zpos="0.1" type="mmm.contributors.pewpew.specops" GUID="LulTrAdkEkOvNwrkPrlmVg== "/>
+        <POI xpos="0.1" ypos="-10000" zpos="0.1" type="mmm.contributors.uc.collab" GUID="9vB3bsZM3kS2hs2CpmqImQ== "/>
+        <POI xpos="0.1" ypos="-10000" zpos="0.1" type="mmm.contributors.nicodemus.psna" GUID="qEbRp2DI4UWoIaTz/dtN9g== "/>
+        <POI xpos="0.1" ypos="-10000" zpos="0.1" type="mmm.contributors.nicodemus.fishingmarker" GUID="ZMV0GYjKCU2u056hMmUnew== "/>
+        <POI xpos="0.1" ypos="-10000" zpos="0.1" type="mmm.contributors.maanlichtje.fishingholes" GUID="Wj3FepeDBUG8gHnPBxBdBw== "/>
+        <POI xpos="0.1" ypos="-10000" zpos="0.1" type="mmm.contributors.ldr.fishingholes" GUID="JmwaNlCdyUKMZABZrf64Ow== "/>
+        <POI xpos="0.1" ypos="-10000" zpos="0.1" type="mmm.contributors.neroc.fishingholes" GUID="/yEZiAPidkeeiXAF3AX0Vw== "/>
+        <POI xpos="0.1" ypos="-10000" zpos="0.1" type="mmm.contributors.heroinedark.fishingholes" GUID="xICW8095Jk+3AwABXrbowg== "/>
+        <POI xpos="0.1" ypos="-10000" zpos="0.1" type="mmm.contributors.ralka.fishingholes" GUID="4/vLkbkS/UGHvPamOyL6ww== "/>
+    </POIs>
 </OverlayData>

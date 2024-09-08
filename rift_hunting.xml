@@ -6,7 +6,7 @@ xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
     <!-- Discord Invite: https://discord.gg/FP8dQj6KBj -->
     <MarkerCategory name="mmm" DisplayName="Metal Marker Myriad"></MarkerCategory>
     <POIs>
-        <POI MapID="1550" xpos="-46.44162" ypos="308.7656" zpos="-339.2174" type="mmm.rift_hunting.t1" GUID="mEm5+eGMWkC/Ui7hrMHO/A=="/>
+        <POI MapID="1550" xpos="-46.44162" ypos="308.7656" zpos="-339.2174" type="mmm.rifthunting.t1" GUID="mEm5+eGMWkC/Ui7hrMHO/A=="/>
     </POIs>
 </OverlayData>
 
