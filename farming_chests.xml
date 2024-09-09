@@ -66,6 +66,8 @@ xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
         <POI MapID="1550" xpos="34.10831" ypos="20.83994" zpos="389.7236" type="mmm.farming.chests.mkodan" GUID="Hn6aEWdbs0eRIdx8alboyw=="/>
         <POI MapID="1554" xpos="-342.4942" ypos="60.94016" zpos="-771.9106" type="mmm.farming.chests.mkodan" GUID="Zyg4R7s3M0eFMA2RGYJKsA=="/>
         <POI MapID="1550" xpos="-131.8079" ypos="254.0901" zpos="-81.68189" type="mmm.farming.chests.mkodan" GUID="sgVkBAdWwECjTyWJEhb0ng=="/>
+        <POI MapID="1554" xpos="-395.3893" ypos="143.9999" zpos="304.3994" type="mmm.farming.chests.mkodan" GUID="KIptU4ZQ2UWgdFCAatc/jg=="/>
+        <POI MapID="1554" xpos="-777.2104" ypos="94.36171" zpos="24.21774" type="mmm.farming.chests.mkodan" GUID="rg3lFLBYD0OXClcE2cPyLQ=="/>
         <!-- Warclaw Sniff Spots -->
         <POI MapID="1554" xpos="299.8351" ypos="8.982041" zpos="-10.84787" type="mmm.farming.chests.sniff" GUID="g3krVkqYZ0WBFGA6TZOauQ=="/>
         <POI MapID="1550" xpos="-879.2496" ypos="260.8277" zpos="-265.4616" type="mmm.farming.chests.sniff" GUID="w5avNUePukm40rWyqZA0cA=="/>

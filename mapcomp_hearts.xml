@@ -87,5 +87,8 @@ xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
         <POI MapID="1554" xpos="-41.48709" ypos="33.17197" zpos="-709.3915" type="mmm.mapcomp.hearts.js_fb.interact" GUID="xwtGOIOBLUS5WfuAnxCjSg=="/>
         <POI MapID="1554" xpos="-52.32825" ypos="36.78854" zpos="-773.686" type="mmm.mapcomp.hearts.js_fb.interact" GUID="phdFr5T1gkKvCpXCsfMSSQ=="/>
         <POI MapID="1554" xpos="-68.53288" ypos="54.89273" zpos="-597.5707" type="mmm.mapcomp.hearts.js_fb.interact" GUID="BCyhq7vuUEWS5GuxIxwKbA=="/>
+        <POI MapID="1554" xpos="-416.5745" ypos="49.47291" zpos="-746.9937" GUID="TIuE/qqalU6jZV2oWfITBg=="/>
+
+        <POI MapID="1554" xpos="-257.8494" ypos="55.49805" zpos="-666.5522" GUID="Uu3OO4VpMUK2VQ/6Det06Q=="/>
     </POIs>
 </OverlayData>
