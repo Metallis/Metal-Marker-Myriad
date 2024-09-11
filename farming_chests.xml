@@ -43,6 +43,7 @@ xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
         <POI MapID="1526" xpos="102.169" ypos="283.675" zpos="-159.444" type="mmm.farming.chests.garcane" GUID="KHRoGd7kTkSNkWcMAqZsTQ=="/>
         <POI MapID="1526" xpos="25.3311" ypos="269.492" zpos="563.109" type="mmm.farming.chests.garcane" GUID="5SGMA1wX1kGGZmUFBAv9AA=="/>
         <POI MapID="1526" xpos="153.739" ypos="424.828" zpos="-25.0379" type="mmm.farming.chests.garcane" GUID="KllVXqk2ekmGgwFl0Q/xeg=="/>
+        
         <!-- Major Kodan Cache (Visible) -->
         <POI MapID="1554" xpos="607.1371" ypos="24.21965" zpos="-244.9958" type="mmm.farming.chests.mkodan" GUID="4J+nD6IGYUGfqAOBk5rauA=="/>
         <POI MapID="1550" xpos="758.8858" ypos="299.5064" zpos="191.9103" type="mmm.farming.chests.mkodan" GUID="btRXg5uAV0mydG1yJVSJbA=="/>
@@ -68,6 +69,11 @@ xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
         <POI MapID="1550" xpos="-131.8079" ypos="254.0901" zpos="-81.68189" type="mmm.farming.chests.mkodan" GUID="sgVkBAdWwECjTyWJEhb0ng=="/>
         <POI MapID="1554" xpos="-395.3893" ypos="143.9999" zpos="304.3994" type="mmm.farming.chests.mkodan" GUID="KIptU4ZQ2UWgdFCAatc/jg=="/>
         <POI MapID="1554" xpos="-777.2104" ypos="94.36171" zpos="24.21774" type="mmm.farming.chests.mkodan" GUID="rg3lFLBYD0OXClcE2cPyLQ=="/>
+        <POI MapID="1554" xpos="530.9475" ypos="50.05797" zpos="486.7518" type="mmm.farming.chests.mkodan" GUID="WqxEBS0XnU6yPPmovMjYaA=="/>
+        <POI MapID="1554" xpos="706.4708" ypos="4.777558" zpos="393.4658" type="mmm.farming.chests.mkodan" GUID="+r10HvHOjkiNctopfrZ8pw=="/>
+        <POI MapID="1554" xpos="654.2725" ypos="6.84093" zpos="88.68279" type="mmm.farming.chests.mkodan" GUID="kp1zLQojWUS0MksY9R3AlA=="/>
+        <POI MapID="1554" xpos="-105.7798" ypos="83.98749" zpos="-810.8773" type="mmm.farming.chests.mkodan" GUID="zSYtVsMQNkyN2T88T9xM9Q=="/>
+        
         <!-- Warclaw Sniff Spots -->
         <POI MapID="1554" xpos="299.8351" ypos="8.982041" zpos="-10.84787" type="mmm.farming.chests.sniff" GUID="g3krVkqYZ0WBFGA6TZOauQ=="/>
         <POI MapID="1550" xpos="-879.2496" ypos="260.8277" zpos="-265.4616" type="mmm.farming.chests.sniff" GUID="w5avNUePukm40rWyqZA0cA=="/>
@@ -76,7 +82,6 @@ xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
         <POI MapID="1554" xpos="-165.7327" ypos="120.5161" zpos="-603.6288" type="mmm.farming.chests.sniff" GUID="BTGjBSbj20abgAlQsGlFzw=="/>
         <POI MapID="1554" xpos="-226.3824" ypos="42.05937" zpos="-554.5395" type="mmm.farming.chests.sniff" GUID="G4xX0XueVkOmP5R8NQPOkA=="/>
         <POI MapID="1550" xpos="-991.6104" ypos="205.7896" zpos="-32.83359" type="mmm.farming.chests.sniff" GUID="QAuiljxiJUu5WuR2KzMU8A=="/>
-        <POI MapID="1554" xpos="407.7653" ypos="18.72828" zpos="214.8747" type="mmm.farming.chests.sniff" GUID="Q3WJZEPxhkGZYnKsqSoBBQ=="/>
         <POI MapID="1550" xpos="-804.46" ypos="210.46" zpos="-47.49695" type="mmm.farming.chests.sniff" GUID="M+tCOVIHuUWgL4SGSqe6qw=="/>
         <POI MapID="1550" xpos="-635.5609" ypos="202.3042" zpos="-88.13414" type="mmm.farming.chests.sniff" GUID="LTlEApC2YkKkvVdiqEM8fg=="/>
         <POI MapID="1554" xpos="222.3677" ypos="2.312576" zpos="665.0302" type="mmm.farming.chests.sniff" GUID="JPDc/IT1REKyLuf2FMd+fQ=="/>
@@ -91,5 +96,8 @@ xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
         <POI MapID="1554" xpos="303.7307" ypos="13.16051" zpos="151.2277" type="mmm.farming.chests.sniff" GUID="XhvjAxEEd06CIx5Eb5VvBw=="/>
         <POI MapID="1550" xpos="878.3505" ypos="417.89" zpos="-267.1683" type="mmm.farming.chests.sniff" GUID="PEbP/sMbv0GErOk4LG4U3Q=="/>
         <POI MapID="1550" xpos="830.1284" ypos="358.8167" zpos="223.3718" type="mmm.farming.chests.sniff" GUID="tb/yCdLrDUyfc32Dgsm/Xw=="/>
+        <POI MapID="1554" xpos="603.3383" ypos="1.270896" zpos="-614.7032" type="mmm.farming.chests.sniff" GUID="GOw3LjpMe06/FSDkZOTggw=="/>
+        <POI MapID="1554" xpos="410.551" ypos="18.92541" zpos="215.5447" type="mmm.farming.chests.sniff" GUID="aAqljYkhJkaeL16Km9Pbww=="/>
+        <POI MapID="1554" xpos="451.6787" ypos="23.17963" zpos="243.958" type="mmm.farming.chests.sniff" GUID="qw+1MRnN9kuNL6OP58Q2fg=="/>
     </POIs>
 </OverlayData>

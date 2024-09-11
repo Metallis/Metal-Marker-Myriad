@@ -63,6 +63,18 @@ xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
         <POI MapID="1554" xpos="383.6844" ypos="4.339746" zpos="104.5314" type="mmm.mapcomp.hearts.js_eh.touch" GUID="XZ8I0BSdCUKLgsKK85Ww7w=="/>
         <POI MapID="1554" xpos="355.1714" ypos="14.14075" zpos="-2.856281" type="mmm.mapcomp.hearts.js_eh.touch" GUID="wjDLpVKLWk6M9S0BzhXD5g=="/>
         <POI MapID="1554" xpos="242.7763" ypos="7.191922" zpos="106.4404" type="mmm.mapcomp.hearts.js_eh.touch" GUID="zZxY3Tm9jU+CGvHBk4Kdhw=="/>
+        <POI MapID="1554" xpos="192.4368" ypos="5.001136" zpos="386.0198" type="mmm.mapcomp.hearts.js_eh.touch" GUID="rxo4SDVwOkejg9a6X/GYjw=="/>
+        <POI MapID="1554" xpos="736.3852" ypos="1.830274" zpos="298.724" type="mmm.mapcomp.hearts.js_eh.touch" GUID="Itl9qWMJg0iUEBD4MOmAcg=="/>
+        <POI MapID="1554" xpos="704.228" ypos="3.582592" zpos="317.3869" type="mmm.mapcomp.hearts.js_eh.touch" GUID="9r/iJ4KR9kmlzs6UWOT0Cw=="/>
+        <POI MapID="1554" xpos="743.6979" ypos="1.131885" zpos="269.0144" type="mmm.mapcomp.hearts.js_eh.touch" GUID="wYukX+thS0mD6YEVjbkd/g=="/>
+        <POI MapID="1554" xpos="258.6841" ypos="13.93466" zpos="275.5247" type="mmm.mapcomp.hearts.js_eh.touch" GUID="v0xIIDwSVUmHBA3Yuj1rLg=="/>
+        <POI MapID="1554" xpos="416.7541" ypos="9.910987" zpos="-82.63941" type="mmm.mapcomp.hearts.js_eh.touch" GUID="Ghohh7dfOkihLPfU2WMlTA=="/>
+        <POI MapID="1554" xpos="423.2862" ypos="10.87952" zpos="-80.70844" type="mmm.mapcomp.hearts.js_eh.touch" GUID="ON9FAuHld0iY8jagSDcFLw=="/>
+        <POI MapID="1554" xpos="430.6071" ypos="11.06007" zpos="-75.20499" type="mmm.mapcomp.hearts.js_eh.touch" GUID="LCX74E6uK0KB6SIjpRMhug=="/>
+        <POI MapID="1554" xpos="457.1203" ypos="10.70135" zpos="-79.24171" type="mmm.mapcomp.hearts.js_eh.touch" GUID="ciw/+fmxRU+rOo4QClEn3w=="/>
+        <POI MapID="1554" xpos="466.7139" ypos="15.46564" zpos="-60.30664" type="mmm.mapcomp.hearts.js_eh.touch" GUID="iAoWlkmSj0mERMa0gvhE8g=="/>
+        <POI MapID="1554" xpos="529.108" ypos="8.94803" zpos="-93.61876" type="mmm.mapcomp.hearts.js_eh.touch" GUID="frN/dP1QjUqYWmo/+uwiFw=="/>
+
         <!-- Mursaat Relics -->
         <POI MapID="1554" xpos="-142.7532" ypos="14.66562" zpos="-440.5124" type="mmm.mapcomp.hearts.js_fb.interact" GUID="pUAkJGVWqk+NKIzYDagu0Q=="/>
         <POI MapID="1554" xpos="-125.303" ypos="21.46059" zpos="-488.9678" type="mmm.mapcomp.hearts.js_fb.interact" GUID="1xd0rDGhQE++oa6BLA9jNw=="/>
@@ -87,8 +99,20 @@ xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
         <POI MapID="1554" xpos="-41.48709" ypos="33.17197" zpos="-709.3915" type="mmm.mapcomp.hearts.js_fb.interact" GUID="xwtGOIOBLUS5WfuAnxCjSg=="/>
         <POI MapID="1554" xpos="-52.32825" ypos="36.78854" zpos="-773.686" type="mmm.mapcomp.hearts.js_fb.interact" GUID="phdFr5T1gkKvCpXCsfMSSQ=="/>
         <POI MapID="1554" xpos="-68.53288" ypos="54.89273" zpos="-597.5707" type="mmm.mapcomp.hearts.js_fb.interact" GUID="BCyhq7vuUEWS5GuxIxwKbA=="/>
-        <POI MapID="1554" xpos="-416.5745" ypos="49.47291" zpos="-746.9937" GUID="TIuE/qqalU6jZV2oWfITBg=="/>
-
-        <POI MapID="1554" xpos="-257.8494" ypos="55.49805" zpos="-666.5522" GUID="Uu3OO4VpMUK2VQ/6Det06Q=="/>
+        <POI MapID="1554" xpos="-416.5745" ypos="49.47291" zpos="-746.9937" type="mmm.mapcomp.hearts.js_fb.interact" GUID="TIuE/qqalU6jZV2oWfITBg=="/>
+        <POI MapID="1554" xpos="-257.8494" ypos="55.49805" zpos="-666.5522" type="mmm.mapcomp.hearts.js_fb.interact" GUID="Uu3OO4VpMUK2VQ/6Det06Q=="/>
+        <POI MapID="1554" xpos="-498.5957" ypos="34.44757" zpos="-735.6802" type="mmm.mapcomp.hearts.js_fb.interact" GUID="o/xqHq6gbEqVu0Ch8DLSWQ=="/>
+        <POI MapID="1554" xpos="-375.9451" ypos="47.15903" zpos="-384.0717" type="mmm.mapcomp.hearts.js_fb.interact" GUID="2nvkh3IHDE+l5CXk+ykbeQ=="/>
+        <POI MapID="1554" xpos="-363.3204" ypos="46.66056" zpos="-330.1382" type="mmm.mapcomp.hearts.js_fb.interact" GUID="VwkSdvCaL0ysuG1+73OayQ=="/>
+        <POI MapID="1554" xpos="-269.4621" ypos="49.54259" zpos="-351.7403" type="mmm.mapcomp.hearts.js_fb.interact" GUID="HqI/DHoDUEiKo1QM1ykwOw=="/>
+        <POI MapID="1554" xpos="-264.261" ypos="29.56097" zpos="-538.3405" type="mmm.mapcomp.hearts.js_fb.interact" GUID="ZQ5pRWnNg0CX6TNw+a3Kmg=="/>
+        <POI MapID="1554" xpos="-5.872715" ypos="35.05329" zpos="-655.7447" type="mmm.mapcomp.hearts.js_fb.interact" GUID="d42G3dM61kmWRr+9OSSu3g=="/>
+        <POI MapID="1554" xpos="4.0504" ypos="55.83389" zpos="-791.1962" type="mmm.mapcomp.hearts.js_fb.interact" GUID="y8bx0hJx60OKP3EaGPx87Q=="/>
+        <POI MapID="1554" xpos="-166.3543" ypos="55.97317" zpos="-736.6" type="mmm.mapcomp.hearts.js_fb.interact" GUID="jrVfq3ujz06tdIXXoC1ygg=="/>
+        <POI MapID="1554" xpos="-124.7651" ypos="41.65143" zpos="-690.7631" type="mmm.mapcomp.hearts.js_fb.interact" GUID="XDJnfTmo8Eyv4waJcMUfYA=="/>
+        <POI MapID="1554" xpos="-317.8201" ypos="40.84749" zpos="-567.0099" type="mmm.mapcomp.hearts.js_fb.interact" GUID="zzLGIJMdQUerqeHGmN5sIg=="/>
+        <POI MapID="1554" xpos="-215.1015" ypos="78.75507" zpos="-594.4149" type="mmm.mapcomp.hearts.js_fb.interact" GUID="fulsb9Yj7kqiyCdqRzDlkg=="/>
+        <POI MapID="1554" xpos="-329.1848" ypos="43.01245" zpos="-684.7465" type="mmm.mapcomp.hearts.js_fb.interact" GUID="gCAPu/iZWUS/MLKlZVmZCg=="/>
+        <POI MapID="1554" xpos="-88.70511" ypos="38.73087" zpos="-647.5643" type="mmm.mapcomp.hearts.js_fb.interact" GUID="3aQvuW/iw0qk6B6VkBlVyQ=="/>
     </POIs>
 </OverlayData>

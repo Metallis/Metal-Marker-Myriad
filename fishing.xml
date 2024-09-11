@@ -7,6 +7,20 @@ xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
     <MarkerCategory name="mmm" DisplayName="Metal Marker Myriad">
     </MarkerCategory>
     <POIs>
+        <!-- Bait Trails -->
+        <Trail type="mmm.fishing.bait.instrux" trailData="Data/Trails/bait_si.trl"/>
+        <Trail type="mmm.fishing.bait.instrux" trailData="Data/Trails/bait_im.trl"/>
+        <Trail type="mmm.fishing.bait.instrux" trailData="Data/Trails/bait_la.trl"/>
+        <Trail type="mmm.fishing.bait.instrux" trailData="Data/Trails/bait_ew.trl"/>
+        <Trail type="mmm.fishing.bait.instrux" trailData="Data/Trails/bait_as.trl"/>
+        <Trail type="mmm.fishing.bait.instrux" trailData="Data/Trails/bait_eb.trl"/>
+        <Trail type="mmm.fishing.bait.instrux" trailData="Data/Trails/bait_sl.trl"/>
+        <Trail type="mmm.fishing.bait.instrux" trailData="Data/Trails/bait_de.trl"/>
+        <Trail type="mmm.fishing.bait.instrux" trailData="Data/Trails/bait_fs.trl"/>
+        <Trail type="mmm.fishing.bait.instrux" trailData="Data/Trails/bait_co.trl"/>
+        <Trail type="mmm.fishing.bait.instrux" trailData="Data/Trails/bait_rs.trl"/>
+        <Trail type="mmm.fishing.bait.instrux" trailData="Data/Trails/bait_sp.trl"/>
+        <Trail type="mmm.fishing.bait.instrux" trailData="Data/Trails/bait_nkc.trl"/>
         <!-- Queensdale -->
         <POI MapID="15" xpos="-926.737" ypos="1.37639" zpos="701.481" type="mmm.fishing.holes.river" GUID="930LNYB6PEu8YzkCrXgv9w=="/>
         <POI MapID="15" xpos="49.7881" ypos="1.37639" zpos="415.998" type="mmm.fishing.holes.lake" GUID="sQk5F6VaW0OtsMK9IhLEAw=="/>
@@ -3229,6 +3243,16 @@ xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
         <POI MapID="1550" xpos="-1053.068" ypos="1.376387" zpos="516.7696" type="mmm.fishing.holes.lowoffshore" GUID="nZ/Znt+s4kynEC/Kc8MuDA=="/>
         <POI MapID="1550" xpos="-999.7568" ypos="1.376387" zpos="345.6013" type="mmm.fishing.holes.lowshore" GUID="MEGHC++5Y0ONPJav23osfQ=="/>
         <POI MapID="1550" xpos="-814.4457" ypos="1.376387" zpos="137.6174" type="mmm.fishing.holes.lowbrackish" GUID="3mwODQYsd0eNK4HjKgf/IQ=="/>
+        <POI MapID="1550" xpos="34.76225" ypos="1.376387" zpos="347.9443" type="mmm.fishing.holes.lowbrackish" GUID="DaaQNmm5bUu+b/mo0tJ7Mw=="/>
+        <POI MapID="1550" xpos="73.21015" ypos="1.376387" zpos="669.8589" type="mmm.fishing.holes.lowoffshore" GUID="2QsxfZTcYEyrYoUWye27PQ=="/>
+        <POI MapID="1550" xpos="-56.27656" ypos="1.376387" zpos="653.6252" type="mmm.fishing.holes.lowoffshore" GUID="m8iF72qTgUi/+S0CqfgT9Q=="/>
+        <POI MapID="1550" xpos="-169.6287" ypos="1.376387" zpos="635.7519" type="mmm.fishing.holes.lowshore" GUID="M8g1eTn5mUyXvo1//mIaEg=="/>
+        <POI MapID="1550" xpos="-497.5176" ypos="1.376387" zpos="619.6026" type="mmm.fishing.holes.lowshore" GUID="HGw0GIPT80aKT2sAKA07ZQ=="/>
+        <POI MapID="1550" xpos="-932.6141" ypos="1.376387" zpos="678.71" type="mmm.fishing.holes.lowoffshore" GUID="IZ7bjJuEyEmB18zODO/BFA=="/>
+        <POI MapID="1550" xpos="-1019.75" ypos="1.376388" zpos="153.0354" type="mmm.fishing.holes.lowbrackish" GUID="/9O+XI7HY0uXKCRQyYEroQ=="/>
+        <POI MapID="1550" xpos="-757.9503" ypos="1.376388" zpos="105.9912" type="mmm.fishing.holes.lowbrackish" GUID="FDHzWaq0IUek7FXg46ofDQ=="/>
+        <POI MapID="1550" xpos="-476.9693" ypos="1.376387" zpos="-90.53405" type="mmm.fishing.holes.lowbrackish" GUID="YWBrSkA++EanWWzRDgTN6A=="/>
+        <POI MapID="1550" xpos="-326.979" ypos="1.376387" zpos="-123.6938" type="mmm.fishing.holes.lowbrackish" GUID="WXSR7t7mGki8tkR5W98rNA=="/>
         <!-- Janthir Syntri -->
         <POI MapID="1554" xpos="-241.5962" ypos="46.05221" zpos="-728.4926" type="mmm.fishing.holes.freshj" GUID="SBY6Rbn5V0ykdel3Fy5nzQ=="/>
         <POI MapID="1554" xpos="-689.8209" ypos="1.376387" zpos="-466.5113" type="mmm.fishing.holes.freshj" GUID="qJJsBJy4nEiUc1glG2+Jug=="/>
@@ -3248,5 +3272,6 @@ xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
         <POI MapID="1554" xpos="174.8715" ypos="1.376387" zpos="-218.2443" type="mmm.fishing.holes.brackishj" GUID="2dLpDMKwrUK2avO90C2MIQ=="/>
         <POI MapID="1554" xpos="374.5286" ypos="1.376387" zpos="795.7211" type="mmm.fishing.holes.osj" GUID="cHhGXkvZzUCjhIZRCjod2Q=="/>
         <POI MapID="1554" xpos="883.1" ypos="1.376388" zpos="-335.4341" type="mmm.fishing.holes.ssj" GUID="C1yK2DuSJUiVBnU8uvirhA=="/>
+        <POI MapID="1554" xpos="794.3346" ypos="1.376388" zpos="314.715" type="mmm.fishing.holes.ssj" GUID="PCv2+GCOokKO1AI7K5Oplg=="/>
     </POIs>
 </OverlayData>

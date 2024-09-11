@@ -165,16 +165,18 @@ xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
         <Trail type="mmm.insights.js_gc" trailData="Data/Trails/mi_js_gc.trl" color="#D55E00"/>
         <POI MapID="1554" xpos="-783.3422" ypos="92.65768" zpos="21.39352" type="mmm.insights.js_gc" iconFile="Data/Icons/Mounts/Warclaw.png" GUID="+mgWof59SU2ZS4ZzbmnQKg=="/>
         <Trail type="mmm.insights.js_ms" trailData="Data/Trails/mi_js_ms.trl" color="#D55E00"/>
-        <POI MapID="1554" xpos="90.83153" ypos="50.24767" zpos="-807.8139" type="mmm.insights.ls_ms" iconFile="Data/Icons/Mounts/Warclaw.png" GUID="a2bJkhvP6Eml0vAfqaeNyQ=="/>
+        <POI MapID="1554" xpos="90.83153" ypos="50.24767" zpos="-807.8139" type="mmm.insights.js_ms" iconFile="Data/Icons/Mounts/Warclaw.png" GUID="a2bJkhvP6Eml0vAfqaeNyQ=="/>
         <Trail type="mmm.insights.js_por" trailData="Data/Trails/mi_js_por.trl" color="#D55E00"/>
-        <POI MapID="1554" xpos="-261.7581" ypos="99.6433" zpos="90.21589" type="mmm.insights.ls_por" iconFile="Data/Icons/Mounts/Warclaw.png" GUID="HJEZtxQo40OzsXzbUKAaDw=="/>
+        <POI MapID="1554" xpos="-261.7581" ypos="99.6433" zpos="90.21589" type="mmm.insights.js_por" iconFile="Data/Icons/Mounts/Warclaw.png" GUID="HJEZtxQo40OzsXzbUKAaDw=="/>
         <Trail type="mmm.insights.js_sa" trailData="Data/Trails/mi_js_sa.trl" color="#D55E00"/>
-        <POI MapID="1554" xpos="559.2099" ypos="16.60115" zpos="-262.8912" type="mmm.insights.ls_sa" iconFile="Data/Icons/Mounts/Warclaw.png" GUID="Rzkki/EZvUW8RliEphw5yw=="/>
+        <POI MapID="1554" xpos="559.2099" ypos="16.60115" zpos="-262.8912" type="mmm.insights.js_sa" iconFile="Data/Icons/Mounts/Warclaw.png" GUID="Rzkki/EZvUW8RliEphw5yw=="/>
         <Trail type="mmm.insights.js_sca" trailData="Data/Trails/mi_js_sca.trl" color="#D55E00"/>
+        <POI MapID="1554" xpos="528.2778" ypos="19.09016" zpos="108.1556" type="mmm.insights.js_sca" iconFile="Data/Icons/Mounts/Warclaw.png" GUID="Vlqalqcu9UCQf6N/oiZz1g=="/>
         <Trail type="mmm.insights.js_scl" trailData="Data/Trails/mi_js_scl.trl" color="#D55E00"/>
         <Trail type="mmm.insights.js_tbo" trailData="Data/Trails/mi_js_tbo.trl" color="#D55E00"/>
-        <POI MapID="1554" xpos="381.1123" ypos="41.83234" zpos="419.1526" type="mmm.insights.ls_tbo" iconFile="Data/Icons/Mounts/Warclaw.png" GUID="o8x1JdrycU2EHV1wP8Fzsw=="/>
+        <POI MapID="1554" xpos="381.1123" ypos="41.83234" zpos="419.1526" type="mmm.insights.js_tbo" iconFile="Data/Icons/Mounts/Warclaw.png" GUID="o8x1JdrycU2EHV1wP8Fzsw=="/>
         <Trail type="mmm.insights.js_tt" trailData="Data/Trails/mi_js_tt.trl" color="#D55E00"/>
+        <POI MapID="1554" xpos="752.7315" ypos="0.190189" zpos="365.5672" type="mmm.insights.js_tt" iconFile="Data/Icons/Mounts/Warclaw.png" GUID="0IRxMbEf90aRK5kS7lv6wQ=="/>
         <Trail type="mmm.insights.ls_boim" trailData="Data/Trails/mi_ls_boim.trl" color="#D55E00"/>
         <Trail type="mmm.insights.ls_as" trailData="Data/Trails/mi_ls_as.trl" color="#D55E00"/>
         <Trail type="mmm.insights.ls_cp" trailData="Data/Trails/mi_ls_cp.trl" color="#D55E00"/>

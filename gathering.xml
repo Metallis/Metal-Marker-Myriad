@@ -426,6 +426,21 @@ xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
         <POI MapID="1550" xpos="-957.914" ypos="1.842288" zpos="257.3624" type="mmm.gathering.lowlandpine" GUID="zEI0ySfGm06peqJtp9dZ0A=="/>
         <POI MapID="1550" xpos="960.4891" ypos="332.8479" zpos="176.0586" type="mmm.gathering.lowlandpine" GUID="TddO48gZ9Ey967oqRR4JeQ=="/>
         <POI MapID="1550" xpos="-97.54388" ypos="309.424" zpos="-382.1819" type="mmm.gathering.lowlandpine" GUID="J4kUI6QYWkyzn/ahRMTmdg=="/>
+        <POI MapID="1550" xpos="886.5863" ypos="362.6678" zpos="-362.0965" type="mmm.gathering.lowlandpine" GUID="6+4CZJEwc0Kv9XvmVAYMzg=="/>
+        <POI MapID="1550" xpos="986.997" ypos="339.2027" zpos="269.7351" type="mmm.gathering.lowlandpine" GUID="NfCIaxxALUC6qmh+CASvSw=="/>
+        <POI MapID="1550" xpos="-750.7304" ypos="298.4768" zpos="-496.0913" type="mmm.gathering.lowlandpine" GUID="9ZlTZO1FcEegn5TfJo7+RA=="/>
+        <POI MapID="1550" xpos="68.73072" ypos="302.6331" zpos="-378.4938" type="mmm.gathering.lowlandpine" GUID="2HXYBA+uNEOrZNZsfhDISA=="/>
+        <POI MapID="1550" xpos="85.19733" ypos="214.2177" zpos="305.4832" type="mmm.gathering.lowlandpine" GUID="hMaiftayuk+s5IZ1OzAuEw=="/>
+        <POI MapID="1550" xpos="342.9451" ypos="338.2973" zpos="-622.7812" type="mmm.gathering.lowlandpine" GUID="WFArw8sEY06A3KBf9BCCVg=="/>
+        <POI MapID="1550" xpos="360.2329" ypos="323.0953" zpos="-278.3796" type="mmm.gathering.lowlandpine" GUID="unPH2yzd+kKIYGp4lePicw=="/>
+        <POI MapID="1550" xpos="-784.442" ypos="207.2682" zpos="60.39917" type="mmm.gathering.lowlandpine" GUID="HaxBIqTnBEuzpQZrMUofxw=="/>
+        <POI MapID="1550" xpos="-419.3177" ypos="3.867229" zpos="433.7372" type="mmm.gathering.lowlandpine" GUID="PGKT081UcU+EXgXKAcAp9w=="/>
+        <POI MapID="1550" xpos="-315.317" ypos="0.1856175" zpos="522.4517" type="mmm.gathering.lowlandpine" GUID="qU5e8I3PJU+ZodZcs2PQkA=="/>
+        <POI MapID="1550" xpos="776.2534" ypos="98.48538" zpos="252.6267" type="mmm.gathering.lowlandpine" GUID="YldWJqKEi0alreUi8Pb+oA=="/>
+        <POI MapID="1550" xpos="-226.4055" ypos="0.7824098" zpos="422.3601" type="mmm.gathering.lowlandpine" GUID="AKCpkGiDQU25jQ5dqU/h2w=="/>
+        <POI MapID="1550" xpos="-9.424361" ypos="310.0056" zpos="-578.6458" type="mmm.gathering.lowlandpine" GUID="1mMqyC/h0kabCdBjWsCTMA=="/>
+        <POI MapID="1550" xpos="761.7771" ypos="344.2692" zpos="-519.514" type="mmm.gathering.lowlandpine" GUID="U5v6UeAg50KlZ6gkh/hBJg=="/>
+        <POI MapID="1550" xpos="692.952" ypos="292.8674" zpos="-246.7646" type="mmm.gathering.lowlandpine" GUID="bBD7ApI2jk2hl3dzF+fPwA=="/>
 
         <!-- Rotted Titan Amber  AND Charged Titan Ore-->
         <POI MapID="1554" xpos="-116.709" ypos="26.063" zpos="-66.1014" type="mmm.gathering.amberore" GUID="1i1gdrftIEqqI0EpRCf+bg=="/>
@@ -530,5 +545,11 @@ xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
         <POI MapID="1554" xpos="871.7919" ypos="0.9672235" zpos="-26.3787" type="mmm.gathering.amberore" GUID="na3UhbMJekKzPQrjckQNjQ=="/>
         <POI MapID="1554" xpos="896.1328" ypos="13.70142" zpos="-171.2044" type="mmm.gathering.amberore" GUID="mfIQ/czdR0yrepbjGHzwrQ=="/>
         <POI MapID="1554" xpos="904.6176" ypos="43.86184" zpos="-500.721" type="mmm.gathering.amberore" GUID="nDLe9+7/LEG00PKaDZeSXg=="/>
+        <POI MapID="1554" xpos="662.9995" ypos="3.345649" zpos="-220.469" type="mmm.gathering.amberore" GUID="ByaX09HLg0e+GU3fdHqs1g=="/>
+        <POI MapID="1554" xpos="-469.4521" ypos="63.78963" zpos="-473.709" type="mmm.gathering.amberore" GUID="Knom30gGsEK09abqc/UcEw=="/>
+        <POI MapID="1554" xpos="-658.6783" ypos="18.42335" zpos="-752.4132" type="mmm.gathering.amberore" GUID="UAgpOi40ok25AoBh2F62SA=="/>
+        <POI MapID="1554" xpos="-109.8297" ypos="1.248127" zpos="-186.8885" type="mmm.gathering.amberore" GUID="KxlSb+9LGkCLW7a9JK95cw=="/>
+        <POI MapID="1554" xpos="-186.8408" ypos="6.164559" zpos="-227.1479" type="mmm.gathering.amberore" GUID="K7D6eOKziEuaKhKikSG6KQ=="/>
+        <POI MapID="1554" xpos="-394.4242" ypos="38.67623" zpos="675.3384" type="mmm.gathering.amberore" GUID="v7jGUfWFJk+BV05yvGBlLw=="/>
     </POIs>
 </OverlayData>
