@@ -441,6 +441,7 @@ xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
         <POI MapID="1550" xpos="-9.424361" ypos="310.0056" zpos="-578.6458" type="mmm.gathering.lowlandpine" GUID="1mMqyC/h0kabCdBjWsCTMA=="/>
         <POI MapID="1550" xpos="761.7771" ypos="344.2692" zpos="-519.514" type="mmm.gathering.lowlandpine" GUID="U5v6UeAg50KlZ6gkh/hBJg=="/>
         <POI MapID="1550" xpos="692.952" ypos="292.8674" zpos="-246.7646" type="mmm.gathering.lowlandpine" GUID="bBD7ApI2jk2hl3dzF+fPwA=="/>
+        <POI MapID="1550" xpos="-574.625" ypos="15.06545" zpos="350.5757" type="mmm.gathering.lowlandpine" GUID="5Y6hLU7a80yKcogmZNKSGg=="/>
 
         <!-- Rotted Titan Amber  AND Charged Titan Ore-->
         <POI MapID="1554" xpos="-116.709" ypos="26.063" zpos="-66.1014" type="mmm.gathering.amberore" GUID="1i1gdrftIEqqI0EpRCf+bg=="/>
@@ -551,5 +552,6 @@ xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
         <POI MapID="1554" xpos="-109.8297" ypos="1.248127" zpos="-186.8885" type="mmm.gathering.amberore" GUID="KxlSb+9LGkCLW7a9JK95cw=="/>
         <POI MapID="1554" xpos="-186.8408" ypos="6.164559" zpos="-227.1479" type="mmm.gathering.amberore" GUID="K7D6eOKziEuaKhKikSG6KQ=="/>
         <POI MapID="1554" xpos="-394.4242" ypos="38.67623" zpos="675.3384" type="mmm.gathering.amberore" GUID="v7jGUfWFJk+BV05yvGBlLw=="/>
+        <POI MapID="1554" xpos="810.8422" ypos="22.42723" zpos="-537.2363" type="mmm.gathering.amberore" GUID="nw2sTMNPCUWj83Hms4yXaQ=="/>
     </POIs>
 </OverlayData>

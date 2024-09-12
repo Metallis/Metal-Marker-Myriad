@@ -387,6 +387,7 @@ xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
         <POI MapID="24" xpos="184.731" ypos="1.37639" zpos="324.538" type="mmm.fishing.holes.lake" GUID="LMJ/pGXrh0qxqCjEPs2u0Q=="/>
         <POI MapID="24" xpos="367.796" ypos="1.37639" zpos="301.961" type="mmm.fishing.holes.lake" GUID="cjoo8Y8uNUWA1e+5+BV47g=="/>
         <POI MapID="24" xpos="-476.3877" ypos="1.376387" zpos="-339.8997" type="mmm.fishing.holes.lake" GUID="eKwsZZZeTk2qWKqLKNbRLw=="/>
+        <POI MapID="24" xpos="742.3663" ypos="1.376388" zpos="-440.752" type="mmm.fishing.holes.lake" GUID="vuSe0O6oZkq+A4+esNW/FA=="/>
         <!-- Iron Marches -->
         <POI MapID="25" xpos="-39.5448" ypos="1.37639" zpos="-1082.22" type="mmm.fishing.holes.lake" GUID="1dUiqz7qdUOLYHZ5IngJ/A=="/>
         <POI MapID="25" xpos="170.93" ypos="1.37639" zpos="-1054.55" type="mmm.fishing.holes.lake" GUID="tZ2t8B5Rf06Kw11AsLLlLg=="/>

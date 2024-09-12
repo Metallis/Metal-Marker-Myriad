@@ -42,7 +42,7 @@ xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
         <POI MapID="1526" xpos="973.327" ypos="258.277" zpos="137.476" type="mmm.farming.currency.gasp.orbs" GUID="p3t5yG0eE0Cy8avMI3BE0w=="/>
         <POI MapID="1526" xpos="900.788" ypos="259.708" zpos="191.877" type="mmm.farming.currency.gasp.orbs" GUID="NfLDnvuKPEGXHKXPCUvl6Q=="/>
         <POI MapID="1526" xpos="978.425" ypos="239.511" zpos="118.012" type="mmm.farming.currency.gasp.orbs" GUID="UBgmbfW3P0mUy6joNaqzLA=="/>
-        <POI MapID="1526" xpos="907.637" ypos="235.002" zpos="211.206" type="mmm.farming.currency.gasp" GUID="tcMV2vMzaEyZzS98Gr6ypg==" iconFile="Data/Icons/finish_flag.png" autoTrigger="1" triggerRange="10" copy="[&amp;BHYOAAA=]" copy-message="Head to Forward Bivouac, if needed! WP copied!"/>
+        <POI MapID="1526" xpos="907.637" ypos="235.002" zpos="211.206" type="mmm.farming.currency.gasp" GUID="tcMV2vMzaEyZzS98Gr6ypg==" iconFile="Data/Icons/Finish_flag.png" autoTrigger="1" triggerRange="10" copy="[&amp;BHYOAAA=]" copy-message="Head to Forward Bivouac, if needed! WP copied!"/>
         <POI MapID="1526" xpos="383.45" ypos="378.323" zpos="448.754" type="mmm.farming.currency.gasp.orbs" GUID="WXO5Gv6CqUKJAPGlnWpZWg=="/>
         <POI MapID="1526" xpos="403.922" ypos="401.272" zpos="469.859" type="mmm.farming.currency.gasp.orbs" GUID="YjMC+2lSC0uitqYViQPVnA=="/>
         <POI MapID="1526" xpos="402.592" ypos="400.808" zpos="429.601" type="mmm.farming.currency.gasp.orbs" GUID="+r9nF6GQxEmFD3ZepTFLbg=="/>
@@ -76,7 +76,7 @@ xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
         <POI MapID="1526" xpos="-34.8102" ypos="268.602" zpos="-279.987" type="mmm.farming.currency.gasp.orbs" GUID="+RjyeW/1gkyVUyUZFvbuFw=="/>
         <POI MapID="1526" xpos="-47.3736" ypos="279.384" zpos="-262.661" type="mmm.farming.currency.gasp.orbs" GUID="ktmFQaBqaUOh5Q0IgQ7CLg=="/>
         <POI MapID="1526" xpos="-49.4247" ypos="280.485" zpos="-253.041" type="mmm.farming.currency.gasp.orbs" GUID="gLtLLJdySk+N86wiIyzJvQ=="/>
-        <POI MapID="1526" xpos="-48.8949" ypos="335.642" zpos="-258.243" type="mmm.farming.currency.gasp.orbs" GUID="r9XUPqHYWUuPjU8WszgWtw==" iconFile="Data/Icons/finish_flag.png" autoTrigger="1" triggerRange="10" copy="[&amp;BGYOAAA=]" copy-message="Head to Astral WArd Camp, if needed! WP copied!"/>
+        <POI MapID="1526" xpos="-48.8949" ypos="335.642" zpos="-258.243" type="mmm.farming.currency.gasp.orbs" GUID="r9XUPqHYWUuPjU8WszgWtw==" iconFile="Data/Icons/Finish_flag.png" autoTrigger="1" triggerRange="10" copy="[&amp;BGYOAAA=]" copy-message="Head to Astral WArd Camp, if needed! WP copied!"/>
         <POI MapID="1526" xpos="-0.849136" ypos="357.908" zpos="-245.868" type="mmm.farming.currency.gasp.orbs" GUID="6wUI5HPdk0yIwB6OOhN3oA=="/>
         <POI MapID="1526" xpos="-38.1502" ypos="376.887" zpos="-273.369" type="mmm.farming.currency.gasp.orbs" GUID="hMM+1lWuvEW5IVVwfbvEpQ=="/>
         <POI MapID="1526" xpos="-48.737" ypos="367.494" zpos="-262.401" type="mmm.farming.currency.gasp.orbs" GUID="GV+JM8vXH0C6rYvV2BGhjw=="/>
@@ -103,7 +103,7 @@ xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
         <POI MapID="1517" xpos="-498.237" ypos="302.644" zpos="-630.18" type="mmm.farming.currency.stardust.orbs" GUID="+/nLpVuWfkar7UkG3Mxcdw=="/>
         <POI MapID="1517" xpos="-511.576" ypos="313.937" zpos="-630.174" type="mmm.farming.currency.stardust.orbs" GUID="BLwX/X2RCE68MBDgn4oQfQ=="/>
         <POI MapID="1517" xpos="-524.216" ypos="324.739" zpos="-630.158" type="mmm.farming.currency.stardust.orbs" GUID="e10BgKcW0U2Swi3aeKKWEw=="/>
-        <POI MapID="1517" xpos="-536.919" ypos="334.314" zpos="-630.197" type="mmm.farming.currency.stardust" GUID="sNEyzS4xykWvZWZRM2UOSQ==" iconFile="Data/Icons/finish_flag.png" triggerRange="10" autoTrigger="1" copy-message="Head to Bastion of Strength or Balance, if needed!"/>
+        <POI MapID="1517" xpos="-536.919" ypos="334.314" zpos="-630.197" type="mmm.farming.currency.stardust" GUID="sNEyzS4xykWvZWZRM2UOSQ==" iconFile="Data/Icons/Finish_flag.png" triggerRange="10" autoTrigger="1" copy-message="Head to Bastion of Strength or Balance, if needed!"/>
         <POI MapID="1517" xpos="79.8048" ypos="459.037" zpos="584.377" type="mmm.farming.currency.stardust.orbs" GUID="4D8RVqINekG7T8K3Arzw7A=="/>
         <POI MapID="1517" xpos="105.251" ypos="483.825" zpos="584.43" type="mmm.farming.currency.stardust.orbs" GUID="bqMHXEqGwEyL06UNrXgFiA=="/>
         <POI MapID="1517" xpos="130.598" ypos="494.472" zpos="584.4" type="mmm.farming.currency.stardust.orbs" GUID="CIGBDRbL6UCkSeIeB39HmQ=="/>
@@ -125,7 +125,7 @@ xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
         <POI MapID="1517" xpos="132.706" ypos="444.854" zpos="459.91" type="mmm.farming.currency.stardust.orbs" GUID="OWlM1rtTFUSKTkjf5UUPZg=="/>
         <POI MapID="1517" xpos="149.97" ypos="435.67" zpos="385.231" type="mmm.farming.currency.stardust.orbs" GUID="hZ4Mr5Knm0mEShgko/KK9g=="/>
         <POI MapID="1517" xpos="158.211" ypos="406.944" zpos="413.761" type="mmm.farming.currency.stardust.orbs" GUID="wJYnDV8fFEWjL7Id8R/nKA=="/>
-        <POI MapID="1517" xpos="161.818" ypos="419.194" zpos="464.08" type="mmm.farming.currency.stardust" GUID="Q7eegXmDX0Og4VJwXHrv4w==" iconFile="Data/Icons/finish_flag.png" triggerRange="10" autoTrigger="1" copy-message="Head to Bastion of the Obscure or Strength, if needed!"/>
+        <POI MapID="1517" xpos="161.818" ypos="419.194" zpos="464.08" type="mmm.farming.currency.stardust" GUID="Q7eegXmDX0Og4VJwXHrv4w==" iconFile="Data/Icons/Finish_flag.png" triggerRange="10" autoTrigger="1" copy-message="Head to Bastion of the Obscure or Strength, if needed!"/>
         <POI MapID="1517" xpos="719.883" ypos="321.674" zpos="100.152" type="mmm.farming.currency.stardust.orbs" GUID="MKOnpgAXm0+DSgV6biwQlw=="/>
         <POI MapID="1517" xpos="647.261" ypos="312.675" zpos="84.0527" type="mmm.farming.currency.stardust.orbs" GUID="uwG9dnJNZUOzc+VeOYu6cA=="/>
         <POI MapID="1517" xpos="636.71" ypos="293.922" zpos="81.47" type="mmm.farming.currency.stardust.orbs" GUID="Dvjxqi2nYEyil2113R4lsw=="/>
@@ -146,7 +146,7 @@ xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
         <POI MapID="1517" xpos="454.545" ypos="254.514" zpos="-493.51" type="mmm.farming.currency.stardust.orbs" GUID="FGKHMAhVZE+ZjnWBKUt2eA=="/>
         <POI MapID="1517" xpos="479.931" ypos="279.789" zpos="-493.487" type="mmm.farming.currency.stardust.orbs" GUID="eF/s8pj35U2aZY/+LMbwww=="/>
         <POI MapID="1517" xpos="479.179" ypos="256.386" zpos="-573.574" type="mmm.farming.currency.stardust.orbs" GUID="312mWM8b0kql60Nl55Gzfg=="/>
-        <POI MapID="1517" xpos="456.897" ypos="230.696" zpos="-546.752" type="mmm.farming.currency.stardust" GUID="TyzX5UU57EmYX8uSf6UAbA==" iconFile="Data/Icons/finish_flag.png" triggerRange="10" autoTrigger="1" copy-message="Head to Bastion of Balance or the Obscure, if needed!"/>
+        <POI MapID="1517" xpos="456.897" ypos="230.696" zpos="-546.752" type="mmm.farming.currency.stardust" GUID="TyzX5UU57EmYX8uSf6UAbA==" iconFile="Data/Icons/Finish_flag.png" triggerRange="10" autoTrigger="1" copy-message="Head to Bastion of Balance or the Obscure, if needed!"/>
         <POI MapID="1517" xpos="453.905" ypos="218.525" zpos="-577.534" type="mmm.farming.currency.stardust.orbs" GUID="LjqVMeCoxkWKU1EWgF9wXw=="/>
         <POI MapID="1517" xpos="461.721" ypos="237.495" zpos="-600.307" type="mmm.farming.currency.stardust.orbs" GUID="lTKkLyLaQkaUUTNfQZZanw=="/>
         <POI MapID="1517" xpos="452.57" ypos="213.067" zpos="-604.116" type="mmm.farming.currency.stardust.orbs" GUID="Py4iv6YhxEWxzre9dqepew=="/>
@@ -155,7 +155,7 @@ xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
         <!-- Static Charge -->
         <!-- Credit to Luaren on YT! https://www.youtube.com/watch?v=bPrZEC3-cAA -->
         <Trail type="mmm.farming.currency.staticcharge.trail" trailData="Data/Trails/luaren_sa_static_charges.trl"/>
-        <POI MapID="1510" xpos="-768.099" ypos="484.192" zpos="289.393" type="mmm.farming.currency.staticcharge" GUID="xJBApjWDLU2AMYiJISBgnA==" iconFile="Data/Icons/finish_flag.png"/>
+        <POI MapID="1510" xpos="-768.099" ypos="484.192" zpos="289.393" type="mmm.farming.currency.staticcharge" GUID="xJBApjWDLU2AMYiJISBgnA==" iconFile="Data/Icons/Finish_flag.png"/>
         <POI MapID="1510" xpos="-702.104" ypos="563.084" zpos="146.701" type="mmm.farming.currency.staticcharge.orbs" GUID="sbHw73+WMUKCSJnZ18/edg=="/>
         <POI MapID="1510" xpos="-702.083" ypos="580.389" zpos="121.707" type="mmm.farming.currency.staticcharge.orbs" GUID="FJCHcGpw5Uu9zFdG71vTtg=="/>
         <POI MapID="1510" xpos="-685.886" ypos="594.248" zpos="102.691" type="mmm.farming.currency.staticcharge.orbs" GUID="psJvMRWEWUe7FPxRq4nXow=="/>

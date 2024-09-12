@@ -5,13 +5,13 @@ xsi:schemaLocation="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD https://r
 xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
     <!-- Discord Invite: https://discord.gg/FP8dQj6KBj -->
     <MarkerCategory name="mmm" DisplayName="Metal Marker Myriad">
-        <MarkerCategory name="contributors" DisplayName="Contributors/Thanks" isseparator="1">
-            <MarkerCategory name="show" DisplayName="Show Hidden Categories to see!" isseparator="1"></MarkerCategory>
+        <MarkerCategory name="credits" DisplayName="Contributors/Thanks" isseparator="1">
             <MarkerCategory name="metallis" DisplayName="Metallis" isseparator="1">
+                <MarkerCategory name="ign" DisplayName="IGN: Metallis.6105"></MarkerCategory>
                 <MarkerCategory name="discord" DisplayName="Discord (click me!)" copy="https://discord.gg/FP8dQj6KBj" copy-message="Discord link copied!" isseparator="1"></MarkerCategory>
                 <MarkerCategory name="kofi" DisplayName="Support me on Ko-fi (click me!)" copy="https://ko-fi.com/metallis" copy-message="Metallis' Ko-fi link copied!" isseparator="1"></MarkerCategory>
             </MarkerCategory>
-            <MarkerCategory name="freesnow" DisplayName="Freesnow" isseparator="1">
+            <MarkerCategory name="snow" DisplayName="Freesnow" isseparator="1">
                 <MarkerCategory name="bhud" DisplayName="For making Blish HUD" isseparator="1"></MarkerCategory>
                 <MarkerCategory name="sanity" DisplayName="Sanity checking/tshooting" isseparator="1"></MarkerCategory>
                 <MarkerCategory name="kofi" DisplayName="Support them on Ko-fi (click me!)" copy="https://ko-fi.com/freesnow" copy-message="Freesnow's Ko-fi link copied!" isseparator="1"></MarkerCategory>
@@ -29,17 +29,17 @@ xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
                 <MarkerCategory name="mpa" DisplayName="For making MPA" isseparator="1"></MarkerCategory>
                 <MarkerCategory name="fishingholes" DisplayName="Marking Fishing Holes" isseparator="1"></MarkerCategory>
             </MarkerCategory>
-            <MarkerCategory name="luaren" DisplayName="Luaren" isseparator="1">
-                <MarkerCategory name="collab" DisplayName="SotO collab work!" isseparator="1"></MarkerCategory>
-                <MarkerCategory name="twitch" DisplayName="Follo on Twitch (click me!)" copy="https://twitch.tv/luaren" copy-message="Twitch link copied!" isseparator="1"></MarkerCategory>
-            </MarkerCategory>
             <MarkerCategory name="rediche" DisplayName="Rediche" isseparator="1">
                 <MarkerCategory name="inspiration" DisplayName="Insipration/motivation" isseparator="1"></MarkerCategory>
                 <MarkerCategory name="twitch" DisplayName="Follow on Twitch (click me!)" copy="https://twitch.tv/rediche" copy-message="Twitch link copied!" isseparator="1"></MarkerCategory>
                 <MarkerCategory name="discord" DisplayName="Discord (click me!)" copy="https://gw2.link/discord" copy-message="Discord link copied!" isseparator="1"></MarkerCategory>
             </MarkerCategory>
+            <MarkerCategory name="luaren" DisplayName="Luaren" isseparator="1">
+                <MarkerCategory name="collab" DisplayName="SotO collab work!" isseparator="1"></MarkerCategory>
+                <MarkerCategory name="twitch" DisplayName="Follo on Twitch (click me!)" copy="https://twitch.tv/luaren" copy-message="Twitch link copied!" isseparator="1"></MarkerCategory>
+            </MarkerCategory>
             <MarkerCategory name="pewpew" DisplayName="Pewpewcannon" isseparator="1">
-                <MarkerCategory name="specops" DisplayName="Included SpecOps guide markers" isseparator="1"></MarkerCategory>
+                <MarkerCategory name="specops" DisplayName="Spec" isseparator="1"></MarkerCategory>
                 <MarkerCategory name="bashy" DisplayName="Included 'Bashy' DB Adventure trail" isseparator="1"></MarkerCategory>
             </MarkerCategory>
             <MarkerCategory name="uc" DisplayName="Unskippable Cutscene" isseparator="1">
@@ -48,6 +48,9 @@ xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
             <MarkerCategory name="nicodemus" DisplayName="Nicodemus" isseparator="1">
                 <MarkerCategory name="fishingmarker" DisplayName="Designing fishing hole marker" isseparator="1"></MarkerCategory>
                 <MarkerCategory name="psna" DisplayName="PSNA testing and marking" isseparator="1"></MarkerCategory>
+            </MarkerCategory>
+            <MarkerCategory name="heroinedark" DisplayName="HeroineDark" isseparator="1">
+                <MarkerCategory name="fishingholes" DisplayName="Marking Fishing Holes" isseparator="1"></MarkerCategory>
             </MarkerCategory>
             <MarkerCategory name="maanlichtje" DisplayName="maanlichtje" isseparator="1">
                 <MarkerCategory name="fishingholes" DisplayName="Marking Fishing Holes" isseparator="1"></MarkerCategory>
@@ -58,41 +61,9 @@ xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
             <MarkerCategory name="neroc" DisplayName="Neroc" isseparator="1">
                 <MarkerCategory name="fishingholes" DisplayName="Marking Fishing Holes" isseparator="1"></MarkerCategory>
             </MarkerCategory>
-            <MarkerCategory name="heroinedark" DisplayName="HeroineDark" isseparator="1">
-                <MarkerCategory name="fishingholes" DisplayName="Marking Fishing Holes" isseparator="1"></MarkerCategory>
-            </MarkerCategory>
             <MarkerCategory name="ralka" DisplayName="Ralka" isseparator="1">
                 <MarkerCategory name="fishingholes" DisplayName="Marking Fishing Holes" isseparator="1"></MarkerCategory>
             </MarkerCategory>
         </MarkerCategory>
     </MarkerCategory>
-    <POIs>
-        <POI MapID="" xpos="0.1" ypos="-10000" zpos="0.1" type="mmm.contributors.metallis.discord" GUID="4o078ILMhkmaYA03emomuA== "/>
-        <POI MapID="" xpos="0.1" ypos="-10000" zpos="0.1" type="mmm.contributors.metallis.kofi" GUID="N5hD7rMbukSja8M0jAVw8Q== "/>
-        <POI MapID="" xpos="0.1" ypos="-10000" zpos="0.1" type="mmm.contributors.freesnow.bhud" GUID="DR4TTvqyR02EHZp+uTbVyw== "/>
-        <POI MapID="" xpos="0.1" ypos="-10000" zpos="0.1" type="mmm.contributors.freesnow.sanity" GUID="de2P/4mYo0WksNhy6kbR5A== "/>
-        <POI MapID="" xpos="0.1" ypos="-10000" zpos="0.1" type="mmm.contributors.freesnow.kofi" GUID="aSL7SM5TWUa+BHw9R6PH1g== "/>
-        <POI MapID="" xpos="0.1" ypos="-10000" zpos="0.1" type="mmm.contributors.quitarhero.sanity" GUID="/asxnOmRu0SjGv3Jfab9ew== "/>
-        <POI MapID="" xpos="0.1" ypos="-10000" zpos="0.1" type="mmm.contributors.quitarhero.markers" GUID="gjSfLoyLck+CvBLJOIcuYg== "/>
-        <POI MapID="" xpos="0.1" ypos="-10000" zpos="0.1" type="mmm.contributors.quitarhero.pushing" GUID="uMtxnjazDU2q37hNZnzVYw== "/>
-        <POI MapID="" xpos="0.1" ypos="-10000" zpos="0.1" type="mmm.contributors.teh.lua" GUID="5pVFMS3q+UCwvP98uo1vhA== "/>
-        <POI MapID="" xpos="0.1" ypos="-10000" zpos="0.1" type="mmm.contributors.teh.sanity" GUID="trgOlx0Xq0KV+6syDik/Rg== "/>
-        <POI MapID="" xpos="0.1" ypos="-10000" zpos="0.1" type="mmm.contributors.hexedhero.mpa" GUID="7tbiYzKkp02Zsbkmtv/3cQ== "/>
-        <POI MapID="" xpos="0.1" ypos="-10000" zpos="0.1" type="mmm.contributors.hexedhero.fishingholes" GUID="ARixNTrzB0a2x3oZM9Iy+w== "/>
-        <POI MapID="" xpos="0.1" ypos="-10000" zpos="0.1" type="mmm.contributors.luaren.collab" GUID="IPDq6kO580+KL1Zc94/6zQ== "/>
-        <POI MapID="" xpos="0.1" ypos="-10000" zpos="0.1" type="mmm.contributors.luaren.twitch" GUID="/0/xAWio2E6f0kICXa2hcQ== "/>
-        <POI MapID="" xpos="0.1" ypos="-10000" zpos="0.1" type="mmm.contributors.rediche.inspiration" GUID="Gsgws1xInU2g7vv9LtCV2A== "/>
-        <POI MapID="" xpos="0.1" ypos="-10000" zpos="0.1" type="mmm.contributors.rediche.twitch" GUID="epaz2cne8UOvA6GdthXx9Q== "/>
-        <POI MapID="" xpos="0.1" ypos="-10000" zpos="0.1" type="mmm.contributors.rediche.discord" GUID="f0BtHrJ7ZEKgF6Y+V6ICVQ== "/>
-        <POI MapID="" xpos="0.1" ypos="-10000" zpos="0.1" type="mmm.contributors.pewpew.bashy" GUID="/sQIQ5l3yECHLD1BkHHUQQ== "/>
-        <POI MapID="" xpos="0.1" ypos="-10000" zpos="0.1" type="mmm.contributors.pewpew.specops" GUID="LulTrAdkEkOvNwrkPrlmVg== "/>
-        <POI MapID="" xpos="0.1" ypos="-10000" zpos="0.1" type="mmm.contributors.uc.collab" GUID="9vB3bsZM3kS2hs2CpmqImQ== "/>
-        <POI MapID="" xpos="0.1" ypos="-10000" zpos="0.1" type="mmm.contributors.nicodemus.psna" GUID="qEbRp2DI4UWoIaTz/dtN9g== "/>
-        <POI MapID="" xpos="0.1" ypos="-10000" zpos="0.1" type="mmm.contributors.nicodemus.fishingmarker" GUID="ZMV0GYjKCU2u056hMmUnew== "/>
-        <POI MapID="" xpos="0.1" ypos="-10000" zpos="0.1" type="mmm.contributors.maanlichtje.fishingholes" GUID="Wj3FepeDBUG8gHnPBxBdBw== "/>
-        <POI MapID="" xpos="0.1" ypos="-10000" zpos="0.1" type="mmm.contributors.ldr.fishingholes" GUID="JmwaNlCdyUKMZABZrf64Ow== "/>
-        <POI MapID="" xpos="0.1" ypos="-10000" zpos="0.1" type="mmm.contributors.neroc.fishingholes" GUID="/yEZiAPidkeeiXAF3AX0Vw== "/>
-        <POI MapID="" xpos="0.1" ypos="-10000" zpos="0.1" type="mmm.contributors.heroinedark.fishingholes" GUID="xICW8095Jk+3AwABXrbowg== "/>
-        <POI MapID="" xpos="0.1" ypos="-10000" zpos="0.1" type="mmm.contributors.ralka.fishingholes" GUID="4/vLkbkS/UGHvPamOyL6ww== "/>
-    </POIs>
 </OverlayData>

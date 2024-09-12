@@ -1,7 +1,0 @@
-<OverlayData>
-    <MarkerCategory name="sniffruns" DisplayName="HD Sniff Trails" fadeNear="3000" fadeFar="5000"></MarkerCategory>
-    <POIs>
-        <Trail trailData="Data/Trails/hd_js_sniff.trl" type="sniffruns" texture="Data/Icons/default_trail.png"/>
-        <Trail trailData="Data/Trails/hd_ls_sniff2.trl" type="sniffruns" texture="Data/Icons/default_trail.png"/>
-    </POIs>
-</OverlayData>

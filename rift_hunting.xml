@@ -8,5 +8,6 @@ xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
     <POIs>
         <POI MapID="1550" xpos="-46.44162" ypos="308.7656" zpos="-339.2174" type="mmm.rifthunting.t1" GUID="mEm5+eGMWkC/Ui7hrMHO/A=="/>
         <POI MapID="1554" xpos="754.963" ypos="0.1878828" zpos="-280.0566" type="mmm.rifthunting.t1" GUID="ov+gYQH3gkeTp6UJO8C7nw=="/>
+        <POI MapID="1550" xpos="1009.878" ypos="379.3091" zpos="-172.3495" type="mmm.rifthunting.t3" GUID="kTejS6/HAEmGegfg2p9M3g=="/>
     </POIs>
 </OverlayData>

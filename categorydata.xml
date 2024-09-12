@@ -4,8 +4,8 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 xsi:schemaLocation="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD https://raw.githubusercontent.com/xrandox/Gw2_Marker_Pack_DTD_XSD/main/GW2MarkerPack.xsd"
 xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
 	<!-- Discord Invite:https://discord.gg/FP8dQj6KBj -->
-	<MarkerCategory name="mmm" DisplayName="Metal Marker Myriad" texture="Data/Icons/default_trail.png" iconFile="Data/Icons/default_icon.png" fadeNear="3000" fadeFar="5000">
-        <MarkerCategory name="contributors" DisplayName="Contributors/Thanks" isseparator="1"></MarkerCategory>
+	<MarkerCategory name="mmm" DisplayName="Metal Marker Myriad" texture="Data/Icons/default_double.png" iconFile="Data/Icons/default_icon.png" fadeNear="3000" fadeFar="5000">
+        <MarkerCategory name="credits" DisplayName="Credits/Thanks" isseparator="1"></MarkerCategory>
 		<MarkerCategory name="achievements" DisplayName="Achievements/Collections">
             <MarkerCategory name="general" DisplayName="General">
 				<MarkerCategory name="community" DisplayName="Community" iconFile="Data/Icons/Achievements/Community.png">
@@ -318,9 +318,11 @@ xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
             </MarkerCategory>  
             <MarkerCategory name="jw" DisplayName="Janthir Wilds">
                 <MarkerCategory name="baq" DisplayName="Build-A-Quaggan" achievementId="8249">
-                    <MarkerCategory name="fibers" DisplayName="Gather Plant Fibers" achievementBit="1"></MarkerCategory>
+                    <MarkerCategory name="fibers" DisplayName="Gather Plant Fibers" achievementBit="1" iconFile="Data/Icons/Items/Linen_Rope.png"></MarkerCategory>
                 </MarkerCategory>
                 <MarkerCategory name="tr" DisplayName="Titan Researcher" achievementId="8175"></MarkerCategory>
+                <MarkerCategory name="ahmv1" DisplayName="A History Most Violent: Part 1" achievementId="8161"></MarkerCategory>
+                <MarkerCategory name="ahmv2" DisplayName="A History Most Violent: Part 2" achievementId="8205"></MarkerCategory>
             </MarkerCategory>
         </MarkerCategory>
         <MarkerCategory name="adventures" DisplayName="Adventures">
@@ -406,11 +408,11 @@ xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
             <MarkerCategory name="in_stp" DisplayName="Skyscale Target Practice in Inner Nayos"></MarkerCategory>
             <!-- Janthir Wilds -->
             <MarkerCategory name="ls_rs" DisplayName="Lowland Shore: Raven Scouting"></MarkerCategory>
-            <MarkerCategory name="ls_hns" DisplayName="Lowland Shore: Hide-and-Seek Challenge" iconFile="Data/Icons/flag.png" color="#FFFF00"></MarkerCategory>
+            <MarkerCategory name="ls_hns" DisplayName="Lowland Shore: Hide-and-Seek Challenge" iconFile="Data/Icons/Event_flag.png" color="#FFFF00"></MarkerCategory>
             <MarkerCategory name="ls_hssr" DisplayName="Lowland Shore: Harvest Shore Salmon Run"></MarkerCategory>
             <MarkerCategory name="ls_mccsr" DisplayName="Lowland Shore: Moon Camp Covert Salmon Run"></MarkerCategory>
             <MarkerCategory name="ls_wr" DisplayName="Lowland Shore: Warclaw Run"></MarkerCategory>
-            <MarkerCategory name="js_swc" DisplayName="Janthir Syntri: Save Woodland Creatures" iconFile="Data/Icons/flag.png" color="#FFFF00" behavior="4" resetLength="120" autoTrigger="1"></MarkerCategory>
+            <MarkerCategory name="js_swc" DisplayName="Janthir Syntri: Save Woodland Creatures" iconFile="Data/Icons/Event_flag.png" color="#FFFF00" behavior="4" resetLength="120" autoTrigger="1"></MarkerCategory>
             <MarkerCategory name="js_tvftt" DisplayName="Janthir Syntri: The View from the Top"></MarkerCategory>
             <MarkerCategory name="js_wr" DisplayName="Janthir Syntri: Warclaw Run"></MarkerCategory>
             <MarkerCategory name="js_skiff" DisplayName="Swift Skiffs - Janthir"></MarkerCategory>
@@ -432,23 +434,23 @@ xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
             <MarkerCategory name="currency" DisplayName="Wallet Currencies, Keys and Other">
                 <MarkerCategory name="unbound" DisplayName="Unbound Magic">
                     <MarkerCategory name="trail" DisplayName="Trail"></MarkerCategory>
-					<MarkerCategory name="orbs" DisplayName="Orb Visibility Rings" iconFile="Data/Icons/ring.png" miniMapVisibility="0" mapVisibility="0"></MarkerCategory>
+					<MarkerCategory name="orbs" DisplayName="Orb Visibility Rings" iconFile="Data/Icons/Ring.png" miniMapVisibility="0" mapVisibility="0"></MarkerCategory>
 				</MarkerCategory>
                 <MarkerCategory name="volatile" DisplayName="Volatile Magic">
                     <MarkerCategory name="trail" DisplayName="Trail"></MarkerCategory>
-					<MarkerCategory name="orbs" DisplayName="Orb Visibility Rings" iconFile="Data/Icons/ring.png" miniMapVisibility="0" mapVisibility="0"></MarkerCategory>
+					<MarkerCategory name="orbs" DisplayName="Orb Visibility Rings" iconFile="Data/Icons/Ring.png" miniMapVisibility="0" mapVisibility="0"></MarkerCategory>
 				</MarkerCategory>
 				<MarkerCategory name="staticcharge" DisplayName="Static Charge">
                     <MarkerCategory name="trail" DisplayName="Trail"></MarkerCategory>
-					<MarkerCategory name="orbs" DisplayName="Orb Visibility Rings" iconFile="Data/Icons/ring.png" miniMapVisibility="0" mapVisibility="0"></MarkerCategory>
+					<MarkerCategory name="orbs" DisplayName="Orb Visibility Rings" iconFile="Data/Icons/Ring.png" miniMapVisibility="0" mapVisibility="0"></MarkerCategory>
 				</MarkerCategory>
 				<MarkerCategory name="stardust" DisplayName="Pinch of Stardust">
                     <MarkerCategory name="trail" DisplayName="Trail"></MarkerCategory>
-					<MarkerCategory name="orbs" DisplayName="Orb Visibility Rings" iconFile="Data/Icons/ring.png" miniMapVisibility="0" mapVisibility="0"></MarkerCategory>
+					<MarkerCategory name="orbs" DisplayName="Orb Visibility Rings" iconFile="Data/Icons/Ring.png" miniMapVisibility="0" mapVisibility="0"></MarkerCategory>
 				</MarkerCategory>
 				<MarkerCategory name="gasp" DisplayName="Calcified Gasp">
                     <MarkerCategory name="trail" DisplayName="Trail"></MarkerCategory>
-					<MarkerCategory name="orbs" DisplayName="Orb Visibility Rings" iconFile="Data/Icons/ring.png"  miniMapVisibility="0" mapVisibility="0"></MarkerCategory>
+					<MarkerCategory name="orbs" DisplayName="Orb Visibility Rings" iconFile="Data/Icons/Ring.png"  miniMapVisibility="0" mapVisibility="0"></MarkerCategory>
 				</MarkerCategory>
 			</MarkerCategory>
             <MarkerCategory name="items" DisplayName="Items/Loot">
@@ -467,7 +469,7 @@ xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
             </MarkerCategory>
         </MarkerCategory>
         <MarkerCategory name="fishing" DisplayName="Fishing">
-            <MarkerCategory name="holes" DisplayName="Fishing Holes" iconFile="Data/Icons/fishing_pin_b.png" bounce="rise" bounce-height="3" autoTrigger="1" triggerRange="25" fadeNear="3000" fadeFar="5000">
+            <MarkerCategory name="holes" DisplayName="Fishing Holes" iconFile="Data/Icons/Fish_resource.png" bounce="rise" bounce-height="3" autoTrigger="1" triggerRange="25" fadeNear="3000" fadeFar="5000">
                 <MarkerCategory name="astral" DisplayName="Astral Fish"></MarkerCategory>
                 <MarkerCategory name="dream" DisplayName="Boreal Fish"></MarkerCategory>
                 <MarkerCategory name="brackishj" DisplayName="Brackish Janthir Fish"></MarkerCategory>
@@ -540,7 +542,7 @@ xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
             <MarkerCategory name="lowlandpine" DisplayName="Lowland Pine Sapling" iconFile="Data/Icons/Items/Lowland_Pine_Log.png"></MarkerCategory>
             <MarkerCategory name="strawberry" DisplayName="Strawberries" iconFile="Data/Icons/Items/Strawberry.png"></MarkerCategory>
             <MarkerCategory name="toxicspore" DisplayName="Pristine Toxic Spore Sample" iconFile="Data/Icons/Items/Pristine_Toxic_Spore_Sample.png">
-                <MarkerCategory name="offshootevents" DisplayName="Toxic Offshoot Events" iconSize="3" color="#ff7f7f"></MarkerCategory>
+                <MarkerCategory name="offshootevents" DisplayName="Toxic Offshoot Events" inGameVisibility="0" bounce-height="0" iconFile="Data/Icons/Toxic_Offshoot.png"></MarkerCategory>
             </MarkerCategory>
             <MarkerCategory name="verdantherbs" DisplayName="Verdant Herbs" iconFile="Data/Icons/Items/Verdant_Herbs.png"></MarkerCategory>
         </MarkerCategory>
@@ -620,19 +622,19 @@ xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
             </MarkerCategory>
         </MarkerCategory>
         <MarkerCategory name="mapcomp" DisplayName="Map Completion">
-            <MarkerCategory name="hearts" DisplayName="Hearts" iconFile="Data/Icons/interact.png">
+            <MarkerCategory name="hearts" DisplayName="Hearts">
                 <MarkerCategory name="js_fb" DisplayName="Festering Basin">
-                    <MarkerCategory name="interact" DisplayName="Mursaat Relics"></MarkerCategory>
+                    <MarkerCategory name="interact" DisplayName="Mursaat Relics" iconFile="Data/Icons/Event_Gather.png"></MarkerCategory>
                 </MarkerCategory>
                 <MarkerCategory name="js_ohs" DisplayName="Old Hutment Site"></MarkerCategory>
                 <MarkerCategory name="js_eh" DisplayName="Echoing Hills">
-                    <MarkerCategory name="interact" DisplayName="Supply Crate Build Location"></MarkerCategory>
-                    <MarkerCategory name="touch" DisplayName="Fires" iconSize="0.5"></MarkerCategory>
+                    <MarkerCategory name="interact" DisplayName="Supply Crate Build Location" iconFile="Data/Icons/Event_Gather.png"></MarkerCategory>
+                    <MarkerCategory name="touch" DisplayName="Fires" iconSize="0.5" iconFile="Data/Icons/Event_Hand.png"></MarkerCategory>
                 </MarkerCategory>
             </MarkerCategory>
             <MarkerCategory name="lanterns" DisplayName="Lanterns"></MarkerCategory>
         </MarkerCategory>
-        <MarkerCategory name="insights" DisplayName="Mastery Insights">
+        <MarkerCategory name="insights" DisplayName="Mastery Insights" iconFile="Data/Icons/Mastery_insight.png">
             <MarkerCategory name="bc_bbb" DisplayName="Bloody Bill's Base" achievementId="3501"></MarkerCategory>
             <MarkerCategory name="dc_dsp" DisplayName="Dostoev Sky Peak" achievementId="3534"></MarkerCategory>
             <MarkerCategory name="fr_cd" DisplayName="Cozen Desolation" achievementId="3530"></MarkerCategory>
@@ -812,7 +814,7 @@ xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
             <MarkerCategory name="t3" DisplayName="Tier 3"></MarkerCategory>
         </MarkerCategory>
         <MarkerCategory name="vendors" DisplayName="Vendors">
-            <MarkerCategory name="psna" DisplayName="Pact Supply (PSNA)" iconFile="Data/Icons/psna.png" texture="Data/Icons/default_trail.png" schedule-duration="1440" iconSize="0.5"></MarkerCategory>
+            <MarkerCategory name="psna" DisplayName="Pact Supply (PSNA)" iconFile="Data/Icons/PSNA.png" schedule-duration="1440" iconSize="0.5"></MarkerCategory>
         </MarkerCategory>
 	</MarkerCategory>
 </OverlayData>

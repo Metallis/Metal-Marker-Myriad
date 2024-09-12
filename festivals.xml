@@ -14,10 +14,10 @@ xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
         <POI MapID="326" xpos="-43.8692" ypos="314.607" zpos="-56.91" type="mmm.festivals.db.pinata.markers" iconFile="Data/Icons/Mounts/Jackal.png" GUID="a5pvxiKH6UqSe/qD5yh8yg=="/>
         <POI MapID="326" xpos="34.7884" ypos="335.26" zpos="-133.469" type="mmm.festivals.db.pinata.markers" iconFile="Data/Icons/Mounts/Raptor.png" GUID="hm9NMAZVIEuHBphJ/+oq5w=="/>
         <POI MapID="326" xpos="637.866" ypos="243.618" zpos="152.976" type="mmm.festivals.db.pinata.markers" iconFile="Data/Icons/Mounts/beetle.png" GUID="Y+SE7RWI70S3jsejfmP64w=="/>
-        <POI MapID="326" xpos="339.324" ypos="250.943" zpos="474.387" type="mmm.festivals.db.pinata.markers" iconFile="Data/Icons/waypoint.png" triggerRange="5" copy="[&amp;BNUDAAA=]" copy-message="Next waypoint copied to clipboard!" GUID="UpOumIAiCEWcNgU/cUWm/w=="/>
+        <POI MapID="326" xpos="339.324" ypos="250.943" zpos="474.387" type="mmm.festivals.db.pinata.markers" iconFile="Data/Icons/Waypoint.png" triggerRange="5" copy="[&amp;BNUDAAA=]" copy-message="Next waypoint copied to clipboard!" GUID="UpOumIAiCEWcNgU/cUWm/w=="/>
         <POI MapID="326" xpos="73.9422" ypos="302.724" zpos="-243.308" type="mmm.festivals.db.pinata.markers" iconFile="Data/Icons/Text/2.png" GUID="K4Wue6ns3ECbdrXfC8zuXg=="/>
         <POI MapID="326" xpos="75.8979" ypos="302.724" zpos="-243.089" type="mmm.festivals.db.pinata.markers" iconFile="Data/Icons/Mounts/Jackal.png" GUID="hjjiZ+echUyIltWrcvkixg=="/>
         <POI MapID="326" xpos="191.615" ypos="232.303" zpos="19.5299" type="mmm.festivals.db.pinata.markers" iconFile="Data/Icons/Mounts/Raptor.png" GUID="ZYDQ4w6JiE6TzR4NfOy9jA=="/>
-        <POI MapID="326" xpos="220.843" ypos="233.136" zpos="-1.85177" type="mmm.festivals.db.pinata.markers" iconFile="Data/Icons/finish_flag.png" GUID="JJX/1SnxQUutxhLy0OCxQg=="/>
+        <POI MapID="326" xpos="220.843" ypos="233.136" zpos="-1.85177" type="mmm.festivals.db.pinata.markers" iconFile="Data/Icons/Finish_flag.png" GUID="JJX/1SnxQUutxhLy0OCxQg=="/>
     </POIs>
 </OverlayData>

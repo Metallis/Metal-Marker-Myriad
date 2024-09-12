@@ -5,10 +5,10 @@ XML Encoding Cheat Sheet
 
 
 Colors
-#E69F00 Gold
-#56B4E9 Light Blue
-#009E73 Greenish
-#F0E442 Bright Yellow
-#0072B2 Dark Blue
-#D55E00 Orange
-#CC79A7 Pink
+color="#E69F00" Gold
+color="#56B4E9" Light Blue
+color="#009E73" Greenish
+color="#F0E442" Bright Yellow
+color="#0072B2" Dark Blue
+color="#D55E00" Orange
+color="#CC79A7" Pink

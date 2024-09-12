@@ -74,6 +74,12 @@ xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
         <POI MapID="1554" xpos="457.1203" ypos="10.70135" zpos="-79.24171" type="mmm.mapcomp.hearts.js_eh.touch" GUID="ciw/+fmxRU+rOo4QClEn3w=="/>
         <POI MapID="1554" xpos="466.7139" ypos="15.46564" zpos="-60.30664" type="mmm.mapcomp.hearts.js_eh.touch" GUID="iAoWlkmSj0mERMa0gvhE8g=="/>
         <POI MapID="1554" xpos="529.108" ypos="8.94803" zpos="-93.61876" type="mmm.mapcomp.hearts.js_eh.touch" GUID="frN/dP1QjUqYWmo/+uwiFw=="/>
+        <POI MapID="1554" xpos="304.252" ypos="4.628568" zpos="498.7856" type="mmm.mapcomp.hearts.js_eh.touch" GUID="qEG4LkZX2UmIx61w/YNk6g=="/>
+        <POI MapID="1554" xpos="322.8507" ypos="4.133187" zpos="534.3091" type="mmm.mapcomp.hearts.js_eh.touch" GUID="eslKz+1wV0quI0iztgCalA=="/>
+        <POI MapID="1554" xpos="284.2275" ypos="13.3902" zpos="536.9363" type="mmm.mapcomp.hearts.js_eh.touch" GUID="zE0eS+V43UC6SB5yfSQqmg=="/>
+        <POI MapID="1554" xpos="533.2717" ypos="8.862041" zpos="187.2938" type="mmm.mapcomp.hearts.js_eh.touch" GUID="Ipfd5J/pvECPqJ8ecBkbgQ=="/>
+        <POI MapID="1554" xpos="527.0654" ypos="10.8892" zpos="184.3192" type="mmm.mapcomp.hearts.js_eh.touch" GUID="K0tchUaFjk2vSt9hslm1TQ=="/>
+        
 
         <!-- Mursaat Relics -->
         <POI MapID="1554" xpos="-142.7532" ypos="14.66562" zpos="-440.5124" type="mmm.mapcomp.hearts.js_fb.interact" GUID="pUAkJGVWqk+NKIzYDagu0Q=="/>
