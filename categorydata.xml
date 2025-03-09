@@ -1,10 +1,9 @@
-<!DOCTYPE OverlayData PUBLIC "" "https://raw.githubusercontent.com/xrandox/Gw2_Marker_Pack_DTD_XSD/main/GW2MarkerPack.dtd">
 <OverlayData 
 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
 xsi:schemaLocation="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD https://raw.githubusercontent.com/xrandox/Gw2_Marker_Pack_DTD_XSD/main/GW2MarkerPack.xsd"
 xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
 	<!-- Discord Invite:https://discord.gg/FP8dQj6KBj -->
-	<MarkerCategory name="mmm" DisplayName="Metal Marker Myriad" texture="Data/Icons/default_double.png" iconFile="Data/Icons/default_icon.png" fadeNear="3000" fadeFar="5000">
+	<MarkerCategory name="mmm" DisplayName="Metal Marker Myriad" texture="Data/Icons/default_trail.png" iconFile="Data/Icons/default_marker.png" fadeNear="3000" fadeFar="5000">
         <MarkerCategory name="credits" DisplayName="Credits/Thanks" isseparator="1"></MarkerCategory>
 		<MarkerCategory name="achievements" DisplayName="Achievements/Collections">
             <MarkerCategory name="general" DisplayName="General">
@@ -426,10 +425,10 @@ xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
         </MarkerCategory>
         <MarkerCategory name="farming" DisplayName="Farming">
             <MarkerCategory name="chests" DisplayName="Chests" iconFile="Data/Icons/chest.png">
-                <MarkerCategory name="bjoraessence" DisplayName="Bjora Essence Chests"></MarkerCategory>
-                <MarkerCategory name="garcane" DisplayName="Greater Arcane Chest"></MarkerCategory>
-                <MarkerCategory name="mkodan" DisplayName="Major Kodan Chests"></MarkerCategory>
-                <MarkerCategory name="Sniff" DisplayName="Warclaw Sniff Spots" iconFile="Data/Icons/Skills/Sniff.png"></MarkerCategory>
+                <MarkerCategory name="bjoraessence" DisplayName="Bjora Essence Chests" behavior="2"></MarkerCategory>
+                <MarkerCategory name="garcane" DisplayName="Greater Arcane Chest" behavior="2"></MarkerCategory>
+                <MarkerCategory name="mkodan" DisplayName="Major Kodan Chests" behavior="2"></MarkerCategory>
+                <MarkerCategory name="sniff" DisplayName="Warclaw Sniff Spots" behavior="6" iconFile="Data/Icons/Skills/Sniff.png"></MarkerCategory>
             </MarkerCategory>
             <MarkerCategory name="currency" DisplayName="Wallet Currencies, Keys and Other">
                 <MarkerCategory name="unbound" DisplayName="Unbound Magic">
@@ -532,7 +531,7 @@ xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
                 <MarkerCategory name="sparkfly" DisplayName="Sparkfly Larva" isseparator="1" copy="[&amp;BAcFAAA=]" copy-message="Sparkfly Larva WP copied to clipboard!"></MarkerCategory>
             </MarkerCategory>
         </MarkerCategory>
-        <MarkerCategory name="gathering" DisplayName="Gathering" bounce="rise" bounce-height="3" autoTrigger="1" triggerRange="25">
+        <MarkerCategory name="gathering" DisplayName="Gathering" bounce="rise" bounce-height="3" autoTrigger="1" triggerRange="25" behavior="6">
             <MarkerCategory name="amberore" DisplayName="Titan Amber/Ore" iconFile="Data/Icons/Items/Amber_Ore.png"></MarkerCategory>
             <MarkerCategory name="carrot" DisplayName="Carrots" iconFile="Data/Icons/Items/Carrot.png"></MarkerCategory>
             <MarkerCategory name="echoresin" DisplayName="Chunk of Petrified Echovald Resin" iconFile="Data/Icons/Items/Echovald_Resin.png"></MarkerCategory>
@@ -633,6 +632,10 @@ xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
                 </MarkerCategory>
             </MarkerCategory>
             <MarkerCategory name="lanterns" DisplayName="Lanterns"></MarkerCategory>
+        </MarkerCategory>
+        <MarkerCategory name="mapaugs" DisplayName="Map Augmentations" defaulttoggle="0">
+            <MarkerCategory name="mapsectors" DisplayName="Map Sector Boundaries" texture="Data/Icons/boundary.png" inGameVisibility="0" fadeNear="3000" fadeFar="3500" trailScale="3" iswall="1" animSpeed="0.5" color="#EAAD3C" alpha="0.7"></MarkerCategory>
+            <MarkerCategory name="zonetravel" DisplayName="Zone-to-Zone Travel"></MarkerCategory>
         </MarkerCategory>
         <MarkerCategory name="insights" DisplayName="Mastery Insights" iconFile="Data/Icons/Mastery_insight.png">
             <MarkerCategory name="bc_bbb" DisplayName="Bloody Bill's Base" achievementId="3501"></MarkerCategory>
@@ -809,9 +812,9 @@ xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
             <MarkerCategory name="ls_wr" DisplayName="Waterfall Roost" achievementId="8220"></MarkerCategory>
         </MarkerCategory>
         <MarkerCategory name="rifthunting" DisplayName="Rift Hunting">
-            <MarkerCategory name="t1" DisplayName="Tier 1"></MarkerCategory>
-            <MarkerCategory name="t2" DisplayName="Tier 2"></MarkerCategory>
-            <MarkerCategory name="t3" DisplayName="Tier 3"></MarkerCategory>
+            <MarkerCategory name="t1" DisplayName="Tier 1" iconFile="Data/Icons/Items/Fine_Rift_Motivation.png"></MarkerCategory>
+            <MarkerCategory name="t2" DisplayName="Tier 2" iconFile="Data/Icons/Items/Masterwork_Rift_Motivation.png"></MarkerCategory>
+            <MarkerCategory name="t3" DisplayName="Tier 3" iconFile="Data/Icons/Items/Rare_Rift_Motivation.png"></MarkerCategory>
         </MarkerCategory>
         <MarkerCategory name="vendors" DisplayName="Vendors">
             <MarkerCategory name="psna" DisplayName="Pact Supply (PSNA)" iconFile="Data/Icons/PSNA.png" schedule-duration="1440" iconSize="0.5"></MarkerCategory>

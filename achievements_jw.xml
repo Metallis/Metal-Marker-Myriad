@@ -1,4 +1,3 @@
-<!DOCTYPE OverlayData PUBLIC "" "https://raw.githubusercontent.com/xrandox/Gw2_Marker_Pack_DTD_XSD/main/GW2MarkerPack.dtd">
 <OverlayData 
 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
 xsi:schemaLocation="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD https://raw.githubusercontent.com/xrandox/Gw2_Marker_Pack_DTD_XSD/main/GW2MarkerPack.xsd"
@@ -19,5 +18,7 @@ xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
     <POI MapID="1554" xpos="40.41293" ypos="27.39667" zpos="-659.3036" type="mmm.achievements.jw.baq.fibers" GUID="BMzdzQ2Zm0qLERLWhcfAPw=="/>
     <!-- Titan Researcher -->
     <POI MapID="1554" xpos="89.26728" ypos="43.91796" zpos="-679.9881" type="mmm.achievements.jw.tr" achievementBit="3" GUID="XK3A/LkbBU6SQ5aVcKZKdA=="/>
+    <!-- A History Most Violent Pt 2 -->
+    <POI MapID="1554" xpos="538.9267" ypos="1.001871" zpos="-636.0368" type="mmm.achievements.jw.ahmv2" achievementBit="1" GUID="m5qDEwub0EOXOL/Fka3NPg=="/>
     </POIs>
 </OverlayData>

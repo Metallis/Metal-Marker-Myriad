@@ -1,4 +1,3 @@
-<!DOCTYPE OverlayData PUBLIC "" "https://raw.githubusercontent.com/xrandox/Gw2_Marker_Pack_DTD_XSD/main/GW2MarkerPack.dtd">
 <OverlayData 
 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
 xsi:schemaLocation="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD https://raw.githubusercontent.com/xrandox/Gw2_Marker_Pack_DTD_XSD/main/GW2MarkerPack.xsd"
@@ -12,17 +11,17 @@ xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
             <MarkerCategory name="db" DisplayName="Dragon Bash" festival="dragonbash">
                 <MarkerCategory name="pinata_bash" DisplayName="PewCannon - Pinata Bash">
                     <MarkerCategory name="pinata_trail" DisplayName="Trail" animSpeed="0"></MarkerCategory>
-                    <MarkerCategory name="pinata_flag" DisplayName="Pinata Flag" fadeNear="300000" fadeFar="300100" iconSize="1.0" heightOffset="1.0" iconFile="Data/Icons/bashy_flag.png"></MarkerCategory>
+                    <MarkerCategory name="pinata_flag" DisplayName="Pinata Flag" fadeNear="300000" fadeFar="300100" iconSize="1.0" heightOffset="1.0" iconFile="Data/Icons/PewCannon/bashy_flag.png"></MarkerCategory>
                 </MarkerCategory>
             </MarkerCategory>
         </MarkerCategory>
     </MarkerCategory>
     <POIs>
         <!-- Pinata Bash Trail -->
-        <Trail type="mmm.festivals.db.pinata_bash.pinata_trail" trailData="Data/Trails/bashy_25_trail_foot.trl" texture="Data/Icons/bashy_trail_blue.png"/>
-        <Trail type="mmm.festivals.db.pinata_bash.pinata_trail" trailData="Data/Trails/bashy_25_trail_target.trl" texture="Data/Icons/bashy_trail_green.png"/>
-        <Trail type="mmm.festivals.db.pinata_bash.pinata_trail" trailData="Data/Trails/bashy_25_trail_launch2.trl" texture="Data/Icons/bashy_trail_green.png"/>
-        <Trail type="mmm.festivals.db.pinata_bash.pinata_trail" trailData="Data/Trails/bashy_25_trail_launch.trl" texture="Data/Icons/bashy_trail_red.png"/>
+        <Trail type="mmm.festivals.db.pinata_bash.pinata_trail" trailData="Data/Trails/bashy_25_trail_foot.trl" texture="Data/Icons/PewCannon/bashy_trail_blue.png"/>
+        <Trail type="mmm.festivals.db.pinata_bash.pinata_trail" trailData="Data/Trails/bashy_25_trail_target.trl" texture="Data/Icons/PewCannon/bashy_trail_green.png"/>
+        <Trail type="mmm.festivals.db.pinata_bash.pinata_trail" trailData="Data/Trails/bashy_25_trail_launch2.trl" texture="Data/Icons/PewCannon/bashy_trail_green.png"/>
+        <Trail type="mmm.festivals.db.pinata_bash.pinata_trail" trailData="Data/Trails/bashy_25_trail_launch.trl" texture="Data/Icons/PewCannon/bashy_trail_red.png"/>
         <!-- Pinata Bash Markers -->
         <POI MapID="326" xpos="141.109" ypos="334.471" zpos="-113.898" type="mmm.festivals.db.pinata_bash.pinata_flag" GUID="0sWXfsFnEU2li3JUrRCb+w=="/>
         <POI MapID="326" xpos="198.899" ypos="231.666" zpos="-7.51519" type="mmm.festivals.db.pinata_bash.pinata_flag" GUID="w/6+ptB84kmiEB+cw68q/A=="/>

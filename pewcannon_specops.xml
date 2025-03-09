@@ -1,4 +1,3 @@
-<!DOCTYPE OverlayData PUBLIC "" "https://raw.githubusercontent.com/xrandox/Gw2_Marker_Pack_DTD_XSD/main/GW2MarkerPack.dtd">
 <OverlayData
 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 xsi:schemaLocation="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD https://raw.githubusercontent.com/xrandox/Gw2_Marker_Pack_DTD_XSD/main/GW2MarkerPack.xsd"
@@ -8,7 +7,7 @@ xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
     <!-- discord.gg/tinyarmy -->
     <!-- Included with permission -->
     <MarkerCategory name="mmm" DisplayName="Metal Marker Myriad">
-        <MarkerCategory name="specops" DisplayName="PewCannon - Special Ops Armor">
+        <MarkerCategory name="specops" DisplayName="PewCannon - Special Ops Armor" defaulttoggle="0">
             <MarkerCategory name="separator1" isseparator="1" DisplayName="GATHER THESE ITEMS" />
             <!--Pre-Purchase-->
             <MarkerCategory name="precollect" DisplayName="Pre-Collect Items (full set)">
@@ -23,68 +22,68 @@ xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
             <!--Unlock
             Collections-->
             <MarkerCategory name="start" DisplayName="Unlock Collections">
-                <MarkerCategory name="unlock1" DisplayName="Gyala Delve - Cpt. Wing Jun (Talk/Listen)" heightOffset="3.0" iconSize="1.0" mapDisplaySize="100" iconFile="DATA/unlock1.png" />
+                <MarkerCategory name="unlock1" DisplayName="Gyala Delve - Cpt. Wing Jun (Talk/Listen)" heightOffset="3.0" iconSize="1.0" mapDisplaySize="100" iconFile="Data/Icons/PewCannon/unlock1.png" />
             </MarkerCategory>
             <!--Basic
             Course 1-->
             <MarkerCategory name="basic1" DisplayName="Basic Course 1">
-                <MarkerCategory name="basic1_1" DisplayName="Echovauld - Tateo (track)" heightOffset="3.0" iconSize="1.0" mapDisplaySize="100" iconFile="DATA/basic1_1.png" />
-                <MarkerCategory name="basic1_2" DisplayName="Echovauld - Tateo (rescue)" heightOffset="3.0" iconSize="1.0" mapDisplaySize="100" iconFile="DATA/basic1_2.png" />
-                <MarkerCategory name="basic1_3" DisplayName="Fractal - Thaumanova (complete)" heightOffset="3.0" iconSize="1.0" mapDisplaySize="100" iconFile="DATA/basic1_3.png" />
-                <MarkerCategory name="basic1_4" DisplayName="Gyala Delve - Power Source: Boots (purchase)" heightOffset="3.0" iconSize="1.0" mapDisplaySize="100" iconFile="DATA/basic1_4.png" />
-                <MarkerCategory name="basic1_5" DisplayName="Gyala Delve - Spec Ops Requisition: Boots (purchase)" heightOffset="3.0" iconSize="1.0" mapDisplaySize="100" iconFile="DATA/basic1_5.png" />
+                <MarkerCategory name="basic1_1" DisplayName="Echovauld - Tateo (track)" heightOffset="3.0" iconSize="1.0" mapDisplaySize="100" iconFile="Data/Icons/PewCannon/basic1_1.png" />
+                <MarkerCategory name="basic1_2" DisplayName="Echovauld - Tateo (rescue)" heightOffset="3.0" iconSize="1.0" mapDisplaySize="100" iconFile="Data/Icons/PewCannon/basic1_2.png" />
+                <MarkerCategory name="basic1_3" DisplayName="Fractal - Thaumanova (complete)" heightOffset="3.0" iconSize="1.0" mapDisplaySize="100" iconFile="Data/Icons/PewCannon/basic1_3.png" />
+                <MarkerCategory name="basic1_4" DisplayName="Gyala Delve - Power Source: Boots (purchase)" heightOffset="3.0" iconSize="1.0" mapDisplaySize="100" iconFile="Data/Icons/PewCannon/basic1_4.png" />
+                <MarkerCategory name="basic1_5" DisplayName="Gyala Delve - Spec Ops Requisition: Boots (purchase)" heightOffset="3.0" iconSize="1.0" mapDisplaySize="100" iconFile="Data/Icons/PewCannon/basic1_5.png" />
             </MarkerCategory>
             <!--Basic
             Course 2-->
             <MarkerCategory name="basic2" DisplayName="Basic Course 2">
-                <MarkerCategory name="basic2_1" DisplayName="New Kaineng - Janin (defeat)" heightOffset="3.0" iconSize="1.0" mapDisplaySize="100" iconFile="DATA/basic2_1.png" />
-                <MarkerCategory name="basic2_2" DisplayName="New Kaineng - Fisherman (protect)" heightOffset="3.0" iconSize="1.0" mapDisplaySize="100" iconFile="DATA/basic2_2.png" />
-                <MarkerCategory name="basic2_3" DisplayName="New Kaineng - Naga Leader (defeat)" heightOffset="3.0" iconSize="1.0" mapDisplaySize="100" iconFile="DATA/basic2_3.png" />
-                <MarkerCategory name="basic2_4" DisplayName="Fractal - Uncategorized (complete)" heightOffset="3.0" iconSize="1.0" mapDisplaySize="100" iconFile="DATA/basic2_4.png" />
-                <MarkerCategory name="basic2_5" DisplayName="Gyala Delve - Power Source: Gloves (purchase)" heightOffset="3.0" iconSize="1.0" mapDisplaySize="100" iconFile="DATA/basic2_5.png" />
-                <MarkerCategory name="basic2_6" DisplayName="Gyala Delve - Spec Ops Requisition: Gloves (purchase)" heightOffset="3.0" iconSize="1.0" mapDisplaySize="100" iconFile="DATA/basic2_6.png" />
+                <MarkerCategory name="basic2_1" DisplayName="New Kaineng - Janin (defeat)" heightOffset="3.0" iconSize="1.0" mapDisplaySize="100" iconFile="Data/Icons/PewCannon/basic2_1.png" />
+                <MarkerCategory name="basic2_2" DisplayName="New Kaineng - Fisherman (protect)" heightOffset="3.0" iconSize="1.0" mapDisplaySize="100" iconFile="Data/Icons/PewCannon/basic2_2.png" />
+                <MarkerCategory name="basic2_3" DisplayName="New Kaineng - Naga Leader (defeat)" heightOffset="3.0" iconSize="1.0" mapDisplaySize="100" iconFile="Data/Icons/PewCannon/basic2_3.png" />
+                <MarkerCategory name="basic2_4" DisplayName="Fractal - Uncategorized (complete)" heightOffset="3.0" iconSize="1.0" mapDisplaySize="100" iconFile="Data/Icons/PewCannon/basic2_4.png" />
+                <MarkerCategory name="basic2_5" DisplayName="Gyala Delve - Power Source: Gloves (purchase)" heightOffset="3.0" iconSize="1.0" mapDisplaySize="100" iconFile="Data/Icons/PewCannon/basic2_5.png" />
+                <MarkerCategory name="basic2_6" DisplayName="Gyala Delve - Spec Ops Requisition: Gloves (purchase)" heightOffset="3.0" iconSize="1.0" mapDisplaySize="100" iconFile="Data/Icons/PewCannon/basic2_6.png" />
             </MarkerCategory>
             <!--Basic
             Course 3-->
             <MarkerCategory name="basic3" DisplayName="Basic Course 3">
-                <MarkerCategory name="basic3_1" DisplayName="Seitung Province - Tae-Sung (defeat)" heightOffset="3.0" iconSize="1.0" mapDisplaySize="100" iconFile="DATA/basic3_1.png" />
-                <MarkerCategory name="basic3_2" DisplayName="Seitung Province - Purist Operatives (subdue)" heightOffset="3.0" iconSize="1.0" mapDisplaySize="100" iconFile="DATA/basic3_2.png" />
-                <MarkerCategory name="basic3_3" DisplayName="Seitung Province - Naga Tide Priest (defeat)" heightOffset="3.0" iconSize="1.0" mapDisplaySize="100" iconFile="DATA/basic3_3.png" />
-                <MarkerCategory name="basic3_4" DisplayName="Fractal - Cliffside (complete)" heightOffset="3.0" iconSize="1.0" mapDisplaySize="100" iconFile="DATA/basic3_4.png" />
-                <MarkerCategory name="basic3_5" DisplayName="Gyala Delve - Power Source: Pauldrons (purchase)" heightOffset="3.0" iconSize="1.0" mapDisplaySize="100" iconFile="DATA/basic3_5.png" />
-                <MarkerCategory name="basic3_6" DisplayName="Gyala Delve - Spec Ops Requisition: Pauldrons (purchase)" heightOffset="3.0" iconSize="1.0" mapDisplaySize="100" iconFile="DATA/basic3_6.png" />
+                <MarkerCategory name="basic3_1" DisplayName="Seitung Province - Tae-Sung (defeat)" heightOffset="3.0" iconSize="1.0" mapDisplaySize="100" iconFile="Data/Icons/PewCannon/basic3_1.png" />
+                <MarkerCategory name="basic3_2" DisplayName="Seitung Province - Purist Operatives (subdue)" heightOffset="3.0" iconSize="1.0" mapDisplaySize="100" iconFile="Data/Icons/PewCannon/basic3_2.png" />
+                <MarkerCategory name="basic3_3" DisplayName="Seitung Province - Naga Tide Priest (defeat)" heightOffset="3.0" iconSize="1.0" mapDisplaySize="100" iconFile="Data/Icons/PewCannon/basic3_3.png" />
+                <MarkerCategory name="basic3_4" DisplayName="Fractal - Cliffside (complete)" heightOffset="3.0" iconSize="1.0" mapDisplaySize="100" iconFile="Data/Icons/PewCannon/basic3_4.png" />
+                <MarkerCategory name="basic3_5" DisplayName="Gyala Delve - Power Source: Pauldrons (purchase)" heightOffset="3.0" iconSize="1.0" mapDisplaySize="100" iconFile="Data/Icons/PewCannon/basic3_5.png" />
+                <MarkerCategory name="basic3_6" DisplayName="Gyala Delve - Spec Ops Requisition: Pauldrons (purchase)" heightOffset="3.0" iconSize="1.0" mapDisplaySize="100" iconFile="Data/Icons/PewCannon/basic3_6.png" />
             </MarkerCategory>
             <!--Advanced
             Course 1-->
             <MarkerCategory name="advanced1" DisplayName="Advanced Course 1">
-                <MarkerCategory name="advanced1_1" DisplayName="Echovauld - haywire Gods' Vengeance (defeat)" heightOffset="3.0" iconSize="1.0" mapDisplaySize="100" iconFile="DATA/advanced1_1.png" />
-                <MarkerCategory name="advanced1_2" DisplayName="Echovauld - Igne Mossheart (defeat)" heightOffset="3.0" iconSize="1.0" mapDisplaySize="100" iconFile="DATA/advanced1_2.png" />
-                <MarkerCategory name="advanced1_3" DisplayName="Echovauld - Enraged Amber Elemental (defeat)" heightOffset="3.0" iconSize="1.0" mapDisplaySize="100" iconFile="DATA/advanced1_3.png" />
-                <MarkerCategory name="advanced1_4" DisplayName="Fractal - Nightmare 25+ (complete)" heightOffset="3.0" iconSize="1.0" mapDisplaySize="100" iconFile="DATA/advanced1_4.png" />
-                <MarkerCategory name="advanced1_5" DisplayName="Gyala Delve - Power Source: Helmet (purchase)" heightOffset="3.0" iconSize="1.0" mapDisplaySize="100" iconFile="DATA/advanced1_5.png" />
-                <MarkerCategory name="advanced1_6" DisplayName="Gyala Delve - Spec Ops Requisition: Helmet (purchase)" heightOffset="3.0" iconSize="1.0" mapDisplaySize="100" iconFile="DATA/advanced1_6.png" />
+                <MarkerCategory name="advanced1_1" DisplayName="Echovauld - haywire Gods' Vengeance (defeat)" heightOffset="3.0" iconSize="1.0" mapDisplaySize="100" iconFile="Data/Icons/PewCannon/advanced1_1.png" />
+                <MarkerCategory name="advanced1_2" DisplayName="Echovauld - Igne Mossheart (defeat)" heightOffset="3.0" iconSize="1.0" mapDisplaySize="100" iconFile="Data/Icons/PewCannon/advanced1_2.png" />
+                <MarkerCategory name="advanced1_3" DisplayName="Echovauld - Enraged Amber Elemental (defeat)" heightOffset="3.0" iconSize="1.0" mapDisplaySize="100" iconFile="Data/Icons/PewCannon/advanced1_3.png" />
+                <MarkerCategory name="advanced1_4" DisplayName="Fractal - Nightmare 25+ (complete)" heightOffset="3.0" iconSize="1.0" mapDisplaySize="100" iconFile="Data/Icons/PewCannon/advanced1_4.png" />
+                <MarkerCategory name="advanced1_5" DisplayName="Gyala Delve - Power Source: Helmet (purchase)" heightOffset="3.0" iconSize="1.0" mapDisplaySize="100" iconFile="Data/Icons/PewCannon/advanced1_5.png" />
+                <MarkerCategory name="advanced1_6" DisplayName="Gyala Delve - Spec Ops Requisition: Helmet (purchase)" heightOffset="3.0" iconSize="1.0" mapDisplaySize="100" iconFile="Data/Icons/PewCannon/advanced1_6.png" />
             </MarkerCategory>
             <!--Advanced
             Course 2-->
             <MarkerCategory name="advanced2" DisplayName="Advanced Course 2">
-                <MarkerCategory name="advanced2_1" DisplayName="New Kaineng - Purist Propaganda (search)" heightOffset="3.0" iconSize="1.0" mapDisplaySize="100" iconFile="DATA/advanced2_1.png" />
-                <MarkerCategory name="advanced2_2" DisplayName="New Kaineng - Purist Assassin/Junker/Mesmer (defeat)" heightOffset="3.0" iconSize="1.0" mapDisplaySize="100" iconFile="DATA/advanced2_2.png" />
-                <MarkerCategory name="advanced2_3" DisplayName="New Kaineng - Champion Pre-Event (Thwart Purists)" heightOffset="3.0" iconSize="1.0" mapDisplaySize="100" iconFile="DATA/advanced2_3.png">
+                <MarkerCategory name="advanced2_1" DisplayName="New Kaineng - Purist Propaganda (search)" heightOffset="3.0" iconSize="1.0" mapDisplaySize="100" iconFile="Data/Icons/PewCannon/advanced2_1.png" />
+                <MarkerCategory name="advanced2_2" DisplayName="New Kaineng - Purist Assassin/Junker/Mesmer (defeat)" heightOffset="3.0" iconSize="1.0" mapDisplaySize="100" iconFile="Data/Icons/PewCannon/advanced2_2.png" />
+                <MarkerCategory name="advanced2_3" DisplayName="New Kaineng - Champion Pre-Event (Thwart Purists)" heightOffset="3.0" iconSize="1.0" mapDisplaySize="100" iconFile="Data/Icons/PewCannon/advanced2_3.png">
                     <MarkerCategory name="separator3" isseparator="1" DisplayName="Possible Champ Location in Old Kaineng" />
                     <MarkerCategory name="separator4" isseparator="1" DisplayName="Possible Champ Location in Petrified Woods" />
                 </MarkerCategory>
-                <MarkerCategory name="advanced2_4" DisplayName="Fractal - Shattered Observ. 25+ (complete)" heightOffset="3.0" iconSize="1.0" mapDisplaySize="100" iconFile="DATA/advanced2_4.png" />
-                <MarkerCategory name="advanced2_5" DisplayName="Gyala Delve - Power Source: Pants (purchase)" heightOffset="4.5" iconSize="1.0" mapDisplaySize="100" iconFile="DATA/advanced2_5.png" />
-                <MarkerCategory name="advanced2_6" DisplayName="Gyala Delve - Spec Ops Requisition: Pants (purchase)" heightOffset="3.0" iconSize="1.0" mapDisplaySize="100" iconFile="DATA/advanced2_6.png" />
+                <MarkerCategory name="advanced2_4" DisplayName="Fractal - Shattered Observ. 25+ (complete)" heightOffset="3.0" iconSize="1.0" mapDisplaySize="100" iconFile="Data/Icons/PewCannon/advanced2_4.png" />
+                <MarkerCategory name="advanced2_5" DisplayName="Gyala Delve - Power Source: Pants (purchase)" heightOffset="4.5" iconSize="1.0" mapDisplaySize="100" iconFile="Data/Icons/PewCannon/advanced2_5.png" />
+                <MarkerCategory name="advanced2_6" DisplayName="Gyala Delve - Spec Ops Requisition: Pants (purchase)" heightOffset="3.0" iconSize="1.0" mapDisplaySize="100" iconFile="Data/Icons/PewCannon/advanced2_6.png" />
             </MarkerCategory>
             <!--Final
             Course-->
             <MarkerCategory name="final" DisplayName="Final Course">
-                <MarkerCategory name="final_1" DisplayName="Dragon's End - Soo-Won (complete meta)" heightOffset="3.0" iconSize="1.0" mapDisplaySize="100" iconFile="DATA/final_1.png" />
-                <MarkerCategory name="final_2" DisplayName="Gyala Delve - Ravenous Wanderer (complete meta)" heightOffset="3.0" iconSize="1.0" mapDisplaySize="100" iconFile="DATA/final_2.png" />
-                <MarkerCategory name="final_3" DisplayName="Fractal - Sunqua Peak 25+ (complete)" heightOffset="3.0" iconSize="1.0" mapDisplaySize="100" iconFile="DATA/final_3.png" />
-                <MarkerCategory name="final_4" DisplayName="Gyala Delve - Power Source: Chestpiece (purchase)" heightOffset="3.0" iconSize="1.0" mapDisplaySize="100" iconFile="DATA/final_4.png" />
-                <MarkerCategory name="final_5" DisplayName="Gyala Delve - Spec Ops Requisition: Chestpiece (purchase)" heightOffset="3.0" iconSize="1.0" mapDisplaySize="100" iconFile="DATA/final_5.png" />
+                <MarkerCategory name="final_1" DisplayName="Dragon's End - Soo-Won (complete meta)" heightOffset="3.0" iconSize="1.0" mapDisplaySize="100" iconFile="Data/Icons/PewCannon/final_1.png" />
+                <MarkerCategory name="final_2" DisplayName="Gyala Delve - Ravenous Wanderer (complete meta)" heightOffset="3.0" iconSize="1.0" mapDisplaySize="100" iconFile="Data/Icons/PewCannon/final_2.png" />
+                <MarkerCategory name="final_3" DisplayName="Fractal - Sunqua Peak 25+ (complete)" heightOffset="3.0" iconSize="1.0" mapDisplaySize="100" iconFile="Data/Icons/PewCannon/final_3.png" />
+                <MarkerCategory name="final_4" DisplayName="Gyala Delve - Power Source: Chestpiece (purchase)" heightOffset="3.0" iconSize="1.0" mapDisplaySize="100" iconFile="Data/Icons/PewCannon/final_4.png" />
+                <MarkerCategory name="final_5" DisplayName="Gyala Delve - Spec Ops Requisition: Chestpiece (purchase)" heightOffset="3.0" iconSize="1.0" mapDisplaySize="100" iconFile="Data/Icons/PewCannon/final_5.png" />
             </MarkerCategory>
         </MarkerCategory>
     </MarkerCategory>

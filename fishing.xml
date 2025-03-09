@@ -1,26 +1,24 @@
-<!DOCTYPE OverlayData PUBLIC "" "https://raw.githubusercontent.com/xrandox/Gw2_Marker_Pack_DTD_XSD/main/GW2MarkerPack.dtd">
 <OverlayData 
 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
 xsi:schemaLocation="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD https://raw.githubusercontent.com/xrandox/Gw2_Marker_Pack_DTD_XSD/main/GW2MarkerPack.xsd"
 xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
     <!-- Discord Invite: https://discord.gg/FP8dQj6KBj -->
-    <MarkerCategory name="mmm" DisplayName="Metal Marker Myriad">
-    </MarkerCategory>
+    <MarkerCategory name="mmm" DisplayName="Metal Marker Myriad"></MarkerCategory>
     <POIs>
         <!-- Bait Trails -->
-        <Trail type="mmm.fishing.bait.instrux" trailData="Data/Trails/bait_si.trl"/>
-        <Trail type="mmm.fishing.bait.instrux" trailData="Data/Trails/bait_im.trl"/>
-        <Trail type="mmm.fishing.bait.instrux" trailData="Data/Trails/bait_la.trl"/>
-        <Trail type="mmm.fishing.bait.instrux" trailData="Data/Trails/bait_ew.trl"/>
-        <Trail type="mmm.fishing.bait.instrux" trailData="Data/Trails/bait_as.trl"/>
-        <Trail type="mmm.fishing.bait.instrux" trailData="Data/Trails/bait_eb.trl"/>
-        <Trail type="mmm.fishing.bait.instrux" trailData="Data/Trails/bait_sl.trl"/>
-        <Trail type="mmm.fishing.bait.instrux" trailData="Data/Trails/bait_de.trl"/>
-        <Trail type="mmm.fishing.bait.instrux" trailData="Data/Trails/bait_fs.trl"/>
-        <Trail type="mmm.fishing.bait.instrux" trailData="Data/Trails/bait_co.trl"/>
-        <Trail type="mmm.fishing.bait.instrux" trailData="Data/Trails/bait_rs.trl"/>
-        <Trail type="mmm.fishing.bait.instrux" trailData="Data/Trails/bait_sp.trl"/>
-        <Trail type="mmm.fishing.bait.instrux" trailData="Data/Trails/bait_nkc.trl"/>
+        <Trail type="mmm.fishing.bait.instrux" trailData="Data/Trails/FishingBait/bait_si.trl"/>
+        <Trail type="mmm.fishing.bait.instrux" trailData="Data/Trails/FishingBait/bait_im.trl"/>
+        <Trail type="mmm.fishing.bait.instrux" trailData="Data/Trails/FishingBait/bait_la.trl"/>
+        <Trail type="mmm.fishing.bait.instrux" trailData="Data/Trails/FishingBait/bait_ew.trl"/>
+        <Trail type="mmm.fishing.bait.instrux" trailData="Data/Trails/FishingBait/bait_as.trl"/>
+        <Trail type="mmm.fishing.bait.instrux" trailData="Data/Trails/FishingBait/bait_eb.trl"/>
+        <Trail type="mmm.fishing.bait.instrux" trailData="Data/Trails/FishingBait/bait_sl.trl"/>
+        <Trail type="mmm.fishing.bait.instrux" trailData="Data/Trails/FishingBait/bait_de.trl"/>
+        <Trail type="mmm.fishing.bait.instrux" trailData="Data/Trails/FishingBait/bait_fs.trl"/>
+        <Trail type="mmm.fishing.bait.instrux" trailData="Data/Trails/FishingBait/bait_co.trl"/>
+        <Trail type="mmm.fishing.bait.instrux" trailData="Data/Trails/FishingBait/bait_rs.trl"/>
+        <Trail type="mmm.fishing.bait.instrux" trailData="Data/Trails/FishingBait/bait_sp.trl"/>
+        <Trail type="mmm.fishing.bait.instrux" trailData="Data/Trails/FishingBait/bait_nkc.trl"/>
         <!-- Queensdale -->
         <POI MapID="15" xpos="-926.737" ypos="1.37639" zpos="701.481" type="mmm.fishing.holes.river" GUID="930LNYB6PEu8YzkCrXgv9w=="/>
         <POI MapID="15" xpos="49.7881" ypos="1.37639" zpos="415.998" type="mmm.fishing.holes.lake" GUID="sQk5F6VaW0OtsMK9IhLEAw=="/>
@@ -1846,6 +1844,9 @@ xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
         <POI MapID="1211" xpos="-1402.66" ypos="1.37639" zpos="-564.597" type="mmm.fishing.holes.desert" GUID="8GZUllQ9JEOkFO4HidC4Rw=="/>
         <POI MapID="1211" xpos="-1185.65" ypos="1.37639" zpos="-459.042" type="mmm.fishing.holes.desert" GUID="9hUwbuYT+EuzJviUoY+O2w=="/>
         <POI MapID="1211" xpos="-1443.63" ypos="1.37639" zpos="-511.42" type="mmm.fishing.holes.desert" GUID="KwKhutT6g0m89kV7k2npzQ=="/>
+        <POI MapID="1211" xpos="-1270.523" ypos="1.376381" zpos="-525.1157" type="mmm.fishing.holes.desert" GUID="m338XGHm3kCnA0pwohhTTQ=="/>
+        <POI MapID="1211" xpos="-1282.478" ypos="1.376387" zpos="-396.2266" type="mmm.fishing.holes.desert" GUID="c6+ZhXt85k2M0+nmJYYP9w=="/>
+        <POI MapID="1211" xpos="-1428.363" ypos="1.376387" zpos="-608.6196" type="mmm.fishing.holes.desert" GUID="8cUbSoRz6US7YzX5015NAw=="/>
         <!-- The Desolation -->
         <POI MapID="1226" xpos="-519.396" ypos="1.37639" zpos="1231.98" type="mmm.fishing.holes.desert" GUID="5dIpQvQMyEKsfYIMUdl8Jg=="/>
         <POI MapID="1226" xpos="-547.584" ypos="1.37639" zpos="1215.41" type="mmm.fishing.holes.desert" GUID="y5Tih4i8M0Oi8Qi9P8z/ww=="/>
@@ -3254,6 +3255,8 @@ xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
         <POI MapID="1550" xpos="-757.9503" ypos="1.376388" zpos="105.9912" type="mmm.fishing.holes.lowbrackish" GUID="FDHzWaq0IUek7FXg46ofDQ=="/>
         <POI MapID="1550" xpos="-476.9693" ypos="1.376387" zpos="-90.53405" type="mmm.fishing.holes.lowbrackish" GUID="YWBrSkA++EanWWzRDgTN6A=="/>
         <POI MapID="1550" xpos="-326.979" ypos="1.376387" zpos="-123.6938" type="mmm.fishing.holes.lowbrackish" GUID="WXSR7t7mGki8tkR5W98rNA=="/>
+        <POI MapID="1550" xpos="92.34091" ypos="1.376388" zpos="441.7632" type="mmm.fishing.holes.lowbrackish" GUID="QjhZsdlkcUGraS5UJqN1Ag=="/>
+        <POI MapID="1550" xpos="663.9009" ypos="1.376387" zpos="666.584" type="mmm.fishing.holes.lowshore" GUID="f9HV0SYi+02GSAkeeYmRfw=="/>
         <!-- Janthir Syntri -->
         <POI MapID="1554" xpos="-241.5962" ypos="46.05221" zpos="-728.4926" type="mmm.fishing.holes.freshj" GUID="SBY6Rbn5V0ykdel3Fy5nzQ=="/>
         <POI MapID="1554" xpos="-689.8209" ypos="1.376387" zpos="-466.5113" type="mmm.fishing.holes.freshj" GUID="qJJsBJy4nEiUc1glG2+Jug=="/>
