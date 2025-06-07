@@ -150,6 +150,7 @@ xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
         <POI MapID="19" xpos="352.153" ypos="1.37639" zpos="-98.4689" type="mmm.fishing.holes.lake" GUID="o+EmgO/mmUyQc4sN9E2s2w=="/>
         <POI MapID="19" xpos="790.802" ypos="1.37639" zpos="-339.104" type="mmm.fishing.holes.lake" GUID="RvIvUiWu8EKGyG0JTWdWlQ=="/>
         <POI MapID="19" xpos="729.0349" ypos="1.376387" zpos="-152.127" type="mmm.fishing.holes.lake" GUID="PNzrznEls0KotC+KjnhxGw=="/>
+        <POI MapID="19" xpos="752.9102" ypos="1.376387" zpos="327.2115" type="mmm.fishing.holes.lake" GUID="WFWXze5ISkKBs5EjH5jmzA=="/>
         <!-- Blazeridge Steppes -->
         <POI MapID="20" xpos="589.561" ypos="1.37639" zpos="-532.127" type="mmm.fishing.holes.lake" GUID="3DzXwpw670+OTDMaCytQJw=="/>
         <POI MapID="20" xpos="589.781" ypos="1.37639" zpos="-628.393" type="mmm.fishing.holes.lake" GUID="DRaIOByHJ0mMUG/jD664ow=="/>
@@ -747,6 +748,7 @@ xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
         <POI MapID="39" xpos="192.722" ypos="1.37639" zpos="-6.12025" type="mmm.fishing.holes.saltwater" GUID="Pwy7ziSdIkCZq9ZALj/uCg=="/>
         <POI MapID="39" xpos="916.577" ypos="1.37639" zpos="-284.031" type="mmm.fishing.holes.saltwater" GUID="7X/xEfCNy0i5/Rpb15+qzQ=="/>
         <POI MapID="39" xpos="378.4989" ypos="1.376387" zpos="-81.24124" type="mmm.fishing.holes.saltwater" GUID="qpGD2bSsb0Cvo9EXTU6CwQ=="/>
+        <POI MapID="39" xpos="810.5103" ypos="1.376392" zpos="487.5559" type="mmm.fishing.holes.saltwater" GUID="9kgpP151uk6mNmiB6kSWmQ=="/>
         <!-- Lion's Arch -->
         <POI MapID="50" xpos="207.62" ypos="1.37639" zpos="86.225" type="mmm.fishing.holes.coastal" GUID="sdNdVxBPRU2RZJzJRxS7Zg=="/>
         <POI MapID="50" xpos="247.378" ypos="1.37639" zpos="-6.32689" type="mmm.fishing.holes.coastal" GUID="wSWykSoziUO5hLrtWryyUg=="/>
@@ -1221,6 +1223,7 @@ xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
         <POI MapID="65" xpos="12.194" ypos="1.37639" zpos="485.682" type="mmm.fishing.holes.offshore" GUID="eCnWE5B1f0eLjqFE2Wppfw=="/>
         <POI MapID="65" xpos="298.489" ypos="1.37639" zpos="560.503" type="mmm.fishing.holes.offshore" GUID="XQNtvk3h10GCkjdG3tfgyQ=="/>
         <POI MapID="65" xpos="565.999" ypos="1.37639" zpos="185.228" type="mmm.fishing.holes.shore" GUID="t70ebPBmyk6F+BrZFlW3Mg=="/>
+        <POI MapID="65" xpos="584.9941" ypos="1.376388" zpos="518.03" type="mmm.fishing.holes.offshore" GUID="ez3YQiDS4k2BkzUzfaKGrQ=="/>
         <!-- Bloodtide Coast -->
         <POI MapID="73" xpos="296.263" ypos="1.37639" zpos="428.627" type="mmm.fishing.holes.coastal" GUID="e4nZMUIdh0uKT69TXc5AlA=="/>
         <POI MapID="73" xpos="377.008" ypos="1.37639" zpos="678.758" type="mmm.fishing.holes.coastal" GUID="LAhwVQ56Bku4ZQywoeIFfg=="/>

@@ -3,7 +3,7 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 xsi:schemaLocation="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD https://raw.githubusercontent.com/xrandox/Gw2_Marker_Pack_DTD_XSD/main/GW2MarkerPack.xsd"
 xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
     <!-- Discord Invite: https://discord.gg/FP8dQj6KBj -->
-    <MarkerCategory name="mmm" DisplayName="Metal Marker Myriad"></MarkerCategory>
+	<MarkerCategory name="mmm" DisplayName="Metal Marker Myriad" texture="Data/Icons/default_trail.png" iconFile="Data/Icons/default_marker.png" fadeNear="3000" fadeFar="5000"></MarkerCategory>
     <POIs>
         <POI MapID="1550" xpos="-46.44162" ypos="308.7656" zpos="-339.2174" type="mmm.rifthunting.t1" GUID="mEm5+eGMWkC/Ui7hrMHO/A=="/>
         <POI MapID="1554" xpos="754.963" ypos="0.1878828" zpos="-280.0566" type="mmm.rifthunting.t1" GUID="ov+gYQH3gkeTp6UJO8C7nw=="/>

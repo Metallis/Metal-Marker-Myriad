@@ -1,0 +1,99 @@
+<OverlayData 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD https://raw.githubusercontent.com/xrandox/Gw2_Marker_Pack_DTD_XSD/main/GW2MarkerPack.xsd"
+xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
+	<!-- Discord Invite:https://discord.gg/FP8dQj6KBj -->
+	<MarkerCategory name="mmm" DisplayName="Metal Marker Myriad" texture="Data/Icons/default_trail.png" iconFile="Data/Icons/default_marker.png" fadeNear="3000" fadeFar="5000">
+    </MarkerCategory>
+    <POIs>
+        <Trail trailData="Data/Trails/WorkHardforNow/whfn_la1.trl" type="mmm.achievements.collections.rare.whfn"/>
+        <POI MapID="50" xpos="524.3901" ypos="38.1091" zpos="-180.8043" type="mmm.achievements.collections.rare.whfn" iconFile="Data/Icons/Mounts/Skyscale.png" GUID="wEaOUBW0IEq0VrZUx/2Z1Q=="/>
+        <Trail trailData="Data/Trails/WorkHardforNow/whfn_la2.trl" type="mmm.achievements.collections.rare.whfn"/>
+        <POI MapID="50" xpos="465.1394" ypos="25.64685" zpos="-273.8794" type="mmm.achievements.collections.rare.whfn" alpha="0" copy="Next: [&amp;BE4DAAA=] Closest: [&amp;BK8BAAA=]" copy-message="Next WP copied to clipboard!" GUID="0+m8565sOUm7Nb3FNEUe1g=="/>
+        <Trail trailData="Data/Trails/WorkHardforNow/whfn_blazeridge.trl" type="mmm.achievements.collections.rare.whfn" achievementBit="1"/>
+        <POI MapID="20" xpos="-202.834808" ypos="38.254463" zpos="738.870178" type="mmm.achievements.collections.rare.whfn" achievementBit="1" iconFile="Data/Icons/Mounts/Skyscale.png" GUID="7gRooH2kekyhF+jLSO2OsA=="/>
+        <POI MapID="20" xpos="-187.951" ypos="113.609" zpos="662.4797" type="mmm.achievements.collections.rare.whfn" achievementBit="1" alpha="0" copy="Next: [&amp;BK8BAAA=] Closest: [&amp;BEwBAAA=]" copy-message="Next WP copied to clipboard!" GUID="hpXaL8+QXEac0743O4aZ9A=="/>
+        <Trail trailData="Data/Trails/WorkHardforNow/whfn_bloodtide.trl" type="mmm.achievements.collections.rare.whfn" achievementBit="2"/>
+        <POI MapID="73" xpos="-255.8252" ypos="-0.08026371" zpos="-819.5438" type="mmm.achievements.collections.rare.whfn" achievementBit="2" iconFile="Data/Icons/Mounts/Skyscale.png" GUID="k4pAzhMHu0GFrY9Uvs4YYg=="/>
+        <POI MapID="73" xpos="-286.2604" ypos="24.31199" zpos="-805.4974" type="mmm.achievements.collections.rare.whfn" achievementBit="2" alpha="0" copy="Next: [&amp;BGIAAAA=] Closest: [&amp;BDEHAAA=]" copy-message="Next WP copied to clipboard!" GUID="QCbEuejs+k6m+CNngVIdfQ=="/>
+        <Trail trailData="Data/Trails/WorkHardforNow/whfn_brisban.trl" type="mmm.achievements.collections.rare.whfn" achievementBit="3"/>
+        <POI MapID="54" xpos="-237.2157" ypos="5.751074" zpos="715.3441" type="mmm.achievements.collections.rare.whfn" achievementBit="3" alpha="0" copy="Next: [&amp;BDkBAAA=] Closest: [&amp;BBYAAAA=]" copy-message="Next WP copied to clipboard!" GUID="uQ0ag3dshE+J8U+uYNtOzA=="/>
+        <Trail trailData="Data/Trails/WorkHardforNow/whfn_caledon.trl" type="mmm.achievements.collections.rare.whfn" achievementBit="4"/>
+        <POI MapID="34" xpos="327.0813" ypos="0.296356" zpos="-145.099" type="mmm.achievements.collections.rare.whfn" achievementBit="4" iconFile="Data/Icons/Mounts/Skyscale.png" GUID="7gRooH2kekyhF+jLSO2OsA=="/>
+        <POI MapID="34" xpos="296.4506" ypos="19.48193" zpos="-131.0066" type="mmm.achievements.collections.rare.whfn" achievementBit="4" alpha="0" copy="Next: [&amp;BDkBAAA=] Closest: [&amp;BEIAAAA=]" copy-message="Next WP copied to clipboard!" GUID="vWFOBXL5AUShdfcoY6U/Lg=="/>
+        <Trail trailData="Data/Trails/WorkHardforNow/whfn_cursed.trl" type="mmm.achievements.collections.rare.whfn" achievementBit="5"/>
+        <POI MapID="62" xpos="320.92157" ypos="-0.063034" zpos="468.510162" type="mmm.achievements.collections.rare.whfn" achievementBit="5" iconFile="Data/Icons/Mounts/Skyscale.png" GUID="pZnJ+Ej1Z0WRsDXr2+MFvw=="/>
+        <POI MapID="62" xpos="325.2488" ypos="8.589352" zpos="491.8098" type="mmm.achievements.collections.rare.whfn" achievementBit="5" alpha="0" copy="Next: [&amp;BBsDAAA=] Closest: [&amp;BNgGAAA=]" copy-message="Next WP copied to clipboard!" GUID="XHEekbIEwkmbe/c+XUkMjA=="/>
+        <Trail trailData="Data/Trails/WorkHardforNow/whfn_diessa.trl" type="mmm.achievements.collections.rare.whfn" achievementBit="6"/>
+        <POI MapID="32" xpos="-913.8309" ypos="33.48523" zpos="-640.7708" type="mmm.achievements.collections.rare.whfn" achievementBit="6" iconFile="Data/Icons/Mounts/Skyscale.png" GUID="0JvyzmhqQEGH2Fg/1EK2zA=="/>
+        <POI MapID="32" xpos="-1019.346" ypos="54.74353" zpos="-667.5209" type="mmm.achievements.collections.rare.whfn" achievementBit="6" iconFile="Data/Icons/Mounts/Skyscale.png" GUID="k/0t2CeLokCrOrqcrRkRsA=="/>
+        <POI MapID="32" xpos="-1034.882" ypos="76.84614" zpos="-604.1439" type="mmm.achievements.collections.rare.whfn" achievementBit="6" alpha="0" copy="Next: [&amp;BN4AAAA=] Closest: [&amp;BO4BAAA=]" copy-message="Next WP copied to clipboard!" GUID="3qqa+xL2skav50XQt16zUw=="/>
+        <Trail trailData="Data/Trails/WorkHardforNow/whfn_dredgehaunt.trl" type="mmm.achievements.collections.rare.whfn" achievementBit="7"/>
+        <POI MapID="26" xpos="-99.30048" ypos="111.9638" zpos="-112.8995" type="mmm.achievements.collections.rare.whfn" achievementBit="7" iconFile="Data/Icons/Mounts/Skyscale.png" GUID="5BIMJibaEEShXiZOlIGY5w=="/>
+        <POI MapID="26" xpos="-3.723988" ypos="140.5754" zpos="-82.36264" type="mmm.achievements.collections.rare.whfn" achievementBit="7" alpha="0" copy="Next: [&amp;BF4CAAA=] Closest: [&amp;BFUCAAA=]" copy-message="Next WP copied to clipboard!" GUID="OS3W7jueV0CwjyhbRu3yRg=="/>
+        <Trail trailData="Data/Trails/WorkHardforNow/whfn_drytop.trl" type="mmm.achievements.collections.rare.whfn" achievementBit="8"/>
+        <POI MapID="988" xpos="216.121" ypos="13.82537" zpos="-281.6412" type="mmm.achievements.collections.rare.whfn" achievementBit="8" iconFile="Data/Icons/Mounts/Skyscale.png" GUID="YKbOFUL7h0+iC4GLOYb1LA=="/>
+        <POI MapID="988" xpos="234.3575" ypos="66.51455" zpos="-249.2714" type="mmm.achievements.collections.rare.whfn" achievementBit="8" alpha="0" copy="Next: [&amp;BHoHAAA=] Closest: [&amp;BKwHAAA=]" copy-message="Next WP copied to clipboard!" GUID="YhE98OqXOkm0O5VRWsf3wg=="/>
+        <Trail trailData="Data/Trails/WorkHardforNow/whfn_for.trl" type="mmm.achievements.collections.rare.whfn" achievementBit="9"/>
+        <POI MapID="21" xpos="739.663" ypos="22.07688" zpos="417.8196" type="mmm.achievements.collections.rare.whfn" achievementBit="9" iconFile="Data/Icons/Mounts/Skyscale.png" GUID="1yF5e8HueUiLQQSSy0JoAg=="/>
+        <POI MapID="21" xpos="808.2741" ypos="62.16314" zpos="577.2971" type="mmm.achievements.collections.rare.whfn" achievementBit="9" alpha="0" copy="Next: [&amp;BEwBAAA=] Closest: [&amp;BDMEAAA=]" copy-message="Next WP copied to clipboard!" GUID="IMkxtcZnMU6QasC1OZ9soA=="/>
+        <Trail trailData="Data/Trails/WorkHardforNow/whfn_fireheart.trl" type="mmm.achievements.collections.rare.whfn" achievementBit="10"/>
+        <POI MapID="22" xpos="877.7924" ypos="58.0451" zpos="662.0731" type="mmm.achievements.collections.rare.whfn" achievementBit="10" iconFile="Data/Icons/Mounts/Skyscale.png" GUID="37XKYca9pkCQynq8qWJESg=="/>
+        <POI MapID="22" xpos="773.9821" ypos="38.96944" zpos="415.6887" type="mmm.achievements.collections.rare.whfn" achievementBit="10" alpha="0" copy="Next: [&amp;BEAFAAA=] Closest: [&amp;BN4AAAA=]" copy-message="Next WP copied to clipboard!" GUID="jdoJUGqQzEqbwL4zX7sbsg=="/>
+        <Trail trailData="Data/Trails/WorkHardforNow/whfn_frostgorge.trl" type="mmm.achievements.collections.rare.whfn" achievementBit="11"/>
+        <POI MapID="30" xpos="308.1566" ypos="40.86834" zpos="447.9516" type="mmm.achievements.collections.rare.whfn" achievementBit="11" iconFile="Data/Icons/Mounts/Skyscale.png" GUID="5gRBTzuePEOdTSjnLrdKLQ=="/>
+        <POI MapID="30" xpos="391.7613" ypos="72.86565" zpos="434.1349" type="mmm.achievements.collections.rare.whfn" achievementBit="11" alpha="0" copy="Next: [&amp;BEMFAAA=] Closest: [&amp;BEAFAAA=]" copy-message="Next WP copied to clipboard!" GUID="qOWFi0+j80yc8M3wyvAmZw=="/>
+        <Trail trailData="Data/Trails/WorkHardforNow/whfn_gendarran.trl" type="mmm.achievements.collections.rare.whfn" achievementBit="12"/>
+        <POI MapID="24" xpos="-67.08356" ypos="33.2004" zpos="-578.1289" type="mmm.achievements.collections.rare.whfn" achievementBit="12" iconFile="Data/Icons/Mounts/Skyscale.png" GUID="meXRIxqEv02i9qZR+lOV9w=="/>
+        <POI MapID="24" xpos="-172.2155" ypos="70.58027" zpos="-577.6397" type="mmm.achievements.collections.rare.whfn" achievementBit="12" iconFile="Data/Icons/Mounts/Skyscale.png" GUID="rIoAGCGD9UW8A6Lx6z5E3A=="/>
+        <POI MapID="24" xpos="-253.5028" ypos="64.93998" zpos="-473.4529" type="mmm.achievements.collections.rare.whfn" achievementBit="12" alpha="0" copy="Next: [&amp;BOEAAAA=] Closest: [&amp;BMEAAAA=]" copy-message="Next WP copied to clipboard!" GUID="vMTD5NB5qkC6ZDxlpZFfWA=="/>
+        <Trail trailData="Data/Trails/WorkHardforNow/whfn_harathi.trl" type="mmm.achievements.collections.rare.whfn" achievementBit="13"/>
+        <POI MapID="17" xpos="-291.0047" ypos="44.65359" zpos="-219.607" type="mmm.achievements.collections.rare.whfn" achievementBit="13" iconFile="Data/Icons/Mounts/Skyscale.png" GUID="pHmu9prsYE6js5i3sq0mPg=="/>
+        <POI MapID="17" xpos="-275.6353" ypos="84.8472" zpos="-284.4683" type="mmm.achievements.collections.rare.whfn" achievementBit="13" alpha="0" copy="Next: [&amp;BKgAAAA=] Closest: [&amp;BOEAAAA=]" copy-message="Next WP copied to clipboard!" GUID="L0qjIq17REaEo8J7vi57jA=="/>
+        <Trail trailData="Data/Trails/WorkHardforNow/whfn_marches.trl" type="mmm.achievements.collections.rare.whfn" achievementBit="14"/>
+        <POI MapID="25" xpos="-352.7966" ypos="54.67782" zpos="1031.437" type="mmm.achievements.collections.rare.whfn" achievementBit="14" iconFile="Data/Icons/Mounts/Skyscale.png" GUID="Kv36wqb1DUusnA+QjDpBbA=="/>
+        <POI MapID="25" xpos="-477.0965" ypos="91.5048" zpos="429.3188" type="mmm.achievements.collections.rare.whfn" achievementBit="14" alpha="0" copy="Next: [&amp;BO4BAAA=] Closest: [&amp;BIcBAAA=]" copy-message="Next WP copied to clipboard!" GUID="VFmfMs25hkqEZXUdsO1NtA=="/>
+        <Trail trailData="Data/Trails/WorkHardforNow/whfn_kessex.trl" type="mmm.achievements.collections.rare.whfn" achievementBit="15"/>
+        <POI MapID="23" xpos="-349.9145" ypos="63.83618" zpos="505.9517" type="mmm.achievements.collections.rare.whfn" achievementBit="15" iconFile="Data/Icons/Mounts/Skyscale.png" GUID="8Y30YWfx1UKlQYSjjJircg=="/>
+        <POI MapID="23" xpos="220.1524" ypos="166.7551" zpos="-318.9098" type="mmm.achievements.collections.rare.whfn" achievementBit="15" alpha="0" copy="Next: [&amp;BBYAAAA=] Closest: [&amp;BPMAAAA=]" copy-message="Next WP copied to clipboard!" GUID="/wCR4WqN0E2l95Yx31wXXA=="/>
+        <Trail trailData="Data/Trails/WorkHardforNow/whfn_lornar.trl" type="mmm.achievements.collections.rare.whfn" achievementBit="16"/>
+        <POI MapID="27" xpos="211.8106" ypos="101.1381" zpos="-266.4249" type="mmm.achievements.collections.rare.whfn" achievementBit="16" iconFile="Data/Icons/Mounts/Skyscale.png" GUID="NJjUQ6msbEuX9R2o36VNoQ=="/>
+        <POI MapID="27" xpos="762.812" ypos="31.5663" zpos="695.8119" type="mmm.achievements.collections.rare.whfn" achievementBit="16" alpha="0" copy="Next: [&amp;BDEHAAA=] Closest: [&amp;BFoCAAA=]" copy-message="Next WP copied to clipboard!" GUID="u8zkzbnmO0y/11hGXhDvGQ=="/>
+        <Trail trailData="Data/Trails/WorkHardforNow/whfn_malchor.trl" type="mmm.achievements.collections.rare.whfn" achievementBit="17"/>
+        <POI MapID="65" xpos="189.8018" ypos="41.54185" zpos="-102.291" type="mmm.achievements.collections.rare.whfn" achievementBit="17" iconFile="Data/Icons/Mounts/Skyscale.png" GUID="0ujQPwLj00uM8pW5B9ED4g=="/>
+        <POI MapID="65" xpos="174.7565" ypos="110.8419" zpos="-58.99072" type="mmm.achievements.collections.rare.whfn" achievementBit="17" alpha="0" copy="Next: [&amp;BKwCAAA=] Closest: [&amp;BBsDAAA=]" copy-message="Next WP copied to clipboard!" GUID="mFM/OLnQOkGk5WplQk033A=="/>
+        <Trail trailData="Data/Trails/WorkHardforNow/whfn_metrica.trl" type="mmm.achievements.collections.rare.whfn" achievementBit="18"/>
+        <POI MapID="35" xpos="377.9173" ypos="32.40828" zpos="-425.2519" type="mmm.achievements.collections.rare.whfn" achievementBit="18" iconFile="Data/Icons/Mounts/Skyscale.png" GUID="pi+w3r5rJESCXs+oh7oF8g=="/>
+        <POI MapID="35" xpos="-311.5208" ypos="78.93667" zpos="1067.732" type="mmm.achievements.collections.rare.whfn" achievementBit="18" alpha="0" copy="Next: [&amp;BEIAAAA=] Closest: [&amp;BHoHAAA=]" copy-message="Next WP copied to clipboard!" GUID="kq4W2AfxxEaAvsSZhQ+6QQ=="/>
+        <Trail trailData="Data/Trails/WorkHardforNow/whfn_maelstrom.trl" type="mmm.achievements.collections.rare.whfn" achievementBit="19"/>
+        <POI MapID="39" xpos="760.2961" ypos="21.02164" zpos="674.6263" type="mmm.achievements.collections.rare.whfn" achievementBit="19" iconFile="Data/Icons/Mounts/Skyscale.png" GUID="K/H+5f0nNk27Ff3FGjgODw=="/>
+        <POI MapID="39" xpos="334.3789" ypos="67.098" zpos="-374.2368" type="mmm.achievements.collections.rare.whfn" achievementBit="19" alpha="0" copy="Next: [&amp;BEIFAAA=] Closest: [&amp;BNABAAA=]" copy-message="Next WP copied to clipboard!" GUID="dnjelN+5UE+iIIH8FCJj0Q=="/>
+        <Trail trailData="Data/Trails/WorkHardforNow/whfn_ashford.trl" type="mmm.achievements.collections.rare.whfn" achievementBit="20"/>
+        <POI MapID="19" xpos="804.415" ypos="10.60785" zpos="379.4333" type="mmm.achievements.collections.rare.whfn" achievementBit="20" iconFile="Data/Icons/Mounts/Skyscale.png" GUID="6Dg9170/qEWgt7K8NZ4Ngg=="/>
+        <POI MapID="19" xpos="798.4933" ypos="3.40285" zpos="339.6357" type="mmm.achievements.collections.rare.whfn" achievementBit="20" alpha="0" copy="Next: [&amp;BIcBAAA=] Closest: [&amp;BE4DAAA=]" copy-message="Next WP copied to clipboard!" GUID="yFpo7hxwfEqnIsxc1rrNpw=="/>
+        <Trail trailData="Data/Trails/WorkHardforNow/whfn_queensdale.trl" type="mmm.achievements.collections.rare.whfn" achievementBit="21"/>
+        <POI MapID="15" xpos="-64.21955" ypos="8.351401" zpos="-268.2798" type="mmm.achievements.collections.rare.whfn" achievementBit="21" iconFile="Data/Icons/Mounts/Skyscale.png" GUID="fg2Ke3F18kaIwAIpTAE3jA=="/>
+        <POI MapID="15" xpos="-95.42869" ypos="15.59922" zpos="-245.6844" type="mmm.achievements.collections.rare.whfn" achievementBit="21" alpha="0" copy="Next: [&amp;BPMAAAA=] Closest: [&amp;BKgAAAA=]" copy-message="Next WP copied to clipboard!" GUID="XtLNosDlwUa0jWkB7/qoMw=="/>
+        <Trail trailData="Data/Trails/WorkHardforNow/whfn_snowden.trl" type="mmm.achievements.collections.rare.whfn" achievementBit="22"/>
+        <POI MapID="31" xpos="1045.557" ypos="108.3541" zpos="-388.6758" type="mmm.achievements.collections.rare.whfn" achievementBit="22" iconFile="Data/Icons/Mounts/Skyscale.png" GUID="eV0FlnzaK0ul5pNaUrOSeg=="/>
+        <POI MapID="31" xpos="1040.216" ypos="144.1178" zpos="-405.8519" type="mmm.achievements.collections.rare.whfn" achievementBit="22" alpha="0" copy="Next: [&amp;BMEAAAA=] Closest: [&amp;BHQBAAA=]" copy-message="Next WP copied to clipboard!" GUID="f4vqxGsSPUeAsutK85UIxw=="/>
+        <Trail trailData="Data/Trails/WorkHardforNow/whfn_southsun.trl" type="mmm.achievements.collections.rare.whfn" achievementBit="23"/>
+        <POI MapID="873" xpos="-296.301" ypos="29.12485" zpos="113.2103" type="mmm.achievements.collections.rare.whfn" achievementBit="23" iconFile="Data/Icons/Mounts/Skyscale.png" GUID="1tw3RTqLdkSrfw/GuU0U2w=="/>
+        <POI MapID="873" xpos="-249.8197" ypos="41.82383" zpos="111.7736" type="mmm.achievements.collections.rare.whfn" achievementBit="23" alpha="0" copy="Next: [&amp;BNgGAAA=] Closest: [&amp;BDkBAAA=]" copy-message="Next WP copied to clipboard!" GUID="wRrVvr6ZTUmUmcGZ3cuBIg=="/>
+        <Trail trailData="Data/Trails/WorkHardforNow/whfn_sparkfly.trl" type="mmm.achievements.collections.rare.whfn" achievementBit="24"/>
+        <POI MapID="53" xpos="-372.449" ypos="-0.2432201" zpos="-824.6597" type="mmm.achievements.collections.rare.whfn" achievementBit="24" iconFile="Data/Icons/Mounts/Skyscale.png" GUID="jaKqnZKI90CGJENFKwsbPA=="/>
+        <POI MapID="53" xpos="-341.8486" ypos="34.19485" zpos="-907.9404" type="mmm.achievements.collections.rare.whfn" achievementBit="24" alpha="0" copy="Next: [&amp;BNABAAA=] Closest: [&amp;BPkCAAA=]" copy-message="Next WP copied to clipboard!" GUID="DTtRV1nLG0yf6oXVpHkL6A=="/>
+        <Trail trailData="Data/Trails/WorkHardforNow/whfn_straits.trl" type="mmm.achievements.collections.rare.whfn" achievementBit="25"/>
+        <POI MapID="51" xpos="-578.384" ypos="15.84111" zpos="-716.4143" type="mmm.achievements.collections.rare.whfn" achievementBit="25" iconFile="Data/Icons/Mounts/Skyscale.png" GUID="R/Iy4pFvOkKcbCeSSilu4A=="/>
+        <POI MapID="51" xpos="-593.2568" ypos="31.65402" zpos="-734.7052" type="mmm.achievements.collections.rare.whfn" achievementBit="25" alpha="0" copy="Next: [&amp;BPkCAAA=] Closest: [&amp;BKwCAAA=]" copy-message="Next WP copied to clipboard!" GUID="N7C9maLbYUOsEziKk0EgWA=="/>
+        <Trail trailData="Data/Trails/WorkHardforNow/whfn_silverwastes.trl" type="mmm.achievements.collections.rare.whfn" achievementBit="26"/>
+        <POI MapID="1015" xpos="-167.5019" ypos="412." zpos="100.7558" type="mmm.achievements.collections.rare.whfn" achievementBit="26" iconFile="Data/Icons/Mounts/Skyscale.png" GUID="wQJBJPd84UKJbaVfOH/irA=="/>
+        <POI MapID="1015" xpos="-272.3192" ypos="465.9085" zpos="141.6072" type="mmm.achievements.collections.rare.whfn" achievementBit="26" alpha="0" copy="Next: [&amp;BKwHAAA=] Closest: [&amp;BGIAAAA=]" copy-message="Next WP copied to clipboard!" GUID="TGTeAbTDXUGUOdpgMGFjJg=="/>
+        <Trail trailData="Data/Trails/WorkHardforNow/whfn_timberline.trl" type="mmm.achievements.collections.rare.whfn" achievementBit="27"/>
+        <POI MapID="29" xpos="-283.0985" ypos="10.14183" zpos="-206.7716" type="mmm.achievements.collections.rare.whfn" achievementBit="27" iconFile="Data/Icons/Mounts/Skyscale.png" GUID="6b6/8zPowUGYjFQU7j/h9w=="/>
+        <POI MapID="29" xpos="-330.4229" ypos="35.39078" zpos="-159.4696" type="mmm.achievements.collections.rare.whfn" achievementBit="27" alpha="0" copy="Next: [&amp;BFUCAAA=] Closest: [&amp;BEIFAAA=]" copy-message="Next WP copied to clipboard!" GUID="K+nXTXqc0kGjd0hDtK8jsQ=="/>
+        <Trail trailData="Data/Trails/WorkHardforNow/whfn_wayfarer.trl" type="mmm.achievements.collections.rare.whfn" achievementBit="28"/>
+        <POI MapID="28" xpos="-87.63969" ypos="172.3452" zpos="-561.8464" type="mmm.achievements.collections.rare.whfn" achievementBit="28" iconFile="Data/Icons/Mounts/Skyscale.png" GUID="1DIjZI3xskm6eCzqZ2umlg=="/>
+        <POI MapID="28" xpos="-70.61675" ypos="177.8492" zpos="-562.0699" type="mmm.achievements.collections.rare.whfn" achievementBit="28" alpha="0" copy="Next: [&amp;BHQBAAA=] Closest: [&amp;BEMFAAA=]" copy-message="Next WP copied to clipboard!" GUID="QCgn5rzddkSiBYWBv7PsTw=="/>
+    </POIs>
+    </OverlayData>

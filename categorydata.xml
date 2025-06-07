@@ -317,6 +317,11 @@ xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
                 <MarkerCategory name="ahmv1" DisplayName="A History Most Violent: Part 1" achievementId="8161"></MarkerCategory>
                 <MarkerCategory name="ahmv2" DisplayName="A History Most Violent: Part 2" achievementId="8205"></MarkerCategory>
             </MarkerCategory>
+            <MarkerCategory name="collections" DisplayName="Collections">
+                <MarkerCategory name="rare" DisplayName="Rare Collections">
+                    <MarkerCategory name="whfn" DisplayName="Work Hard for Now" achievementId="8753"></MarkerCategory>
+                </MarkerCategory>
+            </MarkerCategory>
         </MarkerCategory>
         <MarkerCategory name="adventures" DisplayName="Adventures">
             <!-- Heart of Thorns -->
