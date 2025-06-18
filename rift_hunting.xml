@@ -6,7 +6,38 @@ xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
 	<MarkerCategory name="mmm" DisplayName="Metal Marker Myriad" texture="Data/Icons/default_trail.png" iconFile="Data/Icons/default_marker.png" fadeNear="3000" fadeFar="5000"></MarkerCategory>
     <POIs>
         <POI MapID="1550" xpos="-46.44162" ypos="308.7656" zpos="-339.2174" type="mmm.rifthunting.t1" GUID="mEm5+eGMWkC/Ui7hrMHO/A=="/>
+	<POI MapID="1550" xpos="597.035" ypos="322.636" zpos="-622.586" type="mmm.rifthunting.t1" GUID="cRwW1wWlGUW/+OCUO+3Rbg=="/>
+        <POI MapID="1550" xpos="739.04" ypos="359.331" zpos="-563.807" type="mmm.rifthunting.t1" GUID="/eViruACOUi/fJnHXI7t/A=="/>
+        <POI MapID="1550" xpos="355.594" ypos="323.235" zpos="-279.617" type="mmm.rifthunting.t1" GUID="eH+eedB++0ygehpBoW2/qw=="/>
+        <POI MapID="1550" xpos="410.881" ypos="324.916" zpos="-133.032" type="mmm.rifthunting.t1" GUID="DowRI2UQyE+7qr9+SZbYew=="/>
+        <POI MapID="1550" xpos="-46.4391" ypos="308.834" zpos="-338.916" type="mmm.rifthunting.t1" GUID="pn3vY+IX2keTTd6lIKtl/w=="/>
+	    
+        <POI MapID="1550" xpos="955.165" ypos="385.823" zpos="-280.83" type="mmm.rifthunting.t2" GUID="yE4+R+ixLUK/FmrtYv5zNA=="/>
+        <POI MapID="1550" xpos="-423.523" ypos="309.043" zpos="-597.654" type="mmm.rifthunting.t2" GUID="TZ3JsK3VkUWegneP1bSvBQ=="/>
+        <POI MapID="1550" xpos="-975.071" ypos="1.55033" zpos="216.563" type="mmm.rifthunting.t2" GUID="8O9GTWueGky2yGPDBV4rdA=="/>
+        <POI MapID="1550" xpos="-176.423" ypos="220.173" zpos="-104.903" type="mmm.rifthunting.t2" GUID="/EzQ9zd1DU26RdTBZTw0bA=="/>
+
+	<POI MapID="1550" xpos="1009.878" ypos="379.3091" zpos="-172.3495" type="mmm.rifthunting.t3" GUID="kTejS6/HAEmGegfg2p9M3g=="/>
+	<POI MapID="1550" xpos="1010.19" ypos="379.497" zpos="-171.669" type="mmm.rifthunting.t3" GUID="zQfUIiluwkCEaxU/NnxQsA=="/>
+        <POI MapID="1550" xpos="-768.417" ypos="42.7104" zpos="400.871" type="mmm.rifthunting.t3" GUID="xCHY/O5wNEeC94bxuXn6qQ=="/>
+        <POI MapID="1550" xpos="192.145" ypos="87.895" zpos="448.246" type="mmm.rifthunting.t3" GUID="YDyaeIdllEOfC5utZKKrbA=="/>
+        <POI MapID="1550" xpos="-852.143" ypos="1.28821" zpos="117.094" type="mmm.rifthunting.t3" GUID="34A2boC+dkaIASMRDHru5A=="/>
+        	    
         <POI MapID="1554" xpos="754.963" ypos="0.1878828" zpos="-280.0566" type="mmm.rifthunting.t1" GUID="ov+gYQH3gkeTp6UJO8C7nw=="/>
-        <POI MapID="1550" xpos="1009.878" ypos="379.3091" zpos="-172.3495" type="mmm.rifthunting.t3" GUID="kTejS6/HAEmGegfg2p9M3g=="/>
+        <POI MapID="1554" xpos="670.949" ypos="0.243691" zpos="356.011" type="mmm.rifthunting.t1" GUID="THe9s1AxDE+wECRGaniAuw=="/>
+        <POI MapID="1554" xpos="214.19" ypos="11.146" zpos="-524.996" type="mmm.rifthunting.t1" GUID="Jm3ZyzgzNUyIGnJ5z6e3kA=="/>
+        <POI MapID="1554" xpos="-8.29059" ypos="43.5255" zpos="-552.901" type="mmm.rifthunting.t1" GUID="+D4xTBNvSkaBQFLu4f9Ciw=="/>
+        <POI MapID="1554" xpos="-372.503" ypos="103.296" zpos="162.774" type="mmm.rifthunting.t1" GUID="+c57UgenOkWbfQ9P7vVGPg=="/>
+	    
+        <POI MapID="1554" xpos="521.368" ypos="7.66727" zpos="-122.708" type="mmm.rifthunting.t2" GUID="aTFw/eYX5ESVhw0etGL0ZA=="/>
+        <POI MapID="1554" xpos="524.077" ypos="1.33755" zpos="318.902" type="mmm.rifthunting.t2" GUID="UOZy4wG44ku9GW4JHnSUIA=="/>
+        <POI MapID="1554" xpos="-181.787" ypos="105.609" zpos="421.745" type="mmm.rifthunting.t2" GUID="x+xeD3TWrUWOJe8yjckpXg=="/>
+        <POI MapID="1554" xpos="373.825" ypos="2.97405" zpos="-378.412" type="mmm.rifthunting.t2" GUID="dVZtBuDO60Kak5JeDijpow=="/>
+	    
+        <POI MapID="1554" xpos="478.414" ypos="2.34901" zpos="475.487" type="mmm.rifthunting.t3" GUID="ZxdxpeYkB0iCiSDtxUs3eQ=="/>
+        <POI MapID="1554" xpos="-355.483" ypos="36.2344" zpos="655.102" type="mmm.rifthunting.t3" GUID="MXaHIalSxESPjPQR6pIWQQ=="/>
+        <POI MapID="1554" xpos="-573.799" ypos="37.5887" zpos="366.491" type="mmm.rifthunting.t3" GUID="SD/P8N2+m0mtPD2DcfMpVw=="/>
+        <POI MapID="1554" xpos="295.716" ypos="4.56298" zpos="481.833" type="mmm.rifthunting.t3" GUID="rqk2rMxKh0SimyoGzd5tZA=="/>
+        
     </POIs>
 </OverlayData>
