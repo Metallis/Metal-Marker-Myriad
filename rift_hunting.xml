@@ -38,6 +38,20 @@ xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
         <POI MapID="1554" xpos="-355.483" ypos="36.2344" zpos="655.102" type="mmm.rifthunting.t3" GUID="MXaHIalSxESPjPQR6pIWQQ=="/>
         <POI MapID="1554" xpos="-573.799" ypos="37.5887" zpos="366.491" type="mmm.rifthunting.t3" GUID="SD/P8N2+m0mtPD2DcfMpVw=="/>
         <POI MapID="1554" xpos="295.716" ypos="4.56298" zpos="481.833" type="mmm.rifthunting.t3" GUID="rqk2rMxKh0SimyoGzd5tZA=="/>
+
+	<POI MapID="1575" xpos="-318.099" ypos="80.8438" zpos="141.57" type="mmm.rifthunting.t1" GUID="FmidRfHHkESHckCSx0agcg=="/>
+        <POI MapID="1575" xpos="-464.736" ypos="89.3804" zpos="-170.143" type="mmm.rifthunting.t1" GUID="QDJ/kHST7kS6mjxQNhSMDQ=="/>
+        <POI MapID="1575" xpos="-441.616" ypos="197.85" zpos="442.058" type="mmm.rifthunting.t2" GUID="Y1G3VhWYxU+whxwUBVS2bg=="/>
+        <POI MapID="1575" xpos="-441.198" ypos="202.136" zpos="305.265" type="mmm.rifthunting.t2" GUID="i8mO8B8Y2EugzpVaNO+1pw=="/>
+        <POI MapID="1575" xpos="-806.621" ypos="-0.28517" zpos="-571.646" type="mmm.rifthunting.t3" GUID="fUF8PvD4/k6KMStmrkrDFQ=="/>
+        <POI MapID="1575" xpos="-554.976" ypos="75.9897" zpos="-194.745" type="mmm.rifthunting.t3" GUID="pXRRJptX1EeHbRuYax2ffw=="/>
+
+	<POI MapID="1574" xpos="442.406" ypos="239.833" zpos="474.859" type="mmm.rifthunting.t1" GUID="OmCpW3cyY0m7xpRwLLSqlg=="/>
+        <POI MapID="1574" xpos="-165.959" ypos="124.872" zpos="377.675" type="mmm.rifthunting.t1" GUID="Z1GSN/J4C0K0cf8asHKe4w=="/>
+        <POI MapID="1574" xpos="-50.1471" ypos="238.747" zpos="-184.872" type="mmm.rifthunting.t2" GUID="g3RE6ymmfkW+9aW9TnALmg=="/>
+	<POI MapID="1574" xpos="66.4752" ypos="238.904" zpos="-70.9967" type="mmm.rifthunting.t2" GUID="aZqkfyK0pUOslFtoETao4Q=="/>
+        <POI MapID="1574" xpos="-134.587" ypos="8.74973" zpos="-494.988" type="mmm.rifthunting.t3" GUID="PC9z6sTeDU++nMKpZgHk8g=="/>
+        <POI MapID="1574" xpos="53.7412" ypos="13.014" zpos="-607.223" type="mmm.rifthunting.t3" GUID="IceF4ba+t0WSuKDOI4MetQ=="/>
         
     </POIs>
 </OverlayData>
