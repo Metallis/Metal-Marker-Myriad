@@ -469,7 +469,7 @@ xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
         <MarkerCategory name="fishing" DisplayName="Fishing">
             <MarkerCategory name="holes" DisplayName="Fishing Holes" iconFile="Data/Icons/Fish_resource.png" bounce="rise" bounce-height="3" autoTrigger="1" triggerRange="25" fadeNear="3000" fadeFar="5000">
                 <MarkerCategory name="astral" DisplayName="Astral Fish"></MarkerCategory>
-                <MarkerCategory name="dream" DisplayName="Boreal Fish"></MarkerCategory>
+                <MarkerCategory name="boreal" DisplayName="Boreal Fish"></MarkerCategory>
                 <MarkerCategory name="brackishj" DisplayName="Brackish Janthir Fish"></MarkerCategory>
                 <MarkerCategory name="cavern" DisplayName="Cavern Fish"></MarkerCategory>
                 <MarkerCategory name="channel" DisplayName="Channel Fish"></MarkerCategory>
