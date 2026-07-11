@@ -20,14 +20,13 @@ local COPY_INFO = {
 -- Copies the current day's PSNA to the user's clipboard
 function MMM_CopyPSNA()
     MMM.psna.currentUTCTime = os.time(os.date("!*t"))
-    MMM.psna.utcMinusEight = MMM.psna.currentUTCTime - (8 * 60 * 60)
+    MMM.psna.utcMinusEight = MMM.psna.currentUTCTime - (8 * 3600)
     MMM.psna.psnaDay = os.date("%A", MMM.psna.utcMinusEight)
 
-    for _, day in ipairs(COPY_INFO) do
-        if day[1] == MMM.psna.psnaDay then
-            MMM.psna.copy = day[2]
-            User.SetClipboard(MMM.psna.copy, "Today's PSNA Waypoints copied to clipboard!")
-            break
-        end
+    local copy = COPY_INFO[MMM.psna.psnaDay]
+
+    if copy then
+        User.SetClipboard(copy,"Today's PSNA Waypoints copied to clipboard!")
     end
+
 end
